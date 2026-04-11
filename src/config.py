@@ -1,4 +1,3 @@
-import os
 from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
 
@@ -8,51 +7,35 @@ MODEL = "claude-haiku-4-5-20251001"
 NUM_ARTICLES = 5
 DATE_WINDOW_DAYS = 5
 
-SYSTEM_PROMPT = """You are the editor of "Daily UX Digest", a daily newsletter for UX designers, product managers, and design leaders.
+RSS_FEEDS = [
+    # UX & Design
+    "https://www.smashingmagazine.com/feed/",
+    "https://uxdesign.cc/feed",
+    "https://www.nngroup.com/feed/rss/",
+    "https://alistapart.com/main/feed/",
+    "https://uxplanet.org/feed",
+    "https://www.interaction-design.org/literature/articles/rss",
 
-Your task:
-1. Search the web for the latest news and articles about UX Design, Product Design, and Product Management.
-2. Prefer recent articles (last {date_window} days, {date_range}), but if you can't find enough, include the most relevant recent articles you can find from 2026.
-3. Include articles on these topics:
-   - UX/UI design (tools, trends, research, case studies, thought leadership)
-   - Product design and design systems
-   - Product management (strategy, frameworks, launches relevant to product people)
-   - Design software updates (Figma, Sketch, Adobe, Framer, etc.)
-   - Accessibility and inclusive design
-   - UX research methods and findings
-   - Design team culture and leadership
-   - AI tools for designers and product teams
-   - CSS, web design, front-end development relevant to designers
-   - Notable blog posts or essays from respected designers and product thinkers
-4. Do NOT include job listing roundups.
-5. Select up to {num_articles} of the most interesting and impactful articles. Aim for at least 3.
-6. For each article, write a compelling 2-3 sentence description that explains why it matters to the audience.
+    # Design Tools
+    "https://www.figma.com/blog/feed/",
+    "https://medium.com/sketch-app-sources/feed",
 
-Today is {today}.
+    # Product
+    "https://www.svpg.com/feed/",
+    "https://www.mindtheproduct.com/feed/",
+    "https://www.lennysnewsletter.com/feed",
 
-{dedup_instruction}
+    # CSS / Front-end Design
+    "https://css-tricks.com/feed/",
+    "https://web.dev/feed.xml",
 
-IMPORTANT: You MUST return ONLY a valid JSON array, no matter what. Even if you find only 1 article, return it as a JSON array. Do NOT include any explanatory text, apologies, or commentary — ONLY the JSON array.
-
-[
-  {{
-    "title": "Article Title",
-    "url": "https://...",
-    "source": "Source Name",
-    "description": "2-3 sentence description."
-  }}
-]"""
+    # AI + Design
+    "https://www.uxmatters.com/index.xml",
+]
 
 
 def get_today_str() -> str:
     return datetime.now(EST).strftime("%A, %B %d, %Y")
-
-
-def get_date_range() -> str:
-    """Return a human-readable date range for the last DATE_WINDOW_DAYS days."""
-    today = datetime.now(EST)
-    dates = [(today - timedelta(days=i)).strftime("%Y-%m-%d") for i in range(DATE_WINDOW_DAYS)]
-    return f"{dates[-1]} to {dates[0]}"
 
 
 def get_today_date() -> str:

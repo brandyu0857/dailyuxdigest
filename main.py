@@ -9,6 +9,7 @@ from src.curator import curate_articles
 from src.dedup import load_sent_urls, save_sent_articles
 from src.email_sender import send_email
 from src.email_template import build_email
+from src.feeds import fetch_articles
 from src.sheets_reader import get_subscribers
 
 logging.basicConfig(
@@ -23,23 +24,30 @@ def main() -> None:
 
     logger.info("=== Daily UX Digest ===")
 
-    # 1. Load dedup history
+    # 1. Fetch articles from RSS feeds
+    logger.info("Fetching articles from RSS feeds...")
+    raw_articles = fetch_articles()
+    if not raw_articles:
+        logger.warning("No articles from RSS feeds. Skipping.")
+        return
+
+    # 2. Load dedup history
     sent_urls = load_sent_urls()
     logger.info("Loaded %d previously sent URLs for dedup.", len(sent_urls))
 
-    # 2. Curate articles with GPT-4o-mini + web search
-    logger.info("Curating articles...")
-    articles = curate_articles(sent_urls)
+    # 3. Curate articles with Claude Haiku
+    logger.info("Curating with Claude Haiku...")
+    articles = curate_articles(raw_articles, sent_urls)
     if not articles:
         logger.warning("No articles curated. Skipping email send.")
         return
 
-    # 3. Build HTML email
+    # 4. Build HTML email
     date_str = get_today_str()
     html = build_email(articles, date_str)
     subject = get_email_subject(date_str)
 
-    # 4. Get subscribers — use TEST_EMAIL if set, otherwise read from Google Sheets
+    # 5. Get subscribers — use TEST_EMAIL if set, otherwise read from Google Sheets
     test_email = os.environ.get("TEST_EMAIL")
     if test_email:
         subscribers = [test_email]
@@ -50,11 +58,11 @@ def main() -> None:
             logger.warning("No subscribers found. Skipping email send.")
             return
 
-    # 5. Send email
+    # 6. Send email
     logger.info("Sending email to %d subscribers...", len(subscribers))
     send_email(html, subject, subscribers)
 
-    # 6. Update dedup history
+    # 7. Update dedup history
     new_urls = [a["url"] for a in articles if "url" in a]
     save_sent_articles(new_urls)
 
