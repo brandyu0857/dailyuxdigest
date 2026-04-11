@@ -4,7 +4,7 @@ import os
 
 from openai import OpenAI
 
-from src.config import MODEL, NUM_ARTICLES, SYSTEM_PROMPT, get_today_str
+from src.config import MODEL, NUM_ARTICLES, SYSTEM_PROMPT, get_today_str, get_yesterday_str, get_today_date, get_yesterday_date
 
 logger = logging.getLogger(__name__)
 
@@ -14,6 +14,9 @@ def curate_articles(sent_urls: list[str]) -> list[dict]:
     client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
 
     today = get_today_str()
+    yesterday = get_yesterday_str()
+    today_date = get_today_date()
+    yesterday_date = get_yesterday_date()
 
     if sent_urls:
         dedup_instruction = (
@@ -26,6 +29,9 @@ def curate_articles(sent_urls: list[str]) -> list[dict]:
     instructions = SYSTEM_PROMPT.format(
         num_articles=NUM_ARTICLES,
         today=today,
+        yesterday=yesterday,
+        today_date=today_date,
+        yesterday_date=yesterday_date,
         dedup_instruction=dedup_instruction,
     )
 
@@ -33,7 +39,7 @@ def curate_articles(sent_urls: list[str]) -> list[dict]:
         model=MODEL,
         instructions=instructions,
         tools=[{"type": "web_search_preview"}],
-        input=f"Find and curate today's top {NUM_ARTICLES} UX, Design, and Product news articles. Today is {today}.",
+        input=f"Search for UX, Design, and Product news articles published on {today_date} or {yesterday_date} only. Today is {today}. Return the {NUM_ARTICLES} most relevant articles. Reject anything older or off-topic.",
     )
 
     # Extract text from the response
