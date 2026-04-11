@@ -2,7 +2,7 @@ import json
 import logging
 import os
 
-from openai import OpenAI
+import anthropic
 
 from src.config import MODEL, NUM_ARTICLES, SYSTEM_PROMPT, get_today_str, get_yesterday_str, get_today_date, get_yesterday_date
 
@@ -10,8 +10,8 @@ logger = logging.getLogger(__name__)
 
 
 def curate_articles(sent_urls: list[str]) -> list[dict]:
-    """Use GPT-4o-mini with web search to find and curate today's UX/Design/Product news."""
-    client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
+    """Use Claude Haiku with web search to find and curate today's UX/Design/Product news."""
+    client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
 
     today = get_today_str()
     yesterday = get_yesterday_str()
@@ -26,7 +26,7 @@ def curate_articles(sent_urls: list[str]) -> list[dict]:
     else:
         dedup_instruction = ""
 
-    instructions = SYSTEM_PROMPT.format(
+    system = SYSTEM_PROMPT.format(
         num_articles=NUM_ARTICLES,
         today=today,
         yesterday=yesterday,
@@ -35,46 +35,44 @@ def curate_articles(sent_urls: list[str]) -> list[dict]:
         dedup_instruction=dedup_instruction,
     )
 
-    # Use multiple focused searches to get date-accurate results
-    search_queries = [
-        f"UX design news {today_date}",
-        f"product design news {today_date}",
-        f"Figma OR design system OR UX research news {yesterday_date} OR {today_date}",
-    ]
-
-    response = client.responses.create(
-        model=MODEL,
-        instructions=instructions,
-        tools=[{"type": "web_search_preview"}],
-        input=(
-            f"Perform these web searches to find today's UX/Design/Product news:\n"
-            + "\n".join(f"- {q}" for q in search_queries)
-            + f"\n\nFrom ALL search results, select only articles published on {today_date} or {yesterday_date}. "
-            f"Check each article's publish date — if it says April 7 or earlier, EXCLUDE it. "
-            f"Only articles from {yesterday} or {today} are acceptable. "
-            f"Return the top {NUM_ARTICLES} on-topic articles as JSON. If fewer qualify, return fewer."
-        ),
+    user_message = (
+        f"Search for UX, Design, and Product news articles published on {today_date} or {yesterday_date} ONLY.\n"
+        f"Today is {today}. Yesterday was {yesterday}.\n\n"
+        f"Search for:\n"
+        f"- UX design news from {today_date}\n"
+        f"- Product design updates from {today_date}\n"
+        f"- Figma, design systems, UX research news from {yesterday_date} or {today_date}\n\n"
+        f"Verify every article's publish date. Reject anything older than {yesterday_date}.\n"
+        f"Return the top {NUM_ARTICLES} on-topic articles as JSON. If fewer qualify, return fewer."
     )
 
-    # Extract text from the response
-    text_content = response.output_text
+    response = client.messages.create(
+        model=MODEL,
+        max_tokens=4096,
+        system=system,
+        tools=[{"type": "web_search_20250305", "name": "web_search", "max_uses": 10}],
+        messages=[{"role": "user", "content": user_message}],
+    )
 
-    if not text_content or not text_content.strip():
-        raise RuntimeError("GPT returned no text content.")
+    # Extract text content from the response (skip tool use/result blocks)
+    text_content = ""
+    for block in response.content:
+        if block.type == "text":
+            text_content += block.text
 
-    # Parse JSON from the response — GPT may wrap it in markdown or add text around it
+    if not text_content.strip():
+        raise RuntimeError("Claude returned no text content.")
+
     logger.info("Raw response (first 500 chars): %s", text_content[:500])
 
     cleaned = text_content.strip()
 
     # Remove markdown code blocks if present
     if "```" in cleaned:
-        # Extract content between first ``` and last ```
         start = cleaned.find("```")
         end = cleaned.rfind("```")
         if start != end:
             inner = cleaned[start:end + 3]
-            # Remove opening ```json or ```
             inner = inner.split("\n", 1)[1] if "\n" in inner else inner[3:]
             inner = inner.rsplit("```", 1)[0]
             cleaned = inner.strip()
@@ -83,7 +81,6 @@ def curate_articles(sent_urls: list[str]) -> list[dict]:
     try:
         articles = json.loads(cleaned)
     except json.JSONDecodeError:
-        # Look for [ ... ] in the text
         bracket_start = cleaned.find("[")
         bracket_end = cleaned.rfind("]")
         if bracket_start != -1 and bracket_end != -1 and bracket_end > bracket_start:
