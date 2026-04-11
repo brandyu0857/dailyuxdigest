@@ -4,7 +4,7 @@ import os
 
 import anthropic
 
-from src.config import MODEL, NUM_ARTICLES, SYSTEM_PROMPT, get_today_str, get_yesterday_str, get_today_date, get_yesterday_date
+from src.config import MODEL, NUM_ARTICLES, DATE_WINDOW_DAYS, SYSTEM_PROMPT, get_today_str, get_today_date, get_date_range
 
 logger = logging.getLogger(__name__)
 
@@ -14,9 +14,8 @@ def curate_articles(sent_urls: list[str]) -> list[dict]:
     client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
 
     today = get_today_str()
-    yesterday = get_yesterday_str()
     today_date = get_today_date()
-    yesterday_date = get_yesterday_date()
+    date_range = get_date_range()
 
     if sent_urls:
         dedup_instruction = (
@@ -29,21 +28,21 @@ def curate_articles(sent_urls: list[str]) -> list[dict]:
     system = SYSTEM_PROMPT.format(
         num_articles=NUM_ARTICLES,
         today=today,
-        yesterday=yesterday,
-        today_date=today_date,
-        yesterday_date=yesterday_date,
+        date_window=DATE_WINDOW_DAYS,
+        date_range=date_range,
         dedup_instruction=dedup_instruction,
     )
 
     user_message = (
-        f"Search for UX, Design, and Product news articles published on {today_date} or {yesterday_date} ONLY.\n"
-        f"Today is {today}. Yesterday was {yesterday}.\n\n"
-        f"Search for:\n"
-        f"- UX design news from {today_date}\n"
-        f"- Product design updates from {today_date}\n"
-        f"- Figma, design systems, UX research news from {yesterday_date} or {today_date}\n\n"
-        f"Verify every article's publish date. Reject anything older than {yesterday_date}.\n"
-        f"Return the top {NUM_ARTICLES} on-topic articles as JSON. If fewer qualify, return fewer."
+        f"Search for the latest UX, Design, and Product news and articles.\n"
+        f"Today is {today} ({today_date}). Look for articles from the last {DATE_WINDOW_DAYS} days ({date_range}).\n\n"
+        f"Search broadly:\n"
+        f"- UX design news and trends\n"
+        f"- Product design, design systems, Figma updates\n"
+        f"- Product management insights and strategy\n"
+        f"- Notable design blog posts and essays\n"
+        f"- Accessibility and UX research\n\n"
+        f"Find up to {NUM_ARTICLES} high-quality, on-topic articles and return them as JSON."
     )
 
     response = client.messages.create(
