@@ -50,7 +50,7 @@ def curate_articles(sent_urls: list[str]) -> list[dict]:
         model=MODEL,
         max_tokens=4096,
         system=system,
-        tools=[{"type": "web_search_20250305", "name": "web_search", "max_uses": 10}],
+        tools=[{"type": "web_search_20250305", "name": "web_search", "max_uses": 5}],
         messages=[{"role": "user", "content": user_message}],
     )
 
