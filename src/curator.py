@@ -36,14 +36,14 @@ def curate_articles(sent_urls: list[str]) -> list[dict]:
     user_message = (
         f"Search for the latest UX, Design, and Product news and articles.\n"
         f"Today is {today} ({today_date}). Look for articles from the last {DATE_WINDOW_DAYS} days ({date_range}).\n\n"
-        f"You MUST perform at least 5 separate web searches to find enough articles. Search for each of these:\n"
-        f"1. \"UX design news this week\"\n"
-        f"2. \"Figma updates April 2026\" or \"design tools news\"\n"
-        f"3. \"product design trends 2026\"\n"
-        f"4. \"UX research accessibility news\"\n"
-        f"5. \"product management strategy insights\"\n\n"
-        f"I need {NUM_ARTICLES} articles. Do NOT stop after 1-2 searches — keep searching until you have enough quality results.\n"
-        f"Return them as JSON."
+        f"Perform at least 5 separate web searches using these queries:\n"
+        f"1. \"UX design news April 2026\"\n"
+        f"2. \"Figma news\" OR \"design tools update\"\n"
+        f"3. \"product design\" OR \"design system\" news\"\n"
+        f"4. \"AI design tools\" OR \"AI UX\" latest\n"
+        f"5. \"web design\" OR \"CSS\" OR \"front-end\" news this week\n\n"
+        f"I need {NUM_ARTICLES} articles. Keep searching until you have enough.\n"
+        f"Return ONLY a JSON array — no other text."
     )
 
     response = client.messages.create(
