@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Daily UX Digest — Archive</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      background-color: #f4f4f4;
+      color: #1a1a1a;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    .container {
+      max-width: 640px;
+      margin: 0 auto;
+      padding: 40px 20px;
+    }
+
+    .site-header {
+      margin-bottom: 40px;
+    }
+
+    .site-header .label {
+      font-size: 11px;
+      font-weight: 600;
+      color: #999;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      margin-bottom: 12px;
+    }
+
+    .site-header h1 {
+      font-size: 32px;
+      font-weight: 700;
+      margin-bottom: 8px;
+    }
+
+    .site-header p {
+      font-size: 15px;
+      color: #666;
+      line-height: 1.6;
+    }
+
+    .day-card {
+      background: #fff;
+      border-radius: 8px;
+      padding: 40px;
+      margin-bottom: 24px;
+    }
+
+    .day-card .date {
+      font-size: 14px;
+      color: #999;
+      margin-bottom: 24px;
+      padding-bottom: 20px;
+      border-bottom: 1px solid #eee;
+    }
+
+    .article {
+      margin-bottom: 28px;
+    }
+
+    .article:last-child {
+      margin-bottom: 0;
+    }
+
+    .article .num {
+      font-size: 13px;
+      color: #999;
+      letter-spacing: 0.5px;
+      margin-bottom: 6px;
+    }
+
+    .article h3 {
+      font-size: 17px;
+      font-weight: 700;
+      margin-bottom: 8px;
+      line-height: 1.4;
+    }
+
+    .article h3 a {
+      color: #1a1a1a;
+      text-decoration: none;
+    }
+
+    .article h3 a:hover {
+      color: #0066cc;
+    }
+
+    .article p {
+      font-size: 14px;
+      color: #444;
+      line-height: 1.6;
+      margin-bottom: 8px;
+    }
+
+    .article .source a {
+      font-size: 13px;
+      color: #0066cc;
+      text-decoration: none;
+      font-weight: 500;
+    }
+
+    .article .source a:hover {
+      text-decoration: underline;
+    }
+
+    .loading, .empty {
+      text-align: center;
+      color: #999;
+      padding: 60px 0;
+      font-size: 15px;
+    }
+
+    .footer {
+      text-align: center;
+      padding: 20px 0 40px;
+      color: #bbb;
+      font-size: 12px;
+    }
+
+    @media (max-width: 600px) {
+      .day-card { padding: 24px; }
+      .site-header h1 { font-size: 26px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="site-header">
+      <p class="label">Daily Digest</p>
+      <h1>Design, UX &amp; Product</h1>
+      <p>A curated daily newsletter for designers and product thinkers. Browse the archive below.</p>
+    </header>
+
+    <main id="archive">
+      <div class="loading">Loading archive...</div>
+    </main>
+
+    <footer class="footer">
+      Curated daily with AI.
+    </footer>
+  </div>
+
+  <script>
+    const DATA_DIR = 'data';
+
+    async function loadArchive() {
+      const main = document.getElementById('archive');
+
+      try {
+        const indexRes = await fetch(`${DATA_DIR}/index.json`);
+        if (!indexRes.ok) throw new Error('No archive yet');
+        const dates = await indexRes.json();
+
+        if (dates.length === 0) {
+          main.innerHTML = '<div class="empty">No digests yet. Check back tomorrow!</div>';
+          return;
+        }
+
+        // Sort dates newest first
+        dates.sort((a, b) => b.localeCompare(a));
+
+        let html = '';
+
+        for (const date of dates) {
+          try {
+            const res = await fetch(`${DATA_DIR}/${date}.json`);
+            if (!res.ok) continue;
+            const articles = await res.json();
+
+            const dateObj = new Date(date + 'T12:00:00');
+            const dateStr = dateObj.toLocaleDateString('en-US', {
+              weekday: 'long',
+              year: 'numeric',
+              month: 'long',
+              day: 'numeric'
+            });
+
+            let articlesHtml = '';
+            articles.forEach((a, i) => {
+              const num = String(i + 1).padStart(2, '0');
+              articlesHtml += `
+                <div class="article">
+                  <p class="num">${num}</p>
+                  <h3><a href="${a.url}" target="_blank" rel="noopener">${a.title}</a></h3>
+                  <p>${a.description}</p>
+                  <p class="source"><a href="${a.url}" target="_blank" rel="noopener">${a.source} &rarr;</a></p>
+                </div>`;
+            });
+
+            html += `
+              <div class="day-card">
+                <p class="date">${dateStr}</p>
+                ${articlesHtml}
+              </div>`;
+          } catch (e) {
+            console.warn(`Failed to load ${date}:`, e);
+          }
+        }
+
+        main.innerHTML = html || '<div class="empty">No digests yet.</div>';
+      } catch (e) {
+        main.innerHTML = '<div class="empty">No digests yet. Check back tomorrow!</div>';
+      }
+    }
+
+    loadArchive();
+  </script>
+</body>
+</html>

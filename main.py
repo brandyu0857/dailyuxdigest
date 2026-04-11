@@ -4,6 +4,7 @@ import sys
 
 from dotenv import load_dotenv
 
+from src.archive import save_to_archive
 from src.config import get_email_subject, get_today_str
 from src.curator import curate_articles
 from src.dedup import load_sent_urls, save_sent_articles
@@ -65,6 +66,9 @@ def main() -> None:
     # 7. Update dedup history
     new_urls = [a["url"] for a in articles if "url" in a]
     save_sent_articles(new_urls)
+
+    # 8. Save to archive for GitHub Pages
+    save_to_archive(articles)
 
     logger.info("Done! Sent %d articles to %d subscribers.", len(articles), len(subscribers))
 
