@@ -29,8 +29,14 @@ jobs:
       - name: Install dependencies
         run: |
           pip install --no-cache-dir -r requirements.txt
-          pip uninstall -y openai 2>/dev/null || true
           python -c "import anthropic; print('anthropic', anthropic.__version__)"
+          pip list | grep -i -E "openai|anthropic"
+
+      - name: Debug - verify code
+        run: |
+          git log -1 --oneline
+          head -6 src/curator.py
+          cat requirements.txt
 
       - name: Run Daily UX Digest
         env:
