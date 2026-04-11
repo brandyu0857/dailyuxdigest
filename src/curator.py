@@ -85,10 +85,15 @@ def curate_articles(sent_urls: list[str]) -> list[dict]:
         bracket_end = cleaned.rfind("]")
         if bracket_start != -1 and bracket_end != -1 and bracket_end > bracket_start:
             json_str = cleaned[bracket_start:bracket_end + 1]
-            articles = json.loads(json_str)
+            try:
+                articles = json.loads(json_str)
+            except json.JSONDecodeError:
+                logger.warning("Found brackets but invalid JSON. Skipping today.")
+                return []
         else:
-            logger.error("Could not find JSON array in response: %s", cleaned[:500])
-            raise
+            logger.warning("No JSON array in response. Claude may not have found articles. Skipping today.")
+            logger.info("Response was: %s", cleaned[:500])
+            return []
 
     if not isinstance(articles, list):
         raise RuntimeError(f"Expected a JSON array, got: {type(articles)}")

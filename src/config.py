@@ -6,7 +6,7 @@ EST = ZoneInfo("America/New_York")
 
 MODEL = "claude-haiku-4-5-20251001"
 NUM_ARTICLES = 5
-DATE_WINDOW_DAYS = 3
+DATE_WINDOW_DAYS = 5
 
 SYSTEM_PROMPT = """You are the editor of "Daily UX Digest", a daily newsletter for UX designers, product managers, and design leaders.
 
