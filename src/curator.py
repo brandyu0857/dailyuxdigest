@@ -62,15 +62,36 @@ def curate_articles(sent_urls: list[str]) -> list[dict]:
     if not text_content or not text_content.strip():
         raise RuntimeError("GPT returned no text content.")
 
-    # Parse JSON from the response
-    # Handle cases where JSON might be wrapped in markdown code blocks
-    cleaned = text_content.strip()
-    if cleaned.startswith("```"):
-        cleaned = cleaned.split("\n", 1)[1]  # remove first ```json line
-        cleaned = cleaned.rsplit("```", 1)[0]  # remove trailing ```
-    cleaned = cleaned.strip()
+    # Parse JSON from the response — GPT may wrap it in markdown or add text around it
+    logger.info("Raw response (first 500 chars): %s", text_content[:500])
 
-    articles = json.loads(cleaned)
+    cleaned = text_content.strip()
+
+    # Remove markdown code blocks if present
+    if "```" in cleaned:
+        # Extract content between first ``` and last ```
+        start = cleaned.find("```")
+        end = cleaned.rfind("```")
+        if start != end:
+            inner = cleaned[start:end + 3]
+            # Remove opening ```json or ```
+            inner = inner.split("\n", 1)[1] if "\n" in inner else inner[3:]
+            inner = inner.rsplit("```", 1)[0]
+            cleaned = inner.strip()
+
+    # Try to find JSON array in the text if direct parse fails
+    try:
+        articles = json.loads(cleaned)
+    except json.JSONDecodeError:
+        # Look for [ ... ] in the text
+        bracket_start = cleaned.find("[")
+        bracket_end = cleaned.rfind("]")
+        if bracket_start != -1 and bracket_end != -1 and bracket_end > bracket_start:
+            json_str = cleaned[bracket_start:bracket_end + 1]
+            articles = json.loads(json_str)
+        else:
+            logger.error("Could not find JSON array in response: %s", cleaned[:500])
+            raise
 
     if not isinstance(articles, list):
         raise RuntimeError(f"Expected a JSON array, got: {type(articles)}")
