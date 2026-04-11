@@ -5,7 +5,7 @@ EST = ZoneInfo("America/New_York")
 
 MODEL = "claude-haiku-4-5-20251001"
 NUM_ARTICLES = 5
-DATE_WINDOW_DAYS = 5
+DATE_WINDOW_DAYS = 2
 
 RSS_FEEDS = [
     # UX & Design
