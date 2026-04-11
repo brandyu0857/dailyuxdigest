@@ -56,7 +56,7 @@ def fetch_articles() -> list[dict]:
                 if "<" in summary:
                     import re
                     summary = re.sub(r"<[^>]+>", "", summary)
-                summary = summary[:500]  # Truncate long summaries
+                summary = summary[:200]  # Keep summaries short to reduce token cost
 
                 if title and url:
                     articles.append({
@@ -72,6 +72,12 @@ def fetch_articles() -> list[dict]:
         except Exception as e:
             logger.warning("Failed to fetch %s: %s", feed_url, e)
             continue
+
+    # Sort by date (newest first) and cap at 30 to limit token cost
+    articles.sort(key=lambda a: a["date"], reverse=True)
+    if len(articles) > 30:
+        logger.info("Capping from %d to 30 articles.", len(articles))
+        articles = articles[:30]
 
     logger.info("Total: %d articles from %d feeds.", len(articles), len(RSS_FEEDS))
     return articles
