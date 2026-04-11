@@ -2,7 +2,7 @@ import json
 import logging
 import os
 
-import anthropic
+from openai import OpenAI
 
 from src.config import MODEL, NUM_ARTICLES, SYSTEM_PROMPT, get_today_str
 
@@ -10,8 +10,8 @@ logger = logging.getLogger(__name__)
 
 
 def curate_articles(sent_urls: list[str]) -> list[dict]:
-    """Use Claude Haiku with web search to find and curate today's UX/Design/Product news."""
-    client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
+    """Use GPT-4o-mini with web search to find and curate today's UX/Design/Product news."""
+    client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
 
     today = get_today_str()
 
@@ -23,33 +23,24 @@ def curate_articles(sent_urls: list[str]) -> list[dict]:
     else:
         dedup_instruction = ""
 
-    system = SYSTEM_PROMPT.format(
+    instructions = SYSTEM_PROMPT.format(
         num_articles=NUM_ARTICLES,
         today=today,
         dedup_instruction=dedup_instruction,
     )
 
-    response = client.messages.create(
+    response = client.responses.create(
         model=MODEL,
-        max_tokens=4096,
-        system=system,
-        tools=[{"type": "web_search_20250305", "name": "web_search", "max_uses": 5}],
-        messages=[
-            {
-                "role": "user",
-                "content": f"Find and curate today's top {NUM_ARTICLES} UX, Design, and Product news articles. Today is {today}.",
-            }
-        ],
+        instructions=instructions,
+        tools=[{"type": "web_search_preview"}],
+        input=f"Find and curate today's top {NUM_ARTICLES} UX, Design, and Product news articles. Today is {today}.",
     )
 
-    # Extract the text content from the response (skip tool use/result blocks)
-    text_content = ""
-    for block in response.content:
-        if block.type == "text":
-            text_content += block.text
+    # Extract text from the response
+    text_content = response.output_text
 
-    if not text_content.strip():
-        raise RuntimeError("Claude returned no text content. Response may have been truncated.")
+    if not text_content or not text_content.strip():
+        raise RuntimeError("GPT returned no text content.")
 
     # Parse JSON from the response
     # Handle cases where JSON might be wrapped in markdown code blocks

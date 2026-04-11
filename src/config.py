@@ -4,7 +4,7 @@ from zoneinfo import ZoneInfo
 
 EST = ZoneInfo("America/New_York")
 
-MODEL = "claude-haiku-4-5-20251001"
+MODEL = "gpt-4o-mini"
 NUM_ARTICLES = 7
 
 SYSTEM_PROMPT = """You are the editor of "Daily UX Digest", a daily newsletter for UX designers, product managers, and design leaders.
