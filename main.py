@@ -1,4 +1,5 @@
 import logging
+import os
 import sys
 
 from dotenv import load_dotenv
@@ -38,11 +39,16 @@ def main() -> None:
     html = build_email(articles, date_str)
     subject = get_email_subject(date_str)
 
-    # 4. Get subscribers from Google Sheets
-    subscribers = get_subscribers()
-    if not subscribers:
-        logger.warning("No subscribers found. Skipping email send.")
-        return
+    # 4. Get subscribers — use TEST_EMAIL if set, otherwise read from Google Sheets
+    test_email = os.environ.get("TEST_EMAIL")
+    if test_email:
+        subscribers = [test_email]
+        logger.info("Test mode: sending only to %s", test_email)
+    else:
+        subscribers = get_subscribers()
+        if not subscribers:
+            logger.warning("No subscribers found. Skipping email send.")
+            return
 
     # 5. Send email
     logger.info("Sending email to %d subscribers...", len(subscribers))
