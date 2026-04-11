@@ -27,8 +27,8 @@ def main() -> None:
     sent_urls = load_sent_urls()
     logger.info("Loaded %d previously sent URLs for dedup.", len(sent_urls))
 
-    # 2. Curate articles with Claude Haiku + web search
-    logger.info("Curating articles with Claude Haiku...")
+    # 2. Curate articles with GPT-4o-mini + web search
+    logger.info("Curating articles...")
     articles = curate_articles(sent_urls)
     if not articles:
         logger.warning("No articles curated. Skipping email send.")

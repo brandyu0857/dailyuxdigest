@@ -35,11 +35,25 @@ def curate_articles(sent_urls: list[str]) -> list[dict]:
         dedup_instruction=dedup_instruction,
     )
 
+    # Use multiple focused searches to get date-accurate results
+    search_queries = [
+        f"UX design news {today_date}",
+        f"product design news {today_date}",
+        f"Figma OR design system OR UX research news {yesterday_date} OR {today_date}",
+    ]
+
     response = client.responses.create(
         model=MODEL,
         instructions=instructions,
         tools=[{"type": "web_search_preview"}],
-        input=f"Search for UX, Design, and Product news articles published on {today_date} or {yesterday_date} only. Today is {today}. Return the {NUM_ARTICLES} most relevant articles. Reject anything older or off-topic.",
+        input=(
+            f"Perform these web searches to find today's UX/Design/Product news:\n"
+            + "\n".join(f"- {q}" for q in search_queries)
+            + f"\n\nFrom ALL search results, select only articles published on {today_date} or {yesterday_date}. "
+            f"Check each article's publish date — if it says April 7 or earlier, EXCLUDE it. "
+            f"Only articles from {yesterday} or {today} are acceptable. "
+            f"Return the top {NUM_ARTICLES} on-topic articles as JSON. If fewer qualify, return fewer."
+        ),
     )
 
     # Extract text from the response
@@ -58,8 +72,12 @@ def curate_articles(sent_urls: list[str]) -> list[dict]:
 
     articles = json.loads(cleaned)
 
-    if not isinstance(articles, list) or len(articles) == 0:
-        raise RuntimeError(f"Expected a non-empty JSON array, got: {type(articles)}")
+    if not isinstance(articles, list):
+        raise RuntimeError(f"Expected a JSON array, got: {type(articles)}")
+
+    if len(articles) == 0:
+        logger.warning("No articles met the date and topic criteria.")
+        return []
 
     logger.info("Curated %d articles.", len(articles))
     for a in articles:
