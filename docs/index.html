@@ -207,7 +207,7 @@
             let articlesHtml = '';
             articles.forEach((a, i) => {
               const num = String(i + 1).padStart(2, '0');
-              const isFeatured = (i === 0);  // First article is always featured
+              const isFeatured = a.featured === true;
               articlesHtml += `
                 <div class="article${isFeatured ? ' featured' : ''}">
                   ${isFeatured ? '<span class="featured-badge">Featured</span>' : `<p class="num">${num}</p>`}

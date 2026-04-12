@@ -9,7 +9,7 @@ def build_email(articles: list[dict], date_str: str) -> str:
         description = article.get("description", "")
         url = article.get("url", "#")
         source = article.get("source", "Read more")
-        is_featured = (i == 1)  # First article is always the featured one
+        is_featured = article.get("featured", False)
 
         if is_featured:
             article_rows += f"""

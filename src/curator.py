@@ -17,30 +17,26 @@ Below is a list of recent articles from UX, Design, and Product RSS feeds. Your 
 3. Skip: job listings, sponsor posts, generic listicles, or low-quality content.
 4. For each selected article, rewrite the description as a compelling 2-3 sentence summary that explains why it matters.
 5. Ensure variety — don't pick multiple articles from the same source if possible.
-6. Mark exactly ONE article as "featured": true — the most noteworthy article of the day. Choose based on:
-   - Major announcements or product launches
-   - High-authority sources (e.g., Figma, NN/g, Google Design)
-   - Broad relevance to the UX/Design/Product community
-   - Timeliness and significance
-   The featured article should be the first item in the array.
-
 Return ONLY a JSON array:
 [
   {{
     "title": "Article Title",
     "url": "https://...",
     "source": "Source Name",
-    "description": "Your 2-3 sentence summary.",
-    "featured": true
-  }},
-  {{
-    "title": "Article Title",
-    "url": "https://...",
-    "source": "Source Name",
-    "description": "Your 2-3 sentence summary.",
-    "featured": false
+    "description": "Your 2-3 sentence summary."
   }}
 ]"""
+
+
+FEATURED_PROMPT = """Given these curated articles for today's UX/Design/Product newsletter, pick the ONE most noteworthy article to feature.
+
+Consider:
+- Major announcements or product launches
+- High-authority sources (Figma, Nielsen Norman Group, Google Design, Adobe)
+- Broad relevance to UX/Design/Product professionals
+- Timeliness and significance
+
+Return ONLY the index number (0-based) of the featured article. Just the number, nothing else."""
 
 
 def curate_articles(raw_articles: list[dict], sent_urls: list[str]) -> list[dict]:
@@ -83,6 +79,47 @@ def curate_articles(raw_articles: list[dict], sent_urls: list[str]) -> list[dict
     logger.info("Curated %d articles.", len(articles))
     for a in articles:
         logger.info("  - %s (%s)", a.get("title", "?"), a.get("source", "?"))
+
+    # Second call: pick the featured article
+    articles = _pick_featured(client, articles)
+
+    return articles
+
+
+def _pick_featured(client: anthropic.Anthropic, articles: list[dict]) -> list[dict]:
+    """Second cheap call to pick the most noteworthy article."""
+    if len(articles) <= 1:
+        if articles:
+            articles[0]["featured"] = True
+        return articles
+
+    article_summary = "\n".join(
+        f"{i}. \"{a['title']}\" — {a['source']}"
+        for i, a in enumerate(articles)
+    )
+
+    try:
+        response = client.messages.create(
+            model=MODEL,
+            max_tokens=10,
+            system=FEATURED_PROMPT,
+            messages=[{"role": "user", "content": article_summary}],
+        )
+
+        idx_text = response.content[0].text.strip()
+        idx = int(idx_text)
+
+        if 0 <= idx < len(articles):
+            # Move featured article to first position
+            featured = articles.pop(idx)
+            featured["featured"] = True
+            articles = [featured] + articles
+            logger.info("Featured: %s (%s)", featured["title"], featured["source"])
+        else:
+            articles[0]["featured"] = True
+    except Exception as e:
+        logger.warning("Failed to pick featured, defaulting to first: %s", e)
+        articles[0]["featured"] = True
 
     return articles
 
