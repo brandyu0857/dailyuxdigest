@@ -63,7 +63,8 @@ def build_email(articles: list[dict], date_str: str) -> str:
           <tr>
             <td style="padding: 24px 40px 40px 40px; border-top: 1px solid #eeeeee;">
               <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 12px; color: #bbbbbb; margin: 0; text-align: center; line-height: 1.6;">
-                Curated daily with AI. You received this because you subscribed to Daily UX Digest.
+                Curated daily with AI. You received this because you subscribed to Daily UX Digest.<br>
+                <a href="mailto:dailyuxdigest@gmail.com?subject=Unsubscribe&amp;body=Please%20unsubscribe%20me%20from%20Daily%20UX%20Digest." style="color: #bbbbbb; text-decoration: underline;">Unsubscribe</a>
               </p>
             </td>
           </tr>
