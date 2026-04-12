@@ -15,10 +15,13 @@ RSS_FEEDS = [
     "https://alistapart.com/main/feed/",
     "https://uxplanet.org/feed",
     "https://www.interaction-design.org/literature/articles/rss",
+    "https://dribbble.com/stories.rss",
+    "https://www.awwwards.com/blog/feed/",
 
-    # Design Tools
+    # Design Tools & Systems
     "https://www.figma.com/blog/feed/",
     "https://medium.com/sketch-app-sources/feed",
+    "https://news.design.systems/issues.rss",
 
     # Product
     "https://www.svpg.com/feed/",
@@ -28,6 +31,10 @@ RSS_FEEDS = [
     # CSS / Front-end Design
     "https://css-tricks.com/feed/",
     "https://web.dev/feed.xml",
+    "https://blog.logrocket.com/feed/",
+
+    # Accessibility
+    "https://webaim.org/blog/feed/",
 
     # AI + Design
     "https://www.uxmatters.com/index.xml",
