@@ -109,6 +109,29 @@
       text-decoration: underline;
     }
 
+    .article.featured {
+      margin-bottom: 32px;
+      padding-bottom: 28px;
+      border-bottom: 1px solid #eee;
+    }
+
+    .article.featured h3 {
+      font-size: 20px;
+    }
+
+    .featured-badge {
+      display: inline-block;
+      font-size: 10px;
+      font-weight: 700;
+      color: #fff;
+      background: #1a1a1a;
+      padding: 3px 10px;
+      border-radius: 3px;
+      text-transform: uppercase;
+      letter-spacing: 1.5px;
+      margin-bottom: 8px;
+    }
+
     .loading, .empty {
       text-align: center;
       color: #999;
@@ -184,9 +207,10 @@
             let articlesHtml = '';
             articles.forEach((a, i) => {
               const num = String(i + 1).padStart(2, '0');
+              const isFeatured = a.featured && i === 0;
               articlesHtml += `
-                <div class="article">
-                  <p class="num">${num}</p>
+                <div class="article${isFeatured ? ' featured' : ''}">
+                  ${isFeatured ? '<span class="featured-badge">Featured</span>' : `<p class="num">${num}</p>`}
                   <h3><a href="${a.url}" target="_blank" rel="noopener">${a.title}</a></h3>
                   <p>${a.description}</p>
                   <p class="source"><a href="${a.url}" target="_blank" rel="noopener">${a.source} &rarr;</a></p>

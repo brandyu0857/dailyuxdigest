@@ -9,8 +9,29 @@ def build_email(articles: list[dict], date_str: str) -> str:
         description = article.get("description", "")
         url = article.get("url", "#")
         source = article.get("source", "Read more")
+        is_featured = article.get("featured", False) and i == 1
 
-        article_rows += f"""
+        if is_featured:
+            article_rows += f"""
+        <tr>
+          <td style="padding: 0 40px 12px 40px;">
+            <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 10px; font-weight: 700; color: #ffffff; background-color: #1a1a1a; display: inline-block; padding: 3px 10px; border-radius: 3px; text-transform: uppercase; letter-spacing: 1.5px; margin: 0;">Featured</p>
+          </td>
+        </tr>
+        <tr>
+          <td style="padding: 0 40px 36px 40px;">
+            <h2 style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 22px; font-weight: 700; color: #1a1a1a; margin: 0 0 12px 0; line-height: 1.3;">
+              {title}
+            </h2>
+            <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 16px; color: #333333; margin: 0 0 14px 0; line-height: 1.6;">
+              {description}
+            </p>
+            <a href="{url}" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 14px; color: #0066cc; text-decoration: none; font-weight: 600;">{source} &rarr;</a>
+            <hr style="border: none; border-top: 1px solid #eeeeee; margin: 28px 0 0 0;">
+          </td>
+        </tr>"""
+        else:
+            article_rows += f"""
         <tr>
           <td style="padding: 0 40px 32px 40px;">
             <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 13px; color: #999999; margin: 0 0 8px 0; letter-spacing: 0.5px;">{num}</p>
