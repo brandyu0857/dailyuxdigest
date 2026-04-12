@@ -10,6 +10,21 @@ DOCS_DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "docs", "data")
 INDEX_FILE = os.path.join(DOCS_DATA_DIR, "index.json")
 
 
+def load_today_archive() -> list[dict] | None:
+    """Load today's articles from archive if they exist. Returns None if not found."""
+    today = get_today_date()
+    day_file = os.path.join(DOCS_DATA_DIR, f"{today}.json")
+    try:
+        with open(day_file, "r") as f:
+            articles = json.load(f)
+        if articles:
+            logger.info("Found existing archive for %s with %d articles.", today, len(articles))
+            return articles
+    except (FileNotFoundError, json.JSONDecodeError):
+        pass
+    return None
+
+
 def save_to_archive(articles: list[dict]) -> None:
     """Save today's curated articles to the docs/data/ archive for GitHub Pages."""
     today = get_today_date()
