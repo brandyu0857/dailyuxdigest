@@ -26,7 +26,6 @@ RSS_FEEDS = [
     # Product
     "https://www.svpg.com/feed/",
     "https://www.mindtheproduct.com/feed/",
-    "https://www.lennysnewsletter.com/feed",
 
     # CSS / Front-end Design
     "https://css-tricks.com/feed/",
