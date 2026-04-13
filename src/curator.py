@@ -16,14 +16,16 @@ Below is a list of recent articles from UX, Design, and Product RSS feeds. Your 
 2. Prioritize: major product launches, tool updates, insightful essays, research findings, and practical guides.
 3. Skip: job listings, sponsor posts, generic listicles, or low-quality content.
 4. For each selected article, rewrite the description as a compelling 2-3 sentence summary that explains why it matters.
-5. Ensure variety — don't pick multiple articles from the same source if possible.
+5. Estimate the reading time in minutes based on the article's likely length and depth (e.g. short blog post = 2-3 min, long essay = 8-12 min).
+6. Ensure variety — don't pick multiple articles from the same source if possible.
 Return ONLY a JSON array:
 [
   {{
     "title": "Article Title",
     "url": "https://...",
     "source": "Source Name",
-    "description": "Your 2-3 sentence summary."
+    "description": "Your 2-3 sentence summary.",
+    "read_time": "5 min"
   }}
 ]"""
 
