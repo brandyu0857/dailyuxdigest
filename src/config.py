@@ -41,7 +41,6 @@ RSS_FEEDS = [
     "https://design.google/feed",
     "https://blog.adobe.com/en/publish/feed.xml",
     "https://blog.prototypr.io/feed",
-    "https://towardsdatascience.com/feed",
     "https://www.theverge.com/rss/design/index.xml",
 ]
 
