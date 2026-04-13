@@ -1,3 +1,4 @@
+import json
 import logging
 import os
 import sys
@@ -5,7 +6,7 @@ import sys
 from dotenv import load_dotenv
 
 from src.archive import load_today_archive, save_to_archive
-from src.config import get_email_subject, get_today_str
+from src.config import get_email_subject, get_today_date, get_today_str
 from src.curator import curate_articles
 from src.dedup import load_sent_urls, save_sent_articles
 from src.email_sender import send_email
@@ -18,6 +19,27 @@ logging.basicConfig(
     format="%(asctime)s [%(levelname)s] %(name)s: %(message)s",
 )
 logger = logging.getLogger(__name__)
+
+SEND_MARKER_FILE = os.path.join(os.path.dirname(__file__), "data", "send_marker.json")
+
+
+def _was_sent_today() -> bool:
+    """Check if today's digest was already sent."""
+    today = get_today_date()
+    try:
+        with open(SEND_MARKER_FILE, "r") as f:
+            marker = json.load(f)
+        return marker.get("last_sent") == today
+    except (FileNotFoundError, json.JSONDecodeError):
+        return False
+
+
+def _mark_sent_today() -> None:
+    """Record that today's digest was sent."""
+    today = get_today_date()
+    os.makedirs(os.path.dirname(SEND_MARKER_FILE), exist_ok=True)
+    with open(SEND_MARKER_FILE, "w") as f:
+        json.dump({"last_sent": today}, f)
 
 
 def main() -> None:
@@ -58,6 +80,11 @@ def main() -> None:
     html = build_email(articles, date_str)
     subject = get_email_subject(date_str)
 
+    # Check if already sent today (idempotency for backup cron)
+    if _was_sent_today():
+        logger.info("Email already sent today. Skipping (backup cron is a no-op).")
+        return
+
     # 5. Get subscribers — use TEST_EMAIL if set, otherwise read from Google Sheets
     test_email = os.environ.get("TEST_EMAIL")
     if test_email:
@@ -72,6 +99,7 @@ def main() -> None:
     # 6. Send email
     logger.info("Sending email to %d subscribers...", len(subscribers))
     send_email(html, subject, subscribers)
+    _mark_sent_today()
 
     logger.info("Done! Sent %d articles to %d subscribers.", len(articles), len(subscribers))
 

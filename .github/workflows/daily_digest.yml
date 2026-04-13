@@ -4,6 +4,8 @@ on:
   schedule:
     # 8:00 AM EST = 13:00 UTC (year-round, arrives at 9 AM during EDT)
     - cron: '0 13 * * *'
+    # Backup: 3 hours later in case the primary cron is skipped
+    - cron: '0 16 * * *'
   workflow_dispatch:
     inputs:
       test_email:
@@ -44,10 +46,12 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           cp data/sent_articles.json /tmp/sent_articles.json
+          cp -f data/send_marker.json /tmp/send_marker.json 2>/dev/null || true
           cp -r docs/data /tmp/docs_data
           git fetch origin ${{ github.ref_name }}
           git reset --hard origin/${{ github.ref_name }}
           cp /tmp/sent_articles.json data/sent_articles.json
+          cp -f /tmp/send_marker.json data/send_marker.json 2>/dev/null || true
           cp -r /tmp/docs_data/* docs/data/
-          git add data/sent_articles.json docs/data/
+          git add data/sent_articles.json data/send_marker.json docs/data/
           git diff --staged --quiet || (git commit -m "Update archive and dedup history" && git push)

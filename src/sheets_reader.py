@@ -14,14 +14,19 @@ SCOPES = ["https://www.googleapis.com/auth/spreadsheets.readonly"]
 
 def _get_credentials() -> Credentials:
     """Load Google service account credentials from environment."""
-    raw = os.environ["GOOGLE_SERVICE_ACCOUNT_JSON"]
+    raw = os.environ.get("GOOGLE_SERVICE_ACCOUNT_JSON")
+    if not raw:
+        raise ValueError("GOOGLE_SERVICE_ACCOUNT_JSON environment variable is not set")
 
     # Support both base64-encoded and raw JSON
     try:
         decoded = base64.b64decode(raw)
         creds_dict = json.loads(decoded)
     except Exception:
-        creds_dict = json.loads(raw)
+        try:
+            creds_dict = json.loads(raw)
+        except json.JSONDecodeError as e:
+            raise ValueError(f"GOOGLE_SERVICE_ACCOUNT_JSON is not valid JSON or base64: {e}")
 
     return Credentials.from_service_account_info(creds_dict, scopes=SCOPES)
 
@@ -32,14 +37,28 @@ def _is_email(value: str) -> bool:
 
 def get_subscribers() -> list[str]:
     """Read subscriber email addresses from Google Sheets."""
-    creds = _get_credentials()
-    gc = gspread.authorize(creds)
+    try:
+        creds = _get_credentials()
+    except Exception as e:
+        logger.error("Failed to load Google service account credentials: %s", e)
+        raise
 
-    sheet_id = os.environ["GOOGLE_SHEET_ID"]
-    sheet = gc.open_by_key(sheet_id).sheet1
+    try:
+        gc = gspread.authorize(creds)
+        sheet_id = os.environ["GOOGLE_SHEET_ID"]
+        sheet = gc.open_by_key(sheet_id).sheet1
+    except gspread.exceptions.APIError as e:
+        logger.error("Google Sheets API error (sheet_id=%s): %s", os.environ.get("GOOGLE_SHEET_ID", "?"), e)
+        raise
+    except Exception as e:
+        logger.error("Failed to connect to Google Sheets: %s", e)
+        raise
 
-    # Get all values and find the email column automatically
-    all_values = sheet.get_all_values()
+    try:
+        all_values = sheet.get_all_values()
+    except gspread.exceptions.APIError as e:
+        logger.error("Failed to read data from Google Sheet: %s", e)
+        raise
     if not all_values:
         logger.warning("Google Sheet is empty.")
         return []
