@@ -37,7 +37,6 @@ RSS_FEEDS = [
 
     # AI + Design
     "https://www.uxmatters.com/index.xml",
-    "https://thegradient.pub/rss/",
     "https://design.google/feed",
     "https://blog.adobe.com/en/publish/feed.xml",
     "https://blog.prototypr.io/feed",
