@@ -1,0 +1,33 @@
+[
+  {
+    "title": "The erosion of design authority, burnout problems, invisible customers",
+    "url": "https://uxdesign.cc/the-erosion-of-design-authority-burnout-problems-invisible-customers-98e75650e97d?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This essay tackles critical challenges facing modern design teams\u2014eroding authority, designer burnout, and disconnection from actual users. It's essential reading for design leaders navigating the tension between rapid tool adoption and meaningful design practice.",
+    "featured": true
+  },
+  {
+    "title": "Want to understand the current state of AI? Check out these charts.",
+    "url": "https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/",
+    "source": "MIT Technology Review",
+    "description": "Stanford's 2026 AI Index cuts through AI hype with data-driven visualizations that help designers and product managers understand what's actually happening in the AI space. Perfect for making informed decisions about AI integration in products."
+  },
+  {
+    "title": "Claude Code for Creating Diagrams",
+    "url": "https://uxplanet.org/claude-code-for-creating-diagrams-4f98b8e15542?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "A practical guide exploring how AI coding assistants can streamline diagram creation for UX workflows, offering designers a new tool for faster documentation and communication. This bridges the gap between design and development tooling."
+  },
+  {
+    "title": "You have no choice in reading this article\u2014maybe",
+    "url": "https://www.technologyreview.com/2026/04/13/1135162/uri-maoz-does-free-will-exist/",
+    "source": "MIT Technology Review",
+    "description": "A thought-provoking exploration of free will and decision-making through neuroscience that challenges assumptions about how humans choose\u2014crucial insights for designers building persuasive experiences and understanding user agency."
+  },
+  {
+    "title": "Stop Treating AI Memory Like a Search Problem",
+    "url": "https://towardsdatascience.com/stop-treating-ai-memory-like-a-search-problem/",
+    "source": "Towards Data Science",
+    "description": "This technical deep-dive reveals why traditional search-based approaches fail for AI memory systems, offering product teams critical knowledge for building more reliable AI features and better conversational experiences."
+  }
+]
