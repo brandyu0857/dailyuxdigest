@@ -9,6 +9,7 @@ def build_email(articles: list[dict], date_str: str) -> str:
         description = article.get("description", "")
         url = article.get("url", "#")
         source = article.get("source", "Read more")
+        read_time = article.get("read_time", "")
         is_featured = article.get("featured", False)
 
         if is_featured:
@@ -22,7 +23,7 @@ def build_email(articles: list[dict], date_str: str) -> str:
             <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 15px; color: #444444; margin: 0 0 12px 0; line-height: 1.6;">
               {description}
             </p>
-            <a href="{url}" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 14px; color: #0066cc; text-decoration: none; font-weight: 500;">{source} &rarr;</a>
+            <a href="{url}" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 14px; color: #0066cc; text-decoration: none; font-weight: 500;">{source} &rarr;</a>{f'<span style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px; color: #999999; margin-left: 12px;">&middot; {read_time}</span>' if read_time else ''}
           </td>
         </tr>"""
         else:
@@ -36,7 +37,7 @@ def build_email(articles: list[dict], date_str: str) -> str:
             <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 15px; color: #444444; margin: 0 0 12px 0; line-height: 1.6;">
               {description}
             </p>
-            <a href="{url}" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 14px; color: #0066cc; text-decoration: none; font-weight: 500;">{source} &rarr;</a>
+            <a href="{url}" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 14px; color: #0066cc; text-decoration: none; font-weight: 500;">{source} &rarr;</a>{f'<span style="font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 13px; color: #999999; margin-left: 12px;">&middot; {read_time}</span>' if read_time else ''}
           </td>
         </tr>"""
 
