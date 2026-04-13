@@ -17,6 +17,7 @@ RSS_FEEDS = [
     "https://www.interaction-design.org/literature/articles/rss",
     "https://dribbble.com/stories.rss",
     "https://www.awwwards.com/blog/feed/",
+    "https://baymard.com/blog.atom",
 
     # Design Tools & Systems
     "https://www.figma.com/blog/feed/",
