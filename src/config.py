@@ -5,7 +5,7 @@ EST = ZoneInfo("America/New_York")
 
 MODEL = "claude-haiku-4-5-20251001"
 NUM_ARTICLES = 5
-DATE_WINDOW_DAYS = 2
+DATE_WINDOW_DAYS = 5
 
 RSS_FEEDS = [
     # UX & Design
@@ -19,6 +19,10 @@ RSS_FEEDS = [
     "https://www.awwwards.com/blog/feed/",
     "https://baymard.com/blog.atom",
 
+    # Design Aggregators (daily)
+    "https://sidebar.io/feed.xml",
+    "https://www.designernews.co/?format=atom",
+
     # Design Tools & Systems
     "https://www.figma.com/blog/feed/",
     "https://medium.com/sketch-app-sources/feed",
@@ -27,6 +31,7 @@ RSS_FEEDS = [
     # Product
     "https://www.svpg.com/feed/",
     "https://www.mindtheproduct.com/feed/",
+    "https://www.producthunt.com/feed",
 
     # CSS / Front-end Design
     "https://css-tricks.com/feed/",
@@ -36,7 +41,7 @@ RSS_FEEDS = [
     # Accessibility
     "https://webaim.org/blog/feed/",
 
-    # AI + Design
+    # Design + AI
     "https://www.uxmatters.com/index.xml",
     "https://design.google/feed",
     "https://blog.adobe.com/en/publish/feed.xml",
