@@ -1,0 +1,38 @@
+[
+  {
+    "title": "The Future of UI Design is Agentic Design",
+    "url": "https://uxplanet.org/the-future-of-ui-design-is-agentic-design-803977cd041f?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "Explores how AI agents like Anima are fundamentally changing the design process, shifting from traditional workflows to human-AI co-creation. This deep dive reveals the practical implications of agentic design tools and why designers need to adapt their approach in 2026.",
+    "read_time": "7 min",
+    "featured": true
+  },
+  {
+    "title": "Design and engineering, as one",
+    "url": "https://matthiasott.com/articles/design-and-engineering-as-one",
+    "source": "Sidebar",
+    "description": "Challenges the outdated organizational model that separates design and engineering, arguing most teams are solving yesterday's problems with today's structure. This thought-provoking piece calls for reimagining how product teams collaborate in a modern context.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "How to turn your competitor's worst reviews into your strongest design argument",
+    "url": "https://uxdesign.cc/how-to-turn-your-competitors-worst-reviews-into-your-strongest-design-argument-6d216680693d?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Provides a practical framework for using competitive research as evidence-backed design justification rather than just visual inspiration. A tactical guide that helps designers win stakeholder buy-in through data-driven competitive analysis.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Squash and stretch",
+    "url": "https://www.joshwcomeau.com/animation/squash-and-stretch/",
+    "source": "Sidebar",
+    "description": "Applies Disney's classic animation principles to modern SVG micro-interactions, showing designers how subtle motion techniques make digital interfaces feel more natural and delightful. A hands-on exploration of turning animation theory into practical web design.",
+    "read_time": "9 min"
+  },
+  {
+    "title": "Handmade designs: the new trust signal",
+    "url": "https://www.nngroup.com/articles/handmade-designs/",
+    "source": "Sidebar",
+    "description": "Identifies a growing user preference for human-crafted design in an AI-saturated landscape, positioning authenticity as a competitive advantage. This insights piece explains why showing intentional, human design choices is becoming crucial for brand trust.",
+    "read_time": "5 min"
+  }
+]
