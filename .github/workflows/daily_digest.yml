@@ -1,11 +1,6 @@
 name: Daily UX Digest
 
 on:
-  schedule:
-    # 8:37 AM EST = 13:37 UTC (off-peak minute to avoid cron congestion)
-    - cron: '37 13 * * *'
-    # Backup: 3 hours later in case the primary cron is skipped
-    - cron: '37 16 * * *'
   workflow_dispatch:
     inputs:
       test_email:
