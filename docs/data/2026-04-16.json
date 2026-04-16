@@ -1,0 +1,38 @@
+[
+  {
+    "title": "The trust gap in healthcare AI isn't about the AI",
+    "url": "https://uxdesign.cc/the-trust-gap-in-healthcare-ai-isnt-about-the-ai-42b437379369?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A physician abandoning an AI diagnostic tool in under 30 seconds reveals a critical UX failure that has nothing to do with the model itself. This insightful piece exposes how billions invested in better AI models miss the real problem: the human-centered design and trust architecture that happens before the model ever runs\u2014essential reading for designers building healthcare and mission-critical tools.",
+    "read_time": "7 min",
+    "featured": true
+  },
+  {
+    "title": "Org design in the age of AI",
+    "url": "https://robonomics.substack.com/p/org-design-in-the-age-of-ai",
+    "source": "Sidebar",
+    "description": "While everyone is rushing to add AI to existing workflows, almost no one is asking the harder question: should these workflows exist at all? This thought-provoking essay challenges product leaders and designers to rethink organizational structures fundamentally, not just layer AI on top of broken processes.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Playwright accessibility testing",
+    "url": "https://www.davidmello.com/software-testing/test-automation/playwright-accessibility-testing-axe-lighthouse-limitations",
+    "source": "Sidebar",
+    "description": "Automated accessibility tools like Axe and Lighthouse miss 60\u201370% of WCAG violations, creating a false sense of security for teams. This practical guide reveals the gaps in popular tools and teaches developers how to write smarter Playwright tests that catch real accessibility failures.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "One developer, two dozen agents, zero alignment",
+    "url": "https://maggieappleton.com/zero-alignment",
+    "source": "Sidebar",
+    "description": "As AI agents proliferate, coordination and alignment become critical design challenges that most teams are unprepared for. Maggie Appleton explores why collaborative AI engineering needs new mental models and practices\u2014a must-read for anyone scaling AI-powered products.",
+    "read_time": "9 min"
+  },
+  {
+    "title": "Aesthetics of AI",
+    "url": "https://www.acolorbright.com/en/insights/aesthetics-of-ai",
+    "source": "Sidebar",
+    "description": "What do the visual identities of ChatGPT, Claude, and other AI brands tell us about how the industry positions itself? This analysis of emerging design trends in AI branding reveals how aesthetics shape user trust and perception\u2014critical insights for anyone designing AI-forward products.",
+    "read_time": "5 min"
+  }
+]
