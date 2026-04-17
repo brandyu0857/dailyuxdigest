@@ -1,0 +1,59 @@
+[
+  {
+    "title": "The WebAIM Million",
+    "url": "https://webaim.org/projects/million/",
+    "source": "WebAIM",
+    "description": "This comprehensive 2026 accessibility report analyzes the top 1 million home pages, revealing critical patterns in digital accessibility across the web. Essential reading for designers and developers committed to inclusive design practices and understanding real-world accessibility gaps.",
+    "read_time": "8 min",
+    "featured": true
+  },
+  {
+    "title": "How to improve UX in legacy systems",
+    "url": "https://www.smashingmagazine.com/2026/04/legacy-systems/",
+    "source": "Smashing Magazine",
+    "description": "This practical guide tackles the real-world challenge of driving UX improvements in organizations burdened by legacy systems and broken processes. A must-read for product managers and designers working in enterprise environments where technical debt limits innovation.",
+    "read_time": "10 min"
+  },
+  {
+    "title": "Autopilot, agentic AI, and the dangers of imperfect metaphors",
+    "url": "https://uxdesign.cc/autopilot-agentic-ai-and-the-dangers-of-imperfect-metaphors-d94e96575153",
+    "source": "UX Collective",
+    "description": "A critical examination of how misleading language around AI\u2014framing mathematics as magic and code as agency\u2014shapes user expectations and trust. This essay reveals why precision in how we communicate AI capabilities is fundamental to responsible design.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "When moving fast, talking is the first thing to break",
+    "url": "https://daverupert.com/2026/04/more-talk-less-grok/",
+    "source": "Dave Rupert",
+    "description": "An incisive critique of how speed-obsessed cultures sacrifice communication and shared understanding, ultimately eroding team cohesion and decision-making quality. A thought-provoking read for leaders managing high-velocity teams.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "I watched the manosphere documentary; here is how design is making things worse",
+    "url": "https://uxdesign.cc/i-watched-the-manosphere-documentary-here-is-how-design-is-making-things-worse-771de2bad594",
+    "source": "UX Collective",
+    "description": "A sobering analysis of how design systems inadvertently enable harmful actors and radicalization pipelines by overlooking adversarial use cases. Critical for designers who care about the societal impact of their work beyond the happy path.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Build to Learn vs Build to Earn",
+    "url": "https://www.svpg.com/build-to-learn-vs-build-to-earn/",
+    "source": "Silicon Valley Product Group",
+    "description": "This foundational essay contrasts two fundamentally different product development philosophies and their implications for innovation, quality, and long-term success. Essential strategic reading for product leaders questioning their development approach.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "AI makes you boring",
+    "url": "https://www.marginalia.nu/log/a_132_ai_bores/",
+    "source": "Marginalia",
+    "description": "A provocative argument that AI-generated content lacks the iterative ideation and intentionality that make design and writing meaningful, resulting in homogenized mediocrity. Vital perspective for designers relying too heavily on AI tools in their creative process.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "The new designer/developer collaboration",
+    "url": "https://www.lukew.com/ff/entry.asp?2148",
+    "source": "Luke Wroblewski",
+    "description": "An exploration of evolved collaboration models between designers and developers that demonstrate how better communication and mutual understanding can unlock superior outcomes. Practical insights for teams seeking to improve cross-functional workflows.",
+    "read_time": "5 min"
+  }
+]
