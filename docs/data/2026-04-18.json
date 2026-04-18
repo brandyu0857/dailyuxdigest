@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Less Chat, More Answer: Site AI Chatbots Need to Get to the Point",
+    "url": "https://www.nngroup.com/articles/less-chat-more-answer/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "NN/g latest articles and announcements",
+    "description": "NN/g research reveals users expect concise, scannable answers from AI chatbots, not conversational banter. Applies evidence-based guidelines for designing AI interfaces that respect user intent and cognitive load.",
+    "read_time": "5 min",
+    "featured": true
+  },
+  {
+    "title": "Your AI agent can read your codebase. It doesn't know your product.",
+    "url": "https://uxdesign.cc/your-ai-agent-can-read-your-codebase-it-doesnt-know-your-product-b5ea0cd77989?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A practical guide on bridging the gap between AI coding agents and actual product design by feeding them brand guidelines, visual patterns, and design language. Essential reading for teams implementing AI-assisted development workflows and maintaining design consistency.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Haptics: how to build a consistent cross-platform solution and align code with Figma",
+    "url": "https://uxdesign.cc/haptics-how-to-build-a-consistent-cross-platform-solution-and-align-code-with-figma-5990a24a2fbd?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A technical deep-dive on standardizing haptic feedback across iOS, Android, and web while syncing with Figma components. Valuable for design systems teams looking to implement nuanced tactile experiences at scale.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Autopilot, agentic AI, and the dangers of imperfect metaphors",
+    "url": "https://uxdesign.cc/autopilot-agentic-ai-and-the-dangers-of-imperfect-metaphors-d94e96575153?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A critical examination of how misleading language around agentic AI ('autopilot,' 'intelligence') obscures mathematical reality and sets dangerous user expectations. Essential for designers communicating AI capabilities responsibly.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Boost Design Autonomy with an Information Pipeline",
+    "url": "https://www.nngroup.com/articles/information-pipeline/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "NN/g latest articles and announcements",
+    "description": "A four-step framework for design leaders to build organizational influence by systematically closing information gaps. Practical for product designers navigating complex orgs and strengthening their role in product decisions.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "I watched the manosphere documentary; here is how design is making things worse.",
+    "url": "https://uxdesign.cc/i-watched-the-manosphere-documentary-here-is-how-design-is-making-things-worse-771de2bad594?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A thought-provoking examination of how design choices inadvertently amplify harmful content and radicalization pathways. Critical perspective on ethical design responsibility and designing against bad-faith actors.",
+    "read_time": "10 min"
+  },
+  {
+    "title": "Claude Design by Anthropic Labs",
+    "url": "https://www.producthunt.com/products/claude",
+    "source": "Product Hunt \u2014 The best new products, every day",
+    "description": "Anthropic's new AI design tool enables designers to create prototypes, slides, and one-pagers through natural conversation. A significant product launch that reshapes how designers interact with creation tools and signals the evolution of AI-assisted design.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Folder instructions \u2014 Instructions for system-level AI",
+    "url": "https://uxdesign.cc/folder-instructions-instructions-for-system-level-ai-c6113ff78287?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "An innovative concept converting passive file storage into active AI-aware systems that organize and evolve based on user intent. Forward-thinking exploration of how to design human-AI collaboration at the OS level.",
+    "read_time": "6 min"
+  }
+]
