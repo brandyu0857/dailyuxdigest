@@ -30,6 +30,15 @@ Return ONLY a JSON array:
 ]"""
 
 
+HIGHLIGHTS_PROMPT = """You are the editor of "Daily UX Digest". Given today's curated articles, write a 1-2 sentence highlight that captures the key themes or trends across the articles.
+
+Be specific and insightful — mention actual topics, not generic statements. Write in a conversational, editorial tone.
+
+Example: "Accessibility takes center stage today with WebAIM's annual report, while Figma and Adobe both push major updates to their design systems tooling."
+
+Return ONLY the highlight text, no quotes or formatting."""
+
+
 FEATURED_PROMPT = """Given these curated articles for today's UX/Design/Product newsletter, pick the ONE most noteworthy article to feature.
 
 Consider:
@@ -86,6 +95,30 @@ def curate_articles(raw_articles: list[dict], sent_urls: list[str]) -> list[dict
     articles = _pick_featured(client, articles)
 
     return articles
+
+
+def generate_highlights(articles: list[dict]) -> str:
+    """Third cheap call to generate a trends summary for the newsletter header."""
+    client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
+
+    article_summary = "\n".join(
+        f"- \"{a['title']}\" ({a.get('source', '?')})"
+        for a in articles
+    )
+
+    try:
+        response = client.messages.create(
+            model=MODEL,
+            max_tokens=150,
+            system=HIGHLIGHTS_PROMPT,
+            messages=[{"role": "user", "content": article_summary}],
+        )
+        highlight = response.content[0].text.strip().strip('"')
+        logger.info("Highlight: %s", highlight)
+        return highlight
+    except Exception as e:
+        logger.warning("Failed to generate highlight: %s", e)
+        return "Here's what's happening in design and product today."
 
 
 def _pick_featured(client: anthropic.Anthropic, articles: list[dict]) -> list[dict]:

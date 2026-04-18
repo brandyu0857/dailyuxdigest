@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 
 from src.archive import load_today_archive, save_to_archive
 from src.config import get_email_subject, get_today_date, get_today_str
-from src.curator import curate_articles
+from src.curator import curate_articles, generate_highlights
 from src.dedup import load_sent_urls, save_sent_articles
 from src.email_sender import send_email
 from src.email_template import build_email
@@ -77,7 +77,8 @@ def main() -> None:
 
     # 4. Build HTML email
     date_str = get_today_str()
-    html = build_email(articles, date_str)
+    highlight = generate_highlights(articles)
+    html = build_email(articles, date_str, highlight)
     subject = get_email_subject(date_str)
 
     # Check if already sent today (idempotency for backup cron)
