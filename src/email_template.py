@@ -1,4 +1,4 @@
-def build_email(articles: list[dict], date_str: str) -> str:
+def build_email(articles: list[dict], date_str: str, highlight: str = "") -> str:
     """Build the HTML email from curated articles."""
 
     # Build article rows
@@ -66,10 +66,10 @@ def build_email(articles: list[dict], date_str: str) -> str:
             </td>
           </tr>
 
-          <!-- Intro -->
+          <!-- Highlight -->
           <tr>
             <td style="padding: 20px 40px 28px 40px;">
-              <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 15px; color: #555555; margin: 0; line-height: 1.6;">Here's what's happening in design and product today.</p>
+              <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 15px; color: #555555; margin: 0; line-height: 1.6; font-style: italic;">{highlight if highlight else "Here's what's happening in design and product today."}</p>
             </td>
           </tr>
 
