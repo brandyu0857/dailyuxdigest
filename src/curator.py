@@ -30,13 +30,16 @@ Return ONLY a JSON array:
 ]"""
 
 
-HIGHLIGHTS_PROMPT = """You are the editor of "Daily UX Digest". Given today's curated articles, write a 1-2 sentence highlight that captures the key themes or trends across the articles.
+HIGHLIGHTS_PROMPT = """You are the editor of "Daily UX Digest". Given today's curated articles, identify 3 common themes or trends across ALL the articles.
 
-Be specific and insightful — mention actual topics, not generic statements. Write in a conversational, editorial tone.
+Write exactly 3 short bullet points, each one a key theme shared by multiple articles. Be specific — reference actual topics, not generic statements.
 
-Example: "Accessibility takes center stage today with WebAIM's annual report, while Figma and Adobe both push major updates to their design systems tooling."
+Format:
+• Theme one
+• Theme two
+• Theme three
 
-Return ONLY the highlight text, no quotes or formatting."""
+Return ONLY the 3 bullet points, nothing else."""
 
 
 FEATURED_PROMPT = """Given these curated articles for today's UX/Design/Product newsletter, pick the ONE most noteworthy article to feature.
@@ -102,14 +105,14 @@ def generate_highlights(articles: list[dict]) -> str:
     client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
 
     article_summary = "\n".join(
-        f"- \"{a['title']}\" ({a.get('source', '?')})"
+        f"- \"{a['title']}\" ({a.get('source', '?')}): {a.get('description', '')}"
         for a in articles
     )
 
     try:
         response = client.messages.create(
             model=MODEL,
-            max_tokens=150,
+            max_tokens=200,
             system=HIGHLIGHTS_PROMPT,
             messages=[{"role": "user", "content": article_summary}],
         )

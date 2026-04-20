@@ -69,7 +69,8 @@ def build_email(articles: list[dict], date_str: str, highlight: str = "") -> str
           <!-- Highlight -->
           <tr>
             <td style="padding: 20px 40px 28px 40px;">
-              <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 15px; color: #555555; margin: 0; line-height: 1.6; font-style: italic;">{highlight if highlight else "Here's what's happening in design and product today."}</p>
+              <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 11px; font-weight: 600; color: #999999; text-transform: uppercase; letter-spacing: 1.5px; margin: 0 0 10px 0;">Today's Themes</p>
+              <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 15px; color: #555555; margin: 0; line-height: 1.8; white-space: pre-line;">{highlight if highlight else "Here's what's happening in design and product today."}</p>
             </td>
           </tr>
 
