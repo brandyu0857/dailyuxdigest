@@ -1,0 +1,59 @@
+[
+  {
+    "title": "What Claude Design actually changes for designers",
+    "url": "https://medium.com/design-bootcamp/what-claude-design-actually-changes-for-designers-0c5b04fae343",
+    "source": "Sidebar",
+    "description": "This article examines how Claude Design is finally solving the longstanding handoff problem between design and development, marking a significant shift in how designers and developers collaborate. A timely deep-dive into a tool that could reshape design workflows.",
+    "read_time": "5 min",
+    "featured": true
+  },
+  {
+    "title": "AI is ruining the way you talk about your work",
+    "url": "https://uxdesign.cc/ai-is-ruining-the-way-you-talk-about-your-work-599dbd78ea18?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "This essay explores how AI chat interfaces prioritize fluency over precision, potentially undermining how designers communicate their expertise and decision-making. A critical read for professionals concerned about how AI tools are reshaping professional communication and the value of nuanced, detailed design thinking.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "The deceptive nature of today's AI conversation design and how to fix it",
+    "url": "https://uxdesign.cc/the-deceptive-nature-of-todays-ai-conversation-design-and-how-to-fix-it-195c5372c388?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "This piece examines ethical flaws in current AI conversation design, arguing that we shouldn't replicate human communication patterns for non-human systems. Essential reading for content and conversation designers grappling with AI ethics and user trust.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "We built a banking app prototype with zero code",
+    "url": "https://bit.ly/side-pie2",
+    "source": "Sidebar",
+    "description": "A practical walkthrough of building a functional banking app prototype using ProtoPie with no code, demonstrating complex features like login flows and camera scanning. Valuable for designers looking to explore no-code prototyping tools and create interactive demos efficiently.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Good taste the only real moat left",
+    "url": "https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/",
+    "source": "Sidebar",
+    "description": "An insightful essay arguing that design taste\u2014combining judgment with context and stakes\u2014is the irreplaceable competitive advantage in an AI-driven world. Thought-provoking for design leaders questioning how to differentiate their teams and work.",
+    "read_time": "9 min"
+  },
+  {
+    "title": "Red-lining AI",
+    "url": "https://www.chrbutler.com/reactionary-red-lining-of-ai",
+    "source": "Sidebar",
+    "description": "This article challenges blanket AI bans in creative work, arguing instead for thoughtful integration that pairs automation with ethics and intentionality. Essential perspective for design leaders navigating AI adoption without losing creative integrity.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Claude Opus 4.7 for Product Designers",
+    "url": "https://uxplanet.org/claude-opus-4-7-for-product-designers-e7ba6f2709b6?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "An overview of Anthropic's newest AI model and its applications for product designers, covering capabilities that could enhance design workflows and decision-making. A practical guide to understanding the latest AI advances in the design toolkit.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Charcuteria",
+    "url": "https://charcuterie.elastiq.ch/#130BA",
+    "source": "Sidebar",
+    "description": "An elegant visual explorer for Unicode that helps designers and developers discover characters, related glyphs, and symbols across the standard. A useful tool for anyone working with typography, internationalization, or special characters in design systems.",
+    "read_time": "3 min"
+  }
+]
