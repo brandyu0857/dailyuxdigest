@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Design isn't dying. It's shifting left.",
+    "url": "https://microsoft.design/articles/design-isnt-dying-its-shifting-left/",
+    "source": "Microsoft Design",
+    "description": "Microsoft's perspective on how design's role is fundamentally changing in the AI era, where shaping model behavior and humanistic outcomes becomes the core design challenge. Provides strategic insight into design's evolving influence and relevance.",
+    "read_time": "5 min",
+    "featured": true
+  },
+  {
+    "title": "How design leaders influence decisions without being in the room",
+    "url": "https://uxdesign.cc/how-design-leaders-influence-decisions-without-being-in-the-room-4f52fbffabba?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A practical guide on how design leaders can extend their influence through effective documentation and communication strategies. This explores the critical skill of creating artifacts that advocate for design work when stakeholders aren't present, essential for modern distributed teams.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "How to mitigate the risk of AI implementation in enterprise environments",
+    "url": "https://uxdesign.cc/how-to-mitigate-the-risk-of-ai-implementation-in-enterprise-environments-74d3bd7f9e65?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "Drawing from years of enterprise experience, this article addresses the critical risks and mitigation strategies for AI adoption in large organizations. Essential reading for product leaders and designers navigating the real-world challenges of AI implementation beyond the hype.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Session Timeouts: The Overlooked Accessibility Barrier In Authentication Design",
+    "url": "https://smashingmagazine.com/2026/04/session-timeouts-accessibility-barrier-authentication-design/",
+    "source": "Smashing Magazine",
+    "description": "This deep dive reveals how poorly designed session timeouts create significant accessibility barriers for users with disabilities, turning a technical detail into a UX equity issue. A must-read for anyone designing authentication flows or concerned with inclusive design practices.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "The web trained AI to deceive. Now designers have to untrain it.",
+    "url": "https://uxdesign.cc/the-web-trained-ai-to-deceive-now-designers-have-to-untrain-it-420f9d3fe78e?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A sobering examination of how AI systems have absorbed manipulative design patterns from the web, and the responsibility designers now have to counter these patterns. Critical for understanding ethical implications of AI-generated interfaces.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "The chat box isn't a UI paradigm. It's what shipped.",
+    "url": "https://uxdesign.cc/the-chat-box-isn-t-a-ui-paradigm-it-s-what-shipped-96e931d92769?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A critical analysis of why chat became the dominant AI interface not through superior design, but through speed to market, and how 2024 product updates reveal its limitations. Challenges designers to rethink what AI interfaces could actually be.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "If you thought the speed of writing code was your problem, you have a problem",
+    "url": "https://andrewmurphy.io/blog/if-you-thought-the-speed-of-writing-code-was-your-problem-you-have-bigger-problems",
+    "source": "Andrew Murphy",
+    "description": "A contrarian take on AI coding tools that exposes a fundamental misunderstanding in the industry about what actually slows software development. Valuable perspective for product teams evaluating AI productivity claims.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "The art of subtraction in a world of infinite features",
+    "url": "https://uxdesign.cc/the-art-of-subtraction-in-a-world-of-infinite-features-722a9f02ed73?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A thoughtful reflection on designing with restraint and clarity in an era of AI-powered feature generation. Explores how intentional subtraction creates meaningful user experiences, countering the tendency to ship everything possible.",
+    "read_time": "6 min"
+  }
+]
