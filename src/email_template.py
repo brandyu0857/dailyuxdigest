@@ -1,6 +1,16 @@
 def build_email(articles: list[dict], date_str: str, highlight: str = "") -> str:
     """Build the HTML email from curated articles."""
 
+    # Build highlight bullets from multiline text
+    if highlight:
+        lines = [l.strip().lstrip("•-*").strip() for l in highlight.split("\n") if l.strip()]
+        highlight_html = "".join(
+            f'<p style="font-family: -apple-system, BlinkMacSystemFont, \'Segoe UI\', Roboto, Helvetica, Arial, sans-serif; font-size: 14px; color: #555555; margin: 0 0 8px 0; line-height: 1.6;"><span style="color: #999999; margin-right: 8px;">&bull;</span>{l}</p>'
+            for l in lines
+        )
+    else:
+        highlight_html = '<p style="font-family: -apple-system, BlinkMacSystemFont, \'Segoe UI\', Roboto, Helvetica, Arial, sans-serif; font-size: 15px; color: #555555; margin: 0; line-height: 1.6;">Here\'s what\'s happening in design and product today.</p>'
+
     # Build article rows
     article_rows = ""
     for i, article in enumerate(articles, 1):
@@ -69,8 +79,8 @@ def build_email(articles: list[dict], date_str: str, highlight: str = "") -> str
           <!-- Highlight -->
           <tr>
             <td style="padding: 20px 40px 28px 40px;">
-              <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 11px; font-weight: 600; color: #999999; text-transform: uppercase; letter-spacing: 1.5px; margin: 0 0 10px 0;">Today's Themes</p>
-              <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 15px; color: #555555; margin: 0; line-height: 1.8; white-space: pre-line;">{highlight if highlight else "Here's what's happening in design and product today."}</p>
+              <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 11px; font-weight: 600; color: #999999; text-transform: uppercase; letter-spacing: 1.5px; margin: 0 0 12px 0;">Today's Themes</p>
+              {highlight_html}
             </td>
           </tr>
 
