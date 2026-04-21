@@ -30,16 +30,16 @@ Return ONLY a JSON array:
 ]"""
 
 
-HIGHLIGHTS_PROMPT = """You are the editor of "Daily UX Digest". Given today's curated articles, identify 3 common themes or trends across ALL the articles.
+HIGHLIGHTS_PROMPT = """You are the editor of "Daily UX Digest". Given today's curated articles, identify 3 common themes or trends that connect ALL the articles.
 
-Write exactly 3 short bullet points, each one a key theme shared by multiple articles. Be specific — reference actual topics, not generic statements.
+Write exactly 3 themes, each ONE short sentence (max 12 words). Be specific and punchy.
 
-Format:
-• Theme one
-• Theme two
-• Theme three
+Format (one per line, no bullets, no markdown, no bold):
+Theme one sentence here.
+Theme two sentence here.
+Theme three sentence here.
 
-Return ONLY the 3 bullet points, nothing else."""
+Return ONLY the 3 lines, nothing else."""
 
 
 FEATURED_PROMPT = """Given these curated articles for today's UX/Design/Product newsletter, pick the ONE most noteworthy article to feature.
