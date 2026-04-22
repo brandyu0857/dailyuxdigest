@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Online Grocery Ecommerce UX 2026: Expanded & Updated Research Findings",
+    "url": "https://baymard.com/blog/online-grocery-ecommerce-ux-2026",
+    "source": "Baymard Institute",
+    "description": "Baymard's latest research reveals critical usability insights for e-commerce platforms, particularly in the grocery vertical\u2014a sector facing unique UX challenges around product discovery and checkout. This updated study provides data-driven recommendations that directly impact conversion rates and user satisfaction, making it essential reading for product teams designing transactional experiences.",
+    "read_time": "10 min",
+    "featured": true
+  },
+  {
+    "title": "The AI chasm",
+    "url": "https://www.antmurphy.me/newsletter/the-ai-chasm",
+    "source": "Sidebar",
+    "description": "Ant Murphy explores why most organizations remain stuck in the early stages of AI adoption despite hype cycles, offering strategic insights for product leaders navigating the gap between experimentation and meaningful deployment. This essay cuts through the noise with practical guidance on where to focus efforts for lasting AI integration.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Thoughts and feelings around Claude Design",
+    "url": "https://samhenri.gold/blog/20260418-claude-design/",
+    "source": "Sidebar",
+    "description": "A thoughtful analysis of Claude Design as a design tool, examining how AI-assisted design systems are reshaping workflow complexity and requiring new specializations to manage them effectively. This perspective is crucial for design leaders evaluating emerging AI design platforms and their real-world implications.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Expansion artifacts",
+    "url": "https://mattstromawn.com/writing/expansion-artifacts/",
+    "source": "Sidebar",
+    "description": "Matt Strom examines how AI-generated content inflates into low-value artifacts across digital channels, from blog posts to advertising campaigns, highlighting a critical UX and content design problem in the age of generative AI. This critique matters for designers concerned with quality, authenticity, and user trust.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Not a Portfolio. A Presence.",
+    "url": "https://www.awwwards.com/not-a-portfolio-a-presence.html",
+    "source": "Awwwards - Blog",
+    "description": "This piece explores the philosophy of designing a digital presence that goes beyond traditional portfolio conventions, focusing on translating a designer's perspective into an immersive, scrollable experience. It offers inspiration and strategic thinking for designers building personal brands and distinctive web experiences.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "CSS you didn't know you could style",
+    "url": "https://uxdesign.cc/css-you-didnt-know-you-could-style-02a1ba1d5162?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This practical guide reveals lesser-known CSS styling capabilities for browser elements that typically feel untouchable, empowering designers and developers to extend customization beyond standard UI components. Perfect for designers looking to push the boundaries of web design without JavaScript dependencies.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Wiretext",
+    "url": "https://wiretext.app/",
+    "source": "Sidebar",
+    "description": "Wiretext is a creative spatial design tool that renders wireframes and diagrams entirely in Unicode box-drawing characters, offering a unique minimalist alternative to traditional design tools. This innovative approach appeals to designers interested in constraint-based design and rapid ideation with zero setup friction.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "The AI adoption spiral",
+    "url": "https://thoughtshrapnel.com/2026/04/18/the-ai-adoption-spiral.html",
+    "source": "Sidebar",
+    "description": "This article maps the psychological and behavioral journey users experience with new tools like AI platforms, providing valuable context for product teams designing AI-integrated features and understanding adoption friction points. Essential for understanding how to guide teams through the messy reality of new tool adoption.",
+    "read_time": "5 min"
+  }
+]
