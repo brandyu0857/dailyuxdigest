@@ -1,0 +1,59 @@
+[
+  {
+    "title": "The UX Designer's Nightmare: When \"Production-Ready\" Becomes A Design Deliverable",
+    "url": "https://smashingmagazine.com/2026/04/production-ready-becomes-design-deliverable-ux/",
+    "source": "Smashing Magazine",
+    "description": "As AI accelerates development cycles, designers are increasingly expected to deliver production-ready work, blurring the boundaries between design and engineering. Carrie Webster examines what this shift means for the UX profession, what skills are becoming essential, and what may be lost in the rush to move faster.",
+    "read_time": "8 min",
+    "featured": true
+  },
+  {
+    "title": "How AI may reshape elderly care",
+    "url": "https://uxdesign.cc/how-ai-may-reshape-elderly-care-c5ca4d7f32ee?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "This exploration examines how AI can be thoughtfully applied to improve elderly care experiences through considerate UX design. The article highlights the unique challenges of designing for aging populations and demonstrates why human-centered design principles are critical when deploying AI in sensitive healthcare contexts.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "What improv taught me about why innovation falls out of sync",
+    "url": "https://uxdesign.cc/what-improv-taught-me-about-why-innovation-falls-out-of-sync-1e3961fa2083?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Drawing parallels between improv comedy and product innovation, this article reveals how misaligned team adaptation causes initiatives to derail. The piece offers practical insights for design leaders on maintaining synchronization across teams when rapid change is the norm.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Working in the open",
+    "url": "https://uxdesign.cc/working-in-the-open-learnings-from-designing-open-source-technology-67a7f71bc450?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Based on three and a half years of open-source design experience, this article shares valuable lessons about transparency, community collaboration, and iterating design in public. Essential reading for designers navigating open-source projects or building products with distributed teams.",
+    "read_time": "9 min"
+  },
+  {
+    "title": "Headless everything for personal AI",
+    "url": "https://interconnected.org/home/2026/04/18/headless",
+    "source": "Interconnected",
+    "description": "This piece explores why headless APIs are becoming superior to GUI-based interfaces for AI agents and automation. Understanding this architectural shift is critical for designers building tools that AI systems will interact with directly.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "7 Common Mistakes To Avoid When Creating Claude Skills",
+    "url": "https://uxplanet.org/7-common-mistakes-to-avoid-when-creating-claude-skills-7bd99dc85e2f?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "As AI assistants become more capable, designing skills and integrations for them requires a different approach than traditional UI design. This practical guide identifies common pitfalls and offers actionable solutions for building effective AI agent extensions.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "AI as a fascist artifact",
+    "url": "https://tante.cc/2026/04/21/ai-as-a-fascist-artifact/",
+    "source": "Tante",
+    "description": "A critical examination of how AI systems perpetuate and reinforce power structures through the technical infrastructures that determine what users see and access. Essential perspective for designers concerned with ethical implications and societal impact of their work.",
+    "read_time": "10 min"
+  },
+  {
+    "title": "There are only four skills: design, technical, management and physical",
+    "url": "https://www.lesswrong.com/posts/KRLGxCaqdgrotyB8z/there-are-only-four-skills-design-technical-management-and",
+    "source": "LessWrong",
+    "description": "This framework simplifies skill acquisition and expertise development into four fundamental categories, offering designers and product leaders a mental model for identifying capability gaps and growth opportunities across disciplines.",
+    "read_time": "6 min"
+  }
+]
