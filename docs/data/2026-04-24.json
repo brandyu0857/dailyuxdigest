@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Good designers, bad websites: a proposal",
+    "url": "https://alistapart.com/article/good-designers-bad-websites-a-proposal/",
+    "source": "A List Apart: The Full Feed",
+    "description": "A thought-provoking exploration of why well-designed sites often fail on accessibility, and a call for designers to prioritize inclusive design as a foundational principle. This article challenges the gap between design quality and real-world usability.",
+    "read_time": "9 min",
+    "featured": true
+  },
+  {
+    "title": "I love AI, but it still can't design for shit",
+    "url": "https://jonnyburch.com/i-love-ai-but-it-still-cant-design-for-shit/",
+    "source": "Sidebar",
+    "description": "A critical examination of AI's current limitations in design work, arguing that without human judgment and refinement, AI-generated design lacks quality and intentionality. Essential reading for designers navigating the hype around AI tools and understanding where human expertise remains irreplaceable.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Designing with AI without losing your mind",
+    "url": "https://uxdesign.cc/designing-with-ai-without-losing-your-mind-0cfba48f6309?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A practical guide to using AI as a design collaborator while maintaining creative control and critical thinking. The author shares their experience building Thia, a real-time AI tool with vision and voice capabilities designed to keep the design thinking process human-centered.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Why productivity needs to be redefined",
+    "url": "https://www.sidjha.com/2026/02/why-productivity-needs-to-be-redefined/",
+    "source": "Sidebar",
+    "description": "A forward-thinking essay on redefining productivity in the age of AI, arguing that our current metrics are obsolete and could lead to job displacement if not reconsidered. Critical for product leaders and designers thinking about the future of work.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Early signals of AI impact",
+    "url": "https://jobsdata.ai/",
+    "source": "Sidebar",
+    "description": "A data-driven analysis of 462+ sources showing that AI adoption is accelerating while job displacement lags behind productivity gains. Provides evidence-based insights into how AI is reshaping the workforce and economy.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "The Death of Digital Product Design",
+    "url": "https://uxplanet.org/the-death-of-digital-product-design-5b185496538a?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "An exploration of how AI is transforming digital product design as a discipline, marking the end of traditional design workflows and the beginning of a new era. A must-read for understanding the profession's evolution.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "GPT image gen prompting guide",
+    "url": "https://developers.openai.com/cookbook/examples/multimodal/image-gen-models-prompting-guide",
+    "source": "Sidebar",
+    "description": "An official guide from OpenAI with battle-tested prompting patterns and best practices for generative image models, drawn from real production use cases. Essential reference material for designers and developers implementing image generation features.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Six levels of dark mode",
+    "url": "https://cssence.com/2024/six-levels-of-dark-mode/",
+    "source": "Sidebar",
+    "description": "A comprehensive technical guide exploring the spectrum of dark mode implementation approaches, from HTML-only solutions to JavaScript-enhanced versions with CSS strategies in between. Valuable for designers and developers implementing modern theme support.",
+    "read_time": "6 min"
+  }
+]
