@@ -1,0 +1,59 @@
+[
+  {
+    "title": "10 Guidelines for Designing Your Site's AI Chatbots",
+    "url": "https://www.nngroup.com/articles/ai-chatbots-design-guidelines/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "Nielsen Norman Group",
+    "description": "Evidence-based design guidelines show that effective AI chatbots must clearly communicate capabilities, provide contextual prompt suggestions, and demonstrate awareness of the user's current page. These practical principles help ensure chatbots enhance rather than frustrate user experience.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "The rulebook for designing AI experiences",
+    "url": "https://uxdesign.cc/the-rulebook-for-designing-ai-experiences-a22a50bb063c?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Major tech companies have published guidelines for responsible Human-AI interaction, but gaps remain. This critical analysis examines what these frameworks got right and where designers need to push further to create ethical, user-centered AI experiences.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Why User Panels Fail",
+    "url": "https://www.nngroup.com/articles/user-panels-fail/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "Nielsen Norman Group",
+    "description": "User research panels deteriorate over time in predictable ways, introducing bias and compromising data quality. Understanding these failure patterns is critical for maintaining rigorous, ongoing research practices that inform better design decisions.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "GPT 5.5 vs Opus 4.7: Which AI Model Is Best for Product Design?",
+    "url": "https://uxplanet.org/gpt-5-5-vs-opus-4-7-which-ai-model-is-best-for-product-design-23752483196a?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "With OpenAI's new GPT-5.5 release, designers now have multiple capable models to choose from. This comparison helps product teams and designers understand which AI models deliver the best performance for specific design workflows and use cases.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Mouth Coding",
+    "url": "https://bradfrost.com/blog/post/mouth-coding/",
+    "source": "Brad Frost's Blog",
+    "description": "An intriguing exploration of voice-driven design and development, examining how conversational interfaces are reshaping how we create digital experiences. This thought-provoking piece challenges traditional design methodologies.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Codex 3.0 by OpenAI",
+    "url": "https://www.producthunt.com/products/codex-3-0-by-openai",
+    "source": "Product Hunt",
+    "description": "OpenAI's latest Codex iteration now handles building, testing, and debugging on autopilot, significantly advancing AI-assisted development. This represents a major leap in automation capabilities that will impact product teams' workflows and design-to-development pipelines.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Onboarding0",
+    "url": "https://www.producthunt.com/products/onboarding0",
+    "source": "Product Hunt",
+    "description": "This tool transforms company knowledge into AI-guided onboarding experiences, addressing a critical friction point for user adoption. Smart onboarding design directly impacts user retention and product success, making this innovation particularly relevant for product leaders.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "I don't want a screenshot of your Claude conversation",
+    "url": "https://daverupert.com/2026/04/claude-no/",
+    "source": "Dave Rupert's Blog",
+    "description": "A candid reflection on the proliferation of AI conversation screenshots as a communication medium and its psychological impact. This cultural observation raises important questions about how we document, share, and validate work in the AI era.",
+    "read_time": "4 min"
+  }
+]

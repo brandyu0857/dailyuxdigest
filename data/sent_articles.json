@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://webaim.org/projects/million/",
-    "date": "2026-04-17"
-  },
-  {
-    "url": "https://www.smashingmagazine.com/2026/04/legacy-systems/",
-    "date": "2026-04-17"
-  },
-  {
-    "url": "https://uxdesign.cc/autopilot-agentic-ai-and-the-dangers-of-imperfect-metaphors-d94e96575153",
-    "date": "2026-04-17"
-  },
-  {
-    "url": "https://daverupert.com/2026/04/more-talk-less-grok/",
-    "date": "2026-04-17"
-  },
-  {
-    "url": "https://uxdesign.cc/i-watched-the-manosphere-documentary-here-is-how-design-is-making-things-worse-771de2bad594",
-    "date": "2026-04-17"
-  },
-  {
-    "url": "https://www.svpg.com/build-to-learn-vs-build-to-earn/",
-    "date": "2026-04-17"
-  },
-  {
-    "url": "https://www.marginalia.nu/log/a_132_ai_bores/",
-    "date": "2026-04-17"
-  },
-  {
-    "url": "https://www.lukew.com/ff/entry.asp?2148",
-    "date": "2026-04-17"
-  },
-  {
     "url": "https://www.nngroup.com/articles/less-chat-more-answer/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
     "date": "2026-04-18"
   },
@@ -254,5 +222,37 @@
   {
     "url": "https://cssence.com/2024/six-levels-of-dark-mode/",
     "date": "2026-04-24"
+  },
+  {
+    "url": "https://www.nngroup.com/articles/ai-chatbots-design-guidelines/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "date": "2026-04-25"
+  },
+  {
+    "url": "https://uxdesign.cc/the-rulebook-for-designing-ai-experiences-a22a50bb063c?source=rss----138adf9c44c---4",
+    "date": "2026-04-25"
+  },
+  {
+    "url": "https://www.nngroup.com/articles/user-panels-fail/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "date": "2026-04-25"
+  },
+  {
+    "url": "https://uxplanet.org/gpt-5-5-vs-opus-4-7-which-ai-model-is-best-for-product-design-23752483196a?source=rss----819cc2aaeee0---4",
+    "date": "2026-04-25"
+  },
+  {
+    "url": "https://bradfrost.com/blog/post/mouth-coding/",
+    "date": "2026-04-25"
+  },
+  {
+    "url": "https://www.producthunt.com/products/codex-3-0-by-openai",
+    "date": "2026-04-25"
+  },
+  {
+    "url": "https://www.producthunt.com/products/onboarding0",
+    "date": "2026-04-25"
+  },
+  {
+    "url": "https://daverupert.com/2026/04/claude-no/",
+    "date": "2026-04-25"
   }
 ]
