@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Claude Connectors",
+    "url": "https://www.producthunt.com/products/claude-connectors",
+    "source": "Product Hunt",
+    "description": "New integration connectors for Claude extend its utility beyond isolated conversations to everyday workflows and external tools. This expands how UX professionals can integrate AI into their actual design and research processes.",
+    "read_time": "3 min",
+    "featured": true
+  },
+  {
+    "title": "Vibe Coding Myths Debunked",
+    "url": "https://uxplanet.org/vibe-coding-myths-debunked-e0ad58e47e6a?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "An in-depth exploration of vibe coding\u2014using natural language prompts with AI tools instead of traditional code\u2014and the misconceptions surrounding this emerging development approach. This practical guide helps designers and product managers understand the real capabilities and limitations of AI-assisted development, directly impacting how teams should approach rapid prototyping.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "GPT-5.5 by OpenAI",
+    "url": "https://www.producthunt.com/products/openai",
+    "source": "Product Hunt",
+    "description": "OpenAI's latest model release brings significant improvements in intuitive usability and reasoning capabilities, setting a new standard for AI tools that UX professionals rely on daily. This upgrade will reshape design workflows and AI-assisted ideation processes across the industry.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "QuickCompare by Trismik",
+    "url": "https://www.producthunt.com/products/quickcompare-by-trismik",
+    "source": "Product Hunt",
+    "description": "A practical tool that enables designers and product teams to evaluate multiple LLMs side-by-side using their own data, eliminating guesswork from AI tool selection. This addresses a critical pain point for teams deciding which AI models best fit their specific use cases and quality standards.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Grit Garden",
+    "url": "https://www.grit.garden/",
+    "source": "Sidebar",
+    "description": "A beautifully designed project that transforms the familiar Wordle gameplay experience into emotional storytelling, mapping game outcomes onto poetic narratives. This exemplifies thoughtful, human-centered design that adds meaningful layers to digital interaction.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Grok Voice Think Fast 1.0",
+    "url": "https://www.producthunt.com/products/grok-voice-think-fast-1-0",
+    "source": "Product Hunt",
+    "description": "A sophisticated voice agent now available via API, opening new possibilities for voice-first design and conversational interfaces in product experiences. This release is significant for teams exploring voice as a primary interaction modality.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Pica",
+    "url": "https://www.producthunt.com/products/pica",
+    "source": "Product Hunt",
+    "description": "A native MacOS app purpose-built for font management addresses a long-standing workflow bottleneck for designers juggling multiple typefaces and projects. This specialized tool streamlines a foundational design process that impacts typography consistency and project efficiency.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "MailCue",
+    "url": "https://www.producthunt.com/products/mailcue-realistic-email-testing-server",
+    "source": "Product Hunt",
+    "description": "A production-grade email testing server that provides realistic email rendering and delivery testing, essential for designers and developers ensuring cross-client email design compatibility. This tool reduces the friction in email design validation and QA processes.",
+    "read_time": "4 min"
+  }
+]
