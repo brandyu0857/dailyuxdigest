@@ -1,0 +1,59 @@
+[
+  {
+    "title": "The right touch: mapping AI presence to user intent",
+    "url": "https://uxdesign.cc/the-right-touch-mapping-ai-presence-to-user-intent-d01fa2dee282?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "This essay explores the critical challenge of determining not just what users want, but how much AI assistance to provide in product design. It's part of a series on AI-driven systems and offers practical guidance for designers navigating the complexity of AI integration.",
+    "read_time": "7 min",
+    "featured": true
+  },
+  {
+    "title": "Rebuilding a web text editor doesn't have to be daunting",
+    "url": "https://bit.ly/side-mag3",
+    "source": "Sidebar",
+    "description": "Readymag's CTO shares lessons from rethinking architectural decisions to build a more reliable text editor, offering valuable insights into handling technical debt and design iteration in complex tools. This practical case study is invaluable for product teams rebuilding foundational features.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Google's new gradient icon design is coming to more apps",
+    "url": "https://www.theverge.com/tech/918852/googles-new-gradient-icon-design-is-coming-to-more-apps",
+    "source": "The Verge",
+    "description": "Google is expanding its new gradient-based icon design system across more apps, signaling a major shift in enterprise design language and consistency. This visual overhaul demonstrates how design systems evolve at scale and impacts millions of daily users.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "AI & alignment",
+    "url": "https://chriscoyier.net/2026/04/25/ai-alignment/",
+    "source": "Sidebar",
+    "description": "Chris Coyier explores why alignment\u2014not raw coding speed\u2014has become the true bottleneck in AI-driven product development. This reflective piece captures an important industry shift that resonates across design and engineering teams.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "A fantastic voyage, the illusion of good taste, the art of subtraction",
+    "url": "https://uxdesign.cc/a-fantastic-voyage-the-illusion-of-good-taste-the-art-of-subtraction-c5db6b1367bf?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "This curated collection explores the philosophy of design restraint and challenges assumptions about taste in a moment when traditional boundaries for designers are dissolving. It's essential reading for rethinking design principles in 2026.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "What's your attention worth?",
+    "url": "https://attentionworth.com/",
+    "source": "Sidebar",
+    "description": "An interactive tool that quantifies your personal attention value based on advertising industry metrics, making the hidden economics of digital attention visible and tangible. A thought-provoking resource for understanding user data and attention economics.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Worse on purpose",
+    "url": "https://www.worseonpurpose.com/",
+    "source": "Sidebar",
+    "description": "This project documents the corporate decisions and acquisitions that degraded beloved brands, offering case studies in how business forces shape product quality. Essential viewing for PMs and designers understanding the long-term impact of corporate change.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "The role of a new machine",
+    "url": "https://newsletter.dancohen.org/archive/the-role-of-a-new-machine/",
+    "source": "Sidebar",
+    "description": "Dan Cohen examines how historical perspectives on technology adoption can inform our understanding of today's AI revolution, grounding contemporary concerns in broader technological patterns. A valuable lens for design leaders thinking about long-term implications.",
+    "read_time": "7 min"
+  }
+]
