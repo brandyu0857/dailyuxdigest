@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Agentic Product Design",
+    "url": "https://uxplanet.org/agentic-product-design-2a8e885be535?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "Practical guide showing 5 concrete design tasks you can automate with AI today, bridging the gap between theory and implementation. Actionable for product designers looking to leverage AI as a productivity multiplier without outsourcing strategic thinking.",
+    "read_time": "5 min",
+    "featured": true
+  },
+  {
+    "title": "Staff designers aren't about shipping the best work. That's the point.",
+    "url": "https://uxdesign.cc/staff-designers-arent-about-shipping-the-best-work-that-s-the-point-974d7bc14f06?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Based on portfolio rewrites for 7 Staff/Principal designers, this article reframes what success means at senior design levels\u2014shifting focus from individual outputs to organizational impact and mentorship. Essential reading for designers aspiring to leadership roles and understanding career progression beyond IC design.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "The forgotten conversation problem in AI chat",
+    "url": "https://uxdesign.cc/the-forgotten-conversation-problem-in-ai-chat-4d3d0c3ea525?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A founder shares firsthand insights into a critical UX flaw in AI chat systems: structural recall failures that aren't solved by incremental improvements. This deep dive reveals why messaging-app architectures fail for knowledge work and has implications for designing next-gen AI products.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "The \"Bug-Free\" Workforce: How AI Efficiency Is Subtly Disrupting The Interactions That Build Strong Teams",
+    "url": "https://smashingmagazine.com/2026/04/bug-free-workforce-ai-disrupting-teams/",
+    "source": "Smashing Magazine",
+    "description": "This thought-provoking article explores the hidden cost of AI efficiency\u2014eliminating informal help-seeking that builds trust, belonging, and innovation in teams. Critical perspective on how automation can inadvertently damage the social fabric that makes organizations thrive.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Build To Learn FAQ",
+    "url": "https://www.svpg.com/build-to-learn-faq/",
+    "source": "Silicon Valley Product Group",
+    "description": "A comprehensive FAQ clarifying the distinction between building to learn (product discovery) and building to ship in the AI era. Provides product leaders with frameworks to navigate when to invest in exploration versus execution.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "A11Y.md",
+    "url": "https://github.com/fecarrico/A11Y.md",
+    "source": "Sidebar",
+    "description": "A practical, enforceable context system for building accessible software by default\u2014designed for both human developers and AI tools with WCAG-aligned rules. This addresses the growing need to embed accessibility into AI-assisted design and development workflows.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Do I belong in tech anymore?",
+    "url": "https://ky.fyi/posts/ai-burnout",
+    "source": "Sidebar",
+    "description": "A candid personal essay exploring AI burnout, career identity loss, and the changing landscape of tech work. Resonates deeply with designers and builders questioning their value as AI tools reshape skill requirements and industry expectations.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "On the right tool for the job",
+    "url": "https://karlkoch.me/writing/on-the-right-tool-for-the-job",
+    "source": "Sidebar",
+    "description": "A refreshing take on tool selection that prioritizes project requirements over personal preferences or trends\u2014increasingly important as designers face pressure to adopt AI tools indiscriminately. Encourages intentional decision-making in an era of tool proliferation.",
+    "read_time": "5 min"
+  }
+]
