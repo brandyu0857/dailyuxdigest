@@ -1,0 +1,59 @@
+[
+  {
+    "title": "10 UI patterns that won't survive the AI shift",
+    "url": "https://uxdesign.cc/10-ui-patterns-that-wont-survive-the-ai-shift-002cb9b853ae?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Explores which established UI patterns are becoming obsolete as AI transforms how users interact with products, backed by real-world product examples. This is essential reading for designers planning future-proof interfaces and understanding how AI fundamentally changes interaction design.",
+    "read_time": "7 min",
+    "featured": true
+  },
+  {
+    "title": "The accessibility problem isn't design. It's engineering.",
+    "url": "https://gbbns.co/journal/accessibility-problem-isnt-design/",
+    "source": "Sidebar",
+    "description": "Reveals how full-stack hiring practices, AI-generated code, and compliance-first approaches have created a hidden accessibility crisis in modern development. This challenges designers to recognize systemic engineering issues that no amount of good design can fix alone.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "What is AI really costing the planet?",
+    "url": "https://uxdesign.cc/what-is-ai-really-costing-the-planet-ec14be648d65?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Examines the hidden environmental toll behind every AI interaction, revealing the massive energy consumption and carbon footprint masked by seamless user experiences. Critical for design leaders considering the true cost of AI-powered products and their responsibility in sustainability.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "AI and Design System",
+    "url": "https://uxplanet.org/ai-and-design-system-3dab36a5cc50?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "Provides practical guidance on optimizing Figma design systems specifically for AI code generation tools like Claude Code, enabling better handoff between design and development. Essential for teams modernizing their design workflows to leverage AI capabilities effectively.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Scroll-driven animations",
+    "url": "https://www.joshwcomeau.com/animation/scroll-driven-animations/",
+    "source": "Sidebar",
+    "description": "Deep dive into the new Animation Timeline API that enables sophisticated scroll-linked animations without JavaScript, opening new creative possibilities for designers and developers. A technical guide for implementing modern, performant scroll experiences.",
+    "read_time": "9 min"
+  },
+  {
+    "title": "Why Your Design Workflow Is Your Business Bottleneck (And What You Can Do About It)",
+    "url": "https://dribbble.com/stories/2026/04/28/why-your-design-workflow-is-your-business-bottleneck-and-what-you-can-do-about-it",
+    "source": "Courtside",
+    "description": "Identifies how inefficient design processes directly impact business velocity and product delivery, offering practical solutions to streamline workflows. Valuable for design leaders and product managers seeking to improve team productivity and reduce time-to-market.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "The interface that responds",
+    "url": "https://uxdesign.cc/the-most-dangerous-pronoun-in-design-a9fc721a685a?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Explores the philosophical and ethical implications of conversational AI interfaces, questioning how designers shape the relationship between users and machines. A thought-provoking essay for design leaders considering the deeper human impact of AI-driven interactions.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Field notes from the in-between",
+    "url": "https://permissionless.krispuckett.com/",
+    "source": "Sidebar",
+    "description": "A reflective piece on designer agency and taking action in uncertain times, exploring what happens when creatives move beyond waiting for permission. Inspiring perspective for design leaders on autonomy, initiative, and shaping the future of design practice.",
+    "read_time": "5 min"
+  }
+]
