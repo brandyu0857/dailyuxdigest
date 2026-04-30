@@ -1,0 +1,59 @@
+[
+  {
+    "title": "AI-generated UI is inaccessible by default",
+    "url": "https://frontendmasters.com/blog/ai-generated-ui-is-inaccessible-by-default/",
+    "source": "Frontend Masters",
+    "description": "An essential read for anyone using AI to generate code: AI-generated interfaces lack accessibility by default, but designers and developers can mitigate this through proper guidance and validation. This highlights a critical gap between AI efficiency and responsible design practice.",
+    "read_time": "7 min",
+    "featured": true
+  },
+  {
+    "title": "Output isn't design",
+    "url": "https://linear.app/now/output-isn-t-design",
+    "source": "Sidebar",
+    "description": "A critical perspective on the underlying assumption of AI design tools\u2014that design is merely the act of producing output. This essay challenges designers to think beyond generation and reclaim the strategic, thoughtful aspects of design that AI cannot replicate.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "designtools.fyi",
+    "url": "https://designtools.fyi/",
+    "source": "Sidebar",
+    "description": "A comprehensive comparison tool for evaluating design software across capabilities, helping designers, design engineers, and non-designers quickly identify the best tools for their specific needs. A practical resource for navigating an increasingly crowded design tool landscape.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Claude Code Best Practices",
+    "url": "https://uxplanet.org/claude-code-best-practices-57fbc3d5d09e?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "Eight actionable recommendations for effectively using Claude Code in your workflow, bridging the gap between AI capability and practical implementation. Essential guidance for designers and developers looking to integrate AI coding assistants responsibly.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Wonder",
+    "url": "https://www.producthunt.com/products/wonder-public-alpha",
+    "source": "Product Hunt",
+    "description": "An AI design agent that works directly on your canvas, representing a significant evolution in how generative tools integrate into design workflows. This positions the next frontier of AI-assisted design where agents collaborate with designers in real-time.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "154 Macs since 1983",
+    "url": "https://sheets.works/data-viz/every-mac",
+    "source": "Sidebar",
+    "description": "A beautifully executed data visualization documenting the complete history of Macintosh products over four decades. This showcases how thoughtful visual design can tell a compelling historical narrative while celebrating product evolution.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Adoptly",
+    "url": "https://www.producthunt.com/products/adoptly",
+    "source": "Product Hunt",
+    "description": "A tool addressing a critical product challenge\u2014converting feature releases into actual user adoption. This tackles the often-overlooked gap between shipping features and ensuring users understand and embrace them.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "The moat or the commons",
+    "url": "https://www.warman.life/blog/2026-04-27-the-moat-or-the-commons/",
+    "source": "Sidebar",
+    "description": "A thought-provoking analysis of American capital's bet on AI as the next monopoly, questioning whether AI will become concentrated power or shared commons. Critical perspective for design leaders considering the industry's future direction.",
+    "read_time": "8 min"
+  }
+]
