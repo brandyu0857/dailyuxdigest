@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Boost design autonomy with an information pipeline",
+    "url": "https://www.nngroup.com/articles/information-pipeline/",
+    "source": "Nielsen Norman Group",
+    "description": "Large organizations often suffer from information gaps that limit designer influence over product direction. This four-step framework shows how to build strategic information pipelines that increase design autonomy and decision-making power in complex environments.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "Designing Stable Interfaces For Streaming Content",
+    "url": "https://smashingmagazine.com/2026/05/designing-stable-interfaces-streaming-content/",
+    "source": "Smashing Magazine",
+    "description": "Streaming UIs present hidden complexity beyond their surface simplicity, requiring careful consideration of layout shifts, motion preferences, and content stability. This practical guide helps designers build robust interfaces that maintain usability as content loads and updates dynamically.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Usability, accessibility, and the human-AI paradigm",
+    "url": "https://uxdesign.cc/usability-accessibility-and-the-human-ai-paradigm-6ffda2806b56?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "As AI transforms product design, the traditional boundaries between usability and accessibility are blurring in unexpected ways. This essay explores how 'vibe coding' and AI decision-making challenge our fundamental design principles and require a reimagined approach to user experience.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Thoughtful AI Implementation for UXR Leaders",
+    "url": "https://uxdesign.cc/ai-uxr-implementation-d0e1b8a33613?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "For UX research leaders navigating AI tool adoption, this guide emphasizes vision-driven implementation over tool hype, helping teams select AI solutions aligned with their research context and goals. Learn how to be strategically skeptical while leveraging AI's genuine research capabilities.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Users own the present. You own the future.",
+    "url": "https://www.dir14.com/articles/users-own-the-present-you-own-the-future",
+    "source": "dir14",
+    "description": "User research often yields contradictory insights because users understand their current needs but lack context for future possibilities. This essay reveals why smart users give convincing wrong answers and teaches research methods that uncover latent product opportunities.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "The Importance of Native Randomness in CSS",
+    "url": "https://css-tricks.com/the-importance-of-native-randomness-in-css/",
+    "source": "CSS-Tricks",
+    "description": "CSS is gaining native random number generation functions, solving a long-requested feature for designers and developers building dynamic, generative interfaces. This technical guide explores why native randomness matters and how it simplifies design system implementations.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "A GenAI perplexed by color theory",
+    "url": "https://uxdesign.cc/a-genai-perplexed-by-color-theory-5416cbd3ef10?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Exploring AI's limitations in color theory, this experimental article demonstrates how GenAI tools like Perplexity struggle with perceptually uniform color selection despite their apparent capabilities. A revealing case study for designers relying on AI for accessible design decisions.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "On being a designer in the most interesting, exhausting moment of our careers",
+    "url": "https://medium.com/design-bootcamp/on-being-a-designer-in-the-most-interesting-exhausting-moment-of-our-careers-7284735e0927",
+    "source": "Design Bootcamp",
+    "description": "Amid rapid industry transformation, designers face pressure to move fast while maintaining craft quality\u2014a tension that demands intentional prioritization of mental clarity. This reflective essay addresses the burnout paradox of working in design's most transformative era.",
+    "read_time": "6 min"
+  }
+]
