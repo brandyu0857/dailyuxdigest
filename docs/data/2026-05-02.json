@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Selection Criteria: How to Pick Your Participants",
+    "url": "https://www.nngroup.com/articles/selection-criteria/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "NN/g",
+    "description": "A practical guide to defining rigorous participant selection criteria\u2014including inclusion, exclusion, and diversity factors\u2014that directly impact research validity and prevent costly recruitment mistakes. Essential reading for anyone conducting user research or running UX studies.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "Information Seeking in China: A Different Ecosystem, Familiar Behavior",
+    "url": "https://www.nngroup.com/articles/information-seeking-china/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "NN/g",
+    "description": "Reveals how information-seeking behavior in China\u2014driven by mobile social media and genAI\u2014parallels Western patterns, offering valuable insights for designing global products and understanding cross-cultural UX. A key read for teams building internationally.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Claude Design: Good, Bad, and Ugly",
+    "url": "https://uxplanet.org/claude-design-good-bad-and-ugly-f60d9edb4a6d?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "A critical analysis of Anthropic's new Claude Design tool, examining both its strengths and limitations in the design workflow. Timely for designers evaluating AI-assisted design tools and understanding their practical impact.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "What's !important #10: HTML-in-Canvas, Hex Maps, E-ink Optimization, and More",
+    "url": "https://css-tricks.com/whats-important-10/",
+    "source": "CSS-Tricks",
+    "description": "A curated roundup of cutting-edge web experiments including HTML-in-Canvas rendering, hexagonal analytics visualizations, and e-ink device optimization. Essential for designers and developers staying current with emerging web technologies and capabilities.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Open web vs AI: what can W3C do?",
+    "url": "https://hidde.blog/web-ai-breakout/",
+    "source": "Sidebar",
+    "description": "Explores the intersection of open web standards and AI development, discussing W3C's potential role in ensuring responsible AI integration. Critical context for designers and leaders thinking about the future of the web platform.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Troubleshooting Claude Code Skills",
+    "url": "https://uxplanet.org/troubleshooting-claude-code-skills-bf29c8383abd?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "A practical troubleshooting guide for Claude Code users experiencing issues with their AI-assisted coding skills. Helpful for designers and developers adopting AI tools to improve their workflow and productivity.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Montage",
+    "url": "https://www.producthunt.com/products/montage-3",
+    "source": "Product Hunt",
+    "description": "A new runtime framework designed specifically for building agentic user interfaces, enabling designers to create AI-driven interactions at scale. Important for product teams exploring how to integrate autonomous AI agents into user experiences.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Beauty Diagram",
+    "url": "https://www.producthunt.com/products/beauty-diagram",
+    "source": "Product Hunt",
+    "description": "A tool for creating professional, non-generic diagram visualizations\u2014solving a common pain point in design and documentation workflows. Practical for teams looking to improve presentation quality and reduce reliance on auto-generated diagrams.",
+    "read_time": "2 min"
+  }
+]
