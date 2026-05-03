@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Don't simply bolt on AI. Rethink from the ground up.",
+    "url": "https://uxdesign.cc/dont-simply-bolt-on-ai-rethink-from-the-ground-up-ae73a9093cd2?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "This essential design essay challenges the trend of retrofitting AI into existing products, arguing instead for fundamental rethinking of user experience and abstraction layers. It's critical reading for product leaders deciding how to responsibly integrate AI capabilities without overwhelming users.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "The basketball playbook for AI builder teams",
+    "url": "https://uxdesign.cc/the-basketball-playbook-for-ai-builder-teams-5ab76a91780e?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Drawing unexpected wisdom from legendary basketball coaches, this article offers novel organizational and strategic frameworks specifically designed for AI-focused product teams. It provides practical, metaphor-driven insights for structuring cross-functional collaboration in the AI era.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "How To Stop Hitting Your Claude Code Limits",
+    "url": "https://uxplanet.org/how-to-stop-hitting-your-claude-code-limits-1524b3cc79f9?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "With Claude Code adoption accelerating, this practical guide addresses a real pain point\u2014token limits and quota management. It delivers immediately actionable strategies for designers and developers building with AI tools to maximize productivity without burning through usage allowances.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Can AI make your dating life better?",
+    "url": "https://uxdesign.cc/can-ai-make-your-dating-life-better-aae6e3d26be2?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "This thoughtful exploration examines whether AI-driven optimization serves human connection or merely reduces dating to efficiency metrics. It's a compelling case study in balancing product optimization with authentic user needs and cultural values.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "The world can't keep up with AI Labs",
+    "url": "https://www.greaterwrong.com/posts/fewDbvpKMZLgGuWT2/the-world-can-t-keep-up-with-ai-labs",
+    "source": "Greater Wrong",
+    "description": "This critical analysis highlights the concerning gap between rapid AI scaling and the development of adequate safety frameworks and guardrails. It's essential context for product leaders navigating responsibility and risk in an accelerating AI landscape.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "PeekFocus",
+    "url": "https://www.producthunt.com/products/peekfocus",
+    "source": "Product Hunt",
+    "description": "A minimalist productivity tool that solves digital distraction through elegant interface design\u2014single-keystroke window focus that removes visual clutter. It demonstrates how thoughtful UX can address growing concerns about attention management and cognitive load.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "Cloud Computer by Manus",
+    "url": "https://www.producthunt.com/products/manus",
+    "source": "Product Hunt",
+    "description": "This infrastructure-as-a-service platform addresses a growing need for dedicated computing resources optimized for autonomous agents and software automation. It represents an emerging product category at the intersection of AI, cloud computing, and developer tooling.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Ara",
+    "url": "https://www.producthunt.com/products/dereference-the-100x-ide",
+    "source": "Product Hunt",
+    "description": "Positioning itself as a conversational interface for building entire businesses, Ara exemplifies the shift toward natural language as a primary input method for product creation. It signals how AI is reimagining developer experience and lowering barriers to entrepreneurship.",
+    "read_time": "3 min"
+  }
+]
