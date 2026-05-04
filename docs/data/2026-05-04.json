@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Collected consciousness, exhausting moment, UX Research with AI",
+    "url": "https://uxdesign.cc/collected-consciousness-exhausting-moment-ux-research-with-ai-3c94aef9268e?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This curated resource explores how AI is transforming UX research while examining the emotional and contextual nuances that AI still struggles to capture. Valuable for researchers balancing automation with authentic human insight.",
+    "read_time": "5 min",
+    "featured": true
+  },
+  {
+    "title": "Strong opinions, loosely held (in the age of AI)",
+    "url": "https://jeffgothelf.com/blog/strong-opinions-loosely-held-and-what-that-means-in-the-age-of-ai/",
+    "source": "Sidebar",
+    "description": "This essay explores how AI fundamentally shifts decision-making dynamics on design teams\u2014changing not just how opinions are formed, but who forms them in the first place. A critical read for design leaders navigating AI-augmented workflows and maintaining team autonomy.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "The death of design",
+    "url": "https://nathanbeck.eu/essays/death-of-design/",
+    "source": "Sidebar",
+    "description": "A provocative essay examining how automation is reshaping the designer's role from creator to curator, forcing the profession to reconsider its core value proposition. Essential perspective for designers adapting to AI-driven design systems.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Information architecture (still) matters",
+    "url": "https://saturdave.com/information-architecture-still-matters/",
+    "source": "Sidebar",
+    "description": "A timely reminder that despite design trends and AI tooling, solid information architecture remains foundational to user experience and system design. Practical insight for teams juggling new technologies with proven fundamentals.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "TUIStudio",
+    "url": "https://tui.studio/",
+    "source": "Sidebar",
+    "description": "A powerful new visual editor bringing Figma-like simplicity to terminal UI development, enabling designers to drag-and-drop components and export directly to six frameworks. Game-changing tool for bridging design and developer workflows.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Prompt to Product: A virtual AI skills week for the humans in the loop",
+    "url": "https://bit.ly/side-push2",
+    "source": "Sidebar",
+    "description": "Learn hands-on AI integration strategies from Google, Delivery Hero, and other industry leaders in this intensive virtual training week (May 18\u201322). Essential professional development for designers looking to practically leverage AI in their workflows.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "Manex",
+    "url": "https://www.producthunt.com/products/manex",
+    "source": "Product Hunt",
+    "description": "A productivity tool that transforms how teams capture and preserve institutional knowledge by storing useful answers, corrections, and context as searchable memory. Addresses a critical pain point in collaborative design and product teams.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "Flowly",
+    "url": "https://www.producthunt.com/products/flowly-6",
+    "source": "Product Hunt",
+    "description": "A native desktop AI assistant designed to integrate directly into designer and PM workflows, reducing context-switching and keeping AI assistance within arm's reach. Practical tool for exploring how AI can augment daily design work.",
+    "read_time": "2 min"
+  }
+]
