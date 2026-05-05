@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Designing, refining, and maintaining agent skills at Perplexity",
+    "url": "https://research.perplexity.ai/articles/designing-refining-and-maintaining-agent-skills-at-perplexity",
+    "source": "Perplexity Research",
+    "description": "Reveals how to architect more predictable and reliable AI agent behaviors through skill design frameworks. Directly applicable insights from a leading AI company on making agents more controllable and maintainable.",
+    "read_time": "8 min",
+    "featured": true
+  },
+  {
+    "title": "The psychological fine print of AI",
+    "url": "https://uxdesign.cc/the-psychological-fine-print-of-ai-fe419edcff73?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Explores how AI technology is creating new cognitive biases and reshaping the minds of users in ways designers haven't fully catalogued. A critical examination of the psychological implications of AI adoption that every designer needs to understand.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "When AI decides and human signs off",
+    "url": "https://uxdesign.cc/when-ai-decides-and-human-signs-off-901e42d07ba5?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Addresses the core design challenge in high-stakes AI products: maintaining human decision-making authority while leveraging AI for support. Essential guidance for teams building AI systems where trust and accountability are non-negotiable.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "The trick to designing agentic AI is learning how to think like a manager",
+    "url": "https://uxdesign.cc/the-trick-to-designing-agentic-ai-is-learning-how-to-think-like-a-manager-9945b028aac7?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Reveals that designing autonomous AI agents requires managers' principles of boundary-setting and trust-building. A paradigm shift for product teams moving beyond traditional UI patterns into agentic systems.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Pinning is not saving. Saving is not favoriting. Favoriting is not flagging.",
+    "url": "https://uxdesign.cc/pinning-is-not-saving-saving-is-not-favoriting-favoriting-is-not-flagging-c3941c444bd5?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Deep UX pattern research distinguishing between subtle but critical interaction models that users conflate. Practical guidance for designing clearer information management systems across digital products.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "The five dimensions of craft",
+    "url": "https://www.linkedin.com/pulse/five-dimensions-craft-ethan-eismann-uf3dc/",
+    "source": "LinkedIn",
+    "description": "Outlines timeless principles that distinguish products people actively use from those they emotionally connect with. Essential reading for designers seeking to elevate product quality beyond functionality.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "St. Augustine and AI's false promise",
+    "url": "https://uxdesign.cc/st-augustine-and-ais-false-promise-4f67c75b3275?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Uses ancient philosophy to deconstruct modern AI hype and expose the unrealistic promises driving product decisions. A thoughtful antidote to uncritical AI adoption that challenges designers to think more deeply about consequences.",
+    "read_time": "9 min"
+  },
+  {
+    "title": "You skipped the first question. Now you're adding AI.",
+    "url": "https://uxdesign.cc/you-skipped-the-first-question-now-youre-adding-ai-e3d70fc80e90?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Exposes how teams use AI to mask fundamental design and strategy gaps instead of solving root problems. A sobering reality check for product leaders considering AI features as shortcuts around proper discovery.",
+    "read_time": "7 min"
+  }
+]
