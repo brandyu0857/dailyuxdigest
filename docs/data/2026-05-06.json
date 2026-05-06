@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Design is the work",
+    "url": "https://design-is-the-work.figma.site/",
+    "source": "Figma",
+    "description": "A timely caution that AI tools are only valuable when teams have clarity on what they're building and why, highlighting the risk of using AI to accelerate unclear thinking. Critical perspective for organizations adopting design AI without strategic direction.",
+    "read_time": "4 min",
+    "featured": true
+  },
+  {
+    "title": "A guide to agent-native Product Management",
+    "url": "https://every.to/guides/ai-product-management-guide",
+    "source": "Every",
+    "description": "A practical step-by-step guide for product managers and leaders to leverage agentic AI capabilities in their workflows. This essential resource helps PMs understand how to integrate AI agents into product strategy and execution as AI fundamentally reshapes product development.",
+    "read_time": "10 min"
+  },
+  {
+    "title": "Why you need to protect your work more than ever",
+    "url": "https://uxdesign.cc/why-you-need-to-protect-your-work-more-than-ever-7d0ac5836540?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A candid essay from a 30-year veteran designer on the urgent need for intellectual property protection as AI scraping and creator exploitation become industry norms. This timely piece calls for systemic solutions beyond moral outrage to safeguard design work.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Rethinking The Experience Of System Tools",
+    "url": "https://smashingmagazine.com/2026/05/rethinking-experience-system-tools/",
+    "source": "Smashing Magazine",
+    "description": "An insightful exploration of how to design system tools where function cannot be invisible, requiring thoughtful UX that acknowledges human interaction as unavoidable. This article challenges designers to reconsider how operating system and infrastructure tools can deliver better user experiences.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Design from the inside",
+    "url": "https://mattstromawn.com/writing/design-from-the-inside/",
+    "source": "Sidebar",
+    "description": "A philosophical piece examining the challenge of design leadership when organizational context constantly shifts and no single source of truth exists. Essential reading for design leaders navigating ambiguity and change.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Designed a prompt end-to-end for the design process and it will make you faster",
+    "url": "https://uxplanet.org/designed-a-prompt-end-to-end-for-the-design-process-and-it-will-make-you-faster-6afbd83e1d5f?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "A practical guide featuring a thoroughly tested prompt that covers the entire design workflow from research through handoff, refined over a month of real-world testing. This actionable resource helps designers leverage AI to accelerate their process without sacrificing quality.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "The world's most complex machine",
+    "url": "https://worksinprogress.co/issue/the-worlds-most-complex-machine/",
+    "source": "Works in Progress",
+    "description": "An illuminating deep dive into ASML's dominance in extreme ultraviolet lithography and how strategic long-term bets transformed them into the critical chokepoint for advanced chip manufacturing. Valuable case study on product strategy, innovation, and market power.",
+    "read_time": "12 min"
+  },
+  {
+    "title": "Cognitive Biases",
+    "url": "https://cognitivebiasindex.com/",
+    "source": "Sidebar",
+    "description": "An interactive tool designed to help designers and decision-makers identify and mitigate systematic thinking errors that influence their judgment and choices. A practical resource for improving decision quality in design and product work.",
+    "read_time": "3 min"
+  }
+]
