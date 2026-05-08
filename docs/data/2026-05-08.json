@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Designing data-intensive applications \u2014 advice for interaction designers",
+    "url": "https://uxdesign.cc/designing-data-intensive-applications-advice-for-interaction-designers-d87ec435cb8b?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Data-driven interfaces require a fundamentally different design approach than consumer products, where tables, dashboards, and forms must represent complex multi-dimensional landscapes effectively. Essential guidance for designers entering the enterprise/analytics space.",
+    "read_time": "8 min",
+    "featured": true
+  },
+  {
+    "title": "Designing stable interfaces for streaming content",
+    "url": "https://www.smashingmagazine.com/2026/05/designing-stable-interfaces-streaming-content/",
+    "source": "Smashing Magazine",
+    "description": "While streaming UIs seem straightforward conceptually, they present significant practical challenges that most designers underestimate. This guide explores best practices for handling dynamic content, layout shifts, and state management in real-time interfaces.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "The prompt is not an interface",
+    "url": "https://uxdesign.cc/the-prompt-is-not-an-interface-41b77277681d?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "This thought-provoking essay challenges the current UX regression in AI tooling, arguing that text prompts represent a step backward from direct manipulation and visual interfaces. It's essential reading for designers concerned about the future of AI-assisted design.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "How to make Claude Code follow your design system in Figma",
+    "url": "https://uxdesign.cc/how-to-make-claude-code-follow-your-design-system-in-figma-559618cffaa9?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Claude Code can now write directly to Figma, but without proper setup, AI-generated designs will ignore your design system. This practical guide reveals four key skills to ensure AI outputs remain consistent with your established design standards.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Appearing productive in the workplace",
+    "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
+    "source": "Sidebar",
+    "description": "As AI tools produce increasingly polished work without genuine expertise, workplaces face a double-edged problem that fundamentally reshapes how we evaluate competence and output quality. This exploration reveals the hidden costs of appearance-based assessment.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Users own the present. You own the future.",
+    "url": "https://uxdesign.cc/users-own-the-present-you-own-the-future-c35e3538f966?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "This compelling research perspective reveals why users often provide misleading feedback about their current needs and how to conduct discovery that truly opens new product possibilities. A critical mindset shift for product leaders relying on user input.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "What is DESIGN.md and How To Use It",
+    "url": "https://uxplanet.org/what-is-design-md-and-how-to-use-it-70532359b311?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "AI design generators struggle with consistency, but DESIGN.md provides a structured approach to maintain coherent output across projects. This practical framework helps teams achieve predictable, on-brand results when leveraging generative design tools.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "The bottleneck was never the code",
+    "url": "https://www.thetypicalset.com/blog/thoughts-on-coding-agents",
+    "source": "The Typical Set",
+    "description": "A revealing investigation into AI coding agents reveals that implementation speed was never the real constraint\u2014strategy, design decisions, and human judgment are what actually slow projects down. Reframes how teams should evaluate AI development tools.",
+    "read_time": "6 min"
+  }
+]
