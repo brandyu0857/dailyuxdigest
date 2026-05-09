@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Designing AI Agents: 4 Lessons from China's Qwen Agent",
+    "url": "https://www.nngroup.com/articles/designing-ai-agents/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "NN/g",
+    "description": "Learn four critical design principles for AI agents based on research into Qwen's implementation: discoverability, familiar patterns, data privacy, and user control. This research-backed article provides actionable guidance for designing the next generation of AI-powered products.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "Everything I know about AI, I learned from a genie",
+    "url": "https://uxdesign.cc/everything-i-know-about-ai-i-learned-from-a-genie-e5745d22c722?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A content designer's witty exploration of AI interaction patterns through the lens of genie folklore, revealing why clear constraints and careful prompt design matter for user satisfaction. This essay offers fresh perspective on AI communication that resonates with UX practitioners.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "The left-handed rope",
+    "url": "https://uxdesign.cc/the-left-handed-rope-1875c30ad62e?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A thoughtful meditation on how small design reversals and inclusivity considerations ripple through product ecosystems in unexpected ways. This essay challenges designers to think beyond obvious accessibility features to deeper patterns.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "UX Writing: FAQs from Practitioners",
+    "url": "https://www.nngroup.com/articles/ux-writing-faqs/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "NN/g",
+    "description": "Direct answers to real UX writing challenges from practitioners who've completed advanced training, covering career development, tool selection, and industry trends. A practical resource for anyone looking to improve their copywriting craft.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Caligra c100 Developer Terminal",
+    "url": "https://www.pentagram.com/work/caligra-c100-developer-terminal",
+    "source": "Pentagram",
+    "description": "A professional case study in industrial design for hardware, showcasing how thoughtful UX extends beyond software to physical products for developers. This work demonstrates the intersection of aesthetic and functional design in specialized tools.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Using CSS corner-shape For Folded Corners",
+    "url": "https://css-tricks.com/using-css-corner-shape-for-folded-corners/",
+    "source": "CSS-Tricks",
+    "description": "A practical deep-dive into leveraging the emerging CSS corner-shape property to create elegant folded corner effects without extra markup. Essential reading for front-end designers and developers staying current with modern CSS capabilities.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Griddy icons",
+    "url": "https://griddyicons.com/",
+    "source": "Sidebar",
+    "description": "An open-source icon family with a distinctive utilitarian grid-based aesthetic, offering designers a fresh alternative to mainstream icon sets. Free and well-designed, this resource fills a gap for projects needing distinctive visual character.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "Staff.rip",
+    "url": "https://www.producthunt.com/products/staff-rip",
+    "source": "Product Hunt",
+    "description": "A developer tool that translates code changes into plain language, streamlining communication between technical and non-technical stakeholders. This solves a real workflow pain point in modern product development cycles.",
+    "read_time": "3 min"
+  }
+]

@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://www.nngroup.com/articles/information-pipeline/",
-    "date": "2026-05-01"
-  },
-  {
-    "url": "https://smashingmagazine.com/2026/05/designing-stable-interfaces-streaming-content/",
-    "date": "2026-05-01"
-  },
-  {
-    "url": "https://uxdesign.cc/usability-accessibility-and-the-human-ai-paradigm-6ffda2806b56?source=rss----138adf9c44c---4",
-    "date": "2026-05-01"
-  },
-  {
-    "url": "https://uxdesign.cc/ai-uxr-implementation-d0e1b8a33613?source=rss----138adf9c44c---4",
-    "date": "2026-05-01"
-  },
-  {
-    "url": "https://www.dir14.com/articles/users-own-the-present-you-own-the-future",
-    "date": "2026-05-01"
-  },
-  {
-    "url": "https://css-tricks.com/the-importance-of-native-randomness-in-css/",
-    "date": "2026-05-01"
-  },
-  {
-    "url": "https://uxdesign.cc/a-genai-perplexed-by-color-theory-5416cbd3ef10?source=rss----138adf9c44c---4",
-    "date": "2026-05-01"
-  },
-  {
-    "url": "https://medium.com/design-bootcamp/on-being-a-designer-in-the-most-interesting-exhausting-moment-of-our-careers-7284735e0927",
-    "date": "2026-05-01"
-  },
-  {
     "url": "https://www.nngroup.com/articles/selection-criteria/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
     "date": "2026-05-02"
   },
@@ -254,5 +222,37 @@
   {
     "url": "https://www.thetypicalset.com/blog/thoughts-on-coding-agents",
     "date": "2026-05-08"
+  },
+  {
+    "url": "https://www.nngroup.com/articles/designing-ai-agents/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "date": "2026-05-09"
+  },
+  {
+    "url": "https://uxdesign.cc/everything-i-know-about-ai-i-learned-from-a-genie-e5745d22c722?source=rss----138adf9c44c---4",
+    "date": "2026-05-09"
+  },
+  {
+    "url": "https://uxdesign.cc/the-left-handed-rope-1875c30ad62e?source=rss----138adf9c44c---4",
+    "date": "2026-05-09"
+  },
+  {
+    "url": "https://www.nngroup.com/articles/ux-writing-faqs/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "date": "2026-05-09"
+  },
+  {
+    "url": "https://www.pentagram.com/work/caligra-c100-developer-terminal",
+    "date": "2026-05-09"
+  },
+  {
+    "url": "https://css-tricks.com/using-css-corner-shape-for-folded-corners/",
+    "date": "2026-05-09"
+  },
+  {
+    "url": "https://griddyicons.com/",
+    "date": "2026-05-09"
+  },
+  {
+    "url": "https://www.producthunt.com/products/staff-rip",
+    "date": "2026-05-09"
   }
 ]
