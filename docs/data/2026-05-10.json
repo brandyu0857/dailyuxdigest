@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Adject 2.0",
+    "url": "https://www.producthunt.com/products/adject",
+    "source": "Product Hunt",
+    "description": "This AI-powered tool generates hyperrealistic product visuals, addressing a critical gap in product design and marketing workflows. For designers and product teams, this can dramatically reduce the time and cost of creating polished mockups and marketing assets.",
+    "read_time": "3 min",
+    "featured": true
+  },
+  {
+    "title": "nocal 4",
+    "url": "https://www.producthunt.com/products/nocal",
+    "source": "Product Hunt",
+    "description": "A calendar redesigned with workspace-first thinking, suggesting a fresh approach to how teams manage time and collaboration. This is particularly relevant for product managers and design leaders juggling multiple projects and stakeholder meetings.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "KodHau",
+    "url": "https://www.producthunt.com/products/kodhau-senior-context-for-ai-agents",
+    "source": "Product Hunt",
+    "description": "Solves a critical problem in AI-driven development by giving agents access to team context and decision history, preventing costly production errors. This reflects the growing need for guardrails and institutional knowledge in AI-assisted workflows.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Monid 2.0",
+    "url": "https://www.producthunt.com/products/monid",
+    "source": "Product Hunt",
+    "description": "Positioned as an 'OpenRouter for agent tools,' this platform likely simplifies integration and management of multiple AI agents in product workflows. It addresses a real pain point as teams increasingly adopt agent-based automation.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Zappy by ZapDigits",
+    "url": "https://www.producthunt.com/products/zapdigits",
+    "source": "Product Hunt",
+    "description": "An AI-powered reporting analyst that can automate data analysis and insights generation, freeing product managers and leaders from manual reporting tasks. This tool could significantly improve decision-making velocity through automated analytics.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "AgentPeek",
+    "url": "https://www.producthunt.com/products/agentpeek",
+    "source": "Product Hunt",
+    "description": "Brings Claude Code and Codex directly into your Mac notch, making AI coding assistance instantly accessible during design and development work. This positioning as an always-available tool could reshape how designers and developers collaborate with AI.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Codex in Chrome",
+    "url": "https://www.producthunt.com/products/openai",
+    "source": "Product Hunt",
+    "description": "Enables Codex to automate browser-based tasks through AI, offering designers and product teams a way to streamline repetitive workflows and testing. This browser integration makes AI automation more accessible for non-technical stakeholders.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Wordamour",
+    "url": "https://wordamour.com/",
+    "source": "Sidebar",
+    "description": "A unique consumer product that transforms personal words into printed puzzles, showcasing creative applications of personalization and print design. While niche, it demonstrates how UX thinking can enhance everyday products beyond digital interfaces.",
+    "read_time": "2 min"
+  }
+]
