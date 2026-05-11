@@ -1,0 +1,59 @@
+[
+  {
+    "title": "The organization is the bottleneck",
+    "url": "https://www.oreilly.com/radar/the-organization-is-the-bottleneck/",
+    "source": "O'Reilly",
+    "description": "While engineers adopt AI coding tools at scale and shipping velocity increases, organizations struggle to convert this speed into actual business value delivery. A critical examination of the gap between technical capability and organizational readiness.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "Discovery is the work AI gives back",
+    "url": "https://uxdesign.cc/discovery-is-the-work-ai-gives-back-d2a429b64bcc?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "McKinsey research reveals that AI's true value lies beyond productivity gains\u2014in enabling deeper discovery work that drives strategic outcomes. This challenges teams to rethink what they should build with AI, shifting focus from speed to insight generation.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "ProtoPie User Testing is here. Track every action, one workflow.",
+    "url": "https://bit.ly/side-pie3",
+    "source": "Sidebar",
+    "description": "ProtoPie launches integrated user testing capabilities that capture gestures, interaction logic, and success metrics directly within the prototyping tool. This eliminates context-switching and streamlines the feedback loop for high-fidelity prototype validation.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Implementing Slots in a Figma Library",
+    "url": "https://news.design.systems/issues/215",
+    "source": "Design Systems News",
+    "description": "A structured guide on leveraging Figma's native slots feature to build more flexible and scalable design systems. This moves beyond traditional component constraints, enabling designers to create more composable and reusable patterns.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "The unreasonable effectiveness of HTML",
+    "url": "https://thariqs.github.io/html-effectiveness/",
+    "source": "Sidebar",
+    "description": "AI agents are producing self-contained HTML files instead of markdown\u2014demonstrating that semantic, portable HTML is remarkably effective for knowledge preservation and discoverability. A compelling case study in choosing the right format for agent-generated outputs.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "How the heck does Shazam work?",
+    "url": "https://perthirtysix.com/how-the-heck-does-shazam-work",
+    "source": "Sidebar",
+    "description": "An accessible deep-dive into Shazam's audio fingerprinting technology, covering spectrograms, constellation maps, and distributed matching algorithms. Essential reading for designers interested in how modern pattern recognition powers intuitive user experiences.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Checklist for Creating Effective Claude Code Skills",
+    "url": "https://uxplanet.org/checklist-for-creating-effective-claude-code-skills-07196734340e?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "A practical 20-point checklist for designing AI agent skills that actually work. Useful for product teams integrating AI capabilities and looking to optimize interaction patterns and reliability.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Bruin",
+    "url": "https://www.producthunt.com/products/bruin",
+    "source": "Product Hunt",
+    "description": "An AI data agent designed for team collaboration, bringing autonomous data exploration and analysis into workflows alongside human decision-makers. Represents an emerging category of agent tools that extend organizational capability rather than just automating tasks.",
+    "read_time": "2 min"
+  }
+]
