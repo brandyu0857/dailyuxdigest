@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Prompt is not interface, UI patterns that won't survive, how to make Claude follow your design system",
+    "url": "https://uxdesign.cc/prompt-is-not-interface-ui-patterns-that-wont-survive-how-to-make-claude-follow-your-design-0ce6ac741796?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This curated resource digest tackles a critical misconception: treating prompts as UX interfaces is a design anti-pattern. It explores which UI patterns will become obsolete in AI-driven workflows and provides practical guidance for enforcing design systems when working with AI tools like Claude.",
+    "read_time": "5 min",
+    "featured": true
+  },
+  {
+    "title": "Be like water: Rethinking the design process with AI",
+    "url": "https://uxdesign.cc/be-like-water-rethinking-design-process-and-ai-experimentation-5db3c32eff7a?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "Drawing inspiration from Bruce Lee's philosophy, this essay explores how designers can maintain adaptability and intention while integrating AI into their creative workflows. It challenges the notion that AI should dictate design processes, instead advocating for a fluid approach where technology serves the designer's vision rather than constraining it.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "How I use AI to partner on design problems",
+    "url": "https://uxdesign.cc/how-i-use-ai-to-think-through-design-problems-4a484080484b?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A practical case study revealing how one designer leverages AI as a thinking partner that holds context while the designer focuses on critical decision-making. This workflow model\u2014from brainstorm through prototype\u2014offers actionable insights for designers seeking to augment rather than replace their cognitive effort.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Mockups were never the hard part",
+    "url": "https://www.lukew.com/ff/entry.asp?2152",
+    "source": "Sidebar",
+    "description": "Luke Wroblewski cuts through the AI hype to remind designers that mockup generation was never the bottleneck\u2014the real challenge lies in strategic thinking, research synthesis, and design decisions. This perspective shift is crucial for teams evaluating where AI can genuinely add value versus where human expertise remains irreplaceable.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Rethinking design with your hands in the AI world",
+    "url": "https://uxdesign.cc/rethinking-design-with-your-hands-in-the-ai-world-b8d4adf3322c?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This essay reclaims the importance of hands-on design work\u2014the iterative sketching, prototyping, and experimentation that builds design conviction\u2014in an era of automated solutions. It argues that the 'thinking hand' remains essential for injecting soul and authenticity into design that AI-generated perfection cannot match.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "All aboard the voice to text train",
+    "url": "https://bryanmanio.com/blog/all-aboard-the-voice-to-text-train/",
+    "source": "Sidebar",
+    "description": "This piece examines how large language models have democratized voice-to-text technology, fundamentally changing how users interact with digital products. The implications for accessibility and input modality design are significant as voice becomes a mainstream interface pattern rather than a niche feature.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "The boring internet",
+    "url": "https://www.terrygodier.com/the-boring-internet",
+    "source": "Sidebar",
+    "description": "A visual essay that challenges the narrative of the internet's decline, arguing instead that the underlying web persists while a commercial layer has been superficially applied on top. This perspective is valuable for designers considering the long-term sustainability and authenticity of digital experiences beyond trend cycles.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "The thinking was never just mine",
+    "url": "https://uxdesign.cc/the-thinking-was-never-just-mine-9b73cc04c837?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A philosophical meditation on design ownership and collaboration in the age of AI, questioning what 'mine' truly means when ideas are built on collective knowledge and external tools. This essay reframes the anxiety around AI creativity by suggesting that idea ownership was always about momentum and forward movement, not pure origin.",
+    "read_time": "7 min"
+  }
+]
