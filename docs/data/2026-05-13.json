@@ -1,0 +1,59 @@
+[
+  {
+    "title": "The death of the empty state in AI products",
+    "url": "https://uxdesign.cc/the-death-of-the-empty-state-in-ai-products-2026-e11439fbb688?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "This essay challenges how AI products have abandoned decades of empty-state design research in favor of simple prompt boxes, leading to significant first-session drop-off rates. A critical perspective on the UX trade-offs being made in the race to ship AI features, written from a founder's firsthand experience.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "Apps and programming: two accidental tyrannies",
+    "url": "https://andymatuschak.org/tat/",
+    "source": "Sidebar",
+    "description": "Andy Matuschak explores how coding agents and the app paradigm have created constraints that limit interface innovation and malleable software. A thought-provoking essay on the future of human-computer interaction and what we might be losing in pursuit of automation.",
+    "read_time": "12 min"
+  },
+  {
+    "title": "Three stoic principles for better web accessibility",
+    "url": "https://piccalil.li/blog/three-stoic-principles-for-better-web-accessibility/",
+    "source": "Sidebar",
+    "description": "Steve Frenzel applies stoic philosophy to web accessibility, offering practical principles applicable to both beginners and experienced practitioners. A fresh approach to accessibility that makes it feel less like compliance and more like thoughtful design.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Agentic coding is a trap",
+    "url": "https://larsfaye.com/articles/agentic-coding-is-a-trap",
+    "source": "Sidebar",
+    "description": "A critical examination of the hidden costs of relying on AI coding agents, highlighting concerns about cognitive debt and skill atrophy. Timely perspective for designers and developers considering how much to delegate to AI tools.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Claude Design vs Google Stitch",
+    "url": "https://uxplanet.org/claude-design-vs-google-stitch-5dfbae46aa79?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "A comparative analysis of two emerging AI-powered design tools attempting to bridge the gap between concept and implementation. Essential reading for understanding how the next generation of design software is evolving.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "What do you do if your best design work is a small project?",
+    "url": "https://uxdesign.cc/what-do-you-do-if-your-best-design-work-is-a-small-project-6d57e619d866?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A practical guide to translating and communicating portfolio impact using creative framing techniques. Valuable for designers navigating career growth and project visibility.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Taken",
+    "url": "https://sinceyouarrived.world/taken",
+    "source": "Sidebar",
+    "description": "An interactive web experience that reveals what browser data is exposed immediately upon visiting\u2014no login or permissions required. A powerful educational tool for understanding privacy risks in real-time.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Low cortisol solution to big problems",
+    "url": "https://uxdesign.cc/low-cortisol-solution-to-big-problems-1b71f9f35ee8?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "An essay on how slowing down and noticing small details can lead to better problem-solving and design decisions. A counterintuitive perspective on managing stress and complexity in product work.",
+    "read_time": "6 min"
+  }
+]
