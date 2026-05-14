@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Practical Interface Patterns For AI Transparency (Part 2)",
+    "url": "https://smashingmagazine.com/2026/05/practical-interface-patterns-ai-transparency/",
+    "source": "Smashing Magazine",
+    "description": "Explores why traditional loading patterns fail in agentic AI experiences and introduces interface patterns that reveal system process, status, and decision-making. Essential reading for designers building AI-driven products who need to establish user trust through transparent UX.",
+    "read_time": "8 min",
+    "featured": true
+  },
+  {
+    "title": "Can a typeface be safe?",
+    "url": "https://uxdesign.cc/can-a-typeface-be-safe-2e0720052013?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Examines how Volvo's typeface design enhances driver safety, demonstrating the intersection of typography and real-world product outcomes. A thoughtful case study showing how design choices directly impact user wellbeing.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "AI slop is killing online communities",
+    "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
+    "source": "Sidebar",
+    "description": "A critical examination of how AI-generated content threatens the sustainability and authenticity of online ecosystems. Important perspective for product leaders considering AI integration and community dynamics.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Nudges, biases & heuristics for the age of AI",
+    "url": "https://www.nudges.fyi/",
+    "source": "Sidebar",
+    "description": "An interactive reference tool with 43 field cards covering behavioral psychology, cognitive biases, and AI phenomena. A practical resource for designers and PMs making evidence-based decisions about user experience.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "When sites need to walk away",
+    "url": "https://chriscoyier.net/2026/04/28/when-sites-need-to-walk-away/",
+    "source": "Sidebar",
+    "description": "Highlights a sobering Pew Research finding that 26% of pages from 2013-2023 are no longer accessible, raising questions about digital preservation and product sustainability. A necessary conversation about long-term responsibility in design.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Human creativity benchmark",
+    "url": "https://contralabs.com/research/human-creativity-benchmark",
+    "source": "Sidebar",
+    "description": "Sets a benchmark for evaluating creative AI tools across style, tone, and taste dimensions. Critical research for understanding how to measure and guide the next generation of AI-powered design tools.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Prompting Best Practices for Claude Code",
+    "url": "https://uxplanet.org/prompting-best-practices-for-claude-code-62a914e0fca9?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "A comprehensive guide to prompt engineering techniques specifically tailored for Claude's latest model, helping designers and developers leverage AI coding tools more effectively. Practical tips for improving AI-assisted design workflows.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "3Dsvg",
+    "url": "https://3dsvg.design/",
+    "source": "Sidebar",
+    "description": "A free tool that converts SVG files into interactive 3D objects with animation and export capabilities, requiring no account or subscription. Democratizes 3D design capabilities for web designers and enables new creative possibilities.",
+    "read_time": "3 min"
+  }
+]
