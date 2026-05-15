@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Ten Data-Backed Truths Of User Experience ROI",
+    "url": "https://smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/",
+    "source": "Smashing Magazine",
+    "description": "Carrie Webster reveals ten research-backed connections between UX friction and measurable business outcomes like revenue, retention, and growth. This practical guide equips designers and PMs with concrete data to justify UX investments and prioritize optimization efforts.",
+    "read_time": "7 min",
+    "featured": true
+  },
+  {
+    "title": "How to make Claude Code follow your design system in Figma",
+    "url": "https://uxdesign.cc/how-to-make-claude-code-follow-your-design-system-in-figma-559618cffaa9",
+    "source": "UX Design",
+    "description": "A practical guide showing how to bind AI-generated code to your design system constraints so Claude's output remains consistent with your brand. Essential reading for teams adopting AI-assisted design and development workflows.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "AI made everyone a creator, not a designer",
+    "url": "https://uxdesign.cc/ai-made-everyone-a-creator-not-a-designer-e28deb6e603b",
+    "source": "UX Collective",
+    "description": "This thought-provoking essay explores how AI democratization has shifted the bottleneck from execution to taste and judgment. A critical perspective on why design craft and systems thinking remain irreplaceable in the age of generative tools.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "The one-dimensional pipe between two high-dimensional minds",
+    "url": "https://uxdesign.cc/the-one-dimensional-pipe-between-two-high-dimensional-minds-7bc81c49627e",
+    "source": "UX Collective",
+    "description": "An insightful exploration of the fundamental asymmetry in human-AI communication\u2014how prompts serve as a narrow bottleneck between human intent and AI capabilities. Challenges designers to rethink how we interact with and instruct AI systems.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Is Figma Still Relevant in the AI Design Era?",
+    "url": "https://uxplanet.org/is-figma-still-relevant-in-the-ai-design-era-2b7b3c703e7b",
+    "source": "UX Planet",
+    "description": "An urgent analysis of how AI-powered design tools are disrupting traditional workflows and forcing Figma to evolve its positioning. Critical reading for design leaders evaluating their tool stack and future-proofing their teams.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Kimi WebBridge",
+    "url": "https://www.producthunt.com/products/kimi-ai-assistant",
+    "source": "Product Hunt",
+    "description": "A new product that bridges AI agents directly to the live web, enabling real-time information access and dynamic interaction. Represents a significant shift in how AI assistants interact with real-world data and workflows.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "mia - Cursor for Product Managers",
+    "url": "https://www.producthunt.com/products/mia-8",
+    "source": "Product Hunt",
+    "description": "An AI-powered tool designed specifically for product managers to streamline workflows and decision-making. Signals the expansion of AI-specialized tools beyond engineering and design into core product strategy.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Picsart MCP - One connection for 140+ AI models",
+    "url": "https://www.producthunt.com/products/picsart",
+    "source": "Product Hunt",
+    "description": "A unified interface connecting to 140+ AI models for image and video generation, simplifying multi-tool workflows. Demonstrates the growing trend toward consolidation and abstraction in AI tooling for creative professionals.",
+    "read_time": "3 min"
+  }
+]
