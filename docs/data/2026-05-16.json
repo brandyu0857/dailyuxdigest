@@ -1,0 +1,59 @@
+[
+  {
+    "title": "What Designers Actually Struggle with on Product Teams",
+    "url": "https://www.nngroup.com/articles/designers-product-teams/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "NN/g",
+    "description": "Discover why design skills aren't the real challenge for product designers\u2014alignment, influence, and organizational navigation are the hidden struggles that hold back impact. This research-backed insights article reveals what design leaders need to focus on to truly empower their teams.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "Small by Design: The Strength of Lean Design-System Teams",
+    "url": "https://www.nngroup.com/articles/lean-design-system-teams/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "NN/g",
+    "description": "Lean design-system teams can outpace larger teams when strategically structured, moving faster while maintaining impact and scalability. This practical guide challenges the assumption that bigger design teams always deliver better results.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "AI made everyone a creator, not a designer",
+    "url": "https://uxdesign.cc/ai-made-everyone-a-creator-not-a-designer-e28deb6e603b?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "As AI democratizes design tool access, the real differentiator has shifted from execution to taste and judgment\u2014a critical insight for designers navigating an era of interface sameness. This essay explores why design sensibility, not technical skills, has become the scarcest resource.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "AI-Powered Product Design: Myths & Reality",
+    "url": "https://uxplanet.org/ai-powered-product-design-myths-reality-399c4b1ffdca?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "Cut through the hype and doom around AI in design by exploring what's actually changing in the product design process and what remains irreplaceable. This balanced analysis helps designers and leaders understand where AI adds real value versus where it oversells.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "The one-dimensional pipe between two high-dimensional minds",
+    "url": "https://uxdesign.cc/the-one-dimensional-pipe-between-two-high-dimensional-minds-7bc81c49627e?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Explore the fascinating asymmetry between human and AI communication, and why prompting has become a critical new design skill that bridges two fundamentally different kinds of intelligence. This thought piece reshapes how we think about human-AI interaction design.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Nimbus",
+    "url": "https://www.producthunt.com/products/nimbus-10",
+    "source": "Product Hunt",
+    "description": "An agentic browser powered by Claude Code UX represents a new paradigm in how AI can augment design workflows and browser-based collaboration. This tool launch signals the shift toward AI-native design environments.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "The text is not the product",
+    "url": "https://crookedtimber.org/2026/05/12/the-text-is-not-the-product/",
+    "source": "Sidebar",
+    "description": "A thought-provoking exploration of whether content itself is the product or merely a vehicle for something deeper, challenging product designers to reconsider their value proposition. Highly relevant for content-driven and AI-powered products.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Is Figma Still Relevant in the AI Design Era?",
+    "url": "https://uxplanet.org/is-figma-still-relevant-in-the-ai-design-era-2b7b3c703e7b?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "As AI-powered design tools emerge, this article examines whether traditional design platforms like Figma can adapt or if we're witnessing a fundamental shift in how teams will approach design. Essential reading for understanding the future of design infrastructure.",
+    "read_time": "7 min"
+  }
+]
