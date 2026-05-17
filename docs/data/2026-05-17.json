@@ -1,0 +1,59 @@
+[
+  {
+    "title": "The undo problem in AI products",
+    "url": "https://uxdesign.cc/the-undo-problem-in-ai-products-c90ff080de3b?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A critical examination of how AI products have overlooked fundamental UX patterns like undo, shipping branching as a retrofit instead. This firsthand account from a founder reveals essential design lessons for the AI era.",
+    "read_time": "7 min",
+    "featured": true
+  },
+  {
+    "title": "html.to.design \u2014 New Chrome extension feature",
+    "url": "https://bit.ly/side-div4",
+    "source": "Sidebar",
+    "description": "A game-changing Chrome extension that lets designers capture entire webpages and paste them directly into Figma for editing. This bridges the gap between web browsing and design tools, dramatically speeding up the design-from-reference workflow.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "How the pursuit of optimisation reshaped art, aesthetics and us",
+    "url": "https://www.wallpaper.com/art/the-aesthetics-of-optimisation",
+    "source": "Sidebar",
+    "description": "A thought-provoking exploration of how the obsession with frictionless design and optimization is influencing art, design, and culture itself. Essential reading for designers questioning what we might be losing in our pursuit of efficiency.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Defense against dishonest charts",
+    "url": "https://flowingdata.com/projects/dishonest-charts/",
+    "source": "Sidebar",
+    "description": "A practical guide to recognizing and defending against misleading data visualizations while preserving the integrity of visual storytelling. Critical literacy for anyone working with data in design or product roles.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "How to write a DESIGN.md file Claude can actually use",
+    "url": "https://uxdesign.cc/how-to-write-a-design-md-file-claude-can-actually-use-2d89d183f823?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A practical guide for documenting design systems in a way that AI tools can effectively interpret and apply. Perfect for teams looking to leverage AI in their design workflow while maintaining design consistency.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "theSVG",
+    "url": "https://thesvg.org/",
+    "source": "Sidebar",
+    "description": "An impressive open-source library of 6,000+ brand SVGs with support for npm, React, Vue, Svelte, and CLI\u2014a massive time-saver for designers and developers building with modern frameworks. Perfect for rapid prototyping and consistent icon usage.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "Opening your place to the street",
+    "url": "https://uxdesign.cc/opening-your-place-to-the-street-cf6519afefca?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A thought-provoking piece on how designers should think about opening feedback channels in the age of AI, shifting from isolated product design to participation in broader conversations. Essential for designers navigating the AI era.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "A catechism for robots",
+    "url": "https://kk.org/thetechnium/a-catechism-for-robots/",
+    "source": "Sidebar",
+    "description": "An exploration of how autonomous systems need moral frameworks beyond logic rules to function responsibly in society. Vital reading for designers and leaders building AI-driven products.",
+    "read_time": "7 min"
+  }
+]
