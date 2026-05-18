@@ -1,0 +1,59 @@
+[
+  {
+    "title": "The Hardest Part of Design Systems Was Never Components",
+    "url": "https://news.design.systems/issues/216",
+    "source": "Design Systems News",
+    "description": "This deep dive from Layerone reveals that the true challenges in building design systems extend far beyond component creation\u2014focusing on organizational, governance, and adoption complexities that most teams struggle with. Understanding these non-technical hurdles is essential for design leaders looking to build sustainable, scalable design systems.",
+    "read_time": "7 min",
+    "featured": true
+  },
+  {
+    "title": "How mobile apps are reshaping screening for cognitive decline",
+    "url": "https://uxdesign.cc/how-mobile-apps-are-reshaping-screening-for-cognitive-decline-a26391fe3ae1?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This article explores how thoughtful mobile UX design is enabling earlier detection of cognitive decline through accessible screening tools, demonstrating the real-world impact of user-centered design in healthcare. The practical design lessons learned offer valuable insights for designing sensitive, medically-focused experiences.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Two gears, one compass: designing at velocity while sustaining quality",
+    "url": "https://uxdesign.cc/two-gears-one-compass-designing-at-velocity-while-sustaining-quality-a1b6597651a9?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This strategic piece addresses the modern tension between rapid iteration and design quality by introducing an AI-augmented design practice framework built on two key mindset shifts. It's a must-read for design leaders navigating how to maintain standards while moving faster.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Should we be kind to machines (for our own sake, really)?",
+    "url": "https://uxdesign.cc/should-we-be-kind-to-machines-for-our-own-sake-really-26acf222af29?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A thought-provoking essay examining how human behavior toward AI interfaces reflects broader design ethics and shapes our own cognitive patterns and social norms. This perspective is increasingly relevant as AI agents become embedded in daily workflows.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "M1 by Montage",
+    "url": "https://www.producthunt.com/products/montage-3",
+    "source": "Product Hunt",
+    "description": "M1 introduces agentic UI that scales on demand\u2014a significant shift in how AI agents interact with users through interfaces. This represents the next frontier in AI product design, moving beyond static interfaces to dynamic, responsive agentic patterns.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Krea 2",
+    "url": "https://www.producthunt.com/products/krea",
+    "source": "Product Hunt",
+    "description": "Krea 2 advances generative design workflows with an image model specifically built for style control and moodboards, empowering designers with more granular creative control. This tool represents how AI is becoming a more sophisticated partner in the design process.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "ReactVision Studio",
+    "url": "https://www.producthunt.com/products/reactvision-studio",
+    "source": "Product Hunt",
+    "description": "ReactVision Studio enables developers to build AR/VR apps in React Native and ship directly to devices, significantly lowering barriers to immersive app development. This democratization of AR/VR tools is shaping the future of spatial design.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Raybeam",
+    "url": "https://www.producthunt.com/products/raybeam",
+    "source": "Product Hunt",
+    "description": "Raybeam reimagines screen sharing on macOS with a user-first approach, addressing long-standing friction in remote collaboration workflows. This represents thoughtful iteration on a fundamental productivity tool that impacts how distributed teams work together.",
+    "read_time": "2 min"
+  }
+]
