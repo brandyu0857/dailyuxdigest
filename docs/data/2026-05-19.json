@@ -1,0 +1,59 @@
+[
+  {
+    "title": "The waiting problem in AI products",
+    "url": "https://uxdesign.cc/the-waiting-problem-in-ai-products-e7c11fd5a825?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "Written from a founder's perspective, this article identifies a critical UX failure in AI products: the lack of feedback loops during processing, a feature that's been standard in productive computing since 1982. Understanding this gap is essential for designing better AI experiences.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "From faster pencil to AI Experience Architect: a designer's path",
+    "url": "https://uxdesign.cc/from-faster-pencil-to-ai-experience-architect-a-designers-path-4bec9856a785?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This essay explores how designers can evolve beyond AI prompting to become systems thinkers who own complex trade-offs and white space in product design. It challenges the narrative that AI will replace designers, instead positioning the next decade as requiring deeper strategic thinking and architectural ownership.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Furniture & Home Decor Quantitative UX: 3 High-Level Takeaways from 30+ Charts",
+    "url": "https://baymard.com/blog/furniture-and-home-decor-quantitative-ux-insights-2026",
+    "source": "Baymard Institute",
+    "description": "This data-driven research from Baymard reveals actionable UX insights specific to e-commerce furniture and home decor categories, backed by 30+ quantitative charts. Essential reading for designers working in retail and product discovery.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Tools the Vercel product design team actually uses",
+    "url": "https://www.hannahhearth.com/posts/tools-the-vercel-product-design-team-actually-uses",
+    "source": "Sidebar",
+    "description": "Get insider perspective on the design tools workflow at Vercel, one of the most influential product design teams in tech. This practical guide cuts through marketing hype to show what actually works for rapid, collaborative design iteration.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Be like water, The death of the empty state, AI for UX",
+    "url": "https://uxdesign.cc/be-like-water-the-death-of-the-empty-state-ai-for-ux-88654390e8ee?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This curated digest explores how AI is reshaping UX thinking, including the evolving role of empty states in AI-augmented interfaces and how designers should approach AI integration thoughtfully rather than reactively. A great weekly roundup of emerging design patterns.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Don't outsource the learning",
+    "url": "https://addyosmani.com/blog/dont-outsource-learning/",
+    "source": "Sidebar",
+    "description": "Addy Osmani's candid perspective on the dangers of letting AI handle all the work without understanding the fundamentals\u2014a crucial reminder for designers and developers that shortcuts come with hidden costs to skill development and craftsmanship.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Case study: branding & packaging for Juana",
+    "url": "https://bpando.org/2026/04/30/juana-cbd-beauty-brand-by-made-thought/",
+    "source": "Sidebar",
+    "description": "Made Thought's comprehensive branding case study for Juana showcases how thoughtful identity, typography, and packaging design create cohesive brand experiences in the competitive CBD beauty space. A masterclass in integrated visual design.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "The big M&M's color investigation you could've totally lived without",
+    "url": "https://uxdesign.cc/the-big-m-ms-color-investigation-you-could-ve-totally-lived-without-f836bd2697ec?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A witty deep dive into how M&M's uses color psychology and product tactics to influence consumer behavior, examining both the science of color perception and real-world brand controversies. Equal parts entertaining and insightful.",
+    "read_time": "6 min"
+  }
+]
