@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Most AI tools make users faster. The best AI tools make users better.",
+    "url": "https://uxdesign.cc/most-ai-tools-make-users-faster-the-best-ai-tools-make-users-better-471bac7c7f86?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This essay challenges the common narrative that AI's primary value is speed, arguing instead that transformative AI tools should elevate user capability and mastery. It's essential reading for designers and product leaders rethinking how AI features should be positioned and designed to create lasting user value beyond efficiency gains.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "What critical thinking means for senior designers (and how to apply it)",
+    "url": "https://uxdesign.cc/what-critical-thinking-means-for-senior-designers-and-how-to-apply-it-7423762b2391?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This practical guide reframes critical thinking for senior designers, moving beyond mock redesigns to strategic problem-solving and organizational impact. It provides actionable frameworks for design leaders looking to elevate their influence and work beyond tactical execution.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "How To Spot AI-Generated Design",
+    "url": "https://uxplanet.org/how-to-spot-ai-generated-design-697aaabe76c8?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "As AI-generated interfaces become increasingly sophisticated, this article reveals the common visual fingerprints and patterns that still distinguish AI-created designs. A crucial skill for modern designers to develop as they navigate AI's growing role in the design process.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "The case for catholic philosophy in ethical interface design",
+    "url": "https://uxdesign.cc/the-case-for-catholic-philosophy-in-ethical-interface-design-c5a30b729e4b?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This thought-provoking exploration connects metaphysical philosophy to ethical design practice, offering an unconventional moral framework for creating responsible AI interfaces. It's vital reading for design leaders grappling with the ethical implications of AI-driven products.",
+    "read_time": "9 min"
+  },
+  {
+    "title": "7 Claude Code Prompt Keywords to Improve AI Coding Efficiency",
+    "url": "https://uxplanet.org/7-claude-code-prompt-keywords-to-improve-ai-coding-efficiency-e6025ddebda3?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "This practical guide identifies high-leverage prompt patterns that dramatically improve Claude's code generation quality, making it immediately useful for designers and product managers collaborating with AI on technical work. It's a timely resource as AI-assisted development becomes mainstream.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Claude Haiku: The Most Underrated AI Model on the Market",
+    "url": "https://uxplanet.org/claude-haiku-the-most-underrated-ai-model-on-the-market-a83197203565?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "This article makes a compelling case for Claude Haiku in product design workflows, highlighting its cost-efficiency and performance balance that designers often overlook. Essential for teams evaluating AI tools and seeking to maximize value per dollar spent on AI integration.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "GPT-5.5 vs Gemini 3.5 Flash vs Claude Sonnet 4.6: Which Model Should You Choose for Your Task?",
+    "url": "https://uxplanet.org/gpt-5-5-vs-gemini-3-5-flash-vs-claude-sonnet-4-6-which-model-should-you-choose-for-your-task-9edb7217e40d?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "With new AI models launching monthly, this comparative analysis cuts through the noise to help designers and product managers select the right model for specific use cases. A practical reference guide for optimizing AI tool selection across different project requirements.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Runtime",
+    "url": "https://www.producthunt.com/products/runtime",
+    "source": "Product Hunt \u2014 The best new products, every day",
+    "description": "Runtime brings sandboxed AI coding agents to entire teams, democratizing AI-assisted development beyond specialized engineers. This product launch signals a major shift toward collaborative AI workspaces where designers and product teams can leverage AI agents for coding tasks.",
+    "read_time": "3 min"
+  }
+]
