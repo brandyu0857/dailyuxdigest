@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Ten data-backed truths of UX ROI",
+    "url": "https://www.smashingmagazine.com/2026/05/data-backed-truths-user-experience-roi/",
+    "source": "Smashing Magazine",
+    "description": "A data-driven exploration of how user experience directly impacts revenue, retention, and long-term business growth. Essential reading for UX professionals advocating for design investment and proving ROI to stakeholders.",
+    "read_time": "7 min",
+    "featured": true
+  },
+  {
+    "title": "Your design system might be AI-ready. Your organisation probably isn't.",
+    "url": "https://blog.murphytrueman.com/your-design-system-might-be-ai-ready/",
+    "source": "Murphy Trueman",
+    "description": "While technical infrastructure for AI-integrated design systems is advancing, organizations lack the structural and cultural readiness to effectively implement them. A critical perspective on the gap between capability and organizational maturity.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Designing the Human+AI system",
+    "url": "https://uxdesign.cc/designing-the-human-ai-system-d7f6fc8bf772?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Explores the emerging design mandate of creating seamless human-AI collaboration experiences rather than AI-only systems. Reshapes how product teams should approach modern product design.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "WebAIM: Tolerating inaccessibility",
+    "url": "https://webaim.org/blog/tolerating-inaccessibility/",
+    "source": "WebAIM",
+    "description": "Despite increased accessibility awareness and professional effort, the web has become less accessible year-over-year\u2014a sobering reality check for the design and development community. Critical analysis of why progress isn't matching expectations.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "AI UX debt: A new bottleneck",
+    "url": "https://uxdesign.cc/ai-ux-debt-a-new-bottleneck-ed91c256b86b?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Introduces the concept of AI UX debt as products shipped without complete design definition, creating new technical and user experience bottlenecks. A forward-looking framework for understanding emerging product design challenges.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "State of AI 2026 Survey Results",
+    "url": "https://2026.stateofai.dev/",
+    "source": "State of AI",
+    "description": "Insights from 7,000+ web developers on how they're integrating and using AI in their workflows, providing valuable data on adoption patterns, tool preferences, and real-world pain points.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "The workflow collision",
+    "url": "https://webframp.com/posts/the-workflow-collision/",
+    "source": "WebFramp",
+    "description": "Examines the fundamental tension between human team workflows and AI agent lifecycles\u2014a critical design consideration as organizations integrate autonomous agents into established processes.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Train your judgement",
+    "url": "https://emilkowal.ski/ui/train-your-judgement",
+    "source": "Emil Kowal",
+    "description": "A thoughtful perspective on developing design judgment and rejecting mediocrity in favor of excellence, offering practical wisdom for designers committed to meaningful work over expedient solutions.",
+    "read_time": "4 min"
+  }
+]
