@@ -1,0 +1,59 @@
+[
+  {
+    "title": "The Case for Design Disposables",
+    "url": "https://www.nngroup.com/articles/design-disposables/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "Nielsen Norman Group",
+    "description": "Learn to distinguish between rough thinking artifacts and polished deliverables\u2014a critical skill for avoiding wasted effort and sunk-cost bias. Understanding design disposables can transform how teams approach ideation and prototyping with intentionality.",
+    "read_time": "5 min",
+    "featured": true
+  },
+  {
+    "title": "Four Levels Of Customer Understanding",
+    "url": "https://smashingmagazine.com/2026/05/four-levels-customer-understanding/",
+    "source": "Smashing Magazine",
+    "description": "Discover why what users say differs from what they think, feel, and do\u2014and how to uncover hidden motivations behind user behavior. This framework helps designers move beyond surface-level observations to truly understand customer needs and drive better design decisions.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Closing the Loop: What to Do After a Design Critique Ends",
+    "url": "https://www.nngroup.com/articles/after-design-critique/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "Nielsen Norman Group",
+    "description": "Most design teams run critiques but skip the crucial follow-up phase\u2014a gap that breaks feedback culture. Discover how post-critique processes directly impact whether feedback actually influences design and builds psychological safety.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Advanced Tree Counting: Mathematical Layouts With `sibling-index()` And `sibling-count()`",
+    "url": "https://smashingmagazine.com/2026/05/mathematical-layouts-sibling-index-sibling-count/",
+    "source": "Smashing Magazine",
+    "description": "Two new CSS functions eliminate the need for complex `:nth-child()` rules and JavaScript workarounds, enabling staggered layouts that scale from 5 items to 5,000 with a single line of code. A game-changer for responsive, dynamic design systems.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Google Search is Dead. Long Live Google Search.",
+    "url": "https://uxplanet.org/google-search-is-dead-long-live-google-search-d7c67dc59be0?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "Google's shift away from traditional blue-link search results represents a fundamental UX transformation. Understanding this evolution is essential for designers building search experiences and content strategies in an AI-powered future.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "The State of CSS Centering in 2026",
+    "url": "https://css-tricks.com/the-state-of-css-centering-in-2026/",
+    "source": "CSS-Tricks",
+    "description": "Beyond just documenting solutions, this article digs into *why* different centering approaches work, building designer and developer confidence in making the right choice. Essential for anyone tired of guessing about layout techniques.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Fontastic Space",
+    "url": "https://fontastic.space/",
+    "source": "Sidebar",
+    "description": "A free tool that compares Google Fonts with anatomical overlays, metrics, and pairing scores\u2014streamlining typography decisions for designers. This resource tackles one of design's most time-consuming decisions with data-driven guidance.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Collaborative steering",
+    "url": "https://www.lukew.com/ff/entry.asp?2153",
+    "source": "Sidebar",
+    "description": "As AI tools reshape teamwork, Luke W explores how designers and teams can maintain agency and creative control in collaborative workflows. Critical thinking on preserving human-centered design in an AI-augmented future.",
+    "read_time": "4 min"
+  }
+]
