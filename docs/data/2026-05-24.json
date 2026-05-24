@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Designing how designers master AI",
+    "url": "https://uxdesign.cc/designing-how-designers-master-ai-642d8751d945?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "This essay explores how designers can truly master AI tools by bending them to their existing workflows rather than simply learning mechanics. It challenges the notion of \"correct use\" and argues that mastery is personal, divergent, and continuous\u2014essential reading for design leaders navigating AI integration.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "Dos and Don'ts for Markdown Files",
+    "url": "https://uxplanet.org/dos-and-donts-for-markdown-files-a6f870c22132?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "With markdown becoming critical infrastructure for AI systems like Claude, understanding best practices for documentation has moved from nice-to-have to essential. This practical guide covers how to structure markdown files for maximum AI compatibility and human readability.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Stack Overflow: when we stop asking",
+    "url": "https://css-tricks.com/stack-overflow-when-we-stop-asking/",
+    "source": "CSS-Tricks",
+    "description": "A thought-provoking analysis of Stack Overflow's steep decline in questions that signals a fundamental shift in how developers learn and solve problems. This reflects broader changes in the industry worth understanding for anyone involved in knowledge sharing and design culture.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Why I spent years trying to make CSS states predictable",
+    "url": "https://tenphi.me/blog/why-i-spent-years-trying-to-make-css-states-predictable/",
+    "source": "Sidebar",
+    "description": "A deep dive into how the Tasty framework addresses a fundamental pain point in modern design systems\u2014unpredictable CSS state resolution. This technical essay offers practical insights for designers and engineers building maintainable component systems.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "The old world of tech is dying and the new cannot be born",
+    "url": "https://www.baldurbjarnason.com/2026/the-old-world-of-tech-is-dying/",
+    "source": "Baldur Bjarnason",
+    "description": "A critical analysis of the tech industry's inflection point as its traditional imperial mindset crumbles under sustained social backlash. Essential context for design leaders and product managers understanding the shifting landscape and new values driving industry change.",
+    "read_time": "10 min"
+  },
+  {
+    "title": "ModelHub",
+    "url": "https://www.producthunt.com/products/modelhub",
+    "source": "Product Hunt",
+    "description": "A menu bar app that simplifies running local LLMs on Mac, addressing the growing need for on-device AI without cloud dependencies. This represents a practical tool shift for designers and developers seeking privacy-first, accessible AI workflows.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "Faby",
+    "url": "https://www.producthunt.com/products/faby",
+    "source": "Product Hunt",
+    "description": "A virtual AI coworker living directly in Slack that handles tasks autonomously\u2014exemplifying the emerging category of embedded AI agents. This signals an important shift in how teams collaborate and delegate routine work through familiar interfaces.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "Just a design list",
+    "url": "https://www.justadesignlist.com/",
+    "source": "Sidebar",
+    "description": "A slow, curated index of 814 design studios and independent practices across 54 countries offers valuable reference for designers seeking inspiration, collaboration, or context about the global design landscape. A useful resource for understanding design practice diversity.",
+    "read_time": "5 min"
+  }
+]
