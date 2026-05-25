@@ -1,0 +1,59 @@
+[
+  {
+    "title": "AI in Design Report 2026",
+    "url": "https://stateofaidesign.com/",
+    "source": "Sidebar",
+    "description": "A comprehensive report on how design teams are integrating AI across tooling, craft, and organizational structure. Essential reading for understanding industry-wide shifts in design practice and team dynamics.",
+    "read_time": "10 min",
+    "featured": true
+  },
+  {
+    "title": "The permalink problem in AI chat",
+    "url": "https://uxdesign.cc/the-permalink-problem-in-ai-chat-1f1579ec991c?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This article identifies a critical UX challenge in AI chat interfaces: conversations are addressable but messages are ephemeral, while knowledge work requires the opposite. A founder-engineer shares firsthand experience addressing a fundamental architectural mismatch that affects how teams collaborate with AI.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "You are no longer the user. You are the principal.",
+    "url": "https://uxdesign.cc/you-are-no-longer-the-user-you-are-the-principal-3a6222e0780a?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A thought-provoking analysis of how Google I/O 2026 signals a fundamental shift in user-agent relationships, where humans delegate tasks to AI systems and become principals rather than direct users. Explores the implications for UX design in an AI-first paradigm.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "The interface is no longer the product",
+    "url": "https://blog.mozilla.ai/the-interface-is-no-longer-the-product/",
+    "source": "Sidebar",
+    "description": "A pivotal observation that the actual deliverable\u2014the deck, doc, or dashboard\u2014has become the output while the interface fades into the background. This reframes how designers should think about tools and interfaces in the AI era.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Being kind to machines, the genius of Claude's branding, AI UX debt",
+    "url": "https://uxdesign.cc/being-kind-to-machines-the-genius-of-claudes-branding-ai-ux-debt-f40c616102bd?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "Examines how language patterns in human-AI interaction reveal deeper truths about design philosophy, using Claude's branding as a case study. Discusses the emerging concept of 'AI UX debt'\u2014technical debt that accumulates through poor AI interface design.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "The future of customer service is designed to make you give up",
+    "url": "https://uxdesign.cc/the-future-of-customer-service-is-designed-to-make-you-give-up-c16b8f91a4c8?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A critical examination of deceptive design patterns in customer support systems that deliberately frustrate users. This timely piece exposes dark UX patterns and their psychological impact on user behavior.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Everyone's a thought leader. Almost no one is thinking.",
+    "url": "https://bernste.in/writings/everyones-a-thought-leader-almost-no-one-is-thinking/",
+    "source": "Sidebar",
+    "description": "A sharp critique of the commodification of thought leadership, arguing that genuine thinking has become rare while thought leadership content has become cheap. Essential perspective for design leaders navigating industry discourse.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "A smaller screen needs a different story",
+    "url": "https://bit.ly/side-mag4",
+    "source": "Sidebar",
+    "description": "Readymag's marketing designer shares insights on mobile adaptation that go beyond responsive design, revealing that mobile requires fundamentally different storytelling and information architecture. Practical wisdom for designing across screen sizes strategically.",
+    "read_time": "5 min"
+  }
+]
