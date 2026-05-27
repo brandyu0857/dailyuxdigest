@@ -1,0 +1,59 @@
+[
+  {
+    "title": "The orchestration tax is you",
+    "url": "https://addyosmani.com/blog/orchestration-tax/",
+    "source": "Addy Osmani",
+    "description": "Argues that running multiple AI agents doesn't multiply your bandwidth\u2014it just fragments your attention, creating hidden cognitive costs. Important framework for teams evaluating AI agent strategies and workflow optimization.",
+    "read_time": "5 min",
+    "featured": true
+  },
+  {
+    "title": "AI and cognitive delegation: the hidden cost of AI that works too well",
+    "url": "https://uxdesign.cc/ai-and-cognitive-delegation-the-hidden-cost-of-ai-that-works-too-well-18dac6a637f5?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Explores the paradox of productivity gains from AI tools that may be eroding our critical thinking abilities, citing an MIT Media Lab study showing 47% drop in brain activity among ChatGPT users. A crucial read for designers and leaders concerned about long-term cognitive consequences of delegating thinking to AI.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Product discovery's quietest, most consequential decision",
+    "url": "https://uxdesign.cc/product-discoverys-quietest-most-consequential-decision-ea697471cf6f?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Challenges the assumption that product discovery always starts with validation, arguing the real decision is whether to begin discovery at all. Essential reading for PMs and designers looking to refine their discovery process fundamentals.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Stanford's AI Report 2026: AI isn't going anywhere. Neither are you \u2014 if you pay attention",
+    "url": "https://uxdesign.cc/stanfords-ai-report-2026-ai-isn-t-going-anywhere-neither-are-you-if-you-pay-attention-c27729b07f5b?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A pragmatic take on Stanford's latest AI research showing that the differentiator isn't avoiding AI\u2014it's mastering the tools and understanding their implications. Critical for design leaders thinking about skills and team capabilities in 2026.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "7 things that Vibe Design can't replicate",
+    "url": "https://uxdesign.cc/7-things-that-vibe-design-cant-replicate-014e3089f86e?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Breaks down the limitations of intuition-driven 'vibe design' popularized by AI-era coding practices, defending intentional, eyes-open design principles. Valuable perspective for designers concerned about maintaining rigor in AI-assisted workflows.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "The book cover as a relational object",
+    "url": "https://uxdesign.cc/the-book-cover-as-a-relational-object-288fb15deff1?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Reframes book cover design beyond aesthetics to focus on anticipating reader behavior across the entire product lifecycle, offering lessons applicable to any interface or product design. A thoughtful case study in holistic design thinking.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "What we lost in the AI chat stream",
+    "url": "https://medium.com/design-bootcamp/what-we-lost-in-the-ai-chat-stream-2f96a22a6b80",
+    "source": "Design Bootcamp",
+    "description": "Examines how AI chat interfaces promote rapid iteration over deep thinking, potentially diminishing the quality of intellectual work done with these tools. A sobering reminder about interaction design's role in shaping how we think.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "AI & XR are made for each other 3: Reality as a Multi-Layered Canvas",
+    "url": "https://uxplanet.org/ai-xr-are-made-for-each-other-3-reality-as-a-multi-layered-canvas-f96a4efc5c8e?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "Explores how AI transforms AR from static overlays into dynamic, contextual 'reality engines' that adapt to user context in real-time. Essential reading for designers exploring emerging spatial computing interfaces and future-ready design patterns.",
+    "read_time": "8 min"
+  }
+]
