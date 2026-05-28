@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Figma Agent: a first look",
+    "url": "https://www.shapes.gg/figma-agent-a-first-look/",
+    "source": "Sidebar",
+    "description": "A hands-on exploration of Figma's new integrated AI agent that can autonomously work within your design canvas, potentially transforming how designers approach repetitive tasks and ideation. This is a significant product evolution that warrants attention from anyone using Figma in their workflow.",
+    "read_time": "5 min",
+    "featured": true
+  },
+  {
+    "title": "The trust gap between AI and humans",
+    "url": "https://uxdesign.cc/the-trust-gap-between-ai-and-humans-ccea4c503702?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This essay explores how poor onboarding experiences can undermine even the most sophisticated AI products, causing users to abandon them before experiencing their full potential. It's essential reading for designers building AI-powered tools who want to bridge the critical gap between capability and user confidence.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "We haven't lost the battle for Empathy. Have we?",
+    "url": "https://uxdesign.cc/we-havent-lost-the-battle-for-empathy-have-we-af31d1226da2?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A thoughtful meditation on the importance of genuine human understanding in design, especially as AI tools proliferate and threaten to replace authentic empathy with algorithmic shortcuts. This piece challenges designers to remain committed to understanding their users before designing solutions.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Why I don't use icon fonts in Figma",
+    "url": "https://www.alicepackarddesign.com/blog/why-i-don-t-use-icon-fonts",
+    "source": "Sidebar",
+    "description": "A practical technical guide explaining why SVGs outperform icon fonts for design systems, with actionable arguments for moving away from legacy approaches. This is essential knowledge for anyone building or maintaining design systems.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "You are no longer the user. You are the principal.",
+    "url": "https://uxdesign.cc/you-are-no-longer-the-user-you-are-the-principal-3a6222e0780a",
+    "source": "Sidebar",
+    "description": "A provocative rethinking of the relationship between humans, AI agents, and digital systems that reframes our role from passive user to active principal making decisions. This philosophical shift has profound implications for how we design AI interactions and systems architecture.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "7 things that Vibe Design can't replicate",
+    "url": "https://uxdesign.cc/7-things-that-vibe-design-cant-replicate-014e3089f86e",
+    "source": "Sidebar",
+    "description": "A critical examination of the limits of trend-driven 'vibe design,' highlighting what intentional, principle-based design achieves that aesthetic-only approaches cannot. This is a timely reminder for designers tempted to prioritize vibes over substance.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Revealing Text With CSS letter-spacing",
+    "url": "https://css-tricks.com/revealing-text-with-css-letter-spacing/",
+    "source": "CSS-Tricks",
+    "description": "A practical guide to creating sophisticated text reveal animations and effects using modern CSS features like letter-spacing and pseudo-elements, useful for designers implementing interactive typography. Perfect for developers and designers looking to enhance their frontend animation toolkit.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "All the news about Ferrari's polarizing Luce EV",
+    "url": "https://www.theverge.com/transportation/938513/ferrari-luce-ev",
+    "source": "Design | The Verge",
+    "description": "An analysis of how Ferrari's new electric sedan challenges design conventions while working with renowned designer Jony Ive, revealing tensions between heritage, innovation, and market expectations. A compelling case study in balancing brand identity with forward-thinking design.",
+    "read_time": "6 min"
+  }
+]
