@@ -1,0 +1,59 @@
+[
+  {
+    "title": "What to do after a design critique ends",
+    "url": "https://www.nngroup.com/articles/after-design-critique/",
+    "source": "Nielsen Norman Group",
+    "description": "Teams invest heavily in running critiques but skip the critical follow-up step\u2014which is precisely why feedback culture breaks down. This guide reveals how proper post-critique processes create lasting design improvements.",
+    "read_time": "7 min",
+    "featured": true
+  },
+  {
+    "title": "How to help people who don't read discover new features",
+    "url": "https://uxdesign.cc/how-to-help-people-who-dont-read-discover-new-features-310f88fd76cb?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "Most feature discovery fails because teams write content no one actually reads. This practical guide reveals strategies for reaching users who skip documentation and onboarding, making feature adoption work in the real world.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Algorithmic Theming Engines: Building Self-Correcting Color Systems With `contrast-color()`",
+    "url": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/",
+    "source": "Smashing Magazine",
+    "description": "Despite years of accessibility tooling, 70% of websites still fail WCAG contrast checks. This deep dive explores how algorithmic color systems can automatically maintain accessibility standards, solving a persistent design problem at scale.",
+    "read_time": "10 min"
+  },
+  {
+    "title": "Designing for AI means designing like it's 1999",
+    "url": "https://uxdesign.cc/designing-for-ai-means-designing-like-its-1999-da9c53d24644?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "AI design requires rethinking fundamental principles from the early web: unfinished, handmade, and human-centered interfaces. This thought-provoking essay challenges modern design assumptions and offers a fresh perspective on AI-native product design.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "When everyone has AI and the company still learns nothing",
+    "url": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
+    "source": "Sidebar",
+    "description": "Simply adopting AI tools without intentional organizational learning wastes resources and competitive advantage. This sharp critique examines why AI adoption fails at the cultural level and what actually drives meaningful change.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Prompts are technical debt too",
+    "url": "https://www.seangoedecke.com/prompts-are-technical-debt-too/",
+    "source": "Sidebar",
+    "description": "Custom AI prompts accumulate maintenance burden just like code does, requiring constant refinement as models update. Learn how to minimize prompt sprawl and design systems that stay current without constant manual tweaking.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "MEMORY.md for Claude Code projects",
+    "url": "https://uxplanet.org/memory-md-for-claude-code-projects-93bc99e0551f?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "Experienced Claude Code users know context files are essential for consistent AI assistance. This practical tip explains how MEMORY.md files maintain project context and improve collaborative coding with AI agents.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Basedash: Embedded Analytics",
+    "url": "https://www.producthunt.com/products/basedash",
+    "source": "Product Hunt",
+    "description": "Bringing AI-powered analytics directly into products as an embedded experience eliminates context switching and empowers users with self-service insights. This launch represents a shift toward analytics-native product design.",
+    "read_time": "3 min"
+  }
+]
