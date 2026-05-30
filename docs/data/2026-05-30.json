@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Using RAS to Guide UX Research Resource Allocation and Strategy",
+    "url": "https://www.nngroup.com/articles/ras-research-resource-allocation/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "NN/g",
+    "description": "Learn how the RAS framework helps UX leaders shift from measuring research outputs to tracking actual business outcomes. This practical approach enables data-driven decisions about where to invest research budgets for maximum impact.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "How to Get Research Recommendations on the Roadmap",
+    "url": "https://www.nngroup.com/articles/research-recommendations-roadmap/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "NN/g",
+    "description": "Discover the strategic timing and framing needed to actually influence product roadmaps with research insights. This guide reveals how to align research findings with PM metrics and organizational constraints to drive adoption.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "How Ferrari bungled the design of its first EV",
+    "url": "https://www.theverge.com/transportation/939226/ferrari-luce-design-terrible-ev-jony-ive-apple",
+    "source": "The Verge",
+    "description": "An in-depth analysis of how Ferrari's luxury heritage and design decisions created a divisive EV that alienated both brand loyalists and newcomers. This case study illustrates the tension between innovation and brand identity in design.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "What's !important #12: Safari Testing, ::checkmark, HTML Anchor Positioning, and More",
+    "url": "https://css-tricks.com/whats-important-12/",
+    "source": "CSS-Tricks",
+    "description": "Stay updated on the latest CSS and web design innovations, from new pseudo-elements to HTML5 features that impact how designers build responsive, modern interfaces. Essential reading for designers staying current with web standards.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Claude Sonnet, Haiku and Opus in Product Design",
+    "url": "https://uxplanet.org/claude-sonnet-haiku-and-opus-in-product-design-746554169ab5?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "A practical guide to selecting the right Claude AI model for different product design and development tasks. Helps designers and PMs understand when to use lightweight vs. powerful models for optimal results and cost efficiency.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Step 3.7 Flash",
+    "url": "https://www.producthunt.com/products/step-3-5-flash",
+    "source": "Product Hunt",
+    "description": "A new flash-speed AI agent model that combines vision and action capabilities, enabling faster automation and interaction design possibilities. Represents a significant advancement in multimodal AI agents available to designers and developers.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "PromptLayer",
+    "url": "https://www.producthunt.com/products/promptlayer-2",
+    "source": "Product Hunt",
+    "description": "A unified platform for tracking, debugging, and optimizing AI requests across workflows, with built-in cost monitoring. Essential infrastructure for teams building AI-powered products who need visibility into model performance and expenses.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Drafted",
+    "url": "https://www.producthunt.com/products/drafted-4",
+    "source": "Product Hunt",
+    "description": "AI-powered home design tool that generates instant interior layouts and concepts from user input. Demonstrates how generative AI is democratizing specialized design work and creating new workflows for both professionals and consumers.",
+    "read_time": "3 min"
+  }
+]
