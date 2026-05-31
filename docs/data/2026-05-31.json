@@ -1,0 +1,59 @@
+[
+  {
+    "title": "The utopia of the family computer",
+    "url": "https://mudmapmagazine.com/the-utopia-of-the-family-computer/",
+    "source": "Sidebar",
+    "description": "A thoughtful essay exploring how shared computing spaces once shaped family dynamics and digital culture. This nostalgic yet critical perspective offers designers insights into designing for communal experiences versus individualized consumption.",
+    "read_time": "7 min",
+    "featured": true
+  },
+  {
+    "title": "Vibeocus Lens",
+    "url": "https://www.producthunt.com/products/vibeocus-lens",
+    "source": "Product Hunt",
+    "description": "A developer tool that bridges live frontend interfaces directly to AI agents, enabling seamless integration between design and AI-driven workflows. This represents a significant shift in how designers and engineers can collaborate with AI in real-time development.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Openstatus MCP Health Checker",
+    "url": "https://www.producthunt.com/products/openstatus-2",
+    "source": "Product Hunt",
+    "description": "A specialized testing tool that evaluates MCP servers as AI clients would experience them, not just basic connectivity checks. This addresses a growing need in the AI tooling ecosystem for more realistic, user-centered testing approaches.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "GPS",
+    "url": "https://www.producthunt.com/products/gps-2",
+    "source": "Product Hunt",
+    "description": "A memory layer for large language models that persistently stores repository rules and learned lessons, reducing repeated mistakes and improving AI productivity. This innovation tackles a core pain point in AI workflows: maintaining context and institutional knowledge.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "TabTasker",
+    "url": "https://www.producthunt.com/products/tabtasker",
+    "source": "Product Hunt",
+    "description": "A privacy-first toolbox that operates with zero servers, addressing growing concerns about data sovereignty in productivity tools. This represents a meaningful shift toward local-first, privacy-conscious design patterns.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Marqly 5.0",
+    "url": "https://www.producthunt.com/products/marqly",
+    "source": "Product Hunt",
+    "description": "An AI-powered bookmark manager that transforms how users organize and retrieve digital information. This tool demonstrates practical AI applications in everyday workflow optimization.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Claude Opus 4.8 Is Nothing More Than Marketing",
+    "url": "https://uxplanet.org/claude-opus-4-8-is-nothing-but-marketing-227cd518fa25?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "A critical analysis of Anthropic's latest AI model release that challenges the gap between marketing claims and actual innovation. Essential reading for product leaders evaluating AI tools and understanding realistic capability improvements.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Mechanical pencil",
+    "url": "https://mechanical-pencil.com/",
+    "source": "Sidebar",
+    "description": "An exploration of the engineering and design principles embedded in everyday tools, illustrating how thoughtful design exists in the most mundane objects. A great reminder for designers that craft and intentionality matter at every scale.",
+    "read_time": "5 min"
+  }
+]
