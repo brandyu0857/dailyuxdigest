@@ -1,0 +1,59 @@
+[
+  {
+    "title": "What Apple and Google are doing to your push notifications",
+    "url": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
+    "source": "Sidebar",
+    "description": "An eye-opening analysis of how major platforms are intercepting and reshaping user notifications through AI summarization and reordering. This has significant implications for product teams relying on push notifications for user engagement.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "The most important part of building your taste is to hand it off",
+    "url": "https://uxdesign.cc/the-most-important-part-of-building-your-taste-is-to-hand-it-off-be91aeac65d9?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This essay explores how design taste becomes truly valuable only when shared and distributed across a team, rather than kept as individual expertise. It challenges the notion of the lone design visionary and offers practical insights into building collaborative design cultures.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Default Bias: Who chose your settings?",
+    "url": "https://uxdesign.cc/default-bias-who-chose-your-settings-d2acde25551b?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A critical examination of default bias and how pre-selected options shape user behavior, regardless of their actual preferences. Understanding this cognitive bias is essential for ethical UX design and avoiding manipulative patterns.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Rethinking engineering productivity in the age of AI agents",
+    "url": "https://dropbox.tech/culture/beyond-code-generation-rethinking-engineering-productivity-in-the-age-of-ai-agents",
+    "source": "Sidebar",
+    "description": "Dropbox shares how agentic AI systems are reshaping engineering workflows beyond simple code generation, offering a glimpse into how enterprise teams are adapting to AI-driven productivity. This forward-thinking perspective is valuable for product leaders planning their AI strategy.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "AI job grief",
+    "url": "https://jackmaguire.org/blog/ai-job-grief/",
+    "source": "Sidebar",
+    "description": "A thoughtful exploration of the emotional and psychological impact of AI-driven job displacement, highlighting a blind spot in how institutions address technological disruption. Essential reading for design leaders thinking about ethical product implications.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "The register shift",
+    "url": "https://uxdesign.cc/the-register-shift-cf72fed592ed?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This piece explores the subtle design challenge of communicating with users at different levels of engagement\u2014from casual conversation to formal delegation. It reveals how tone and context shape user perception and interaction patterns.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Fast is better than slow",
+    "url": "https://dubroy.com/blog/fast-is-better-than-slow/",
+    "source": "Sidebar",
+    "description": "A reflective piece on how velocity and speed correlate with quality in technical work, drawing unexpected connections between engineering excellence and decision-making. Offers valuable perspective for understanding what separates exceptional teams from average ones.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Can VR treat addiction?",
+    "url": "https://uxdesign.cc/can-vr-treat-addiction-da8b3d4d4357?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "An in-depth exploration of VR's potential and limitations as a therapeutic tool for addiction treatment, examining real design constraints and clinical realities. This meaningful application showcases how design thinking extends beyond consumer products into healthcare and wellness.",
+    "read_time": "9 min"
+  }
+]
