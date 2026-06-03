@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Two LLM UI patterns that aren't chat",
+    "url": "https://poyo.co/note/20260525T094605/",
+    "source": "Sidebar",
+    "description": "Explores innovative UI patterns beyond the standard chat interface for AI interactions, focusing on structures that manage context and data retrieval more effectively for complex, non-linear tasks. Essential reading for designers working with LLMs who want to move beyond conversational interfaces.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "AI-created document fatigue: how I designed my way out of it",
+    "url": "https://uxdesign.cc/ai-created-document-fatigue-how-i-designed-my-way-out-of-it-1fcd4a565669?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A practical case study on addressing the unintended consequence of AI tools\u2014information overload\u2014through voice-first design and the ARC methodology. This real-world solution demonstrates how thoughtful UX can counter the paradox of AI promising efficiency while creating document fatigue.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Motion vocabulary",
+    "url": "https://animations.dev/vocabulary",
+    "source": "Sidebar",
+    "description": "A comprehensive glossary of common animation patterns and terminology, making it easier for designers and developers to communicate about motion design requirements. A practical reference tool that bridges the gap between creative vision and technical implementation.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "On frictionmaxxing and the creative virtues of inconvenience",
+    "url": "https://www.itsnicethat.com/articles/pov-friction-breeds-creativity-creative-industry-260526",
+    "source": "Sidebar",
+    "description": "A thought-provoking essay challenging the design industry's obsession with seamlessness, arguing that intentional friction and inconvenience can drive creativity and meaning. Timely perspective for designers questioning the 'frictionless' paradigm that dominates product thinking.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Self-fulfilling projects",
+    "url": "https://www.davesresearch.com/self-fulfilling-projects/",
+    "source": "Sidebar",
+    "description": "Examines projects that resist traditional clarity and specificity, exploring how ambiguity and open-endedness can paradoxically lead to meaningful outcomes. A valuable framework for understanding experimental and exploratory design work.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "GQ & Audemars Piguet: The Extraordinary Lab",
+    "url": "https://www.awwwards.com/gq-audemars-piguet-the-extraordinary-lab.html",
+    "source": "Awwwards - Blog",
+    "description": "A showcase of innovative interactive design combining real-time cinematic experiences with luxury brand storytelling through a collaboration between Cond\u00e9 Nast, GQ, and Audemars Piguet. Demonstrates cutting-edge web experience design and immersive digital brand experiences.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Composer",
+    "url": "https://www.producthunt.com/products/composer-3",
+    "source": "Product Hunt",
+    "description": "A multiplayer markdown editor designed for teams and AI agents to collaborate seamlessly, representing a new paradigm in collaborative document editing. Signals how AI-human collaboration is reshaping foundational productivity tools.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "WikiCommute",
+    "url": "https://wikicommute.vercel.app/",
+    "source": "Sidebar",
+    "description": "A clever tool that curates personalized Wikipedia reading paths based on available time, turning dead commute time into productive learning moments. An elegant example of micro-interactions and context-aware content curation.",
+    "read_time": "2 min"
+  }
+]
