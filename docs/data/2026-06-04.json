@@ -1,0 +1,59 @@
+[
+  {
+    "title": "How To Make Your Design System AI-Ready",
+    "url": "https://smashingmagazine.com/2026/06/how-make-design-system-ai-ready/",
+    "source": "Smashing Magazine",
+    "description": "A practical guide for preparing design systems to work effectively with AI-generated prototypes, covering strategies to reduce design drift, maintain context, and improve output quality. Essential reading for design leaders adapting their systems for an AI-augmented workflow.",
+    "read_time": "8 min",
+    "featured": true
+  },
+  {
+    "title": "Designing how designers master AI",
+    "url": "https://uxdesign.cc/designing-how-designers-master-ai-642d8751d945",
+    "source": "UX Design",
+    "description": "An exploration of how designers can develop personalized mastery with AI tools by bending them to their existing workflows rather than adopting rigid approaches. This essay reframes AI adoption as a continuous, divergent learning process unique to each designer, offering perspective on sustainable tool integration.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "The speed of prototyping in the age of AI",
+    "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
+    "source": "Sidebar",
+    "description": "A firsthand account of how AI has fundamentally changed the prototyping, planning, and shipping process while emphasizing the importance of maintaining hands-on design practice. Offers practical insights on balancing speed gains with meaningful design involvement.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Building for voice In, visuals out",
+    "url": "https://allenpike.com/2026/voice-in-visuals-out/",
+    "source": "Allen Pike",
+    "description": "An insightful analysis of voice-first interfaces that generate visual outputs, exploring both the potential brilliance and technical challenges\u2014particularly latency\u2014that designers must navigate. Critical perspective on an emerging interaction paradigm.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Voice is the New UI",
+    "url": "https://uxplanet.org/voice-is-the-new-ui-87e107c306d7?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "A comprehensive examination of how voice interaction is reshaping the future of user interfaces beyond traditional graphical paradigms that have dominated since the 1990s. Explores implications for designers rethinking interaction models.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Ultimate Claude Code Setup for Product Designers",
+    "url": "https://uxplanet.org/ultimate-claude-code-setup-for-product-designers-f8b2fff4ac69?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "A practical setup guide for product designers leveraging Claude Code, addressing the reality that most designers don't need deep coding knowledge to unlock AI-assisted development. Demystifies technical tools for design practitioners.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "heerich.js",
+    "url": "https://meodai.github.io/heerich/",
+    "source": "Sidebar",
+    "description": "A lightweight, zero-dependency JavaScript engine for rendering 3D voxel scenes to SVG with boolean operations and flexible camera perspectives. A valuable tool for designers and developers seeking performant 3D visualization capabilities.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Transitions.dev",
+    "url": "https://transitions.dev/",
+    "source": "Sidebar",
+    "description": "A curated collection of production-ready transitions for web applications available for immediate copy-paste integration into any project. Eliminates friction in implementing polished micro-interactions across web designs.",
+    "read_time": "2 min"
+  }
+]
