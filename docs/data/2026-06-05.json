@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Creating AI-Ready Design System: Checklist",
+    "url": "https://uxplanet.org/creating-ai-ready-design-system-checklist-547a0256ad87?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "Provides a structured 4-step process to future-proof design systems for AI integration and automation. Actionable for teams building or scaling design systems who need to prepare for AI-assisted workflows.",
+    "read_time": "5 min",
+    "featured": true
+  },
+  {
+    "title": "Design's alive and kicking. It just got some flashy new names.",
+    "url": "https://uxdesign.cc/designs-alive-and-kicking-it-just-got-some-flashy-new-names-779b4503c869?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Explores how design roles are evolving in the age of AI, addressing industry anxieties about the future of the profession. This timely piece helps designers and leaders understand emerging career paths and what skills matter most in an AI-augmented world.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Designing for care, not growth",
+    "url": "https://uxdesign.cc/designing-for-care-not-growth-274d460f968c?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Examines how design principles shift when households prioritize wellness over expansion, using the booming pet economy as a case study. This contrarian perspective challenges growth-at-all-costs mentality and offers practical insights for designing human-centered, sustainable experiences.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "The rhetorical mask of innovation",
+    "url": "https://uxdesign.cc/the-rhetorical-mask-of-innovation-12f3abcd6120?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Critically deconstructs how the word \"innovation\" is weaponized in tech to claim progress before proving it, revealing common pitfalls in product thinking. Essential reading for designers and PMs who want to move beyond buzzwords and build genuinely valuable solutions.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "The parts of your system you never wrote down",
+    "url": "https://blog.murphytrueman.com/the-parts-of-your-system-you-never-wrote-down/",
+    "source": "Sidebar",
+    "description": "Addresses the hidden, implicit design decisions that live only in team members' heads and create fragility when people leave. A practical guide to surfacing and documenting the unwritten rules that define how your design system actually works.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Our CSS isn't opinionated enough",
+    "url": "https://www.craigabbott.co.uk/blog/2026/our-css-isnt-opinionated-enough/",
+    "source": "Sidebar",
+    "description": "Argues that semantic CSS and role-based styling could inadvertently make accessibility harder to implement, offering a fresh perspective on design system constraints. Valuable for design systems leaders balancing flexibility with accessibility guardrails.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Email Accessibility Report 2026",
+    "url": "https://emailmarkup.org/en/reports/accessibility/2026/",
+    "source": "Sidebar",
+    "description": "A comprehensive technical audit of modern email senders, platforms, and clients for accessibility standards\u2014critical data for product teams designing email experiences. This research-backed report reveals real-world compliance gaps and best practices.",
+    "read_time": "9 min"
+  },
+  {
+    "title": "AI as social technology",
+    "url": "https://knightcolumbia.org/content/ai-as-social-technology",
+    "source": "Sidebar",
+    "description": "Examines AI not as a technical marvel but as a social system with governance implications, challenging utopian narratives about post-human bureaucracy. Essential thinking for design leaders building products at the intersection of technology and society.",
+    "read_time": "7 min"
+  }
+]
