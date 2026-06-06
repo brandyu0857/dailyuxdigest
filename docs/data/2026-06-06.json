@@ -1,0 +1,59 @@
+[
+  {
+    "title": "The Four Design Jobs AI Created (So Far)",
+    "url": "https://www.nngroup.com/articles/design-jobs-ai-created/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "NN/g",
+    "description": "As AI reshapes the design landscape, four distinct new roles have emerged, each requiring different skills and expertise. This breakdown helps designers understand how their careers are evolving and where AI augmentation is creating new opportunities.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "The Hidden Why: Behavioral Economics for UX",
+    "url": "https://www.nngroup.com/articles/behavioral-economics-for-ux/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "NN/g",
+    "description": "Discover how behavioral economics frameworks can reveal hidden friction points in your digital experiences and guide better design decisions. This practical guide helps UX professionals move beyond assumptions to design solutions that genuinely support user behavior.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "You're not building a product. You're running a project",
+    "url": "https://uxdesign.cc/youre-not-building-a-product-you-re-running-a-project-a8fdec68788c?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A provocative perspective on the mindset difference between product thinking and project thinking, with implications for how teams structure their work and measure success. This essay challenges conventional wisdom about sustainable product development.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Claude Code sucks at UI design",
+    "url": "https://uxplanet.org/claude-code-sucks-at-ui-design-6c83450e0090?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "A critical analysis of AI code generation's limitations in UI design, with actionable fixes to improve results. Understanding where AI falls short is essential for designers working with these tools effectively.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Google Search Profiles",
+    "url": "https://www.producthunt.com/products/google",
+    "source": "Product Hunt",
+    "description": "Google launches a new profile feature for creators and publishers to showcase their work directly in Search results, potentially reshaping how personal brands and portfolios gain visibility. This marks a significant shift in how Google surfaces creator content.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Microsoft MAI-Voice-2",
+    "url": "https://www.producthunt.com/products/mai-image-2-3",
+    "source": "Product Hunt",
+    "description": "Microsoft introduces expressive text-to-speech with voice cloning capabilities across 15 languages, representing a major leap in natural AI voice synthesis. This technology has broad implications for accessible design and personalized user experiences.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Agent Browser Shield",
+    "url": "https://www.producthunt.com/products/agent-browser-shield",
+    "source": "Product Hunt",
+    "description": "A new security solution that blocks prompt injection attacks and reduces token costs for AI browser agents, addressing critical pain points as autonomous agents become more prevalent. This emerging tool tackles both security and efficiency challenges.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Soleio \u2014 The geometry of luck",
+    "url": "https://www.tokyodesignforum.com/library/2026/soleio",
+    "source": "Sidebar",
+    "description": "The closing keynote from Tokyo Design Forum 2026 explores the intersection of design philosophy and serendipity, offering fresh perspectives on design thinking. This thought-provoking talk provides conceptual frameworks for approaching design challenges differently.",
+    "read_time": "10 min"
+  }
+]

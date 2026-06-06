@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://www.nngroup.com/articles/after-design-critique/",
-    "date": "2026-05-29"
-  },
-  {
-    "url": "https://uxdesign.cc/how-to-help-people-who-dont-read-discover-new-features-310f88fd76cb?source=rss----138adf9c44c---4",
-    "date": "2026-05-29"
-  },
-  {
-    "url": "https://smashingmagazine.com/2026/05/building-self-correcting-color-systems-contrast-color/",
-    "date": "2026-05-29"
-  },
-  {
-    "url": "https://uxdesign.cc/designing-for-ai-means-designing-like-its-1999-da9c53d24644?source=rss----138adf9c44c---4",
-    "date": "2026-05-29"
-  },
-  {
-    "url": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
-    "date": "2026-05-29"
-  },
-  {
-    "url": "https://www.seangoedecke.com/prompts-are-technical-debt-too/",
-    "date": "2026-05-29"
-  },
-  {
-    "url": "https://uxplanet.org/memory-md-for-claude-code-projects-93bc99e0551f?source=rss----819cc2aaeee0---4",
-    "date": "2026-05-29"
-  },
-  {
-    "url": "https://www.producthunt.com/products/basedash",
-    "date": "2026-05-29"
-  },
-  {
     "url": "https://www.nngroup.com/articles/ras-research-resource-allocation/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
     "date": "2026-05-30"
   },
@@ -254,5 +222,37 @@
   {
     "url": "https://knightcolumbia.org/content/ai-as-social-technology",
     "date": "2026-06-05"
+  },
+  {
+    "url": "https://www.nngroup.com/articles/design-jobs-ai-created/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "date": "2026-06-06"
+  },
+  {
+    "url": "https://www.nngroup.com/articles/behavioral-economics-for-ux/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "date": "2026-06-06"
+  },
+  {
+    "url": "https://uxdesign.cc/youre-not-building-a-product-you-re-running-a-project-a8fdec68788c?source=rss----138adf9c44c---4",
+    "date": "2026-06-06"
+  },
+  {
+    "url": "https://uxplanet.org/claude-code-sucks-at-ui-design-6c83450e0090?source=rss----819cc2aaeee0---4",
+    "date": "2026-06-06"
+  },
+  {
+    "url": "https://www.producthunt.com/products/google",
+    "date": "2026-06-06"
+  },
+  {
+    "url": "https://www.producthunt.com/products/mai-image-2-3",
+    "date": "2026-06-06"
+  },
+  {
+    "url": "https://www.producthunt.com/products/agent-browser-shield",
+    "date": "2026-06-06"
+  },
+  {
+    "url": "https://www.tokyodesignforum.com/library/2026/soleio",
+    "date": "2026-06-06"
   }
 ]
