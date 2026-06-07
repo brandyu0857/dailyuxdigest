@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Your user doesn't care about your organization chart",
+    "url": "https://uxdesign.cc/your-user-doesnt-care-about-your-organization-chart-39bdde6b3b9c?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A thought-provoking piece on how internal organizational siloes fragment the user experience and create accountability gaps when things break. It challenges design and product leaders to think beyond departmental boundaries and consider the true customer impact.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "The psychological cost of moving too fast",
+    "url": "https://uxdesign.cc/the-psychological-cost-of-moving-too-fast-867fb3830722?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This essay explores why thorough discovery and early UX work remain critical even in the age of rapid AI-driven development. It challenges the narrative that speed always wins, arguing that skipping foundational research creates hidden costs in team morale and product quality.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Navi+ Menu Builder",
+    "url": "https://www.producthunt.com/products/navi-menu-builder",
+    "source": "Product Hunt",
+    "description": "A no-code tool that enables designers and product teams to add advanced navigation components\u2014tab bars, mega menus, and more\u2014directly to websites without technical expertise. This democratizes interactive design and accelerates prototyping cycles.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "LocalClicky",
+    "url": "https://www.producthunt.com/products/localclicky",
+    "source": "Product Hunt",
+    "description": "A voice control tool that lets users command their Mac locally without cloud dependencies, offering privacy-conscious users an alternative to traditional voice assistants. This represents a growing trend in accessibility and hands-free interaction design.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "Manus Shopify Connector",
+    "url": "https://www.producthunt.com/products/manus-shopify-connector",
+    "source": "Product Hunt",
+    "description": "Allows e-commerce managers to build and manage Shopify stores conversationally through chat, reducing friction in store setup and operations. This demonstrates the practical application of conversational interfaces to simplify complex workflows.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Letterbox \u2014 Letters made of letters",
+    "url": "https://www.letterbox.sh/?text=Sidebar&font=Roboto+Mono&weight=700&style=italic&fill=13&cols=4&fc=upper&fm=lorem&bg=%23000000&fg=%23ededed",
+    "source": "Sidebar",
+    "description": "A creative typography tool that transforms text into visual letterforms, offering designers a novel way to explore typography and create eye-catching graphics. It bridges playful design experimentation with practical typography tools.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "CabinLink",
+    "url": "https://www.producthunt.com/products/cabinlink",
+    "source": "Product Hunt",
+    "description": "Generates live flight maps using cabin Wi-Fi data, creating a novel travel experience that connects passengers to real-time flight information. This innovative use case shows how data visualization can enhance everyday travel experiences.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "Gaming services by IFTTT",
+    "url": "https://www.producthunt.com/products/ifttt",
+    "source": "Product Hunt",
+    "description": "IFTTT expands its automation platform to gaming ecosystems like Steam and Dota 2, enabling players to create custom workflows and notifications. This integration demonstrates how automation tools are extending into leisure and entertainment design patterns.",
+    "read_time": "3 min"
+  }
+]
