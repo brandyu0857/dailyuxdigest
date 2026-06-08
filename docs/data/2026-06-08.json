@@ -1,0 +1,59 @@
+[
+  {
+    "title": "NASA will wear high-tech Prada long johns to the Moon",
+    "url": "https://www.theverge.com/design/945540/nasa-axiom-space-prada-lcvg-spacesuit-moon-artemis",
+    "source": "Design | The Verge",
+    "description": "NASA and Prada have collaborated on innovative thermal undergarments for Artemis astronauts, combining cutting-edge engineering with high-fashion design. This partnership demonstrates how luxury design thinking can solve critical problems in extreme environments.",
+    "read_time": "4 min",
+    "featured": true
+  },
+  {
+    "title": "We used to log off",
+    "url": "https://uxdesign.cc/we-used-to-log-off-36771c18926b?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This essay explores how digital products were intentionally designed to eliminate exits, trapping users in perpetual engagement. Understanding the psychology behind always-on design is critical for modern designers rethinking ethical product experiences and user autonomy.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "The flaw is the feature",
+    "url": "https://uxdesign.cc/the-flaw-is-the-feature-e6769c5cf5b4?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "As AI-generated perfection becomes instant and free, this article questions what polish and authenticity actually mean in design. It challenges designers to reconsider the value of imperfection and human craftsmanship in an age of machine-generated content.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Exapted for the AI Prompt",
+    "url": "https://uxdesign.cc/exapted-for-the-ai-prompt-0870f0d8d6f1?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This thought-provoking piece examines how graphic design skills are being repurposed for AI prompt engineering, revealing that design was always fundamentally about understanding and communicating with another mind. It offers insights into how designers can evolve their practice in the AI era.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "You're still archiving. Your files have already become substrate.",
+    "url": "https://uxdesign.cc/youre-still-archiving-your-files-have-already-become-substrate-ce65f088b75a?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This piece examines how files and data are being repurposed as training material for AI systems, shifting from storage artifacts to foundational infrastructure. It raises important questions about data ownership, privacy, and the second life of digital materials.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Employment expiry and the end of workplace loyalty",
+    "url": "https://uxdesign.cc/employment-expiry-and-the-end-of-workplace-loyalty-8d238865a6e9?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This essay examines the shift from permanent employment to contract-based work, exploring how companies and employees now view job relationships as temporary arrangements rather than lasting commitments. It's essential reading for design leaders managing modern teams and organizational culture.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Claude Artifact Player",
+    "url": "https://www.producthunt.com/products/claude-artifact-player",
+    "source": "Product Hunt",
+    "description": "A new tool enabling designers and developers to run Claude AI artifacts locally, reducing dependency on cloud infrastructure and offering more control over AI-generated code and designs. This addresses growing concerns about privacy and offline capability in AI-assisted workflows.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Vaani",
+    "url": "https://www.producthunt.com/products/vaani-2",
+    "source": "Product Hunt",
+    "description": "Vaani offers AI-powered lip-synced dubbing for content creators and studios, automating a traditionally labor-intensive production task. This tool is reshaping how global creators can localize content efficiently, with significant implications for accessibility and media production design.",
+    "read_time": "3 min"
+  }
+]
