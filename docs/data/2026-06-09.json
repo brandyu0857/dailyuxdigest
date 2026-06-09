@@ -1,0 +1,59 @@
+[
+  {
+    "title": "When AI builds itself",
+    "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+    "source": "Anthropic",
+    "description": "Anthropic explores the emerging frontier of recursive self-improvement in AI systems, examining both the potential and implications for the future of product development. This research-backed perspective is essential for design leaders preparing organizations for increasingly autonomous AI systems.",
+    "read_time": "8 min",
+    "featured": true
+  },
+  {
+    "title": "Your design taste isn't a feeling. It's a prediction about user behavior.",
+    "url": "https://uxdesign.cc/your-design-taste-isnt-a-feeling-it-s-a-prediction-about-user-behavior-7a4a63f5f622?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This essay reframes design taste as evidence-based prediction rather than subjective preference, drawing lessons from data visualization to help designers articulate and defend their choices. Understanding this distinction is crucial for collaborating with stakeholders and AI systems that increasingly shape product decisions.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "AI didn't replace designers\u2014it promoted them",
+    "url": "https://uxdesign.cc/ai-didnt-replace-designers-it-promoted-them-5b6d24de4e26?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "Rather than eliminating design roles, AI is elevating designers from execution-focused spec-makers to system architects who define strategy and constraints. This perspective shift is essential for designers navigating their evolving value proposition in AI-augmented workflows.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "AI design isn't ugly. It's fluent \u2014 and that's the problem.",
+    "url": "https://uxdesign.cc/ai-design-isnt-ugly-it-s-fluent-and-that-s-the-problem-131b2f4eb78c?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This critical analysis reveals why AI-generated designs like Claude Design and v0 all look identical\u2014they're optimizing for universal appeal rather than distinctive character, creating a homogenized digital landscape. Understanding this trend is vital for designers working to differentiate products in an AI-flooded market.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "The forgotten science behind self-improving companies",
+    "url": "https://uxdesign.cc/the-forgotten-science-behind-self-improving-companies-7af504269d52?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "Cybernetics\u2014the study of feedback loops and self-regulation\u2014is experiencing a resurgence as companies like Anthropic apply these principles to build adaptive systems. This research-backed framework offers a pragmatic alternative to AI hype and provides designers with a scientifically grounded approach to system thinking.",
+    "read_time": "9 min"
+  },
+  {
+    "title": "Building a general-purpose accessibility agent",
+    "url": "https://github.blog/ai-and-ml/github-copilot/building-a-general-purpose-accessibility-agent-and-what-we-learned-in-the-process/",
+    "source": "GitHub Blog",
+    "description": "GitHub shares lessons from developing an AI accessibility agent that improves digital inclusion at scale, offering practical insights into responsible AI deployment. This real-world implementation provides valuable guidance for teams integrating accessibility into AI-assisted workflows.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Loop engineering",
+    "url": "https://addyosmani.com/blog/loop-engineering/",
+    "source": "Sidebar",
+    "description": "This forward-thinking piece argues that AI proficiency isn't about prompt crafting\u2014it's about designing the feedback loops that guide AI behavior at scale. The concept offers practical wisdom for teams building AI-powered features and maintaining human oversight.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Falling in love with the build",
+    "url": "https://karlkoch.me/writing/falling-in-love-with-the-build",
+    "source": "Sidebar",
+    "description": "This essay introduces write-first design as a method to avoid premature attachment to solutions, prioritizing reasoning and strategy before implementation. The approach is especially relevant for teams collaborating with AI tools that can quickly produce implementations without sufficient strategic grounding.",
+    "read_time": "6 min"
+  }
+]
