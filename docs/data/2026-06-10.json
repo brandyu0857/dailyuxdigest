@@ -1,0 +1,59 @@
+[
+  {
+    "title": "The four design jobs AI created (so far)",
+    "url": "https://www.nngroup.com/articles/design-jobs-ai-created/",
+    "source": "Nielsen Norman Group",
+    "description": "Breaks down how 'AI design' has diverged into four distinct job categories, helping designers and leaders understand new career paths and skill requirements. A timely analysis of how the field is evolving in response to AI capabilities.",
+    "read_time": "7 min",
+    "featured": true
+  },
+  {
+    "title": "How I validated design decisions before writing production code",
+    "url": "https://slack.design/articles/how-i-validated-design-decisions-before-writing-production-code/",
+    "source": "Slack Design",
+    "description": "A practical guide from Slack's design team on generating evidence for design decisions before committing to production code. This bridges the gap between design validation and engineering implementation, offering actionable methods for reducing rework and risk.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Dieter Rams avoids computers. His ten rules still fit designing for AI.",
+    "url": "https://uxdesign.cc/dieter-rams-avoids-computers-his-ten-rules-still-fit-designing-for-ai-499229fd049e?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A thoughtful essay connecting Rams' timeless design principles\u2014restraint, honesty, and clarity\u2014to the current AI design rush. This challenges designers to resist feature bloat and maintain ethical standards in an era of rapid AI adoption.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "The old typography is new again",
+    "url": "https://elliotjaystocks.com/blog/the-old-typography-is-new-again",
+    "source": "Elliot Jay Stocks",
+    "description": "Explores how variable fonts with optical sizing axes are automating legibility across different viewports and scales, bringing precision typographic principles into dynamic, responsive design. Essential reading for designers modernizing their type systems.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "A/B testing with Claude Code",
+    "url": "https://uxplanet.org/a-b-testing-with-claude-code-3a1e56df6684?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "Demonstrates how AI coding assistants can streamline A/B testing workflows, from variant generation to analysis. A practical look at how designers can leverage AI tools to speed up experimentation without sacrificing rigor.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Liquid Glass: who gets to decide how an interface looks?",
+    "url": "https://uxdesign.cc/liquid-glass-who-gets-to-decide-how-an-interface-looks-a0abe75ae21e?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Notes from WWDC 2026 on emerging interface paradigms and the power dynamics of design governance. A timely perspective on how major platforms shape design trends and the implications for independent designers.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Strategy in the age of the machine",
+    "url": "https://uxdesign.cc/strategy-in-the-age-of-the-machine-48ac5b0e5788?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A reflective piece that moves beyond productivity metrics to explore imagination and strategic thinking in an AI-driven world. Addresses the psychological and creative challenges designers face when AI tools become ubiquitous.",
+    "read_time": "9 min"
+  },
+  {
+    "title": "Should you really give AI your whole digital life?",
+    "url": "https://uxdesign.cc/should-you-really-give-ai-your-whole-digital-life-9b0c55df46e2?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A critical examination of privacy and consent in AI-powered personal assistants that synthesize your digital footprint. Important reading for designers building trust-dependent products and thinking through ethical implications of data aggregation.",
+    "read_time": "8 min"
+  }
+]
