@@ -1,0 +1,59 @@
+[
+  {
+    "title": "The Benefits Of Cognitive Inclusion In UX Research",
+    "url": "https://smashingmagazine.com/2026/06/benefits-cognitive-inclusion-ux-research/",
+    "source": "Smashing Magazine",
+    "description": "This research study reveals how participants with cognitive disabilities offer unique, often overlooked insights that can significantly improve UX design for everyone. Learn practical recommendations that make products more inclusive and accessible without compromising usability.",
+    "read_time": "7 min",
+    "featured": true
+  },
+  {
+    "title": "What you count is what they feel",
+    "url": "https://uxdesign.cc/what-you-count-is-what-they-feel-2455e76682e0?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A reflective essay exploring how metrics and measurement directly shape user perception and experience, using a real-world example from Jakarta's public transit system. Challenges designers to reconsider what they optimize for and how it impacts actual user feelings.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Claude Fable 5 for Product Designers",
+    "url": "https://uxplanet.org/claude-fable-5-for-product-designers-8858690a420a?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "An in-depth guide on leveraging Claude Fable 5, Anthropic's advanced AI model, specifically for product design workflows. Explores practical applications for designers looking to integrate cutting-edge AI into their design process.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Creating Memorable Web Experiences: A Modern CSS Toolkit",
+    "url": "https://css-tricks.com/creating-memorable-web-experiences-a-modern-css-toolkit/",
+    "source": "CSS-Tricks",
+    "description": "A hands-on guide to modern CSS techniques that elevate user experience beyond basic functionality, focusing on smooth interactions and delightful details. Perfect for designers and developers wanting to create sites that feel polished and intentional.",
+    "read_time": "9 min"
+  },
+  {
+    "title": "Bugpilot",
+    "url": "https://www.producthunt.com/products/bugpilot-browser-bugs-to-ai-markdown",
+    "source": "Product Hunt",
+    "description": "A developer tool that streamlines bug reporting by converting browser errors, DOM snapshots, and screenshots into AI-ready Markdown, dramatically reducing the friction between QA and development teams. This addresses a real pain point in modern product development workflows.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "OwnClip",
+    "url": "https://www.producthunt.com/products/ownclip",
+    "source": "Product Hunt",
+    "description": "A native macOS screen recorder that processes AI-powered features locally, ensuring privacy-first design for design teams sharing sensitive mockups and workflows. Represents the growing demand for privacy-conscious productivity tools.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "Easybilling",
+    "url": "https://www.producthunt.com/products/easybilling",
+    "source": "Product Hunt",
+    "description": "Addresses a critical gap for AI product founders: billing and payments infrastructure designed specifically for usage-based AI products. Essential infrastructure for the emerging wave of AI-native applications entering the market.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "heyly.io",
+    "url": "https://www.producthunt.com/products/heyly-io-video-greeting-for-your-site",
+    "source": "Product Hunt",
+    "description": "An innovative approach to testimonials and social proof that replaces static quotes with personalized video greetings, creating genuine human connection on websites. Reflects the growing emphasis on authenticity and personalization in digital experiences.",
+    "read_time": "2 min"
+  }
+]
