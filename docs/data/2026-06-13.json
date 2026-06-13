@@ -1,0 +1,59 @@
+[
+  {
+    "title": "The Core Skill of Design in the AI Era: Critique",
+    "url": "https://www.nngroup.com/articles/ai-era-critique/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "NN/g",
+    "description": "As AI systems become more prevalent, designers must master critique and evaluation to translate user needs into measurable criteria that guide AI development. This shift redefines the core value designers bring to product teams in an AI-driven world.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "Context Architecture",
+    "url": "https://www.nngroup.com/articles/context-architecture/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "NN/g",
+    "description": "Context architecture extends information architecture principles to AI systems, enabling agents to better interpret user intent and deliver more coherent, aligned responses. This emerging discipline is essential for designing effective AI products.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "The Impact Of Humanoid Robots On Humanity",
+    "url": "https://smashingmagazine.com/2026/06/impact-humanoid-robots-humanity/",
+    "source": "Smashing Magazine",
+    "description": "As humanoid robots transition from novelty to practical deployment, designers and leaders must grapple with profound social, psychological, and ethical implications. This exploration examines how design choices today will shape human-robot interaction at scale.",
+    "read_time": "9 min"
+  },
+  {
+    "title": "What computers can't do \u2014 and what designers should",
+    "url": "https://uxdesign.cc/what-computers-cant-do-and-what-designers-should-d9d55c4fe2a1?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Rather than being displaced by AI, designers must embrace creative struggle and develop code literacy to guide agentic systems effectively. This perspective reframes the designer's role in an era of computational tools.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "The gesture and the instruction",
+    "url": "https://uxdesign.cc/the-gesture-and-the-instruction-4f90d5a6b8f5?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "This essay explores two distinct types of design work\u2014making-feel and result-feel\u2014and how they require different cognitive and emotional labor, particularly as designers work with AI agents. Understanding this distinction helps teams allocate design effort more effectively.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "I've Tried 100+ Claude Code Skills. These are The Best.",
+    "url": "https://uxplanet.org/ive-tried-100-claude-code-skills-these-are-the-best-97f19ee05bda?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "A practical guide revealing which Claude Code skills deliver the most impactful results for common design and development tasks. This hands-on review helps practitioners maximize AI tool capabilities beyond generic outputs.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "The digital Kowloon",
+    "url": "https://uxdesign.cc/the-digital-kowloon-0daa51df222f?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Drawing parallels between Hong Kong's legendary walled city and modern AI development chaos, this thought-provoking piece examines how we approach tool-building, creative coding, and technical culture. It challenges assumptions about progress and offers warnings about shortcuts.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "The website specification",
+    "url": "https://specification.website/",
+    "source": "Sidebar",
+    "description": "A comprehensive, open-source specification defining what constitutes a well-built website across platforms and contexts. This reference tool establishes shared standards for web quality and accessibility in an era of fragmentation.",
+    "read_time": "10 min"
+  }
+]
