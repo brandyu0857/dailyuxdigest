@@ -1,0 +1,59 @@
+[
+  {
+    "title": "A shortlist of one: how AI became our shopping adviser",
+    "url": "https://uxdesign.cc/a-shortlist-of-one-how-ai-became-our-shopping-adviser-d55f43c411db?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This insightful analysis examines how AI-driven search has shifted from presenting options to making verdicts for users, raising critical questions about autonomy and algorithmic transparency. Essential reading for UX professionals grappling with the ethical implications of AI-powered personalization.",
+    "read_time": "7 min",
+    "featured": true
+  },
+  {
+    "title": "What it really feels like to be a digital accessibility advocate",
+    "url": "https://uxdesign.cc/what-it-really-feels-like-to-be-a-digital-accessibility-advocate-07afc7e1d16f?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This compelling essay explores the hidden impact of accessibility advocacy in design and product teams, revealing how inclusive design practices can prevent costly lawsuits and brand damage. A must-read for design leaders who want to understand why accessibility isn't just ethical\u2014it's business-critical.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Taste Lab",
+    "url": "https://www.producthunt.com/products/taste-lab",
+    "source": "Product Hunt \u2014 The best new products, every day",
+    "description": "This design analysis tool lets designers extract and study the visual patterns, typography, and component systems from any website\u2014a practical solution for designers seeking inspiration and competitive intelligence. A valuable addition to the design workflow toolkit.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Claude Opus 4.8 vs Fable 5",
+    "url": "https://uxplanet.org/claude-opus-4-8-vs-fable-5-2b0a442ccdcb?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "This comparative analysis benchmarks two leading AI models specifically for design work, helping designers and product managers choose the right tool for their workflow. A practical guide for teams evaluating AI assistants for design tasks.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Know your shortcuts",
+    "url": "https://shrtcts.click/",
+    "source": "Sidebar",
+    "description": "An innovative interactive 3D keyboard that helps designers and power users master keyboard shortcuts for their daily apps, dramatically improving productivity and workflow efficiency. A clever educational tool that turns shortcut learning into an engaging experience.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "Vercel Drop",
+    "url": "https://www.producthunt.com/products/vercel",
+    "source": "Product Hunt \u2014 The best new products, every day",
+    "description": "Vercel's new Drop feature streamlines deployment workflows for modern web applications, reducing friction between development and production. A significant quality-of-life improvement for product teams managing continuous delivery.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Qursor",
+    "url": "https://www.producthunt.com/products/qursor",
+    "source": "Product Hunt \u2014 The best new products, every day",
+    "description": "This innovative tool allows designers and developers to point at any UI element and instantly send exact context to AI assistants, bridging the gap between design tools and AI-powered development. A practical solution for accelerating design-to-code workflows.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Single responsibility, the distorted principle",
+    "url": "https://www.truehenrique.com/en/2021/10/27/single-responsibility-the-distorted-principle/",
+    "source": "Sidebar",
+    "description": "This thoughtful essay clarifies a commonly misunderstood software principle and its implications for design systems and component architecture, helping teams avoid overengineering. Essential reading for design leaders building scalable systems.",
+    "read_time": "8 min"
+  }
+]
