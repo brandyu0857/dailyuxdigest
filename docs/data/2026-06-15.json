@@ -1,0 +1,59 @@
+[
+  {
+    "title": "The T-shaped UX professional is giving way to the polymath architect",
+    "url": "https://uxdesign.cc/the-t-shaped-ux-professional-is-giving-way-to-the-polymath-architect-987008ada937?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "As AI collapses the distance between idea and execution, the traditional T-shaped designer model is becoming obsolete. This essay explores how UX professionals must evolve into polymaths who can architect across multiple disciplines, or risk becoming redundant in an AI-assisted world.",
+    "read_time": "7 min",
+    "featured": true
+  },
+  {
+    "title": "How difficult could it be to design a chatbot?",
+    "url": "https://uxdesign.cc/how-difficult-could-it-be-to-design-a-chatbot-5967e39563cc?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Chatbot design is far more nuanced than most realize, with high stakes for customer satisfaction and cultural impact. This practical guide reveals the hidden complexity behind conversational interfaces and why thoughtful design matters for user retention and brand perception.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "AI democratized the answer, not the understanding",
+    "url": "https://uxdesign.cc/ai-democratized-the-answer-not-the-understanding-5c12da448030?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "While AI makes generating answers effortless, the critical bottleneck remains knowing whether those answers are correct. This insightful essay challenges the assumption that democratized access equals democratized expertise, a crucial distinction for designers and product leaders.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Everyone got excited they can suddenly code, and completely missed the point",
+    "url": "https://kasperjunge.com/blog/should-pms-code-with-agents/",
+    "source": "Sidebar",
+    "description": "Coding agents have removed the technical bottleneck from product development, exposing the real constraint: deciding what to build. This sharp analysis reveals that product managers focusing on learning to code are missing the fundamental challenge that actually limits innovation.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Access is not mastery",
+    "url": "https://uxdesign.cc/access-is-not-mastery-bd59e0610828?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Just as GUIs democratized computing and prompt interfaces democratized GUI design, today's AI tools have made creation accessible\u2014but not expertise. This thought-provoking piece examines the growing gap between access and mastery in the era of AI-assisted design.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Extend UI",
+    "url": "https://www.extend.ai/ui",
+    "source": "Sidebar",
+    "description": "An open-source React UI kit for modern document applications, offering pre-built components for PDF, DOCX, XLSX, and CSV viewers, plus file upload and e-signing features. This practical tool accelerates development for document-heavy products and democratizes access to professional document UX patterns.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "html.to.design \u2014 New Chrome extension feature",
+    "url": "https://bit.ly/side-div6",
+    "source": "Sidebar",
+    "description": "A powerful new Chrome extension that lets designers capture entire webpages (or sections) and paste them directly into Figma as editable designs. This workflow innovation bridges the gap between web browsing and design iteration, significantly reducing design-to-code handoff friction.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "The flaw is the feature",
+    "url": "https://uxdesign.cc/the-flaw-is-the-feature-e6769c5cf5b4",
+    "source": "Sidebar",
+    "description": "This provocative essay questions the relentless pursuit of polish in product design, asking whether perfection actually delivers value or if authentic imperfection can be a strategic design choice. Essential reading for designers rethinking what 'done' actually means.",
+    "read_time": "6 min"
+  }
+]
