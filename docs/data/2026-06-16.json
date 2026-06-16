@@ -1,0 +1,59 @@
+[
+  {
+    "title": "The autonomy dial: a pattern toolkit for designing human control over AI",
+    "url": "https://uxdesign.cc/the-autonomy-dial-a-pattern-toolkit-for-designing-human-control-over-ai-12bfbe23ca70?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "As AI systems become more autonomous, designers need practical frameworks for balancing automation with human oversight. This toolkit provides six control patterns that help teams intentionally design the degree of AI autonomy\u2014a critical decision that shapes both trust and usability.",
+    "read_time": "7 min",
+    "featured": true
+  },
+  {
+    "title": "The hidden UX of payments",
+    "url": "https://uxdesign.cc/the-hidden-ux-of-payments-22b97440be16?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "Financial product trust is built or destroyed in overlooked micro-moments that most teams never design intentionally. This essay reveals how deliberate UX decisions in payment flows directly impact customer confidence and long-term relationships.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "The board is not the game",
+    "url": "https://uxdesign.cc/the-board-is-not-the-game-fad30735adfe?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "AI product interfaces often have disconnected elements without a coherent system or experience logic. This article argues that designers must craft the 'game'\u2014the underlying interaction patterns and rules\u2014not just the visual components.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "How one of the oldest design portfolio formats needs to change in 2026",
+    "url": "https://uxdesign.cc/how-one-of-the-oldest-design-portfolio-formats-needs-to-change-in-2026-b64137494f6a?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "The traditional before/after portfolio format is outdated for modern hiring practices. This piece proposes a better way to showcase design thinking that aligns with what employers actually value\u2014process, decision-making, and impact.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "No, design is not dead. Neither is engineering or product.",
+    "url": "https://uxdesign.cc/no-design-is-not-dead-neither-is-engineering-or-product-bd6019410818?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "Rather than replacing designers, engineers, and PMs, AI is pushing these roles toward specialized forms of 'building' that require deeper expertise. This thoughtful counter-narrative explores how these disciplines evolve rather than disappear.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "How Japan's railways stayed one while splitting apart",
+    "url": "https://arun.is/blog/jr-logo/",
+    "source": "Sidebar",
+    "description": "When Japan privatized its railway system in 1987, the competing companies unified around a single logo identity\u2014a brilliant case study in how strategic design consistency can transcend organizational boundaries and create lasting brand cohesion.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Lawful Design",
+    "url": "https://blog.damato.design/posts/lawful-design/",
+    "source": "Sidebar",
+    "description": "Compliance and legal requirements aren't afterthoughts\u2014they're essential to responsible design. This article tackles the unglamorous but critical practice of incorporating legal considerations into design systems and workflows from the start.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Vibe Coder vs Software Engineer",
+    "url": "https://yusufaytas.com/vibe-coder-vs-software-engineer",
+    "source": "Sidebar",
+    "description": "AI-generated code excels at rapid prototyping but falls short when code must be reviewed, maintained, and safely modified. This distinction clarifies where generative tools add value versus where engineering rigor remains essential.",
+    "read_time": "4 min"
+  }
+]
