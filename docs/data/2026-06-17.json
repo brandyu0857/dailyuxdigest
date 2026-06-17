@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Designing With Uncertainty: How AI Supercharges Probabilistic Thinking",
+    "url": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/",
+    "source": "Smashing Magazine",
+    "description": "Introduces Probabilistic Design as a framework for UX teams to work effectively with AI predictions without mistaking them for certainties. Essential reading for designers navigating AI-driven product decisions and maintaining design rigor in uncertain environments.",
+    "read_time": "10 min",
+    "featured": true
+  },
+  {
+    "title": "Every frame perfect",
+    "url": "https://tonsky.me/blog/every-frame-perfect/",
+    "source": "Sidebar",
+    "description": "A deep dive into how subtle UI animation imprecisions compound to erode user trust and perception of product quality. This essay challenges designers to think beyond aesthetics and consider the psychological impact of animation timing on user experience.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "What Figma made visible",
+    "url": "https://blog.murphytrueman.com/what-figma-made-visible/",
+    "source": "Sidebar",
+    "description": "A thoughtful reflection on how Figma democratized design visibility and collaboration, and raises important questions about whether the next generation will inherit the same benefits. Offers perspective on design tool evolution and its cultural impact.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "What we're no longer seeing: AI and the invisible newcomer in open source",
+    "url": "https://blog.stdlib.io/ai-and-the-invisible-newcomer-in-open-source/",
+    "source": "Sidebar",
+    "description": "Explores how AI is automating the visible friction points that once served as natural onboarding pathways for newcomers to open-source communities. A critical perspective on unintended consequences of AI adoption in community-driven spaces.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Framer 3.0",
+    "url": "https://www.producthunt.com/products/framer",
+    "source": "Product Hunt",
+    "description": "Framer releases a major update featuring AI Agents, Branching capabilities, and community features alongside a redesigned interface. This positions Framer as a next-generation design tool bridging prototyping, design systems, and AI-assisted workflows.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "The field guide to CSS Grid Lanes",
+    "url": "https://gridlanes.webkit.org/",
+    "source": "Sidebar",
+    "description": "An interactive field guide to masonry layouts using CSS Grid Lanes with hands-on playground examples. Essential resource for frontend designers and developers exploring modern layout possibilities without JavaScript.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Android 17",
+    "url": "https://www.producthunt.com/products/android",
+    "source": "Product Hunt",
+    "description": "Android redefines itself as an intelligence system with version 17, signaling a major shift in mobile OS strategy toward AI-first design. Critical for designers working on mobile experiences to understand the OS-level changes that will shape product design.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Snapchat SPECS",
+    "url": "https://www.producthunt.com/products/snapchat",
+    "source": "Product Hunt",
+    "description": "Snapchat launches see-through AR glasses with built-in computing power, opening new frontiers for spatial computing and wearable UX. Represents a significant hardware-software convergence that challenges traditional interface design paradigms.",
+    "read_time": "4 min"
+  }
+]
