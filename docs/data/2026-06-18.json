@@ -1,0 +1,59 @@
+[
+  {
+    "title": "A2UI under the hood: Designing for the new era of radically adaptive UI",
+    "url": "https://uxdesign.cc/a2ui-under-the-hood-designing-for-the-new-era-of-radically-adaptive-ui-cebbf5f32fbe?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "An optimistic exploration of how AI can enable truly adaptive interfaces that respond to user context and behavior. A practical guide for designers navigating the emerging paradigm of AI-assisted UI design.",
+    "read_time": "9 min",
+    "featured": true
+  },
+  {
+    "title": "You got faster. Your company didn't.",
+    "url": "https://terriblesoftware.org/2026/06/17/you-got-faster-your-company-didnt/",
+    "source": "Sidebar",
+    "description": "This thought-provoking essay challenges the assumption that AI tools increase productivity, arguing instead that speed gains are offset by distributed costs across organizations. A critical read for design leaders evaluating AI adoption and its real impact on team dynamics.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "While everyone talks about AI, design is gaining power",
+    "url": "https://uxdesign.cc/while-everyone-talks-about-ai-design-is-gaining-power-a6fd0db3f0a2?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Major tech companies are elevating design from a support function to a strategic priority while the industry focuses on AI hype. This shift signals a fundamental change in how organizations value UX and product design leadership.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "The architecture of focus",
+    "url": "https://magnus919.com/2026/06/the-architecture-of-focus/",
+    "source": "Sidebar",
+    "description": "This essay exposes how manager-centric scheduling systematically destroys the deep work required for quality design and product development. Essential reading for leaders redesigning team structures and work rhythms.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "The AI layoff trap",
+    "url": "https://ailayoffs.rajnandan.com/",
+    "source": "Sidebar",
+    "description": "This interactive simulation reveals a critical market dynamics trap: competitive pressure drives over-automation where individual firms capture savings but industry-wide demand destruction goes unpriced. Vital for product and business leaders understanding AI's macroeconomic effects.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "DESIGN.md Best Practices",
+    "url": "https://uxplanet.org/design-md-best-practices-c00325e8b23a?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "As AI-assisted UI design becomes mainstream, DESIGN.md files are emerging as critical documentation for maintaining consistency and context. Learn best practices for structuring design systems in the age of AI tooling.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "The web we know is going to disappear",
+    "url": "https://www.minid.net/2026/6/15/the-web-is-going-to-dissapear",
+    "source": "Sidebar",
+    "description": "A historical perspective arguing that each generation of computing overestimates the longevity of its preferred interface, offering important context for designers investing heavily in current platforms. Challenges assumptions about web-first strategy.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Tabnxt",
+    "url": "https://www.producthunt.com/products/tabnxt",
+    "source": "Product Hunt",
+    "description": "An AI-powered tab manager that intelligently suspends resource-heavy background tabs addresses a real pain point in modern browsing. Represents practical AI application solving tangible productivity friction.",
+    "read_time": "3 min"
+  }
+]
