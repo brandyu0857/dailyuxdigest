@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Can your AI pass the accessibility test?",
+    "url": "https://www.aaron-gustafson.com/notebook/can-your-ai-pass-the-accessibility-test/",
+    "source": "Aaron Gustafson",
+    "description": "A critical examination of how large language models handle web accessibility standards\u2014and why many fall short. This investigation reveals important gaps in AI-generated content that designers and developers need to address.",
+    "read_time": "8 min",
+    "featured": true
+  },
+  {
+    "title": "Haptics design and implementation",
+    "url": "https://microsoft.design/articles/haptics-design-and-implementation/",
+    "source": "Microsoft Design",
+    "description": "Microsoft shares comprehensive guidance on integrating haptic feedback to enhance user clarity, support accessibility, and create more intuitive digital experiences. This practical resource is essential for designers building multi-sensory products in an era of increasingly tactile interfaces.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "One skill separates the designers who survive 2026 from the ones who don't",
+    "url": "https://uxdesign.cc/one-skill-separates-the-designers-who-survive-2026-from-the-ones-who-dont-f4dec8c3ffe0?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "As AI reshapes design work, UX professionals must evolve from pure craftspeople into builders, makers, and systems thinkers to remain competitive. This essay cuts through the AI hype to identify the critical capabilities that will differentiate designers in the coming years.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Claude Design Just Got a Major Update",
+    "url": "https://uxplanet.org/claude-design-just-got-a-major-update-270ad55087f3?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "Anthropic released a significant Claude Design overhaul featuring design system imports, improved design editing capabilities, and resolved performance issues. This update strengthens Claude's position as a practical AI tool for product design workflows.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "We used to know that it was a person who wrote it",
+    "url": "https://uxdesign.cc/we-used-to-know-that-it-was-a-person-who-wrote-it-a321c970266f?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A thought-provoking piece on how AI-generated content has shattered the trust guarantee that once came with reading, forcing audiences to scrutinize everything they encounter online. This reflects a fundamental shift in how we design for authenticity and credibility.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Your strategic guide to winning design awards",
+    "url": "https://uxdesign.cc/your-strategic-guide-to-winning-design-awards-7afee3876ce4?source=rss----819cc2aaeee0---4",
+    "source": "UX Collective",
+    "description": "Beyond trophy-hunting, this roadmap shows how design award recognition can be leveraged as a strategic tool to accelerate career growth and strengthen company reputation. Practical advice for designers looking to gain visibility and credibility.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Unreal Engine 5.8",
+    "url": "https://www.producthunt.com/products/unreal-engine",
+    "source": "Product Hunt",
+    "description": "Unreal Engine 5.8 brings AI agents into game development, enabling developers to build more dynamic, responsive experiences. This represents a significant convergence of game design tooling and AI capabilities.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "The Virtual OS Museum",
+    "url": "https://virtualosmuseum.org/",
+    "source": "Sidebar",
+    "description": "An interactive archive of over 1,700 operating systems spanning from 1948 to today, accessible in a single virtual machine. This is both a fascinating design history resource and a unique tool for understanding interface evolution across decades.",
+    "read_time": "2 min"
+  }
+]
