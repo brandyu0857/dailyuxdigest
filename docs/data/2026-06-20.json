@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Vibe Architects: Agentic Vibe Coders",
+    "url": "https://www.nngroup.com/articles/vibe-architects/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "Nielsen Norman Group",
+    "description": "Explore how non-technical creators are building sophisticated AI agents through experimentation and community learning, reshaping who can participate in AI development. This trend signals a democratization of agentic AI design beyond traditional developers.",
+    "read_time": "7 min",
+    "featured": true
+  },
+  {
+    "title": "Enterprise software is getting personal",
+    "url": "https://uxdesign.cc/enterprise-software-is-getting-personal-dea453bee3e3?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Discover three pivotal design trends transforming enterprise software into more personalized, human-centered experiences. This piece explores how companies are reimagining traditionally impersonal tools to drive better adoption and user satisfaction.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Incentive Structures for Diary Studies",
+    "url": "https://www.nngroup.com/articles/diary-study-incentives/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "Nielsen Norman Group",
+    "description": "Learn how to design effective incentive structures that keep diary study participants engaged while maintaining data quality. This practical guide helps researchers balance motivation with avoiding response fatigue.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "A First Look at Scroll-Triggered Animations",
+    "url": "https://css-tricks.com/css-scroll-triggered-animations-first-look/",
+    "source": "CSS-Tricks",
+    "description": "Examine the technical differences between scroll-driven and scroll-triggered animations, offering developers new capabilities for creating engaging web experiences. This deep dive into emerging CSS standards helps designers and developers understand performance implications.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Your strategic guide to winning design awards",
+    "url": "https://uxdesign.cc/your-strategic-guide-to-winning-design-awards-7afee3876ce4?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Get a strategic roadmap for leveraging design awards to accelerate your career and company visibility. This guide transforms award-winning from vanity into tangible business and career momentum.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Claude Code Project Structure for Design Project",
+    "url": "https://uxplanet.org/claude-code-project-structure-for-design-project-00cb36f3cbee?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "Discover optimal workspace structures for Claude Code that empower designers to maximize AI-assisted development workflows. Practical guidance for organizing design projects in AI coding environments.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Pixlie",
+    "url": "https://www.producthunt.com/products/pixlie",
+    "source": "Product Hunt",
+    "description": "Pixlie introduces an AI video studio that converts text and images into video with precise creative control, streamlining video production for designers and content creators. This addresses the growing demand for video-first design workflows.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Mutter AI Dictation",
+    "url": "https://www.producthunt.com/products/mutter-ai-dictation",
+    "source": "Product Hunt",
+    "description": "A privacy-focused AI dictation tool that operates offline, enabling designers and teams to capture ideas without cloud dependencies. This addresses growing concerns around data privacy in AI-powered productivity tools.",
+    "read_time": "3 min"
+  }
+]
