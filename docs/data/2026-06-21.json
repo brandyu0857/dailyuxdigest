@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Top 5 Gamma Templates for Product Team",
+    "url": "https://uxplanet.org/top-5-gamma-templates-for-product-team-450d78c215f6?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "This guide provides practical presentation templates designed specifically for product teams, saving time on slide deck design and ensuring consistent, professional communication. A useful tactical resource for product managers and designers who frequently present to stakeholders.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "Laguna by Poolside",
+    "url": "https://www.producthunt.com/products/poolside",
+    "source": "Product Hunt",
+    "description": "Poolside launches Laguna, foundation models designed specifically for agentic coding and complex, long-horizon work tasks. This represents a significant shift in how AI can augment developer productivity beyond simple code completion.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Cloudback MCP Server",
+    "url": "https://www.producthunt.com/products/cloudback",
+    "source": "Product Hunt",
+    "description": "Cloudback integrates backup management directly into Claude, Cursor, and VS Code through the Model Context Protocol, eliminating context-switching for developers managing critical data. This is a practical example of how AI tools are becoming embedded into developer workflows.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Basedash Access Controls",
+    "url": "https://www.producthunt.com/products/basedash",
+    "source": "Product Hunt",
+    "description": "Basedash introduces granular access controls for company data, addressing a critical security gap for teams managing sensitive information through databases and internal tools. With rising data privacy concerns, this addresses a real product leadership challenge.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "GitSync for macOS",
+    "url": "https://www.producthunt.com/products/gitsync-for-macos",
+    "source": "Product Hunt",
+    "description": "GitSync brings visual GitHub management to the desktop with a graphical interface, reducing friction for developers who prefer UI-based workflows over command line. This bridges the gap between powerful version control and accessibility.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Extinction-level capitalism",
+    "url": "https://matthewbutterick.com/extinction-level-capitalism.html",
+    "source": "Sidebar",
+    "description": "Matthew Butterick examines why major AI companies need human creativity and knowledge more than users need them, challenging prevailing narratives about AI's inevitability. A thought-provoking essay on power dynamics that's essential reading for design leaders navigating the AI landscape.",
+    "read_time": "10 min"
+  },
+  {
+    "title": "Plansera AI",
+    "url": "https://www.producthunt.com/products/plansera-ai",
+    "source": "Product Hunt",
+    "description": "Plansera AI automates the creation of E-2 visa business plans, demonstrating how AI can simplify complex, regulated processes. Relevant for entrepreneurs and product leaders interested in how AI is penetrating traditionally document-heavy industries.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Dither Image",
+    "url": "https://ditherimage.online/",
+    "source": "Sidebar",
+    "description": "Dither Image offers professional-grade dithering effects instantly through a free web tool, lowering barriers for designers who want sophisticated visual effects without expensive software. A practical, accessible tool that expands creative possibilities.",
+    "read_time": "2 min"
+  }
+]
