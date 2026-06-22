@@ -1,0 +1,59 @@
+[
+  {
+    "title": "94% say research matters. Only 27% act on it. [Report]",
+    "url": "https://bit.ly/side-hey1",
+    "source": "Sidebar",
+    "description": "A revealing survey of 309 researchers and leaders exposes the critical gap between acknowledging research value and actually using it to inform decisions. This data-driven report offers practical strategies for teams struggling to translate insights into action, making it essential reading for anyone trying to improve organizational decision-making.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "Why the best part of the flow isn't the end",
+    "url": "https://uxdesign.cc/why-the-best-part-of-the-flow-isnt-the-end-e9fef73f6bb3?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This essay explores South Korea's 'dopamine sites'\u2014apps where users order food that never arrives\u2014to reveal a counterintuitive truth about product design: the anticipation and journey matter more than the transaction itself. The insights challenge conventional conversion-focused design thinking and have profound implications for how we structure user experiences.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "The new software lifecycle",
+    "url": "https://addyosmani.com/blog/new-sdlc-vibe-coding/",
+    "source": "Sidebar",
+    "description": "This forward-thinking piece examines how shifting from traditional coding to intent-based management is fundamentally changing how engineering teams operate and deploy features faster. Understanding this paradigm shift is crucial for product and design leaders adapting to AI-augmented development workflows.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "The Magic 8-Ball vs. Gen AI: a surprisingly interesting comparison",
+    "url": "https://uxdesign.cc/the-original-magic-8-ball-vs-generative-ai-a-surprisingly-interesting-comparison-d94f982eaba0?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A clever and thought-provoking analysis comparing the Magic 8-Ball and generative AI reveals fundamental truths about prediction, user expectations, and operating costs in product design. This essay provides valuable perspective on the current AI landscape and helps designers understand what users are really paying for.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Two modernisms",
+    "url": "https://uxdesign.cc/two-modernisms-ba94169b79dd?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This design philosophy piece traces how Mies van der Rohe, Harry Beck, and other designers achieved simplicity through radical reduction\u2014not as artistic statement, but as practical problem-solving. The lessons about abstraction and constraint are directly applicable to modern UX and product design decisions.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Access is not mastery, the polymath UX architect, A2UI under the hood",
+    "url": "https://uxdesign.cc/access-is-not-mastery-the-polymath-ux-architect-a2ui-under-the-hood-88edc2288979?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This insightful piece examines the gap between having access to AI tools and truly mastering them, highlighting how PMs and sales teams can ship working prototypes that fall short on actual UX quality. It's a critical read for design leaders managing the integration of AI-generated outputs into real products.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "AI economics for dummies",
+    "url": "https://www.mcsweeneys.net/articles/ai-economics-for-dummies",
+    "source": "Sidebar",
+    "description": "This accessible breakdown demystifies the business and economic models driving AI adoption, using concrete examples to help non-technical readers understand the financial incentives shaping the AI landscape. Essential context for designers and PMs navigating AI tool decisions.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Why I email complete strangers",
+    "url": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
+    "source": "Sidebar",
+    "description": "An exploration of cold email as a counter-cultural alternative to algorithm-driven networking platforms, championing intentional human connection over algorithmic mediation. This perspective challenge helps UX professionals think critically about how their designs shape human behavior and relationship-building.",
+    "read_time": "5 min"
+  }
+]
