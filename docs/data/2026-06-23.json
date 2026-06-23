@@ -1,0 +1,59 @@
+[
+  {
+    "title": "How DesignOps roles are changing with new priorities",
+    "url": "https://uxdesign.cc/how-designops-roles-are-changing-with-new-priorities-c8db3a5bc1c3?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "As AI integrates into design workflows, DesignOps roles are shifting from process management to strategic vision-setting. This article explores how design leaders must evolve their priorities to maintain meaningful human-centered design in an increasingly automated landscape.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "Your banking app is lying to you",
+    "url": "https://uxdesign.cc/your-banking-app-is-lying-to-you-52959b075823?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Most banking apps show current balances without revealing future implications of spending patterns. This thought-provoking piece examines how AI can transform financial apps from showing snapshots to providing honest, predictive financial guidance that actually serves users.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "The organizational cost of low taste",
+    "url": "https://uxdesign.cc/the-organizational-cost-of-low-taste-135cb8b10c34?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Organizational failure isn't always about flawed strategy\u2014it's about losing shared standards for quality in daily decisions. This essay reveals how weak design taste compounds into systemic dysfunction and undermines long-term product success.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Better search, worse web",
+    "url": "https://uxdesign.cc/better-search-worse-web-1ed2c43fe38f?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "While AI-powered search engines show impressive metrics, the article argues they come with hidden costs to web ecosystem health and content quality. A critical analysis of how optimizing for search performance alone can degrade the broader value of the internet.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "After AI takes everything",
+    "url": "https://ursb.me/en/posts/after-ai-takes-everything/",
+    "source": "Sidebar",
+    "description": "As AI commoditizes technical production, user value will shift from what software can do to how individual users curate and personalize their experience. This forward-thinking piece explores the future of competitive advantage in a post-commoditization world.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Show your hands honor for the strange power they bring you",
+    "url": "https://aresluna.org/show-your-hands/",
+    "source": "Sidebar",
+    "description": "Hands are our primary interaction tool, yet designers often overlook their capabilities and limitations in digital interfaces. This thoughtful guide explores designing finger-friendly interactions that honor the nuance and dexterity of human touch.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "What sits on the engawa",
+    "url": "https://uxdesign.cc/what-sits-on-the-engawa-46acaa876713?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Drawing from Japanese architectural philosophy, this essay explores designing for aspirational human desires that users haven't yet articulated. A poetic perspective on anticipating unmet needs and creating space for users to grow into.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Deckwise",
+    "url": "https://www.producthunt.com/products/deckwise",
+    "source": "Product Hunt",
+    "description": "Deckwise introduces an AI presentation agent that generates editable decks, reducing the friction of deck creation while maintaining user control. A practical tool addressing a common pain point in how teams create and iterate on presentations.",
+    "read_time": "3 min"
+  }
+]
