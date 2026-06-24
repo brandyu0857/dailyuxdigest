@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Flight Booking & Airlines Quantitative UX: 3 High-Level Takeaways from 30+ Charts",
+    "url": "https://baymard.com/blog/flight-booking-and-airlines-quantitative-ux-insights-2026",
+    "source": "Baymard Institute",
+    "description": "Data-driven analysis of 30+ UX metrics from flight booking interfaces reveals critical patterns in user behavior and conversion optimization. Essential reading for designers and PMs building high-stakes transactional flows where small friction points compound into significant abandonment rates.",
+    "read_time": "7 min",
+    "featured": true
+  },
+  {
+    "title": "Consistency, but in excellence not appearance",
+    "url": "https://blog.jim-nielsen.com/2026/a-consistency-of-excellence/",
+    "source": "Sidebar",
+    "description": "Challenges the orthodoxy of rigid design systems by arguing that contextual quality should trump visual uniformity. A thought-provoking critique for design leaders questioning whether their systems serve consistency or excellence.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Show your hands honor for the strange power they bring you",
+    "url": "https://aresluna.org/show-your-hands-honor/",
+    "source": "Sidebar",
+    "description": "Explores the nuanced art of designing finger-friendly interactions that respect human gesture and physicality. A poetic yet practical guide for creating more intuitive touch and gestural interfaces.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "A short history of modern brand design",
+    "url": "https://www.itsnicethat.com/features/katharina-sussek-jens-muller-the-elements-of-brand-design-taschen-publication-graphic-design-spotlight-170626",
+    "source": "It's Nice That",
+    "description": "Traces the evolution of branding and visual identity from the 19th century to contemporary practice, providing historical context essential for understanding modern design movements. Valuable for designers seeking to understand how current identity systems emerged.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "On the perils of indifference",
+    "url": "https://www.nubero.ch/blog/018/",
+    "source": "Sidebar",
+    "description": "Advocates for leveraging standard HTML features to reduce technical debt and improve interface longevity. A refreshing reminder that sometimes the most sustainable design decisions involve embracing platform constraints rather than fighting them.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Loop Engineering in Claude Code",
+    "url": "https://uxplanet.org/loop-engineering-in-claude-code-a36e3b1ca589?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "Provides practical techniques for working effectively with AI agents, a critical emerging skill for designers integrating AI into their workflows. Essential for staying ahead of the AI-augmented design curve.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Taste: design DNA for AI agents",
+    "url": "https://www.tastelab.xyz/",
+    "source": "Sidebar",
+    "description": "Introduces a novel Claude Code skill that decodes design patterns and decision-making behind website interfaces using abductive reasoning. A powerful tool for designers looking to systematize and share design knowledge with AI systems.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Product Design Psychology",
+    "url": "https://productdesignpsychology.com/",
+    "source": "Sidebar",
+    "description": "A comprehensive resource for understanding both user psychology and designer psychology in product creation. Bridges behavioral science and design practice to help creators build more empathetic, effective products.",
+    "read_time": "9 min"
+  }
+]
