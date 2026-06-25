@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Config 2026: New materials, new tools and a more expressive canvas",
+    "url": "https://www.figma.com/blog/config-2026-recap/",
+    "source": "Figma Blog",
+    "description": "Figma introduces major new capabilities including code layers, Figma Motion (timeline on canvas), shaders, and generative plugins that fundamentally expand what designers can create. These tools signal a shift toward more expressive, code-aware design systems that blur the line between design and development.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "The layers of AI experience",
+    "url": "https://emilycampbell.co/writing/layers-of-ai-experience",
+    "source": "Sidebar",
+    "description": "Emily Campbell argues that designers must move beyond surface-level AI interfaces to shape the underlying systems, constraints, and behaviors that determine how AI actually behaves. This frameworks shifts the design challenge from interfaces to the invisible layers that matter most.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Your design system runs on one person's judgment\u2014AI is about to prove it",
+    "url": "https://uxdesign.cc/your-design-system-runs-on-one-persons-judgment-ai-is-about-to-prove-it-4e969a862765?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "This article exposes a critical bottleneck in design systems: inconsistent gatekeeping decisions that slow contributions and create backlogs. AI will force organizations to codify and automate these judgment calls, ultimately making design systems more scalable and objective.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "The AI steering layer",
+    "url": "https://www.lukew.com/ff/entry.asp?2155",
+    "source": "Sidebar",
+    "description": "Luke Wroblewski introduces the concept of an intentional steering layer as a critical pattern in modern AI-powered software. This design pattern helps manage AI behavior and keeps systems aligned with user intent in increasingly complex applications.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Less is more, more or less",
+    "url": "https://jakub.kr/writing/less-is-more",
+    "source": "Sidebar",
+    "description": "In an era where AI can generate unlimited features, this essay explores why restraint and knowing what *not* to build has become the most valuable design skill. It challenges the assumption that more capabilities always equal better products.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "The case for vibe coding when all your coworkers are also vibe coding",
+    "url": "https://ericwbailey.website/published/the-case-for-an-accessibility-designer-vibe-coding-when-all-his-coworkers-are-also-vibe-coding/",
+    "source": "Sidebar",
+    "description": "Eric Bailey challenges designers to examine their biases when 'vibe coding' becomes the team norm, questioning whether subjective decisions are truly serving user needs or just organizational convenience. A critical perspective on accessibility and design culture.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "InkField | \u58a8\u57df",
+    "url": "https://ileivoivm.github.io/inkField/",
+    "source": "Sidebar",
+    "description": "InkField presents an innovative drawing system that preserves every gesture and allows images to evolve over time, exploring how design tools can honor the creative process itself rather than just the final output. A fascinating exploration of what's possible when tools embrace continuous transformation.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Claude Code Performance Optimization Commands",
+    "url": "https://uxplanet.org/claude-code-performance-optimization-commands-a21119ab7453?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "A practical guide to mastering Claude Code's performance, covering token usage monitoring and context management\u2014essential knowledge as AI coding tools become central to design workflows. Directly applicable for designers integrating AI into their daily tools.",
+    "read_time": "5 min"
+  }
+]

@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://smashingmagazine.com/2026/06/designing-uncertainty-how-ai-supercharges-probabilistic-thinking/",
-    "date": "2026-06-17"
-  },
-  {
-    "url": "https://tonsky.me/blog/every-frame-perfect/",
-    "date": "2026-06-17"
-  },
-  {
-    "url": "https://blog.murphytrueman.com/what-figma-made-visible/",
-    "date": "2026-06-17"
-  },
-  {
-    "url": "https://blog.stdlib.io/ai-and-the-invisible-newcomer-in-open-source/",
-    "date": "2026-06-17"
-  },
-  {
-    "url": "https://www.producthunt.com/products/framer",
-    "date": "2026-06-17"
-  },
-  {
-    "url": "https://gridlanes.webkit.org/",
-    "date": "2026-06-17"
-  },
-  {
-    "url": "https://www.producthunt.com/products/android",
-    "date": "2026-06-17"
-  },
-  {
-    "url": "https://www.producthunt.com/products/snapchat",
-    "date": "2026-06-17"
-  },
-  {
     "url": "https://uxdesign.cc/a2ui-under-the-hood-designing-for-the-new-era-of-radically-adaptive-ui-cebbf5f32fbe?source=rss----138adf9c44c---4",
     "date": "2026-06-18"
   },
@@ -254,5 +222,37 @@
   {
     "url": "https://productdesignpsychology.com/",
     "date": "2026-06-24"
+  },
+  {
+    "url": "https://www.figma.com/blog/config-2026-recap/",
+    "date": "2026-06-25"
+  },
+  {
+    "url": "https://emilycampbell.co/writing/layers-of-ai-experience",
+    "date": "2026-06-25"
+  },
+  {
+    "url": "https://uxdesign.cc/your-design-system-runs-on-one-persons-judgment-ai-is-about-to-prove-it-4e969a862765?source=rss----138adf9c44c---4",
+    "date": "2026-06-25"
+  },
+  {
+    "url": "https://www.lukew.com/ff/entry.asp?2155",
+    "date": "2026-06-25"
+  },
+  {
+    "url": "https://jakub.kr/writing/less-is-more",
+    "date": "2026-06-25"
+  },
+  {
+    "url": "https://ericwbailey.website/published/the-case-for-an-accessibility-designer-vibe-coding-when-all-his-coworkers-are-also-vibe-coding/",
+    "date": "2026-06-25"
+  },
+  {
+    "url": "https://ileivoivm.github.io/inkField/",
+    "date": "2026-06-25"
+  },
+  {
+    "url": "https://uxplanet.org/claude-code-performance-optimization-commands-a21119ab7453?source=rss----819cc2aaeee0---4",
+    "date": "2026-06-25"
   }
 ]
