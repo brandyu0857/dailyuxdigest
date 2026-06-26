@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Figma Config 2026 Recap",
+    "url": "https://uxplanet.org/figma-config-2026-recap-1852ccf5e1d1?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "A comprehensive summary of Figma's latest feature announcements including Figma Motion's timeline capabilities and AI integrations. Essential for product designers staying current with tooling innovations.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "Someone designed this",
+    "url": "https://uxdesign.cc/someone-designed-this-2d48482b64df?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This essay explores why poor UX often stems from deliberate business decisions rather than design incompetence, using real-world examples like subscription cancellation flows. It's essential reading for designers navigating the tension between user needs and business goals.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Rethinking Figma in an AI world",
+    "url": "https://uxdesign.cc/rethinking-figma-in-an-ai-world-0facba587ba5?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "Config 2026 showcases Figma's strategic pivot to remain relevant as AI agents and code-native workflows reshape product development. This deep analysis of the platform's evolution is critical for designers understanding the future of design tooling.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Your design system has a new author",
+    "url": "https://blog.murphytrueman.com/your-design-systems-newest-author-is-an-agent/",
+    "source": "Sidebar",
+    "description": "As AI agents increasingly contribute to design systems autonomously, traditional review models are breaking down\u2014raising important questions about governance, quality, and human oversight. A must-read for design leaders managing system evolution at scale.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Your documentation is still in your Mum's filing cabinet",
+    "url": "https://gerireid.com/blog/organising-documentation-for-humans-and-ai/",
+    "source": "Sidebar",
+    "description": "This perspective challenges outdated documentation structures that don't serve modern workflows where both humans and AI need to access knowledge. It offers practical insights into reorganizing information for discoverability in an AI-native era.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "How to stop re-explaining yourself to Claude",
+    "url": "https://uxdesign.cc/how-to-stop-re-explaining-yourself-to-claude-5845bc5025a2?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A practical guide to improving your workflow with Claude by establishing context and memory, reducing the friction of repeatedly briefing your AI assistant. Perfect for designers already integrating AI into their daily process.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "The AI Resist List",
+    "url": "https://airesistlist.org/",
+    "source": "Sidebar",
+    "description": "A curated directory documenting community-led resistance to AI harms and alternative approaches worth exploring. A valuable resource for designers and leaders thinking critically about responsible AI implementation.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Figma Motion",
+    "url": "https://www.producthunt.com/products/figma",
+    "source": "Product Hunt",
+    "description": "Figma's new timeline-based motion feature brings animation capabilities directly into the design canvas, eliminating context-switching for motion design. A significant product update that changes how designers prototype interactive experiences.",
+    "read_time": "3 min"
+  }
+]
