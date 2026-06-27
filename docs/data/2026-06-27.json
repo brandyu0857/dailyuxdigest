@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Your New UX Habit: Establishing Baselines for Impact",
+    "url": "https://www.nngroup.com/articles/establishing-baselines/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "NN/g",
+    "description": "This practical guide demonstrates how to establish measurable baselines before starting design projects, enabling teams to quantify their impact and build stronger cases for UX investment. It's a straightforward but powerful methodology for demonstrating ROI.",
+    "read_time": "5 min",
+    "featured": true
+  },
+  {
+    "title": "Discovery is a capability, not a phase",
+    "url": "https://uxdesign.cc/discovery-is-a-capability-not-a-phase-0fd6c1dab2f5?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "This essay reframes discovery from a one-time project phase into a continuous organizational capability that informs decisions throughout a product's lifecycle. It challenges conventional wisdom about when and how teams validate assumptions, offering a more sophisticated approach to understanding user needs.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "The boundary between philosophy and design: Leveraging pure thought",
+    "url": "https://uxdesign.cc/the-boundary-between-philosophy-and-design-leveraging-pure-thought-72a903b05f57?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Tracing the lineage from Plato's Forms to iconic products like the iPod, this thought-provoking piece explores how philosophical thinking and first-principles reasoning drive great design decisions. It reveals the intellectual foundations behind breakthrough product moments.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Rethinking Figma in an AI world",
+    "url": "https://uxdesign.cc/rethinking-figma-in-an-ai-world-0facba587ba5",
+    "source": "Sidebar",
+    "description": "Following Figma's Config 2026 announcements, this analysis examines how the design tool is positioning itself for an era of AI-driven agentic workflows and code-native development. It's essential reading for understanding the future competitive landscape of design tools.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Kick the Bots Out of Your Survey Data",
+    "url": "https://www.nngroup.com/articles/survey-bots/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "NN/g",
+    "description": "With survey automation on the rise, this article provides actionable techniques for identifying and filtering out bot responses before analysis to protect data integrity. It's critical guidance for researchers relying on online surveys for user insights.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Hiring a product team in the UK? Here is what you need to know",
+    "url": "https://uxplanet.org/hiring-a-product-team-in-the-uk-here-is-what-you-need-to-know-c8525bcf31d1?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "This comprehensive compliance and hiring guide addresses the specific regulatory and employment landscape for building product design teams in the UK. It's invaluable for organizations expanding internationally or navigating regional requirements.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "The Last Museum",
+    "url": "https://lastmuseum.com/",
+    "source": "Sidebar",
+    "description": "A beautifully designed search engine for discovering museum art collections globally, this tool demonstrates innovative UI/UX thinking for making cultural institutions' archives accessible and explorable. It's a notable example of design solving a real discovery problem.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Folio AI",
+    "url": "https://www.producthunt.com/products/folio-ai",
+    "source": "Product Hunt",
+    "description": "This AI-powered PowerPoint assistant represents the emerging category of generative AI tools designed to augment creative workflows, particularly for presentation creation. It signals how agentic AI is extending beyond writing and code into design-adjacent tools.",
+    "read_time": "2 min"
+  }
+]
