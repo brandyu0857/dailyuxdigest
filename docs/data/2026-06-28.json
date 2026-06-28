@@ -1,0 +1,59 @@
+[
+  {
+    "title": "The bullshit asymmetry principle was survivable. AI made production of slop almost free.",
+    "url": "https://uxdesign.cc/the-bullshit-asymmetry-principle-was-survivable-ai-made-production-of-slop-almost-free-2107dd4530b4?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "This essay explores how generative AI has fundamentally disrupted the economics of misinformation by making low-quality content production nearly free, while refutation remains costly and time-consuming. The author argues this creates a critical design challenge for platforms and designers to solve information credibility at scale.",
+    "read_time": "7 min",
+    "featured": true
+  },
+  {
+    "title": "Why your Claude Code needs a design stack",
+    "url": "https://uxdesign.cc/why-your-claude-code-needs-a-design-stack-46dccbced6e5?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "This practical guide examines how to integrate Claude Code into a modern designer's workflow through a strategic design stack, helping designers leverage AI agents without disrupting their existing tools and processes.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Best Practices for Claude Code Subagents Optimization",
+    "url": "https://uxplanet.org/best-practices-for-claude-code-subagents-optimization-7ff0dd3e20b5?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "This technical guide provides actionable best practices for optimizing Claude Code subagents to improve performance and speed, transforming them from simple autonomous workers into powerful productivity multipliers for design and development teams.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Lyto",
+    "url": "https://www.producthunt.com/products/lyto",
+    "source": "Product Hunt",
+    "description": "Lyto launches as a unified AI agent that seamlessly operates across browsers, applications, and messaging platforms\u2014streamlining workflows for users who juggle multiple tools daily.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "Dotient",
+    "url": "https://www.producthunt.com/products/dotient",
+    "source": "Product Hunt",
+    "description": "Dotient introduces local semantic search capabilities, offering privacy-focused alternatives to cloud-based search tools and enabling users to discover information across their personal data without external servers.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "RetroMac",
+    "url": "https://www.producthunt.com/products/retromac",
+    "source": "Product Hunt",
+    "description": "RetroMac transforms modern Macs into retro computing experiences, appealing to nostalgic users and designers exploring vintage aesthetics and interfaces as creative inspiration.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "Supra Player",
+    "url": "https://www.producthunt.com/products/supra-player",
+    "source": "Product Hunt",
+    "description": "Supra Player streamlines video comparison and synchronization workflows, solving a critical pain point for designers, editors, and content creators who need to evaluate multiple video versions simultaneously.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "Aurora Notch",
+    "url": "https://www.producthunt.com/products/aurora-21",
+    "source": "Product Hunt",
+    "description": "Aurora Notch repurposes Mac's notch as a private, always-accessible workspace for quick notes and tasks, demonstrating creative hardware design thinking in the era of increasingly minimal bezels.",
+    "read_time": "2 min"
+  }
+]
