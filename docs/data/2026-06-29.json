@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Why Figma Sites Beta isn't closing the gap yet.",
+    "url": "https://uxplanet.org/why-figma-sites-beta-isnt-closing-the-gap-yet-058ce342d71e?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "A practical assessment of Figma Sites' current limitations in bridging design and development workflows. This candid analysis helps product designers understand where the tool still falls short and what workarounds or alternatives may be needed for their teams.",
+    "read_time": "5 min",
+    "featured": true
+  },
+  {
+    "title": "Can AI make OCD worse?",
+    "url": "https://uxdesign.cc/can-ai-make-ocd-worse-69fc01c0c71f?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "This thought-provoking article explores how AI chatbots designed to be endlessly agreeable and available may inadvertently worsen obsessive-compulsive behaviors in users. It's a critical examination of unintended psychological consequences in product design that every UX professional should consider.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Japan Doesn't Design With Less. It Designs With Ma.",
+    "url": "https://uxdesign.cc/japan-doesnt-design-with-less-it-designs-with-ma-73f8e3ce6ee5?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A cultural design essay that challenges Western minimalism frameworks by introducing the Japanese concept of 'Ma'\u2014the intentional use of negative space as an active design element. This perspective shift offers designers a richer vocabulary for creating meaningful experiences beyond simply 'less is more.'",
+    "read_time": "7 min"
+  },
+  {
+    "title": "What are hypertokens? The layer between tokens and components, rebuilt for agents",
+    "url": "https://uxdesign.cc/what-are-hypertokens-the-layer-between-tokens-and-components-rebuilt-for-agents-962dbe93e0c4?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "This forward-thinking piece introduces hypertokens as a new design system paradigm that bridges the gap between design tokens and components, specifically optimized for AI agents. It's essential reading for teams building scalable design systems in an AI-native future.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "When the profession outruns the mentor",
+    "url": "https://uxdesign.cc/when-the-profession-outruns-the-mentor-5f40596e17ca?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "An insightful exploration of how AI and rapid industry changes are making traditional mentorship models obsolete, forcing experienced professionals to learn alongside their mentees. This challenges conventional career development wisdom and has implications for how teams structure learning.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "What Actually Makes People Happy? The Real Research, Explained Simply",
+    "url": "https://uxplanet.org/what-actually-makes-people-happy-the-real-research-explained-simply-39420ac88104?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "Drawing on Harvard's landmark 85-year happiness study and decades of psychology research, this article reveals what genuinely drives human wellbeing\u2014insights directly applicable to designing products that create lasting value rather than superficial engagement.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Splitting atoms & splitting hairs",
+    "url": "https://renderghost.leaflet.pub/3mnxjmjjyyc2y",
+    "source": "Sidebar",
+    "description": "A critical reexamination of atomic design methodology, questioning whether the rigid periodic table framework remains relevant for modern component-driven development. This piece encourages designers to rethink foundational design system philosophies.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Ten years of Terms and Conditions",
+    "url": "https://henryach.com/blog/tsandcs/",
+    "source": "Sidebar",
+    "description": "A humorous yet poignant personal project documenting a decade of unconsented T&Cs agreements, highlighting a UX dark pattern that affects billions of users. It's a witty commentary on user consent design and the absurdity of current disclosure practices.",
+    "read_time": "4 min"
+  }
+]
