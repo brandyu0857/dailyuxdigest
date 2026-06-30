@@ -1,0 +1,59 @@
+[
+  {
+    "title": "v0 Design Systems 2.0",
+    "url": "https://www.producthunt.com/products/v0",
+    "source": "Product Hunt",
+    "description": "Vercel's v0 Design Systems 2.0 update enables designers and developers to build directly with custom components, colors, fonts, and patterns, significantly accelerating design-to-code workflows. This tool launch represents a major step in bridging design and development tooling.",
+    "read_time": "3 min",
+    "featured": true
+  },
+  {
+    "title": "Figma just made your design system debt everyone's problem. Now use it.",
+    "url": "https://uxdesign.cc/figma-just-made-your-design-system-debt-everyones-problem-now-use-it-2e9ecb6272bf?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "Figma's Config 2026 announcements have fundamentally shifted design system accountability across organizations, making what was once a quiet design problem now visible to leadership and stakeholders. This article breaks down how new tooling changes the organizational dynamics of design systems and what teams need to do to capitalize on this moment.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "What does \"good enough\" actually mean for designers now?",
+    "url": "https://uxdesign.cc/what-does-good-enough-actually-mean-for-designers-now-ee1604bf79b7?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This essay reframes the concept of 'good enough' as a legitimate design skill rather than a compromise, addressing the modern pressures designers face to balance perfectionism with pragmatism. It challenges conventional thinking about design quality and offers perspective on delivering value within real-world constraints.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "You don't design the interface anymore. You design the deciding.",
+    "url": "https://uxdesign.cc/you-dont-design-the-interface-anymore-you-design-the-deciding-835c01982ead?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This thought-provoking piece explores how AI agents are fundamentally changing design discipline, shifting focus from interface creation to defining what decisions agents are allowed to make. It's essential reading for designers adapting to an AI-driven product landscape.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Time is Money: How Pre-Validated UX Research Protects Your Resources & Budget",
+    "url": "https://baymard.com/blog/ux-research-cost-saving-calculator",
+    "source": "Baymard Institute",
+    "description": "Baymard Institute demonstrates the concrete financial impact of conducting proper UX research upfront, showing how investment in validation prevents costly design iterations and resource waste. This data-driven guide includes a cost-saving calculator to help teams justify research budgets.",
+    "read_time": "9 min"
+  },
+  {
+    "title": "Popular design trends that destroy conversion",
+    "url": "https://uxdesign.cc/popular-design-trends-that-destroy-conversion-3b3a964827cb?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This critical analysis exposes how trendy design aesthetics often undermine actual business goals, particularly on sales-driven websites that drift into abstraction at the expense of clarity and conversions. Practical guidance for designers balancing visual trends with performance metrics.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "The problem is prompt debt",
+    "url": "https://www.dbreunig.com/2026/06/22/the-problem-is-prompt-debt.html",
+    "source": "Sidebar",
+    "description": "This article introduces the concept of 'prompt debt'\u2014how relying on plain-English prompts for AI systems creates technical and behavioral debt that accumulates over time, degrading system performance and reliability. A crucial read for product teams leveraging AI agents and generative tools.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "You're missing the point; this is your real value in tech companies",
+    "url": "https://uxdesign.cc/youre-missing-the-point-this-is-your-real-value-in-tech-companies-f56d6d96b54b?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A timely piece examining how designers can maintain influence and relevance in tech organizations by focusing on expertise and strategic decision-making rather than trending tools. Essential perspective for design leaders navigating rapid industry changes and AI disruption.",
+    "read_time": "7 min"
+  }
+]
