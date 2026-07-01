@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Figma just made your design system debt everyone's problem",
+    "url": "https://uxdesign.cc/figma-just-made-your-design-system-debt-everyones-problem-now-use-it-2e9ecb6272bf",
+    "source": "Sidebar",
+    "description": "A critical take on how Figma's latest announcement at Config 2026 is forcing organizations to address accumulated design system debt by making it visible and urgent across teams. Important for design leaders managing the business case for design system investment.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "39 principles for designing human-AI interaction",
+    "url": "https://uxdesign.cc/39-principles-for-designing-human-ai-interaction-87be5fabdbbe?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A comprehensive framework for designing AI interfaces that prioritize appropriate user reliance, control, and transparency. As AI becomes embedded in products, these 39 principles provide actionable guidance for creating interfaces that balance automation with human oversight and build user trust.",
+    "read_time": "10 min"
+  },
+  {
+    "title": "Why Accessibility Is An Operational Capability, Not A Feature",
+    "url": "https://smashingmagazine.com/2026/06/why-accessibility-operational-capability-not-feature/",
+    "source": "Smashing Magazine",
+    "description": "This article reframes accessibility from a compliance checklist to a core operational requirement that teams must integrate into their development velocity and quality standards. It's essential reading for product leaders who want to scale design without compromising usability or inclusion.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Why systems thinking is becoming the most important UX skill",
+    "url": "https://uxdesign.cc/why-systems-thinking-is-becoming-the-most-important-ux-skill-688136ed1ce2?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "As context-aware applications become the norm, designers must shift from optimizing individual screens to orchestrating entire systems of interaction. This piece explores why systems-level thinking is now critical for creating coherent, intelligent user experiences.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "The organizational cost of low taste",
+    "url": "https://uxdesign.cc/the-organizational-cost-of-low-taste-135cb8b10c34",
+    "source": "Sidebar",
+    "description": "A sharp examination of how weak aesthetic judgment in organizations leads to mediocre design decisions that compound over time, turning activity into mere motion rather than progress. Essential for design leaders advocating for quality standards.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "The 4 predators sabotaging your product team",
+    "url": "https://uxdesign.cc/the-4-predators-sabotaging-your-product-team-3dce31215ff4?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "An insightful look at the organizational and strategic obstacles that undermine product teams from within, using vivid metaphors to expose how these 'predators' prevent teams from shipping great products. A must-read for product managers and design leaders.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Game UX: the cursor that wasn't supposed to be there",
+    "url": "https://uxdesign.cc/game-ux-the-cursor-that-wasnt-supposed-to-be-there-f9369dafc451?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A data-driven investigation into a specific console gaming design pattern, revealing surprising insights from ten years of releases about what users actually want versus design assumptions. Demonstrates the power of research-backed UX decisions in interactive media.",
+    "read_time": "9 min"
+  },
+  {
+    "title": "Designed for a Dead Language",
+    "url": "https://alistapart.com/article/designed-for-a-dead-language/",
+    "source": "A List Apart",
+    "description": "This thought-provoking essay traces how modern language-learning apps inherited pedagogical methods designed for Latin centuries ago, revealing how legacy thinking perpetuates in contemporary product design. A valuable lesson in questioning inherited assumptions.",
+    "read_time": "7 min"
+  }
+]
