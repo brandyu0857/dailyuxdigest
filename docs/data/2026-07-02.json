@@ -1,0 +1,59 @@
+[
+  {
+    "title": "39 principles for designing human-AI interaction",
+    "url": "https://uxdesign.cc/39-principles-for-designing-human-ai-interaction-87be5fabdbbe",
+    "source": "UX Collective",
+    "description": "A comprehensive framework for designing AI interfaces that balance user control, transparency, and appropriate autonomy. This applied methodology is essential for designers navigating the rapid integration of AI into products and services.",
+    "read_time": "8 min",
+    "featured": true
+  },
+  {
+    "title": "Designing services for people who've lost trust online",
+    "url": "https://designnotes.blog.gov.uk/2026/06/23/designing-services-for-people-whove-lost-trust-online/",
+    "source": "Gov.uk Design Notes",
+    "description": "Practical guidance on rebuilding user trust for those affected by online scams when designing public services. This timely research addresses a critical accessibility and inclusion challenge in modern digital design.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "AI personality is a design problem",
+    "url": "https://uxdesign.cc/ai-personality-is-a-design-problem-58fbc7926a3d?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Explores how AI personality traits emerge as unintended consequences of alignment work, and why designers should deliberately shape this interface layer. A thought-provoking perspective on the hidden design decisions in AI systems.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "On the semantic web",
+    "url": "https://karlkoch.me/writing/on-the-semantic-web",
+    "source": "Karl Koch",
+    "description": "A deep dive into how native HTML elements provide built-in behavior, accessibility, and platform adaptation before any styling is applied. Essential reading for designers and developers committed to accessible, resilient design.",
+    "read_time": "9 min"
+  },
+  {
+    "title": "GEO: Getting Cited by the Machines",
+    "url": "https://uxplanet.org/geo-get-cited-by-ai-32f2f2bf2387?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "Reveals how AI-powered search is shifting traffic patterns\u2014most searches now end without clicks, with only cited sources getting visibility. Critical insights for content strategy and SEO in the age of generative AI.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Context Engineering for Claude Code",
+    "url": "https://uxplanet.org/context-engineering-for-claude-code-69d5590469a3?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "Practical guide to optimizing how you work with Claude Code, going beyond simple prompting to unlock better results. Valuable for designers and developers adopting AI coding assistants in their workflows.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "How to design arrows",
+    "url": "https://pangrampangram.com/blogs/journal/arrows",
+    "source": "Pangram Pangram",
+    "description": "A detailed exploration of the deceptively complex challenge of designing arrow glyphs that work across contexts and scales. A masterclass in attention to detail and systematic thinking about seemingly simple design elements.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Repricing of software engineering labor",
+    "url": "https://blog.grandimam.com/posts/repricing-of-software-engineering-labor/",
+    "source": "Grand Imam",
+    "description": "Market analysis showing how AI is reshaping tech labor economics\u2014collapsing generalist premiums while elevating specialized expertise. Critical context for product teams and designers understanding the broader industry transformation.",
+    "read_time": "7 min"
+  }
+]
