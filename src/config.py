@@ -25,6 +25,7 @@ RSS_FEEDS = [
 
     # Design Tools & Systems
     "https://www.figma.com/blog/feed/",
+    "https://www.figma.com/release-notes/feed/atom.xml",
     "https://medium.com/sketch-app-sources/feed",
     "https://news.design.systems/issues.rss",
 
