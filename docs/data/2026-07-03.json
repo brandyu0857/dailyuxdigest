@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Principles in motion",
+    "url": "https://www.figma.com/blog/principles-in-motion/",
+    "source": "Figma Blog",
+    "description": "Figma explores how motion design fundamentally changes the designer's medium by introducing time as a core variable, transforming movement from decoration into meaningful communication. Practical insights for designing more effective and intentional animations.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "You design it. Then what? A clear map of the Figma-to-code AI mess",
+    "url": "https://uxdesign.cc/you-design-it-then-what-a-clear-map-of-the-figma-to-code-ai-mess-954a4084175f?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This guide demystifies the confusing landscape of AI-powered design-to-code workflows, cutting through the hype to explain how design tools actually integrate with code generation pipelines. Essential reading for designers navigating the tools and processes that will define their workflow in 2026.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Matching AI Modality To User Intent: Designing The Right Interface",
+    "url": "https://smashingmagazine.com/2026/07/matching-ai-modality-user-intent-designing-right-interface/",
+    "source": "Smashing Magazine",
+    "description": "Challenges the overreliance on chat interfaces for AI by arguing designers should match interaction modality to user intent rather than defaulting to conversational UI. A thought-provoking perspective on rethinking how we design AI experiences beyond the chatbot paradigm.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Did good UX break the job market?",
+    "url": "https://uxdesign.cc/did-good-ux-break-the-job-market-546438288589?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "Examines the unintended consequence of frictionless job applications: a 15% interview rate a decade ago has plummeted as easier application processes flood employers with candidates. A critical analysis of how UX improvements can create systemic market problems.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Legibility of effort",
+    "url": "https://eieio.games/blog/legibility-of-effort/",
+    "source": "Sidebar",
+    "description": "Explores how LLMs have fundamentally altered our ability to assess effort and authenticity at a glance\u2014a shift with profound implications for design, work quality, and trust in digital products. A philosophical take on a problem that will reshape how we evaluate design work.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "The seven AI tools I actually use and when",
+    "url": "https://uxdesign.cc/the-seven-ai-tools-i-actually-use-and-when-june-2026-edition-a0baca87994e?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A practical breakdown of a real-world AI toolstack for designers, revealing which tools excel at specific tasks and when to swap between them rather than relying on a single solution. Immediately actionable guidance for designers looking to optimize their AI-assisted workflow.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "How designers need to change for an AI-powered world",
+    "url": "https://uxdesign.cc/how-designers-need-to-change-for-an-ai-powered-world-b51c3c195954?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "Synthesizes key themes from a panel discussion on evolving designer skills and mindsets as AI reshapes the industry, providing perspective on what competencies matter most in an AI-augmented design landscape. A timely roadmap for career development and staying relevant.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Artemis II Photo Timeline",
+    "url": "https://artemistimeline.com/#jeremy-hansen-suited-up-and-ready",
+    "source": "Sidebar",
+    "description": "An exemplary interactive experience showcasing how thoughtful information design and scrubbing interactions can transform a linear timeline into an engaging, explorable archive of NASA's lunar mission. A masterclass in functional design meeting storytelling.",
+    "read_time": "4 min"
+  }
+]
