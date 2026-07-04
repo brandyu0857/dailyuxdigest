@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Stop Reporting UX Activity and Report Business Outcomes",
+    "url": "https://www.nngroup.com/articles/reporting-ux-business-outcomes/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "NN/g latest articles and announcements",
+    "description": "UX teams often struggle to prove their value by focusing on activity metrics instead of business impact. This article reveals how to reframe UX reporting around revenue, retention, cost, risk, and speed to secure stakeholder buy-in and resources.",
+    "read_time": "7 min",
+    "featured": true
+  },
+  {
+    "title": "Users Don't Need More Tools: They Need Seamless Integrations",
+    "url": "https://smashingmagazine.com/2026/07/users-dont-need-more-tools-need-seamless-integrations/",
+    "source": "Smashing Magazine",
+    "description": "Feature bloat is killing user experience\u2014what matters is how tools connect to users' existing workflows and mental models. This deep dive challenges the feature-addition trap and advocates for thoughtful integration design as the real competitive advantage.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Crafting AI Explanations for Every Role in Your Enterprise",
+    "url": "https://www.nngroup.com/articles/crafting-ai-explanations/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "NN/g latest articles and announcements",
+    "description": "As AI becomes embedded in enterprise tools, one-size-fits-all explanations fail\u2014executives, analysts, and end-users each need tailored clarity. This guide helps designers create role-specific AI transparency to build trust and adoption across organizations.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "I've Watched 10 UI Trends Rise and Die. Most Designers Still Can't Name Half of Them.",
+    "url": "https://uxplanet.org/ui-design-styles-explained-670cfabdf430?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "UI design styles cycle through history faster than most designers realize, yet many remain invisible in everyday products. This historical survey demystifies forgotten trends and reveals the patterns behind design evolution, helping designers avoid cyclical mistakes.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Fintech Engineering Handbook",
+    "url": "https://w.pitula.me/fintech-engineering-handbook/",
+    "source": "Sidebar",
+    "description": "Building financial software requires different design and engineering discipline than consumer apps\u2014this handbook outlines proven patterns for handling money, security, and reliability. Essential reading for anyone designing or building in fintech.",
+    "read_time": "12 min"
+  },
+  {
+    "title": "Glaze by Raycast",
+    "url": "https://www.producthunt.com/products/glaze-4",
+    "source": "Product Hunt",
+    "description": "Raycast's Glaze lets users create native Mac apps through conversational AI without coding expertise, representing a significant shift toward generative UI development. This tool signals how AI-assisted app creation could democratize desktop software development.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Goals from Loops",
+    "url": "https://www.producthunt.com/products/loops",
+    "source": "Product Hunt",
+    "description": "Marketing teams struggle to connect campaigns to actual business outcomes\u2014Goals from Loops bridges that gap by measuring whether email drives desired results. This addresses a critical pain point in marketing accountability and ROI tracking.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Google Reader was building the wrong future",
+    "url": "https://buttondown.com/blog/google-reader",
+    "source": "Sidebar",
+    "description": "A retrospective on why Google Reader failed despite pioneering direct creator-to-audience connections\u2014offering lessons about platform architecture and user needs. This essay explores how even innovative products can miss the mark when they misalign with user behavior.",
+    "read_time": "9 min"
+  }
+]
