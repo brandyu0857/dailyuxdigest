@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Vibe Coding Is a Dead End",
+    "url": "https://uxplanet.org/vibe-coding-is-a-dead-end-01f10ba40f46?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "A critical analysis of the 'vibe coding' trend dominating 2026, exposing why intuition-driven approaches without structure ultimately fail in professional development. Perfect for designers evaluating AI-assisted coding tools.",
+    "read_time": "5 min",
+    "featured": true
+  },
+  {
+    "title": "Never mind the prompts, here's the thinking",
+    "url": "https://uxdesign.cc/never-mind-the-prompts-heres-the-thinking-f4af4b92155f?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A design studio rebuilt its entire process around AI over a year, discovering that speed wasn't the real benefit\u2014deeper thinking and problem-solving were. This candid reflection reveals the hidden costs and true value of AI integration in creative work.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "The face was never the point",
+    "url": "https://uxdesign.cc/the-face-was-never-the-point-7f186f266e56?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This essay challenges designers' assumptions about creating animacy and emotional connection in interfaces, arguing it's triggered rather than designed. Essential reading for anyone working with interactive experiences or AI personas.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "The Fable 5 Blackout: What It Proved About Running Claude Code and Hermes Together",
+    "url": "https://uxplanet.org/the-fable-5-blackout-what-it-proved-about-running-claude-code-and-hermes-together-6d35b65397b9?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "A case study analyzing a major platform outage that demonstrates critical patterns in AI architecture and vendor dependency. Vital for product leaders evaluating infrastructure risks in AI-driven systems.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "CircleChat",
+    "url": "https://www.producthunt.com/products/circlechat",
+    "source": "Product Hunt",
+    "description": "A new tool enabling AI agents to collaborate with human oversight through familiar interfaces (Slack, task boards, management systems). Represents an emerging product category for human-AI team workflows.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Termi Protocol",
+    "url": "https://www.producthunt.com/products/termi-protocol",
+    "source": "Product Hunt",
+    "description": "A visualization tool that lets teams watch AI coding agents build systems in real-time within 3D environments. Bridges the transparency gap in AI-assisted development processes.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Pennen",
+    "url": "https://www.producthunt.com/products/pennen",
+    "source": "Product Hunt",
+    "description": "A minimal journaling app offering one quiet handwritten page daily without algorithmic feeds or AI recommendations. Reflects growing user demand for intentional, distraction-free digital spaces.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "Caveman for Claude Code",
+    "url": "https://uxplanet.org/caveman-for-claude-code-cfa0b0b35240?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "A practical guide for implementing a specific approach to Claude Code workflows, including setup and use cases. Useful reference for developers and teams adopting AI coding assistants.",
+    "read_time": "4 min"
+  }
+]
