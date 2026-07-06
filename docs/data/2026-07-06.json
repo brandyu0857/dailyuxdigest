@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Design systems are no longer optional",
+    "url": "https://mandy.dev/posts/design-systems-ai/",
+    "source": "Sidebar",
+    "description": "As AI agents increasingly generate user interfaces autonomously, design systems have become critical guardrails rather than nice-to-haves. This essay explores why codebases deteriorate rapidly without canonical constraints and how teams must adapt their design infrastructure for the AI era.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "Understanding is the new bottleneck",
+    "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck.html",
+    "source": "Sidebar",
+    "description": "With AI agents capable of writing code faster than humans can review it, comprehension has become the limiting factor in development. This piece offers practical techniques for efficiently understanding and validating AI-generated work at scale.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Design as a function",
+    "url": "https://uxdesign.cc/design-as-a-function-5c236e28f353?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "The article challenges traditional design thinking by reframing design as a function of systems rather than isolated pixels. Organizations that adopt this perspective will gain competitive advantage in building scalable, intelligent products.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Design system debt, game UX, 39 principles for AI interaction",
+    "url": "https://uxdesign.cc/design-system-debt-game-ux-39-principles-for-ai-interaction-dab9500dc926?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This curated resource roundup tackles the evolving challenge of design system maintenance in collaborative environments, explores game-inspired UX patterns, and synthesizes key principles for designing effective AI interactions\u2014three critical areas for modern product teams.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Wait, who made this?",
+    "url": "https://uxdesign.cc/wait-who-made-this-705a30d74220?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This essay examines the rising importance of creative provenance in the age of AI-generated content, exploring how authenticity and attribution will shape user trust and brand perception in digital products.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Code is the easy part",
+    "url": "https://swizec.com/blog/code-is-the-easy-part-or-how-we-refactored-half-the-business-to-fix-a-janky-script/",
+    "source": "Sidebar",
+    "description": "A practical case study revealing how fixing a seemingly minor technical issue cascaded into organizational restructuring, illustrating that business architecture and process design often matter more than code quality in solving real problems.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Astryx",
+    "url": "https://www.producthunt.com/products/meta",
+    "source": "Product Hunt",
+    "description": "Astryx is an open-source, agent-ready design system that bridges the gap between traditional design systems and AI-driven development. This tool enables teams to maintain design consistency while leveraging autonomous agents for interface generation.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "MCP Optimization Best Practices",
+    "url": "https://uxplanet.org/mcp-optimization-best-practices-181dc750a790?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "Following the API revolution, Model Context Protocol (MCP) is emerging as essential infrastructure for B2B and B2C products. This guide outlines best practices for optimizing MCP implementations to improve product performance and developer experience.",
+    "read_time": "6 min"
+  }
+]
