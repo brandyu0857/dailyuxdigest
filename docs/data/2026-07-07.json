@@ -1,0 +1,59 @@
+[
+  {
+    "title": "What is product craft in the age of AI and design systems?",
+    "url": "https://bencallahan.com/product-craft-in-the-age-of-ai-and-design-systems",
+    "source": "Sidebar",
+    "description": "As design systems commoditize baseline quality and AI tools democratize production, this essay explores what distinguishes exceptional product work in the modern era. It examines how craft now lives beyond the design system's floor.",
+    "read_time": "7 min",
+    "featured": true
+  },
+  {
+    "title": "What the Lean Startup still teaches us about generative AI",
+    "url": "https://uxdesign.cc/what-the-lean-startup-still-teaches-us-about-generative-ai-2d1505fe1db1?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "Most enterprises are repeating the exact mistakes the Lean Startup methodology was designed to prevent when building generative AI programs. This essay reveals how companies can shift their approach by applying fifteen-year-old principles to modern AI development, potentially saving billions in wasted investment.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "5 UX laws every developer must know",
+    "url": "https://uxplanet.org/5-ux-laws-every-developer-must-know-3ee39eff2ec2?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "This practical guide challenges developers to move beyond treating UX as superficial styling, presenting core UX principles that should inform architecture and implementation decisions. Understanding these laws bridges the critical gap between developer and designer mindsets.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Design engineering",
+    "url": "https://marcelochaman.ca/s/design-engineering",
+    "source": "Sidebar",
+    "description": "A comprehensive exploration of design engineering as a discipline\u2014what it is, how it has evolved, and where the field is heading. Essential reading for understanding the convergence of design and engineering in contemporary product development.",
+    "read_time": "9 min"
+  },
+  {
+    "title": "Claude Code Has a Trust Problem",
+    "url": "https://uxplanet.org/claude-code-has-a-trust-problem-8376e40c9530?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "As Claude Code becomes one of the most powerful AI tools for builders, critical questions arise about reliability and safety. This article examines the trust gaps and implications for designers and developers relying on AI-generated code in production.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Should you really aim to be the best?",
+    "url": "https://uxdesign.cc/should-you-really-aim-to-be-the-best-a570d43fae37?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "Research reveals that competing as the strongest in the room can either sharpen or diminish performance\u2014the outcome depends on controllable factors. This data-driven piece offers practical insights for designers navigating competitive environments and personal growth.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "The promotion that didn't take",
+    "url": "https://uxdesign.cc/the-promotion-that-didnt-take-adb678a7ec74?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A revealing case study showing that job titles and actual competency levels often diverge significantly\u2014nearly half of designers in this study misaligned with their badge. This offers valuable perspective for design leaders on promotion equity and capability assessment.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "The Hairline Border Trick: One CSS Property Doing Three Jobs",
+    "url": "https://uxplanet.org/the-css-hairline-border-trick-4c1d7c19dd05?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "A practical deep-dive into a deceptively simple CSS technique used by leading design-forward companies like Linear, Stripe, and Vercel. This tip-and-trick article is immediately actionable for design engineers seeking pixel-perfect, performant implementations.",
+    "read_time": "4 min"
+  }
+]
