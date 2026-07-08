@@ -1,0 +1,59 @@
+[
+  {
+    "title": "A global workspace in language models",
+    "url": "https://www.anthropic.com/research/global-workspace",
+    "source": "Anthropic Research",
+    "description": "Anthropic's latest interpretability research reveals how Claude's internal reasoning works through a 'global workspace' model, advancing our understanding of AI cognition. This foundational research has implications for building more transparent, trustworthy AI tools in design workflows.",
+    "read_time": "9 min",
+    "featured": true
+  },
+  {
+    "title": "Designing in regulated industries",
+    "url": "https://uxdesign.cc/when-compliance-is-the-brief-a-creative-practitioners-survival-guide-to-designing-in-regulated-f0759cd3732c?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A practical survival guide for shipping human-centered design when legal compliance requirements are equally important as user needs. This article addresses a real challenge many designers face in finance, healthcare, and other regulated sectors, offering strategies to balance creativity with constraints.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Never mind the prompts, here's the thinking",
+    "url": "https://uxdesign.cc/never-mind-the-prompts-heres-the-thinking-f4af4b92155f",
+    "source": "UX Collective - Medium",
+    "description": "A candid retrospective on rebuilding an entire design studio's process around AI, revealing that the real value wasn't speed but deeper thinking and quality. This challenges the common assumption that AI tools should make designers faster, offering counter-intuitive insights on productivity and creativity.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "The 15-minute AI stress test every designer can run",
+    "url": "https://uxdesign.cc/the-15-minute-ai-stress-test-every-designer-can-run-ce8de95ff5c9?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "Introduces the Spaghetti Table Protocol as a practical, reproducible test for evaluating AI design tools' real-world performance and limitations. With pilot study results comparing GPT-4o, Gemini, and Claude, this provides actionable benchmarks for designers evaluating AI assistants.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "The crisis of the what",
+    "url": "https://uxdesign.cc/the-crisis-of-the-what-d29135a8be59?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A thought-provoking essay on how AI is automating the 'how' of design while shifting focus to the 'what'\u2014strategic judgment and experienced intuition become increasingly valuable. This philosophical piece helps designers understand their evolving role in an AI-augmented industry.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Meet Kirki: WordPress's First Visual Builder With An Infinite Canvas",
+    "url": "https://smashingmagazine.com/2026/07/kirki-wordpress-visual-builder-infinite-canvas/",
+    "source": "Smashing Magazine",
+    "description": "Kirki introduces a paradigm shift for WordPress design by offering freeform, infinite canvas editing instead of traditional box-constrained layouts. This tool update represents a significant UX improvement for web designers and reflects broader trends in design tool evolution.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "How any designer can build a more open design culture at work",
+    "url": "https://uxdesign.cc/how-any-designer-can-build-a-more-open-design-culture-at-work-e74e0925d781?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A practical guide on fostering psychological safety and openness in design teams without needing a formal leadership title. This addresses the human side of design culture and offers actionable strategies for creating collaborative environments that drive better outcomes.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Claude Code Plugins: Practical Guide",
+    "url": "https://uxplanet.org/claude-code-plugins-practical-guide-ff6343c3cbda?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "Explores how Claude Code extends beyond basic coding assistance to become a customizable development environment for team automation. This practical guide shows designers and product teams how to leverage AI for workflow automation and productivity gains.",
+    "read_time": "6 min"
+  }
+]
