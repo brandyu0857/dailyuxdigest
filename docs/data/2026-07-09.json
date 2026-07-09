@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Stop reporting UX activity and report business outcomes",
+    "url": "https://www.nngroup.com/articles/reporting-ux-business-outcomes/",
+    "source": "Nielsen Norman Group",
+    "description": "UX teams often measure activity metrics instead of business impact, missing opportunities to demonstrate value and secure resources. This article explains how to shift from reporting design tasks to tracking revenue, cost, risk, and retention outcomes that executives actually care about.",
+    "read_time": "7 min",
+    "featured": true
+  },
+  {
+    "title": "98% isn't very much",
+    "url": "https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/",
+    "source": "Sidebar",
+    "description": "A critical perspective on why 98% browser support metrics create a false sense of inclusivity while still excluding millions of users worldwide. This challenges designers to think more carefully about accessibility and edge cases in their support decisions.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "The revolution was the easy part",
+    "url": "https://uxdesign.cc/the-revolution-was-the-easy-part-c753340e3e22?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A thoughtful meditation on how product launches are just the beginning\u2014the real work lies in the sustained evolution and refinement that follows. This piece challenges the myth that announcements equal success and explores what true product maturity requires.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Most AI work can wait",
+    "url": "https://tomtunguz.com/ai-execution-routing/",
+    "source": "Sidebar",
+    "description": "An important counter-narrative on AI implementation: most tasks don't require expensive frontier models and benefit more from thoughtful routing strategies than from chasing the latest models. Practical wisdom for product teams evaluating AI integration.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Losing the spark in their eyes",
+    "url": "https://uxdesign.cc/losing-the-spark-in-their-eyes-0ef198ab1499?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A poignant exploration of what human creativity and presence we risk losing through overreliance on AI tools in our daily work. This thought-provoking essay challenges designers to reflect on the cost of delegation versus the value of authentic human engagement.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Paper Shaders",
+    "url": "https://shaders.paper.design/",
+    "source": "Sidebar",
+    "description": "Paper releases an ultra-fast, zero-dependency shader library available as React components and raw GLSL, enabling designers and developers to add sophisticated visual effects without heavy dependencies. A practical tool that democratizes advanced graphics capabilities.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Designing for an Identity That \"ShapeShifts\"",
+    "url": "https://www.awwwards.com/designing-for-an-identity-that-shapeshifts.html",
+    "source": "Awwwards",
+    "description": "A case study on designing flexible, adaptive brand identities that resist rigid categorization while maintaining coherence across contexts. Relevant for modern design challenges where brands need fluidity without losing recognition.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Astryx Design System",
+    "url": "https://astryx.atmeta.com/",
+    "source": "Sidebar",
+    "description": "An open-source design system that's fully customizable and AI-agent-ready, representing the next generation of design infrastructure built for both human and machine collaboration. A significant release for teams modernizing their design workflow.",
+    "read_time": "4 min"
+  }
+]
