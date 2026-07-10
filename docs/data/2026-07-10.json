@@ -1,0 +1,59 @@
+[
+  {
+    "title": "DesignOps in the age of AI: when governance becomes orchestration",
+    "url": "https://uxdesign.cc/designops-in-the-age-of-ai-when-governance-becomes-orchestration-7b946ceea70f?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "This forward-thinking piece reframes DesignOps from traditional governance to AI orchestration, exploring how teams can ethically manage human-AI collaboration at scale. It's essential reading for design leaders navigating organizational transformation.",
+    "read_time": "8 min",
+    "featured": true
+  },
+  {
+    "title": "Designing For Distressed Users: Why Mental Health Apps Shouldn't Follow Every UI Fashion",
+    "url": "https://smashingmagazine.com/2026/07/designing-distressed-users-mental-health-apps-ui/",
+    "source": "Smashing Magazine",
+    "description": "This article challenges designers to prioritize user wellbeing over trendy UI patterns in mental health applications. It explores how cognitive strain and trust-building should guide design decisions for vulnerable users, offering practical guidance that extends beyond the health sector.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Claude Code Workflow Tips After a Year of Daily Use",
+    "url": "https://uxplanet.org/claude-code-workflow-tips-after-a-year-of-daily-use-3dd1acdb1b6d?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "A senior product designer shares battle-tested strategies for integrating AI coding assistants into real workflows, providing practical, actionable techniques that go beyond theoretical concepts. Perfect for designers exploring AI-augmented design processes.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "I think I have LLM burnout",
+    "url": "https://www.alecscollon.com/blog/llm-burnout/",
+    "source": "Sidebar",
+    "description": "This candid personal essay explores the growing fatigue from AI-generated content saturation, touching on important questions about authenticity and creative labor. It resonates with designers navigating an increasingly AI-dependent industry.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Ease in, ease out, and everything between",
+    "url": "https://www.carmenansio.com/articles/css-easing-explained/",
+    "source": "Sidebar",
+    "description": "A practical guide that demystifies CSS easing curves by connecting them to familiar design tool interactions, making motion design principles accessible to both designers and developers. Essential for creating polished, intentional UI animations.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "AI has torched the market for junior programmers",
+    "url": "https://seldo.com/posts/ai-has-torched-the-market-for-junior-programmers/",
+    "source": "Sidebar",
+    "description": "A critical analysis of AI's impact on entry-level tech roles and the emergence of non-traditional developer pathways, raising important questions about industry gatekeeping and accessibility. Relevant for design leaders thinking about team composition and hiring.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Getdesign.md",
+    "url": "https://getdesign.md/",
+    "source": "Sidebar",
+    "description": "An innovative open-source resource providing independent design system analyses from popular websites as references for coding agents and teams. A practical tool for reverse-engineering design patterns and maintaining consistency across projects.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Echo chamber: a healthy public square",
+    "url": "https://echo.logicaleap.com/?e=1.4&a=0&rho=0.1&h=0.8&n=150&od=6&seed=42&topo=ba&b=0&k=8&t=random&d=0&bp=1&co=1&sp=0&at=0&in=0&rl=0",
+    "source": "Sidebar",
+    "description": "An interactive data visualization that demonstrates how information bubbles form and how easily groups polarize, offering valuable insights for product designers building community features or content platforms. A compelling visual exploration of social dynamics.",
+    "read_time": "4 min"
+  }
+]
