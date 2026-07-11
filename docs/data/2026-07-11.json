@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Design-System Maturity: A 6-Dimension Framework",
+    "url": "https://www.nngroup.com/articles/design-system-maturity/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "Nielsen Norman Group",
+    "description": "This maturity model provides a structured way to assess your design system's current health across six dimensions and prioritize improvements. A practical framework for design leaders evaluating system effectiveness and planning roadmaps.",
+    "read_time": "7 min",
+    "featured": true
+  },
+  {
+    "title": "From Kickoff To First Concept: How To Turn Brand Strategy Into Visual Direction",
+    "url": "https://smashingmagazine.com/2026/07/how-turn-brand-strategy-into-visual-direction/",
+    "source": "Smashing Magazine",
+    "description": "Learn how to bridge the gap between brand strategy and visual design by mastering the critical pre-concept phase. This guide reveals the research questions and hidden assumptions that lead to stronger visual concepts before any design tool is opened.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "The 5 Qualities of Site-Specific AI Chatbots",
+    "url": "https://www.nngroup.com/articles/dimensions-of-ai-chatbots/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "Nielsen Norman Group",
+    "description": "Discover the five key dimensions\u2014handoff willingness, flexibility, proactivity, emotional responsiveness, and transparency\u2014that separate trustworthy AI chatbots from frustrating ones. Understanding these qualities is essential for designing AI experiences that users actually want to interact with.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "How to Stop Claude Code from Ruining Your Product Design",
+    "url": "https://uxplanet.org/how-to-stop-claude-code-from-ruining-your-product-design-7fb10c3f5749?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "As AI tools like Claude Code make it tempting to automate entire design processes, this essay explores the risks of over-relying on generated designs and how to maintain human-centered design thinking. Critical reading for product designers navigating AI-assisted workflows.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "7 Design Rules That Take 10 Minutes to Learn and Fix Your UI Forever",
+    "url": "https://uxplanet.org/design-rules-to-learn-ui-ux-8be82e04a835?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "A practical guide distilling fundamental design principles that immediately elevate UI work beyond functional correctness. Perfect for designers seeking quick wins in visual polish and user experience refinement.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Ship OS by Notion",
+    "url": "https://www.producthunt.com/products/notion",
+    "source": "Product Hunt",
+    "description": "Notion introduces an agent-native operating system designed to streamline software development workflows. This major product launch signals a shift toward AI-powered collaboration tools that integrate design, development, and product management.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "ChatGPT Work",
+    "url": "https://www.producthunt.com/products/chatgpt-work",
+    "source": "Product Hunt",
+    "description": "OpenAI's new enterprise-focused offering aims to become the central partner for ambitious team projects. A significant launch that impacts how product teams will leverage AI for collaborative work and decision-making.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Can Claude Fable 5 Replace Product Designers?",
+    "url": "https://uxplanet.org/can-claude-fable-5-replace-product-designers-5783b39e67f8?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "A thought-provoking analysis examining whether advanced AI models can truly replicate the strategic thinking and human judgment required in product design. Essential perspective for designers concerned about the future of the profession and the actual capabilities of AI tools.",
+    "read_time": "7 min"
+  }
+]
