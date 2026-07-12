@@ -1,0 +1,59 @@
+[
+  {
+    "title": "The interface has left the building",
+    "url": "https://uxdesign.cc/the-interface-has-left-the-building-8fdb558d33a9?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A thought-provoking exploration of how chat, voice, and agentic AI are fundamentally reshaping UX design principles and the role of traditional interfaces. This essay challenges designers to reconsider core assumptions about how users interact with products in an AI-first world.",
+    "read_time": "7 min",
+    "featured": true
+  },
+  {
+    "title": "Did you verify that \u2014 or was it just too easy to believe?",
+    "url": "https://uxdesign.cc/did-you-verify-that-or-was-it-just-too-easy-to-believe-664ff017a1a1?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A critical examination of misinformation and cognitive bias in the digital age, using a fake quote as a case study for how easily false narratives spread. Essential reading for designers building information systems and understanding the responsibility they carry in shaping public discourse.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Craft still matters, but it's about outcomes",
+    "url": "https://uxdesign.cc/craft-still-matters-but-its-not-about-pixels-anymore-ai-can-help-you-keep-it-e542cac33d12?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "An insightful perspective on how AI is shifting design craft from pixel-perfect production to strategic judgment and decision-making. Argues that designers can leverage AI tools to focus on what truly matters: outcomes and intentional design judgment.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "The Kintsugi problem",
+    "url": "https://uxdesign.cc/the-kintsugi-problem-7f5e5cbfb442?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A profound meditation on design decision-making that reveals how the most important choices happen not during smooth operation, but when systems break down. This essay explores how constraints and failures can lead to better, more thoughtful design.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "How to Design a Production-Ready Dashboard with Claude Code",
+    "url": "https://uxplanet.org/how-to-design-a-production-ready-dashboard-with-claude-code-9a78c4585981?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "A practical guide demonstrating how AI coding assistants can accelerate dashboard design and development for real-world applications. Offers designers concrete strategies for leveraging Claude Code to move from concept to production faster.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Reshaping Telha Clarke's Digital Home",
+    "url": "https://www.awwwards.com/reshaping-telha-clarkes-digital-home.html",
+    "source": "Awwwards",
+    "description": "A showcase of innovative architectural web design that breaks through the minimalist template trap dominating the industry. Offers practical inspiration for designers seeking to create distinctive, memorable digital experiences.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Basedash SCIM",
+    "url": "https://www.producthunt.com/products/basedash",
+    "source": "Product Hunt",
+    "description": "A new tool addressing the real-world problem of access management at scale as organizations change and grow. This product reflects emerging market needs in identity and access control as teams become more dynamic.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "RepStandard",
+    "url": "https://www.producthunt.com/products/repstandard",
+    "source": "Product Hunt",
+    "description": "Computer vision technology that automates fitness tracking by counting reps in real-time, eliminating manual logging and improving user engagement. Demonstrates how AI can enhance health and wellness product design through invisible automation.",
+    "read_time": "2 min"
+  }
+]
