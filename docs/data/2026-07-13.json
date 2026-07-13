@@ -1,0 +1,59 @@
+[
+  {
+    "title": "When design becomes the organisation, and AI becomes the design",
+    "url": "https://uxdesign.cc/when-design-becomes-the-organisation-and-ai-becomes-the-design-19185e56319a?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A thought-provoking exploration of how AI is fundamentally reshaping both design practice and organizational structure. This essay challenges designers to reconsider their role when machines become the primary design force, making it essential reading for leaders navigating the AI transformation.",
+    "read_time": "7 min",
+    "featured": true
+  },
+  {
+    "title": "Taste cannot be delegated",
+    "url": "https://uxdesign.cc/taste-cannot-be-delegated-1706847a0b4b?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "As AI commoditizes execution, this essay argues that strategic vision and design taste become the true competitive differentiators. It reframes the role of design leaders in an AI-first world, moving focus from tactical execution to intentional decision-making.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "The hard things about design",
+    "url": "https://hvpandya.com/hard-things-about-design",
+    "source": "Sidebar",
+    "description": "An unflinching examination of the hidden costs and challenges in design work that often go unacknowledged in the industry. This honest perspective offers valuable context for designers and stakeholders about why quality design demands more than other disciplines.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "12 Mobile Menu Patterns, and the One Question That Decides Which One You Need",
+    "url": "https://uxplanet.org/mobile-menu-patterns-1cfe8dd9fc55?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "A practical guide that cuts through mobile design confusion by presenting 12 distinct menu patterns and a decision framework to choose the right one. Essential reference material for product designers working on mobile-first experiences.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Flodesk Studio: AI email design, built by real designers",
+    "url": "https://bit.ly/side-flo1",
+    "source": "Sidebar",
+    "description": "A significant product launch combining AI capabilities with human design expertise to democratize email design while maintaining brand quality. This hybrid approach represents a practical solution to how AI can augment rather than replace design work.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "a11y.quest",
+    "url": "https://a11y.quest/",
+    "source": "Sidebar",
+    "description": "An innovative interactive learning tool offering 128 practical questions to master web accessibility standards (WCAG 2.2, ARIA, semantic HTML). This resource fills a critical gap in accessibility education with hands-on practice and clear explanations.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Creative focus",
+    "url": "https://herbertlui.net/creative-focus/",
+    "source": "Sidebar",
+    "description": "A timely analysis of how organizational sprawl dilutes creative vision, using Apple's history as a case study. Highly relevant for design leaders and PMs deciding what to build and what to cut in an increasingly feature-bloated landscape.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "tiks",
+    "url": "https://rexa-developer.github.io/tiks/",
+    "source": "Sidebar",
+    "description": "An innovative tool generating procedural UI sounds through pure synthesis without audio files, opening new possibilities for audio design and accessibility. This represents creative thinking about underutilized design dimensions in digital interfaces.",
+    "read_time": "3 min"
+  }
+]
