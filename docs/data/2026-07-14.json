@@ -1,0 +1,59 @@
+[
+  {
+    "title": "What 32 design leaders do when told to move faster",
+    "url": "https://uxdesign.cc/what-32-design-leaders-do-when-told-to-move-faster-9c8d46c90319?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A practical guide drawing on wisdom from 32 design leaders on maintaining quality while accelerating delivery. This research-backed article provides actionable strategies for teams facing velocity pressures without sacrificing design rigor.",
+    "read_time": "8 min",
+    "featured": true
+  },
+  {
+    "title": "Play and design: in favour of the novel digital experience",
+    "url": "https://uxdesign.cc/play-and-design-in-favour-of-the-novel-digital-experience-ea4798a2f621?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A thought-provoking essay challenging the modern obsession with efficiency in digital design, arguing that we've lost the joy of exploration and discovery. This piece questions whether contemporary product design has optimized us into corners, making a case for intentional inefficiency and playfulness as design virtues.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "The One UX Decision That Makes Your App Feel 10x Faster Without Touching a Single Line of Backend Code",
+    "url": "https://uxplanet.org/loading-states-ux-patterns-9e8d2d45fa3c?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "A practical deep-dive into loading state design patterns that dramatically improve perceived performance and user satisfaction. This immediately applicable guide shows how strategic UX choices can create the illusion of speed without backend optimization.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "The people who will thrive in the AI age",
+    "url": "https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/?gift=bmvUiu0ra57xGI0zOa4kGmINu--qpr8lFEbQYPTWWTQ",
+    "source": "The Atlantic",
+    "description": "A strategic perspective on how AI will reshape work and what human qualities will remain competitive advantages. Essential reading for design leaders thinking about skills, team composition, and career development in an AI-augmented world.",
+    "read_time": "9 min"
+  },
+  {
+    "title": "The future worth building is human",
+    "url": "https://thinkingmachines.ai/blog/the-future-worth-building-is-human/",
+    "source": "Thinking Machines",
+    "description": "A manifesto on building AI systems that augment rather than replace human agency, emphasizing user autonomy and participation. This piece challenges designers to consider whether their AI implementations create active or passive user experiences.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "AX is just the orchestration layer",
+    "url": "https://uxdesign.cc/ax-is-just-the-orchestration-layer-cacb4ed4fe45?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A nuanced analysis of how AI interfaces shift UX complexity from the visual layer to orchestration and system design. This conceptual essay reframes where real design work happens in AI-powered products, essential for design leaders evolving their practice.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Dot Matrix",
+    "url": "https://dotmatrix.zzzzshawn.cloud/",
+    "source": "Sidebar",
+    "description": "A modern React component library providing expressive loading primitives that designers and developers can customize and own. This tool update brings personality to loading states while maintaining developer flexibility through the shadcn registry approach.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Learning to code is still worthwhile",
+    "url": "https://stevekrouse.com/learn-to-code",
+    "source": "Sidebar",
+    "description": "An argument for why designers should learn to code, framing it as a superior medium for understanding systems thinking and mathematical reasoning. This perspective piece makes a compelling case for expanding design literacy beyond traditional tools.",
+    "read_time": "8 min"
+  }
+]
