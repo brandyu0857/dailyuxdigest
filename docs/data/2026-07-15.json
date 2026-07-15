@@ -1,0 +1,59 @@
+[
+  {
+    "title": "No, People Don't Want More AI In Their Life",
+    "url": "https://smashingmagazine.com/2026/07/people-dont-want-more-ai/",
+    "source": "Smashing Magazine",
+    "description": "A critical examination of the disconnect between what companies think users want and what they actually need. This essay challenges the prevailing assumption that AI features are universally desired, offering essential perspective for product leaders building with AI.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "Designing with web standards: The playbook for this AI moment",
+    "url": "https://uxdesign.cc/designing-with-web-standards-the-playbook-for-this-ai-moment-92394884dc0d?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Explores how web standards, built from practitioner experience rather than top-down mandates, provide the foundation for responsible AI integration in design. A timely guide for navigating the AI-assisted design landscape.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Taste cannot be delegated",
+    "url": "https://uxdesign.cc/taste-cannot-be-delegated-1706847a0b4b",
+    "source": "UX Collective",
+    "description": "A thought-provoking essay on how AI threatens to erode design decision-making by committee, but ultimately reveals that creative judgment and intentionality remain irreplaceable human skills in the design process.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Figma to Claude Code: Why the Implementation Doesn't Match Design in Figma",
+    "url": "https://uxplanet.org/figma-to-claude-code-why-the-implementation-doesnt-match-330c59a8b5bf?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "Addresses a critical gap in the AI-to-code workflow between Figma designs and Claude implementations, providing practical insights for designers and developers working with AI code generation tools.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "La Revoltosa: Rebooting a 70-Year-Old Spanish Soda Brand for the Scroll Generation",
+    "url": "https://www.awwwards.com/la-revoltosa-rebooting-a-70-year-old-spanish-soda-brand-for-the-scroll-generation.html",
+    "source": "Awwwards",
+    "description": "A compelling case study in brand modernization, showing how a decades-old Spanish soda brand successfully repositioned itself for digital natives while preserving its cultural heritage and authenticity.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "The terminal became my canvas",
+    "url": "https://uxdesign.cc/the-terminal-became-my-canvas-18af0740f650?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "An unconventional exploration of the terminal as a design medium, examining both its creative potential and inherent limitations in an era where command-line interfaces remain surprisingly relevant to user experience.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Tiptap AI Toolkit",
+    "url": "https://www.producthunt.com/products/tiptap",
+    "source": "Product Hunt",
+    "description": "A powerful new tool enabling AI systems to directly edit and manipulate documents in real-time, opening new possibilities for collaborative AI-assisted content creation and design workflows.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Museum of the Human Web",
+    "url": "https://museum.parallel.ai/introduction",
+    "source": "Sidebar",
+    "description": "A fascinating digital archive preserving the cultural and design artifacts that shaped internet history, offering valuable lessons and nostalgia for understanding how we got here in the digital era.",
+    "read_time": "4 min"
+  }
+]
