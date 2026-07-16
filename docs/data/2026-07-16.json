@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Celebrating 25 years of visual search innovation",
+    "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/",
+    "source": "Google",
+    "description": "Google Images reflects on two decades of visual search evolution and introduces new AI-powered tools for exploring and creating visual content. Valuable case study for how massive-scale UX products adapt over time.",
+    "read_time": "5 min",
+    "featured": true
+  },
+  {
+    "title": "AI systems are demanding new interaction models. Are designers ready?",
+    "url": "https://uxdesign.cc/ai-systems-are-demanding-new-interaction-models-are-designers-ready-d8a95f5e55a9?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "The fundamental paradigm of software interaction is shifting away from traditional click-and-drag patterns as AI systems emerge. This essential read explores what designers need to understand about new interaction models and how to prepare for this significant industry change.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Designers are sharpening knives for the wrong fight",
+    "url": "https://uxdesign.cc/everyones-sharpening-knives-for-the-wrong-fight-56844adad459?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "With AI democratizing the ability to build products, designers are focusing on the wrong battle. This thought-provoking essay challenges the industry to shift its priorities from execution to solving harder, more strategic problems in an AI-enabled world.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "The UX Decisions Hiding in Your Code",
+    "url": "https://uxplanet.org/the-ux-decisions-hiding-in-your-code-52facc8cdb8b?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "UX isn't just in the interface\u2014critical design decisions are embedded throughout your codebase. This practical guide reveals how seemingly technical choices directly impact user experience and conversion, with real examples from signup flows.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "What is this UI element called?",
+    "url": "https://namethatui.com/",
+    "source": "Sidebar",
+    "description": "An interactive tool that teaches designers the proper names, API symbols, and coding prompts for common UI elements. Perfect for bridging the designer-developer communication gap and improving collaboration with AI coding agents.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Punch yourself in the face with reality",
+    "url": "https://adi.bio/reality",
+    "source": "Sidebar",
+    "description": "A provocative essay examining what separates winners from losers in the AI era\u2014the ability to confront uncomfortable truths and adapt quickly. Essential mindset reading for designers and product leaders navigating rapid technological change.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "CLAUDE.md vs DESIGN.md: What to Put in Each for Claude Code",
+    "url": "https://uxplanet.org/claude-md-vs-design-md-what-to-put-in-each-for-claude-code-53647d015bfd?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "A practical guide for designers and developers collaborating with AI coding agents, explaining how to structure documentation for maximum effectiveness. Directly applicable for teams leveraging AI tools in their design-to-development workflow.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "If I want more IRL, I must go AFK",
+    "url": "https://blakewatson.com/journal/if-i-want-more-irl-i-must-go-afk/",
+    "source": "Blake Watson",
+    "description": "A personal essay exploring the tension between digital dependency and real-world connection, with particular relevance for designers building experiences that shape how we spend our time. Offers important perspective on intentional design ethics.",
+    "read_time": "6 min"
+  }
+]
