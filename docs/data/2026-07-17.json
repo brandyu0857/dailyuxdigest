@@ -1,0 +1,59 @@
+[
+  {
+    "title": "AI just called design's bluff",
+    "url": "https://uxdesign.cc/ai-just-called-designs-bluff-2b94bf2f5cae?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A provocative essay examining how AI is dismantling the traditional interface-driven design approach that has dominated for a decade. This piece challenges designers to reconsider their value proposition as generative AI can now handle many routine design tasks, forcing a reckoning about what design truly means.",
+    "read_time": "7 min",
+    "featured": true
+  },
+  {
+    "title": "Design system contracts: the component lives in neither Figma nor code",
+    "url": "https://uxdesign.cc/design-system-contracts-the-component-lives-in-neither-figma-nor-code-3032d94ca067?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "Explores how design systems must evolve to maintain a single source of truth between Figma and code, with AI agents making this architectural shift increasingly urgent. The article reimagines component ownership in modern, AI-native product development workflows.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "From vibe to specs: reclaiming the design process with SAID framework",
+    "url": "https://uxdesign.cc/from-vibe-to-specs-reclaiming-the-design-process-with-said-framework-477a5d0d8932?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "Introduces a practical framework for modernizing design workflows with AI and Git, replacing traditional linear handoffs with continuous, spec-driven iteration. This approach gives designers concrete tools to collaborate with AI agents while maintaining control over the design process.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Against bigness",
+    "url": "https://vaughntan.org/bigness",
+    "source": "Sidebar",
+    "description": "A critical examination of why large organizations struggle to innovate despite claiming to want it, pinpointing organizational decision-making machinery as the culprit. This essay offers valuable perspective on systemic barriers to innovation that leaders should understand.",
+    "read_time": "9 min"
+  },
+  {
+    "title": "Design systems need evals",
+    "url": "https://blog.murphytrueman.com/design-systems-need-evals/",
+    "source": "Sidebar",
+    "description": "Identifies a critical gap in AI-native design workflows: simply training agents on design systems isn't enough without evaluation mechanisms to ensure compliance. This short but crucial piece addresses a real problem designers will encounter as they scale AI assistance.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "The 6 UX Principles That You Can Reduce User Frustration When Filling Out Forms",
+    "url": "https://uxplanet.org/form-ux-best-practices-e32379477553?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "A practical guide to form design fundamentals that reduce friction and user frustration in everyday interfaces. Perfect for designers looking for immediately applicable techniques to improve conversion rates and user satisfaction on forms.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "When It Makes Sense To \"Block\" The Main Thread",
+    "url": "https://smashingmagazine.com/2026/07/when-makes-sense-block-main-thread/",
+    "source": "Articles on Smashing Magazine \u2014 For Web Designers And Developers",
+    "description": "Challenges the conventional wisdom that blocking the main thread should always be avoided, exploring nuanced use cases where it might actually make sense. A refreshing deep-dive that encourages designers and developers to think beyond dogma.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "People will always need to trust the human behind any decision-making",
+    "url": "https://www.itsnicethat.com/articles/creative-career-conundrums-if-you-could-jobs-advice-130726",
+    "source": "Sidebar",
+    "description": "Addresses the very real career anxiety many designers face as AI becomes integrated into workflows, offering candid advice on how to stay relevant and valuable. A timely piece that balances concerns about automation with practical career guidance.",
+    "read_time": "5 min"
+  }
+]
