@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Don't Outsource the Learning: Why Human-Led Research Still Matters in the Age of AI",
+    "url": "https://www.nngroup.com/articles/human-led-research-still-matters/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "Nielsen Norman Group",
+    "description": "An insightful exploration of why direct user observation and team learning remain irreplaceable, even as AI tools advance in research capabilities. This challenges the notion that AI can fully automate UX research and emphasizes the value of qualitative insights over automated analysis.",
+    "read_time": "7 min",
+    "featured": true
+  },
+  {
+    "title": "Does Your Form Really Need a Dropdown List?",
+    "url": "https://www.nngroup.com/articles/dropdown-list/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "Nielsen Norman Group",
+    "description": "A practical guide challenging the overuse of dropdown lists in form design and exploring when alternatives may be more effective. This article provides actionable guidance for designers making component choices that directly impact user experience and task completion rates.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "The \"mocked, then loved\" AirPods effect",
+    "url": "https://uxdesign.cc/the-mocked-then-loved-airpods-effect-65ec25feeb3a?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "An exploration of how initially rejected designs become beloved products, using AirPods as a case study for understanding design acceptance and market psychology. This essay offers valuable lessons for designers introducing innovative or unconventional solutions to skeptical audiences.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "What AI-Native Brands Actually Want From Designers and Agencies in 2026",
+    "url": "https://dribbble.com/stories/2026/07/17/ai-native-brands-designers-agencies-2026",
+    "source": "Dribbble",
+    "description": "A timely analysis of shifting expectations for design professionals in organizations built around AI capabilities, highlighting the skills and mindsets designers need to thrive in AI-first environments. Essential reading for designers navigating career transitions in an AI-augmented industry.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Google Stitch Just Got a Major Update",
+    "url": "https://uxplanet.org/google-stitch-just-got-a-major-update-1dae251f54e7?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "A coverage of Google's latest update to their AI-powered UI design tool, expanding capabilities for web and mobile design automation. This represents a significant evolution in how AI is being integrated into professional design workflows.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Why Claude Code Wastes Thousands of Tokens Before It Even Starts Working",
+    "url": "https://uxplanet.org/why-claude-code-wastes-thousands-of-tokens-before-it-even-starts-working-61e9277cbde6?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "A critical analysis of AI code assistant inefficiencies and token usage patterns that impact both cost and performance for designers and developers working with AI tools. Understanding these limitations helps professionals make informed decisions about AI tool adoption and workflow optimization.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "How to Kiss a Cannibal",
+    "url": "https://uxdesign.cc/how-to-kiss-a-cannibal-d4ca10ee4606?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A provocative essay examining sincerity, predictability, and the future of liminal design spaces in an era of homogenized digital experiences. This thought-provoking piece challenges designers to reconsider what authenticity means in contemporary design practice.",
+    "read_time": "9 min"
+  },
+  {
+    "title": "PixyCAD",
+    "url": "https://www.producthunt.com/products/pixycad-3d-solid-modelling",
+    "source": "Product Hunt",
+    "description": "A native iPad and Mac 3D CAD tool representing a shift in professional design tools becoming more accessible and touch-friendly across Apple devices. This launch signals growing momentum in bringing sophisticated design capabilities to mobile platforms.",
+    "read_time": "3 min"
+  }
+]
