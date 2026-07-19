@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Google is open-sourcing its 3D emoji",
+    "url": "https://www.theverge.com/design/967606/google-open-source-3d-emoji",
+    "source": "The Verge",
+    "description": "Google has released its 3D emoji designs as open-source resources, enabling designers and developers to freely incorporate them into their own projects. This move democratizes access to professionally-designed 3D assets and sets a precedent for major tech companies contributing to the design community.",
+    "read_time": "4 min",
+    "featured": true
+  },
+  {
+    "title": "Rewisp \u2014 an ambient memory for your Mac",
+    "url": "https://www.producthunt.com/products/rewisp-an-ambient-memory-for-your-mac",
+    "source": "Product Hunt",
+    "description": "Rewisp introduces an intelligent memory system for macOS that lets users capture and instantly recall information they've previously seen, reducing cognitive load and improving productivity. This represents a thoughtful approach to knowledge management tools that goes beyond traditional note-taking.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "BaseRT",
+    "url": "https://www.producthunt.com/products/basert",
+    "source": "Product Hunt",
+    "description": "BaseRT achieves significant performance breakthroughs for AI model inference, running 6.4x faster than llama.cpp and 3.9x faster than MLX, making advanced AI capabilities more accessible for real-time applications. This infrastructure improvement has major implications for deploying sophisticated AI systems at scale.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Kobbe",
+    "url": "https://www.producthunt.com/products/kobbe",
+    "source": "Product Hunt",
+    "description": "Kobbe offers a privacy-first alternative to traditional web analytics, tracking traffic and revenue metrics without compromising user privacy. As privacy concerns grow, this tool addresses a critical gap for businesses wanting actionable insights without surveillance trade-offs.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Kimi K3",
+    "url": "https://www.producthunt.com/products/kimi-ai-assistant",
+    "source": "Product Hunt",
+    "description": "Kimi K3 marks the emergence of the first open-source 3-trillion parameter AI model, democratizing access to advanced language models previously dominated by closed-source providers. This breakthrough could reshape the competitive landscape for AI-powered products and applications.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "OpenSEO",
+    "url": "https://www.producthunt.com/products/openseo",
+    "source": "Product Hunt",
+    "description": "OpenSEO provides an open-source alternative to expensive SEO tools like Ahrefs, lowering barriers to entry for content creators and small businesses to access competitive research and analytics. This democratization of SEO tools can level the playing field for underresourced teams.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Detourmap",
+    "url": "https://www.producthunt.com/products/detourmap",
+    "source": "Product Hunt",
+    "description": "Detourmap consolidates off-the-beaten-path destinations and hidden gems into one interactive map, helping travelers discover worthwhile detours beyond mainstream tourist attractions. The tool reimagines travel planning by curating serendipitous exploration experiences.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Yes-Brainer",
+    "url": "https://yesbrainer.ai/about",
+    "source": "Sidebar",
+    "description": "Yes-Brainer leverages multiple AI models working as a council to tackle nuanced decisions that lack obvious right answers, offering diverse perspectives and reducing groupthink. This novel approach to AI-assisted decision-making could be valuable for business leaders and product teams facing complex trade-offs.",
+    "read_time": "3 min"
+  }
+]
