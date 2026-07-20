@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Designing with web standards: The playbook for this AI moment",
+    "url": "https://uxdesign.cc/designing-with-web-standards-the-playbook-for-this-ai-moment-92394884dc0d",
+    "source": "Sidebar",
+    "description": "Jeffrey Zeldman's perspective on applying web standards principles to the AI era, drawing parallels to how standards ended the browser wars. Essential reading for designers navigating rapid technological change and ensuring interoperability in AI-driven products.",
+    "read_time": "7 min",
+    "featured": true
+  },
+  {
+    "title": "Earning taste and judgment",
+    "url": "https://addyosmani.com/blog/earning-judgment/",
+    "source": "Sidebar",
+    "description": "Addy Osmani explores how junior designers and developers must intentionally build taste and judgment rather than acquiring it passively through experience. A practical guide for career growth in a rapidly evolving design landscape.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "The weakest channel",
+    "url": "https://uxdesign.cc/the-weakest-channel-1e6d68d8d562?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A thought-provoking essay on how universal design isn't built in by intention but emerges from constraints, often with people as the limiting factor. Critical for understanding inclusive design principles.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Delegating taste, orchestration layer, AI workflows",
+    "url": "https://uxdesign.cc/delegating-taste-orchestration-layer-ai-workflows-7ac13d2ff1d6?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "An insightful exploration of how taste and aesthetic judgment are being encoded into AI systems and orchestration layers, raising important questions about design authority in the AI era.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "A history of menus is a menu of history",
+    "url": "https://pudding.cool/2026/06/menu-story/",
+    "source": "Sidebar",
+    "description": "The Pudding's compelling visual narrative reveals what America's earliest restaurant menus expose about cultural, economic, and social history. A masterclass in data storytelling and historical UX design.",
+    "read_time": "9 min"
+  },
+  {
+    "title": "Do we still need build tools?",
+    "url": "https://olliewilliams.xyz/blog/no-build/",
+    "source": "Sidebar",
+    "description": "A critical examination of whether traditional build tools remain necessary for modern frontend development in 2026, directly impacting how designers and developers approach their workflows.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "ColorSym",
+    "url": "https://colorsym.com/",
+    "source": "Sidebar",
+    "description": "A free, open-source tool that solves the real problem of color identification beyond visual similarity, addressing accessibility and precision in design workflows.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "Lonely at a lower latency",
+    "url": "https://uxdesign.cc/lonely-at-a-lower-latency-99ae638489b9?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A poignant meditation on how technological speed and efficiency improvements don't address deeper human needs, offering important perspective on what design should actually solve for.",
+    "read_time": "5 min"
+  }
+]
