@@ -1,0 +1,59 @@
+[
+  {
+    "title": "How to apply Nir Eyal's Hook Model to AI products, safely",
+    "url": "https://uxdesign.cc/how-to-apply-nir-eyals-hook-model-to-ai-products-safely-f6a986305a2d?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This timely article examines how habit-forming design patterns from social media are now embedded in AI products, and explores the ethical implications and safeguards needed. Essential reading for product teams building the next generation of AI-powered experiences.",
+    "read_time": "7 min",
+    "featured": true
+  },
+  {
+    "title": "Design experiments are more important than ever, and they don't require a lab",
+    "url": "https://uxdesign.cc/design-experiments-are-more-important-than-ever-and-they-dont-require-a-lab-a81d68e97393?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This article reframes design experimentation as accessible 'bets' rather than intimidating formal studies, empowering designers to validate ideas without institutional barriers. Learn how leading design practitioners are democratizing the experimental mindset to drive better product decisions.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "The One Color Decision That Makes a UI Look Expensive",
+    "url": "https://uxplanet.org/color-decision-premium-ui-design-d6890efe11ba?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "This practical design insight reveals the subtle color strategies that distinguish premium products like Linear and Stripe from mediocre competitors. Discover the specific color decisions (beyond brand colors) that elevate perceived quality and user perception.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Research shouldn't end in a deck",
+    "url": "https://uxdesign.cc/research-shouldnt-end-in-a-deck-fe7c1d4fe1af?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This forward-thinking piece challenges the outdated tradition of static research presentations, showing how AI tools like Claude Code can transform research findings into living, interactive artifacts that teams can continuously engage with. It's a practical blueprint for modernizing research workflows.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Good Design Lives in the Interweaving of Reason and Sensibility",
+    "url": "https://uxplanet.org/good-design-lives-in-the-interweaving-of-reason-and-sensibility-7b22f8e7d9da?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "A thoughtful philosophical piece on how designers can deliver lasting value in the AI era by balancing rational, data-driven decisions with human sensibility and intuition. It articulates why human-centered design remains irreplaceable even as AI reshapes the industry.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "AI mania is eviscerating global decisionmaking",
+    "url": "https://hermit-tech.com/blog/ai-mania-is-eviscerating-global-decisionmaking",
+    "source": "Sidebar",
+    "description": "A critical examination of how unchecked enthusiasm for AI is degrading institutional decision-making and governance. This sobering perspective challenges product teams and designers to think responsibly about AI implementation beyond hype.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "The self-driving company",
+    "url": "https://replit.com/blog/self-driving-company",
+    "source": "Sidebar",
+    "description": "Replit explores what happens when companies begin to operate with AI-driven autonomy, offering insights into the future of organizational design and how teams will work alongside autonomous systems. A forward-looking piece on organizational transformation.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Loading UI",
+    "url": "https://loading-ui.com/",
+    "source": "Sidebar",
+    "description": "A free, open-source library of accessible CSS and React loaders and spinners that helps developers create polished loading states. A practical resource that elevates often-overlooked UX moments into craft-worthy interactive details.",
+    "read_time": "3 min"
+  }
+]
