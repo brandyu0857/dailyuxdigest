@@ -1,0 +1,59 @@
+[
+  {
+    "title": "I handed a UX review over to AI. Here's what happened.",
+    "url": "https://uxdesign.cc/i-handed-a-ux-review-over-to-ai-heres-what-happened-0511e73e4ffe?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A practical exploration of using AI as a UX review partner rather than a replacement, revealing how AI accuracy depends on the expertise and guidance designers provide. This timely case study helps designers understand where AI adds value in their workflow.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "The digital wall we built ourselves",
+    "url": "https://uxdesign.cc/the-digital-wall-we-built-ourselves-e9578f774374?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A critical examination of why 95.9% of the world's top million websites still fail accessibility standards for the people who need them most. This piece challenges the design community to confront systemic failures in inclusive design practices.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Against design system federation",
+    "url": "https://karolinaszczur.com/journal/against-design-system-federation/",
+    "source": "Sidebar",
+    "description": "A contrarian take on federated design systems, arguing this popular model can actually impede organizational design maturity. Essential reading for teams considering multi-system architectures.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "AI can fake your portfolio. It can't fake the second question.",
+    "url": "https://uxdesign.cc/ai-can-fake-your-portfolio-it-cant-fake-the-second-question-c89f96626f1c?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "An insightful perspective on how AI-generated portfolios are changing hiring dynamics, and why live interviews have become the true differentiator in 2026. This challenges how design leaders should evaluate talent in an AI-saturated market.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "iyO - Case Study: selling the world's first audio computer",
+    "url": "https://www.awwwards.com/iyo-case-study-selling-the-worlds-first-audio-computer.html",
+    "source": "Awwwards",
+    "description": "A detailed case study on designing and marketing a revolutionary voice-first, screenless device that represents a paradigm shift in human-computer interaction. This demonstrates how design thinking applies beyond traditional digital interfaces.",
+    "read_time": "9 min"
+  },
+  {
+    "title": "The feature trap",
+    "url": "https://uxdesign.cc/the-feature-trap-how-product-teams-confuse-building-with-validating-24b13f865f2e?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A strategic piece that exposes how product teams often conflate feature development with proper validation, leading to wasted resources and missed opportunities. Critical guidance for product managers and designers focused on building the right things.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Layers: AI skills for product designers",
+    "url": "https://layers.jamiemill.com/",
+    "source": "Sidebar",
+    "description": "A structured framework addressing seven layers of how AI impacts product design work, providing actionable guidance for designers navigating the AI transformation. An essential resource for upskilling in 2026.",
+    "read_time": "10 min"
+  },
+  {
+    "title": "Datatype",
+    "url": "https://franktisellano.github.io/datatype/",
+    "source": "Sidebar",
+    "description": "An innovative OpenType variable font that enables inline data visualization through simple text expressions without JavaScript or images. This clever design solution demonstrates creative problem-solving at the intersection of typography and data visualization.",
+    "read_time": "3 min"
+  }
+]
