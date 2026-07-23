@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Is Figma Losing the AI Race?",
+    "url": "https://uxplanet.org/is-figma-losing-the-ai-race-3ef52bcc33ca?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "An analysis of whether Figma's dominance in design tools is threatened by emerging AI-powered alternatives and competitors. This critical examination matters for design leaders evaluating their tooling strategy and understanding how AI is reshaping the design software landscape.",
+    "read_time": "8 min",
+    "featured": true
+  },
+  {
+    "title": "AI personality is a design problem",
+    "url": "https://uxdesign.cc/ai-personality-is-a-design-problem-58fbc7926a3d?sk=b159b61f2abcb25776fd87985724be7e",
+    "source": "UX Design",
+    "description": "This article challenges designers to treat AI personality as a deliberate design choice rather than an accidental byproduct of AI alignment. It explores how intentional personality design can create more effective and human-centered AI interfaces, offering critical insights for product teams building conversational experiences.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "The screens are getting demoted",
+    "url": "https://uxdesign.cc/the-screens-are-getting-demoted-6b40120fcf04?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "As AI systems become more capable, traditional screen-based interfaces are shifting from primary to fallback interactions. This thoughtful piece examines how the future of UX design must adapt when the interface is no longer the main focus, reshaping what products designers actually need to build.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Setting type like a printed page",
+    "url": "https://www.carmenansio.com/articles/editorial-typography-css/",
+    "source": "Carmen Ansio",
+    "description": "A practical deep-dive into advanced CSS typography techniques including fluid scales, optical sizing, hanging punctuation, and drop caps that bring print design elegance to web interfaces. Essential reading for designers aiming to elevate typography and create sophisticated, refined user experiences.",
+    "read_time": "9 min"
+  },
+  {
+    "title": "A side project is the fastest way to upskill in the age of AI",
+    "url": "https://www.philmorton.co/a-side-project-is-the-fastest-way-to-upskill-in-the-age-of-ai/",
+    "source": "Phil Morton",
+    "description": "This essay argues that hands-on building\u2014not just learning\u2014is the most effective way to master new skills alongside AI tools. It challenges passive learning approaches and makes a compelling case for why designers and product makers should prioritize shipping real projects over traditional education.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Basedash Developer Platform",
+    "url": "https://www.producthunt.com/products/basedash",
+    "source": "Product Hunt",
+    "description": "Basedash enables teams to ship AI-powered analytics directly into their products without extensive custom development. This tool launch represents a significant shift in how product teams can rapidly integrate intelligent data features, lowering barriers for analytics democratization.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Mnemcore",
+    "url": "https://www.producthunt.com/products/mnemcore",
+    "source": "Product Hunt",
+    "description": "Mnemcore transforms unstructured video and notes into searchable institutional memory, solving a critical pain point for distributed teams managing knowledge. This product addresses the growing need for better knowledge management as teams become more asynchronous and information-heavy.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "The shape of apps",
+    "url": "https://parakeet.co/blog/the-shape-of-apps/",
+    "source": "Parakeet",
+    "description": "A nostalgic yet thoughtful critique of Apple's shift to mandated rounded square icons, exploring how design constraints can stifle expression and individuality in product interfaces. This piece resonates with designers who value distinctive visual identity in an era of increasing standardization.",
+    "read_time": "5 min"
+  }
+]
