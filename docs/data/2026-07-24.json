@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Four questions every tool should answer (even Figma) about AI training model usage",
+    "url": "https://uxdesign.cc/the-trust-test-four-questions-every-tool-should-answer-even-figma-about-ai-training-model-usage-4f1150f91a30?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "Provides a practical trust framework for evaluating how design tools use your data for AI training, using Figma's recent class action as a case study. Essential guidance for design leaders navigating ethical AI integration and default settings.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "The AI Productivity Paradox",
+    "url": "https://www.svpg.com/the-ai-productivity-paradox/",
+    "source": "Silicon Valley Product Group",
+    "description": "Explores why product teams leveraging AI are shipping faster but not seeing improved outcomes\u2014a critical disconnect for leaders evaluating AI ROI. This essential read challenges assumptions about AI's impact on product development and offers frameworks for better outcomes.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Figma vs. Claude Design: Two Fundamentally Different Design Workflows",
+    "url": "https://uxplanet.org/figma-vs-claude-design-two-fundamentally-different-design-workflows-a9bb7a53c43d?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "Analyzes how Claude Design's AI-first approach diverges from traditional Figma workflows, signaling a fundamental shift in how design systems and processes may evolve. Critical for understanding the future of design tools and methodology.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Steal this UX framework from Dubai's most over-the-top hotel",
+    "url": "https://uxdesign.cc/steal-this-ux-framework-from-dubais-most-over-the-top-hotel-0b14f71e46e5?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A Google UX researcher shares fieldwork insights from hospitality design that reveals psychological principles applicable to digital products. Fresh perspective on anticipation, delight, and user experience beyond typical app-focused case studies.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "On layout choreography",
+    "url": "https://karlkoch.me/writing/on-layout-choreography",
+    "source": "Sidebar",
+    "description": "Explores how thoughtful animation and spatial transitions preserve cognitive load during UI changes, improving user comprehension and satisfaction. Practical guide for designers implementing list reordering, panel expansion, and dynamic content changes.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "The algorithmic atelier",
+    "url": "https://www.doc.cc/articles/the-algorithmic-atelier",
+    "source": "Sidebar",
+    "description": "Contextualizes generative AI within the long history of artistic automation and tool-assisted creation, providing historical perspective on current concerns. Thoughtful essay for designers grappling with AI's creative role in their practice.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Make it work vs. make it good",
+    "url": "https://blog.jim-nielsen.com/2026/make-it-work-make-it-good/",
+    "source": "Sidebar",
+    "description": "Distills the core philosophy of design into a simple dichotomy: shipping functional work versus crafting excellence that feels inevitable. Concise reminder of design's true purpose for practitioners caught in delivery cycles.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "UI SFX",
+    "url": "https://uisfx.com/",
+    "source": "Sidebar",
+    "description": "Open-source collection of 78 semantic UI sound effects with multiple stylistic variations for web, mobile, SaaS, and games. Practical resource for designers looking to enhance interactions with intentional audio feedback.",
+    "read_time": "3 min"
+  }
+]
