@@ -1,0 +1,59 @@
+[
+  {
+    "title": "UX-Context Design: Using UX Knowledge to Inform AI-Generated Design",
+    "url": "https://www.nngroup.com/articles/ux-context-design/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "NN/g latest articles and announcements",
+    "description": "As AI increasingly generates design outputs, this article explores how UX research and design knowledge should shift from human-facing documents to curated context that effectively guides AI tools. A critical insight for staying relevant in an AI-driven design landscape.",
+    "read_time": "7 min",
+    "featured": true
+  },
+  {
+    "title": "A Concrete Definition of \"Product Sense\" (and How to Build It)",
+    "url": "https://www.nngroup.com/articles/product-sense-definition/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "NN/g latest articles and announcements",
+    "description": "This article provides a practical framework for understanding and developing product sense\u2014the ability to predict which decisions will succeed based on learned patterns. Essential reading for product managers and designers looking to sharpen their decision-making instincts.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "The aggressively mediocre fight",
+    "url": "https://uxdesign.cc/the-aggressively-mediocre-fight-ed47b3f9f8f4?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A thought-provoking essay examining the challenge of maintaining quality and originality as AI commoditizes design work. Offers perspective on what designers can control and how to differentiate in an increasingly automated field.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Design closer to CSS with the updated auto layout option",
+    "url": "https://www.figma.com/release-notes/?title=design-closer-to-css-with-the-updated-auto-layout-option",
+    "source": "Figma product news and release notes",
+    "description": "Figma's enhanced auto layout feature now mirrors CSS behavior more closely, reducing the gap between design and development and enabling designers to create designs that align with actual implementation. A practical improvement for design-to-code handoffs.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "I Tested 25 AI Coding Models on 100 Real Python Bugs. Here's the Leaderboard.",
+    "url": "https://uxplanet.org/i-tested-25-ai-coding-models-on-100-real-python-bugs-heres-the-leaderboard-725ab72a56b3?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "A comprehensive empirical study comparing the performance of 25 AI coding models on real-world bugs, providing data-driven insights into which tools are most reliable. Valuable for product teams and designers evaluating AI-assisted development tools.",
+    "read_time": "9 min"
+  },
+  {
+    "title": "Which AI? \u2014 Guess the designer",
+    "url": "https://guess-the-designer.replit.app/",
+    "source": "Sidebar",
+    "description": "An interactive daily game challenging designers to identify whether landing pages were created by Gemini, Claude, or GPT. A fun yet revealing tool that highlights the current state of AI-generated design and helps designers understand AI capabilities and limitations.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Uncovered.ink",
+    "url": "https://uncovered.ink/",
+    "source": "Sidebar",
+    "description": "A clever platform that removes book covers, titles, and hype to let readers discover what they actually enjoy based on writing alone. An interesting case study in stripping away visual bias and focusing on substance\u2014relevant to UX design thinking.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "The Java Story (official doc)",
+    "url": "https://www.youtube.com/watch?v=ZqGSg4b_cZA",
+    "source": "Sidebar",
+    "description": "An official retrospective on Java's evolution, covering radical innovation and strategic pivots that shaped one of tech's most influential platforms. Offers valuable lessons on product longevity and community-driven development for design and product leaders.",
+    "read_time": "12 min"
+  }
+]
