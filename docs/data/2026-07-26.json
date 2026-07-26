@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Health in ChatGPT",
+    "url": "https://www.producthunt.com/products/openai",
+    "source": "Product Hunt",
+    "description": "OpenAI's integration of health coaching into ChatGPT represents a major expansion of AI assistants into personal wellness. This signals how major platforms are becoming multi-purpose life management tools.",
+    "read_time": "4 min",
+    "featured": true
+  },
+  {
+    "title": "ADE",
+    "url": "https://www.producthunt.com/products/ade-agentic-development-environment",
+    "source": "Product Hunt",
+    "description": "A free, synced development environment for AI coding agents marks a significant shift in how developers will collaborate with AI tools. This addresses a real workflow gap for teams adopting agentic development at scale.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "BrainFeed",
+    "url": "https://www.producthunt.com/products/brainfeed-scroll-better",
+    "source": "Product Hunt",
+    "description": "A personalized learning feed that intentionally redirects mindless scrolling toward meaningful content consumption. This tackles the growing UX challenge of digital wellness while maintaining engagement.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Banquish \u2014 Make the web your workspace",
+    "url": "https://www.producthunt.com/products/banquish-make-the-web-your-workspace",
+    "source": "Product Hunt",
+    "description": "A canvas-based tool for clipping and organizing web content directly addresses the fragmented research and content curation workflows many knowledge workers face. This introduces an interesting alternative to traditional bookmarking and note-taking.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "TouchGrass",
+    "url": "https://www.producthunt.com/products/touchgrass-2",
+    "source": "Product Hunt",
+    "description": "A context-aware break reminder system that respects user privacy while promoting digital wellness demonstrates thoughtful UX design. This shows how friction and permissions can be minimized without compromising core functionality.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "AppUFO",
+    "url": "https://www.producthunt.com/products/appufo-localise-apps-with-ai",
+    "source": "Product Hunt",
+    "description": "AI-powered app localization addresses a major bottleneck for indie developers and teams expanding globally. This practical tool can dramatically reduce time-to-market for international app releases.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Yoggi",
+    "url": "https://www.producthunt.com/products/yoggi",
+    "source": "Product Hunt",
+    "description": "A purpose-built AI chat platform designed with safety guardrails for children represents responsible AI product design in an underserved segment. This addresses real concerns about age-appropriate AI experiences.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Speechius",
+    "url": "https://www.producthunt.com/products/speechius",
+    "source": "Product Hunt",
+    "description": "A teleprompter that actively listens and responds to speaker pacing offers a novel take on presentation tools. This combines speech recognition with real-time feedback in a use case where precision matters.",
+    "read_time": "4 min"
+  }
+]
