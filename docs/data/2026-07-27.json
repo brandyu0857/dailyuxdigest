@@ -1,0 +1,59 @@
+[
+  {
+    "title": "A concrete definition of \"Product Sense\"",
+    "url": "https://www.nngroup.com/articles/product-sense-definition/",
+    "source": "Nielsen Norman Group",
+    "description": "Provides a clear, actionable definition of product sense as the ability to predict which decisions will succeed based on learned patterns and knowing when those patterns apply. Essential reading for PMs and designers looking to sharpen their intuition.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "The consciousness mirage in AI design",
+    "url": "https://uxdesign.cc/the-anthropomorphism-consciousness-mirage-in-ai-design-ux-framework-8e23beb1d7c1?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Explores how users attribute human-like consciousness to AI systems despite knowing they're not sentient, and how designers can ethically manage this psychological response. A critical framework for designing AI interfaces that respect user expectations while avoiding deceptive anthropomorphism.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Information architecture is the foundation artificial intelligence is starving for",
+    "url": "https://uxdesign.cc/information-architecture-is-the-foundation-artificial-intelligence-is-starving-for-1d91fb5bf59f?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Argues that poor information architecture is the root cause of AI failures like hallucinations and failed retrievals, not the AI models themselves. This essay reveals why IA skills are now critical for product teams building with AI.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Your website is boring (but that might just set it free)",
+    "url": "https://uxdesign.cc/your-website-is-boring-but-that-might-just-set-it-free-f2b13863e22c?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Challenges the dominance of templated web design and advocates for bespoke, code-driven brand experiences that break free from generic constraints. A manifesto for designers ready to reclaim individuality in digital design.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "The seams are where the system lives",
+    "url": "https://uxdesign.cc/the-seams-are-where-the-system-lives-9c43587be771?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Illustrates how partitioning systems into clean modules simply relocates complexity to the boundaries between them, using urban zoning as a parallel. An insightful lens for rethinking software architecture and system design.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "The era of personal software",
+    "url": "https://allen.hutchison.org/2025/11/28/the-era-of-personal-software/",
+    "source": "Allen Hutchison",
+    "description": "Explores the emerging trend of bespoke software tools designed for individual needs rather than mass markets, fundamentally reshaping how people solve personal and professional problems. A forward-looking essay on the future of customized digital products.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Design Systems News - Issue 219",
+    "url": "https://news.design.systems/issues/219",
+    "source": "Design Systems News",
+    "description": "Curates recent trends in design systems including design token linting and best practices for maintaining consistency at scale. Essential digest for design leaders and system architects managing complex design infrastructure.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Rescript",
+    "url": "https://www.producthunt.com/products/rescript-edit-videos-like-you-edit-text",
+    "source": "Product Hunt",
+    "description": "An open-source, browser-based video editing tool that democratizes the Descript experience by making professional video editing as intuitive as text editing. A significant launch for designers and content creators seeking accessible video production alternatives.",
+    "read_time": "3 min"
+  }
+]
