@@ -1,0 +1,59 @@
+[
+  {
+    "title": "From frictionless to meaningful",
+    "url": "https://uxdesign.cc/from-frictionless-to-meaningful-2dc785d6cc4e?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This essay challenges the prevailing wisdom that good design must be frictionless, arguing instead for intentional friction that creates meaningful experiences. A paradigm shift for designers questioning whether seamless always equals better.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "The human-in-the-loop is tired",
+    "url": "https://pydantic.dev/articles/the-human-in-the-loop-is-tired",
+    "source": "Sidebar",
+    "description": "A thought-provoking essay examining how AI is reshaping human workflows and decision-making processes, exploring the psychological and practical implications when code starts writing itself. This challenges fundamental assumptions about human oversight in AI-driven design and development, making it essential reading for product leaders.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Rauno Freiberg's field note #2",
+    "url": "https://rauno.me/notes/2",
+    "source": "Sidebar",
+    "description": "A detailed design systems exploration examining how grid density, context menus, and custom widgets fundamentally shape information architecture and user experience. Essential for designers rethinking micro-interactions and layout principles.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Claude Design can craft 3D objects",
+    "url": "https://uxplanet.org/claude-design-can-craft-3d-objects-9a2c94808ca6?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "An exploration of Claude Design's expanded capabilities beyond UI mockups into 3D object creation, opening new possibilities for product designers and prototypers. Demonstrates how AI design tools are rapidly evolving beyond traditional use cases.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Claude Cookbook",
+    "url": "https://platform.claude.com/cookbook/",
+    "source": "Sidebar",
+    "description": "Official practical guides and code examples for building with Claude, covering prompting techniques, tool use, and multimodal capabilities. A valuable resource for designers integrating AI into their workflows and learning advanced AI implementation patterns.",
+    "read_time": "10 min"
+  },
+  {
+    "title": "Drawing the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
+    "url": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
+    "source": "Sidebar",
+    "description": "A comparative study tracking how frontier AI models handle creative visual tasks, measuring both outputs and resource costs. Provides valuable insights for choosing the right AI tool for design-focused applications.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Liminal",
+    "url": "https://www.producthunt.com/products/liminal-4",
+    "source": "Product Hunt",
+    "description": "A comprehensive workspace and 'second brain' platform designed for collaboration between humans, AI agents, and teams\u2014representing a new category of productivity tools that bridges individual work with AI-assisted collaboration. Exemplifies the shift toward human-AI teaming in product design.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "AI can fake your portfolio, Lower latency, 5-to-9, Monochrome dataviz",
+    "url": "https://uxdesign.cc/ai-can-fake-your-portfolio-lower-latency-5-to-9-monochrome-dataviz-51af76de0552?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A curated digest of critical design resources including AI's impact on portfolios and career validation, performance optimization, and data visualization trends. Covers urgent topics that affect both designers' professional practice and product development priorities.",
+    "read_time": "4 min"
+  }
+]
