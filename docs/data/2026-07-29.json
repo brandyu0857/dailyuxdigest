@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Information architecture is the foundation AI is starving for",
+    "url": "https://uxdesign.cc/information-architecture-is-the-foundation-artificial-intelligence-is-starving-for-1d91fb5bf59f",
+    "source": "UX Design",
+    "description": "This essay argues that poor information architecture is the root cause of AI failures like hallucinations and retrieval errors, not the AI models themselves. It's a wake-up call for organizations investing in AI without fixing their foundational data and content structure first.",
+    "read_time": "7 min",
+    "featured": true
+  },
+  {
+    "title": "Thinking Outside The Box: Digital Design In The AI Era",
+    "url": "https://smashingmagazine.com/2026/07/digital-design-ai-era/",
+    "source": "Smashing Magazine",
+    "description": "Rather than accepting text boxes as the default AI interface, this article explores alternative interaction paradigms for AI-powered applications. A timely read for designers rethinking how users engage with AI beyond chat.",
+    "read_time": "9 min"
+  },
+  {
+    "title": "How to design URLs",
+    "url": "https://www.jstools.space/blog/url-design-routing-query-parameters-fragments/",
+    "source": "JS Tools",
+    "description": "A practical guide to creating readable, maintainable URLs by correctly choosing between route paths, query parameters, and fragments\u2014essential knowledge for modern web application design and user experience.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "A practical guide to reducing token spend",
+    "url": "https://www.adamhjk.com/blog/a-practical-guide-to-reducing-token-spend/",
+    "source": "Adam's Blog",
+    "description": "Learn how to dramatically reduce AI token costs (8x improvement) and execution time (2x improvement) through workflow optimization\u2014critical insights for product teams building with LLMs at scale.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Internet Service Providers UX Benchmark: 1,700+ Performance Scores and 1,100+ Best Practice Examples",
+    "url": "https://baymard.com/blog/internet-service-providers-ux-benchmark-2026",
+    "source": "Baymard Institute",
+    "description": "Comprehensive UX research covering 1,700+ ISP websites with actionable best practices for complex, comparison-heavy digital products. Essential data-driven insights for improving digital service experiences.",
+    "read_time": "12 min"
+  },
+  {
+    "title": "I Built an MCP Server in 30 Minutes. Claude and Cursor Could Use My API Immediately.",
+    "url": "https://uxplanet.org/i-built-an-mcp-server-in-30-minutes-claude-and-cursor-could-use-my-api-immediately-f0592dcec24e?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "A practical walkthrough of integrating an API with AI tools using Model Context Protocol, demonstrating how developer friction is disappearing between AI assistants and existing infrastructure.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Evaluating agents beyond the first prompt",
+    "url": "https://www.philschmid.de/evocode-bench",
+    "source": "Phil Schmid's Blog",
+    "description": "This research reveals that single-turn AI agent benchmarks are misleading\u2014regressions and error recovery matter far more than initial feature completeness for real-world reliability.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Capitolium: A Digital Hub for a First-of-its-Kind Sports Collaboration",
+    "url": "https://www.awwwards.com/capitolium-a-digital-hub-for-a-first-of-its-kind-sports-collaboration.html",
+    "source": "Awwwards",
+    "description": "An inspiring case study of designing a digital experience for a historic sports partnership, showcasing how thoughtful UX can bring complex, multi-brand collaborations to life.",
+    "read_time": "8 min"
+  }
+]
