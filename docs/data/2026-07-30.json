@@ -1,0 +1,59 @@
+[
+  {
+    "title": "The Bull And Bear Case For Digital Design In The Age Of AI",
+    "url": "https://smashingmagazine.com/2026/07/bull-and-bear-case-digital-design-age-ai/",
+    "source": "Smashing Magazine",
+    "description": "Andy Budd explores both optimistic and pessimistic scenarios for designers as AI reshapes the industry, examining whether AI will empower designers with greater autonomy or expose structural gaps in the profession. A thoughtful analysis of how organizations and individuals can navigate AI's impact on design practice.",
+    "read_time": "8 min",
+    "featured": true
+  },
+  {
+    "title": "The accessibility paradox",
+    "url": "https://uxdesign.cc/the-accessibility-paradox-d2c073256660?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "This essay explores the unintended consequence of accessibility improvements: making websites easier for humans simultaneously made them more accessible to machines and AI systems. A compelling investigation into how design principles can have far-reaching effects beyond their original intent.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Your people get AI. Get out of their way.",
+    "url": "https://uxdesign.cc/your-people-get-ai-get-out-of-their-way-131370c157f8?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A candid take on organizational dynamics in the AI era, arguing that every company has someone ready to embrace AI tools, but leadership often constrains their potential. This piece challenges companies to trust their people and remove barriers to innovation.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "You don't have to be smart if you can think clearly",
+    "url": "https://www.seangoedecke.com/you-dont-have-to-be-smart-if-you-think-clearly/",
+    "source": "Sidebar",
+    "description": "Sean Goedecke argues that structured, clear thinking stabilizes engineering performance under complex constraints better than raw intelligence. A practical philosophy for designers and engineers navigating complicated systems and decision-making.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Battling AI fatigue as a designer and developer: a practical guide",
+    "url": "https://uxdesign.cc/battling-ai-fatigue-as-a-designer-and-developer-a-practical-guide-d04a2549e802?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "As AI tools proliferate, this guide tackles the burnout and overwhelm many designers face from constant AI integration in workflows. Practical strategies for maintaining human-centered design practice while selectively leveraging AI where it actually adds value.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "The UX of Contrast: Lessons from Indika's Game Design",
+    "url": "https://uxdesign.cc/the-ux-of-contrast-what-indika-taught-me-about-designing-intentional-contradiction-c880e9eaf084?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Drawing insights from game design, this essay explores how deliberately layering conflicting experiences can create deeper engagement and multiple interpretations. A fresh perspective on using contrast as a strategic tool beyond visual hierarchy.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Claude Code Subagents: The Right Way to Delegate Work",
+    "url": "https://uxplanet.org/claude-code-subagents-the-right-way-to-delegate-work-730f12b1bc10?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "Explores how Claude's subagent delegation feature represents a new paradigm for AI-assisted work, allowing designers and developers to assign specialized tasks to focused agents. Practical guidance on leveraging AI delegation effectively for complex projects.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "How to research technical topics with AI",
+    "url": "https://www.0xkato.xyz/how-to-research-technical-topics-with-ai",
+    "source": "Sidebar",
+    "description": "This methodology shows how to move from unanswerable technical questions to self-constructed understanding using AI as a research partner. A valuable framework for designers and developers who need to learn complex topics quickly without becoming dependent on AI explanations.",
+    "read_time": "5 min"
+  }
+]
