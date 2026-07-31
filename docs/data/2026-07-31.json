@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Jakob's law: How to apply it as AI collapses surfaces into one chat box",
+    "url": "https://uxdesign.cc/jakobs-law-how-to-apply-it-as-ai-collapses-surfaces-into-one-chat-box-d8ebc9a727db?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "As AI assistants like Claude consolidate multiple workflows into conversational interfaces, Jakob's Law\u2014users prefer familiar patterns\u2014needs rethinking. This essay explores how designers should adapt when AI collapses traditional multi-surface interactions into unified chat experiences, challenging core UX assumptions.",
+    "read_time": "7 min",
+    "featured": true
+  },
+  {
+    "title": "Rethinking friction in an AI world",
+    "url": "https://uxdesign.cc/rethinking-friction-in-an-ai-world-8f361d62ab5e?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "When frictionless AI interactions become the norm, designers must deliberately reintroduce friction where it matters for user retention and meaningful engagement. This thought-provoking piece challenges the assumption that all friction is bad, offering a nuanced perspective on designing in AI-driven contexts.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "The AI aesthetic",
+    "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+    "source": "Sidebar",
+    "description": "Generative AI tools are introducing distinct visual idioms and design patterns that are becoming recognizable across products and interfaces. Understanding these emerging aesthetic conventions helps designers stay informed about how AI-generated content is shaping visual culture and user expectations.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Can Gamma Replace PowerPoint and Figma for Product Presentations?",
+    "url": "https://uxplanet.org/can-gamma-replace-powerpoint-and-figma-for-product-presentations-1c11308040b2?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "Gamma promises to unify presentation design and product mockups in a single tool, potentially disrupting the traditional two-tool workflow. This practical review examines whether AI-powered presentation software can genuinely replace established design tools in product workflows.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "How Claude remembers your project",
+    "url": "https://uxplanet.org/how-claude-remembers-your-project-b44fc53ba93a?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "Effective AI assistance depends on proper context management\u2014a critical UX consideration often overlooked by designers. This guide reveals how to structure project information for AI tools like Claude, offering practical strategies for maximizing AI collaboration in design workflows.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "The Agentic Economy",
+    "url": "https://agenticeconomytreatise.com/",
+    "source": "Sidebar",
+    "description": "This treatise explores how artificial intelligence and economic systems are converging into a fundamentally new paradigm, with major implications for product strategy, business models, and user experience design. Understanding this shift is essential for designers preparing for an AI-centric future.",
+    "read_time": "10 min"
+  },
+  {
+    "title": "Originkit",
+    "url": "https://www.originkit.dev/",
+    "source": "Sidebar",
+    "description": "A free, open-source animated component library offering designers flexible options for modern web design\u2014available as copy-paste code, Framer integration, or MCP connection. This resource addresses the practical need for reusable, high-quality UI components in contemporary design workflows.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "State of Devs 2026",
+    "url": "https://survey.devographics.com/en-US/survey/state-of-devs/2026",
+    "source": "Sidebar",
+    "description": "This comprehensive survey maps the non-code aspects of developer life as AI disrupts traditional roles and responsibilities, providing crucial research data for designers and product leaders building AI-integrated tools. Participation helps shape industry understanding of how AI is reshaping development workflows.",
+    "read_time": "8 min"
+  }
+]
