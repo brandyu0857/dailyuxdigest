@@ -1,0 +1,59 @@
+[
+  {
+    "title": "No New Name Has Replaced \"UX\"",
+    "url": "https://www.nngroup.com/articles/no-new-name-ux/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "NN/g latest articles and announcements",
+    "description": "A survey of 604 tech and design professionals reveals that despite ongoing debates, \"UX\" remains the dominant term in the field, while proposed alternatives remain fragmented. This research provides data-driven insights into how the design industry identifies and communicates its discipline.",
+    "read_time": "4 min",
+    "featured": true
+  },
+  {
+    "title": "Creative Technologists are moving from the margins to the center",
+    "url": "https://uxdesign.cc/creative-technologists-are-moving-from-the-margins-to-the-center-4fcfaa3cf2f6?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "Creative technology is evolving from a niche role into a core capability within modern product teams, reshaping how organizations approach design and engineering collaboration. This shift signals a fundamental change in how companies build products, making it essential reading for design leaders planning their team structures.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Why You Need Mentorship and How to Get It Right",
+    "url": "https://www.nngroup.com/articles/mentorship/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "NN/g latest articles and announcements",
+    "description": "This guide explores mentorship as a critical tool for career growth, offering practical strategies for establishing effective mentor-mentee relationships that drive real professional development. Essential reading for designers at any career stage seeking to accelerate their growth.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Perplexity diverges with color",
+    "url": "https://uxdesign.cc/perplexity-diverges-with-color-cad28cbe7bad?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This article explores how generative AI is being leveraged to build sophisticated data color schemes, offering designers new approaches to solving complex visualization challenges. A forward-looking case study on AI's practical applications in design work.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "I Tried Logo Design with Claude Design and It's Amazing",
+    "url": "https://uxplanet.org/logo-design-with-claude-design-is-simply-amazing-947ced9915b2?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "A hands-on exploration of Claude Design as a tool for rapid logo ideation and design iteration, demonstrating how AI is becoming increasingly capable for creative work. Practical insights for designers looking to integrate AI into their design process.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Get Ready For the Powerful CSS border-shape Property!",
+    "url": "https://css-tricks.com/get-ready-for-the-powerful-css-border-shape-property/",
+    "source": "CSS-Tricks",
+    "description": "An exciting deep-dive into upcoming CSS capabilities that will give designers and developers unprecedented control over border styling and shape creation without custom solutions. Essential knowledge for staying ahead of upcoming web design capabilities.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "What's !important #16: sibling-index() Animations, Use Cases for the infinity Keyword, Container Stuck Queries, and More",
+    "url": "https://css-tricks.com/whats-important-16/",
+    "source": "CSS-Tricks",
+    "description": "A comprehensive roundup of emerging CSS features and techniques that will expand design possibilities, from sibling-index animations to container queries. Keep up with the latest CSS innovations that will influence digital product design in 2026.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Small Joys And Big Adventures (August 2026 Wallpapers Edition)",
+    "url": "https://smashingmagazine.com/2026/07/desktop-wallpaper-calendars-august-2026/",
+    "source": "Articles on Smashing Magazine \u2014 For Web Designers And Developers",
+    "description": "A curated collection of high-quality desktop wallpapers and calendar designs for August that combine aesthetic inspiration with practical utility. A quick creative refresh for your workspace during the summer season.",
+    "read_time": "3 min"
+  }
+]
