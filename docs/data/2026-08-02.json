@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Design.md: the one standard file carries your visual identity, for humans and agents",
+    "url": "https://uxdesign.cc/design-md-the-one-standard-file-carries-your-visual-identity-for-humans-and-agents-9058d5b39d9b?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A practical proposal for a unified, plain-text design standard that bridges design tools, code editors, and AI agents\u2014eliminating silos and enabling machines to understand visual identity as fluidly as humans do. This could become a foundational standard for design systems in the AI era.",
+    "read_time": "7 min",
+    "featured": true
+  },
+  {
+    "title": "The architecture of watching work",
+    "url": "https://uxdesign.cc/the-architecture-of-watching-work-dcc521fcad1c?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "This thought-provoking essay examines how AI is fundamentally reshaping office design philosophy\u2014moving beyond the century-old question of 'how do we see work?' to new paradigms of visibility and surveillance. Essential reading for understanding how emerging technologies will influence workplace design and organizational culture.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Why airlines are finally waking up to context-aware design",
+    "url": "https://uxdesign.cc/why-airlines-are-finally-waking-up-to-context-aware-design-9cdb67722d03?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Explores how airlines are redesigning digital experiences to anticipate user needs based on real-time context\u2014like surfacing boarding passes at the moment travelers need them rather than burying them in apps. A case study in how modern UX moves beyond static interfaces to adaptive, situational design.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "TimeOS 2.0",
+    "url": "https://www.producthunt.com/products/timeos-ultimate-task-manager-for-pro",
+    "source": "Product Hunt",
+    "description": "A major update to a task management platform designed specifically for freelancers and agencies, integrating time tracking with client billing\u2014addressing a critical pain point for service professionals managing multiple projects. The focus on billing confidence signals where modern productivity tools are heading.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Capptivo",
+    "url": "https://www.producthunt.com/products/capptivo",
+    "source": "Product Hunt",
+    "description": "An open-source screen recorder and demo editor that makes creating product walkthroughs and tutorials faster and more accessible. With the rise of async communication and video documentation, this type of tool is becoming essential for teams and creators.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "Zen Whisper",
+    "url": "https://www.producthunt.com/products/zen-whisper",
+    "source": "Product Hunt",
+    "description": "An on-device Mac dictation tool that integrates seamlessly across any application\u2014addressing privacy concerns around cloud-based voice input while improving accessibility and workflow efficiency. Represents the growing demand for local-first AI tools.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "A simple clustering algorithm for lists",
+    "url": "https://cassidoo.co/post/clustering-tiles/",
+    "source": "Sidebar",
+    "description": "A creative exploration of algorithmic thinking applied to real-world organization problems, with practical implications for UX design\u2014particularly for interfaces that need to intelligently group or categorize content. Short but insightful technical read with design relevance.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Bolcho AI",
+    "url": "https://www.producthunt.com/products/bolcho-ai",
+    "source": "Product Hunt",
+    "description": "A voice AI agent platform localized for Indian languages and contexts\u2014highlighting the critical importance of culturally and linguistically appropriate AI design. This signals the next frontier in AI product design: moving beyond English-first development to truly global experiences.",
+    "read_time": "2 min"
+  }
+]
