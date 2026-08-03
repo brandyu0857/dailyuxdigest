@@ -1,0 +1,59 @@
+[
+  {
+    "title": "No new name has replaced \"UX\"",
+    "url": "https://www.nngroup.com/articles/no-new-name-ux/",
+    "source": "Nielsen Norman Group",
+    "description": "Based on a survey of 604 tech and design professionals, this research confirms that 'UX' remains the industry standard despite ongoing debates about whether the term adequately captures modern design practice. The data-driven findings settle an important conversation about professional terminology and identity.",
+    "read_time": "4 min",
+    "featured": true
+  },
+  {
+    "title": "Chat is the wrong interface for AI",
+    "url": "https://uxdesign.cc/chat-is-the-wrong-interface-for-ai-de14d352de1b?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This essay challenges the prevailing assumption that conversational interfaces are ideal for AI agents, arguing that over-simplification masks the complexity of AI interactions. The piece offers critical perspective on why chat may not be the optimal UX paradigm for emerging AI products and what designers should consider instead.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "What I've learned writing for billions of users",
+    "url": "https://uxdesign.cc/what-ive-learned-writing-for-billions-of-users-f4db0c1aa9cb?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "An experienced product leader shares practical insights from launching complex global products at scale, distilling lessons about writing copy that resonates across billions of users. This practical guide is invaluable for product managers and designers working on products with massive, diverse audiences.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Designing for the proxy",
+    "url": "https://uxdesign.cc/designing-for-the-proxy-2606ffac2335?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "As AI becomes the intermediary between creators and end users, this essay explores how designers must shift their thinking to optimize for AI-first consumption rather than human readers. It reveals a fundamental UX paradigm shift where curation and quality differentiation matter more than quantity.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Google is building an AI fence around the web it once championed",
+    "url": "https://www.nytimes.com/2026/07/20/technology/google-ai-open-web.html?unlocked_article_code=1.2VA.tHaD.87T7tIi8zNbs&smid=url-share",
+    "source": "The New York Times",
+    "description": "This investigative piece examines how Google's AI integration into search is fundamentally changing user behavior and web traffic dynamics, raising questions about the company's impact on open web accessibility. It's essential reading for understanding how AI-driven product changes are reshaping the digital ecosystem.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Kill the cookie banner",
+    "url": "https://killthecookiebanner.eu/",
+    "source": "EU Digital Commission",
+    "description": "The EU Commission has proposed regulatory solutions to eliminate deceptive cookie banners that plague web experiences, addressing a perennial UX and privacy frustration. This development is significant for designers navigating privacy regulations and improving user trust in digital products.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Design Systems News - Issue 220 - 3rd Aug 2026",
+    "url": "https://news.design.systems/issues/220",
+    "source": "Design Systems News",
+    "description": "This curated newsletter covers critical design systems topics, including an insightful examination of which values shouldn't become design tokens\u2014challenging common practices around tokenization of constants. A must-read for design systems practitioners looking to avoid maintenance bloat and maintain system scalability.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "IA for AI, The UX of contrast, Battling AI fatigue",
+    "url": "https://uxdesign.cc/ia-for-ai-the-ux-of-contrast-battling-ai-fatigue-4f623495bed8?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This weekly curated resource collection addresses three emerging design challenges: information architecture for AI systems, visual contrast principles, and user fatigue from AI overload. It provides both strategic context and practical guidance for designers adapting to an AI-saturated landscape.",
+    "read_time": "5 min"
+  }
+]
