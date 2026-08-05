@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Ecommerce Quantitative UX: 3 High-Level Trends & Takeaways from 20+ Charts",
+    "url": "https://baymard.com/blog/ecommerce-quantitative-ux-insights-2026",
+    "source": "Baymard Institute",
+    "description": "This data-driven analysis distills quantitative UX research from 20+ charts to reveal key ecommerce trends and actionable insights. Essential reading for product managers and designers working in retail, backed by rigorous user research methodology.",
+    "read_time": "8 min",
+    "featured": true
+  },
+  {
+    "title": "The future of work belongs to the knowledge DJs",
+    "url": "https://uxdesign.cc/the-future-of-work-belongs-to-the-knowledge-djs-7cc596be1f77?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "As AI makes content generation cheap, the human competitive advantage shifts to curation and context-setting. Product professionals who master the ability to select, sequence, and adapt information\u2014like DJs mixing tracks\u2014will thrive in an AI-augmented future.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Developers are attached to tools because tools encode trust",
+    "url": "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/",
+    "source": "Stack Overflow Blog",
+    "description": "Developer loyalty to tools isn't sentimental\u2014it's rooted in the consistency and predictability that tools provide, similar to how a craftsman relies on a trusted knife. This insight matters for product teams building developer tools and understanding why switching costs are so high.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "The plateau of sad gray icons",
+    "url": "https://yeseniaperezcruz.substack.com/p/the-plateau-of-sad-gray-icons",
+    "source": "Sidebar",
+    "description": "AI-generated interfaces are increasingly marred by ubiquitous soft gray icon containers that lack intentionality and visual coherence. This critique highlights a critical gap in how AI handles taste and design judgment, a challenge that will define the next generation of design tools.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "What your AI co-designer can't infer from your hex values",
+    "url": "https://uxdesign.cc/what-your-ai-co-designer-cant-infer-from-your-hex-values-d2023364e80e?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "AI design assistants lack the contextual understanding needed to make informed design decisions from color values alone. This practical guide shows designers how to create rich context files that help AI partners generate more intentional, on-brand work.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "What Star Trek got right about AI",
+    "url": "https://uxdesign.cc/what-star-trek-got-right-about-ai-a4fb09e0d6c6?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "Star Trek envisioned voice-first computing, natural language interfaces, and universal translation decades before modern AI made them real. This retrospective reveals how science fiction anticipated critical UX patterns that now shape contemporary AI assistants.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "The AI productivity gap",
+    "url": "https://bjorg.bjornroche.com/management/ai-productivity-gap/",
+    "source": "Sidebar",
+    "description": "Despite widespread AI adoption, measured productivity gains remain surprisingly modest, revealing a gap between hype and real-world impact. Understanding why AI tools aren't delivering promised efficiency is critical for product teams and organizations planning AI investments.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Notion: design & AI workflows",
+    "url": "https://yummy-design-sprint.notion.site/32762791470980f79c59f4580d377f3f?v=32762791470980f495ac000c95dece67",
+    "source": "Sidebar",
+    "description": "Notion's new AI agent orchestration capabilities allow teams to build and manage agents directly within their existing workflow and project management system. This integration represents a significant step toward embedding AI agents into everyday productivity tools.",
+    "read_time": "5 min"
+  }
+]
