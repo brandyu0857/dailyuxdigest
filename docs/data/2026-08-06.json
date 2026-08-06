@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Code, craft, and the making of nested folders",
+    "url": "https://www.figma.com/blog/code-craft-and-the-making-of-nested-folders/",
+    "source": "Figma Blog",
+    "description": "Figma shares how they shipped nested folders by fundamentally rethinking the handoff process\u2014transforming it from a one-way proposal into an ongoing conversation between designers and developers. This deep dive reveals practical lessons in product decision-making and collaborative tool design that impact how teams work together.",
+    "read_time": "7 min",
+    "featured": true
+  },
+  {
+    "title": "7 DESIGN.md Mistakes That Make AI-Generated UI Worse",
+    "url": "https://uxplanet.org/7-design-md-mistakes-that-make-ai-generated-ui-worse-9ec2dfcc44cd?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "As AI-generated UI becomes increasingly common, understanding how to properly structure DESIGN.md files is critical for maintaining design quality and consistency. This article identifies key pitfalls that prevent AI from accurately understanding and executing your product's design intent.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Defining ethical design for machines",
+    "url": "https://uxdesign.cc/defining-ethical-design-for-machines-10d8f7309eec?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "As AI systems become central to product experiences, designers must translate abstract ethical principles into concrete, actionable rules that diverse teams can implement and agree upon. This article explores the critical challenge of embedding ethics into machine-driven design decisions.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Bottle your judgment and make it outlive you",
+    "url": "https://uxdesign.cc/bottle-your-judgment-and-make-it-outlive-you-14f422772262?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "This thoughtful essay explores how design leaders can codify their judgment and expertise into systems and guidelines that scale beyond their individual influence. It's a powerful perspective on knowledge transfer, design systems, and building institutional design capacity.",
+    "read_time": "9 min"
+  },
+  {
+    "title": "The last product design tool",
+    "url": "https://writing.mariusz.cc/ultimate-product-design-tool/",
+    "source": "Sidebar",
+    "description": "A contrarian take on the resurgence of wireframing as a core design practice, suggesting that simplicity and low-fidelity sketching remain powerful tools in an age of high-fidelity prototyping. This challenges current design tool trends and advocates for intentional workflow design.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Dither it",
+    "url": "https://ditherit.com/",
+    "source": "Sidebar",
+    "description": "A free, elegant online tool for image dithering with multiple algorithms and batch processing capabilities, perfect for designers working with retro aesthetics, accessibility-focused design, or optimizing file sizes. Useful for web designers and creative technologists looking to add visual texture efficiently.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "Brandfetch MCP",
+    "url": "https://www.producthunt.com/products/brandfetch",
+    "source": "Product Hunt",
+    "description": "This integration ensures AI systems can accurately access and use real brand assets rather than hallucinating logos, solving a critical pain point as AI agents become more embedded in design and marketing workflows. A practical tool that bridges the gap between AI capability and brand consistency.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Drawesome",
+    "url": "https://benji.org/drawesome",
+    "source": "Sidebar",
+    "description": "A lightweight React drawing toolbar component with seven pens, eraser, and SVG/PNG export\u2014requiring only two lines of code to integrate. Perfect for developers building collaborative, whiteboarding, or annotation features into their applications without heavy dependencies.",
+    "read_time": "3 min"
+  }
+]
