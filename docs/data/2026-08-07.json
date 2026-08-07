@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Rescript for Desktop",
+    "url": "https://www.producthunt.com/products/rescript-edit-videos-like-you-edit-text",
+    "source": "Product Hunt \u2014 The best new products, every day",
+    "description": "An open-source, on-device alternative to Descript that democratizes video editing by treating it like text editing. This launch represents a significant shift toward privacy-conscious, accessible content creation tools that run locally without cloud dependencies.",
+    "read_time": "3 min",
+    "featured": true
+  },
+  {
+    "title": "What Star Trek got wrong about AI (so far)",
+    "url": "https://uxdesign.cc/what-star-trek-got-wrong-about-ai-so-far-a60029fa1f1c?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A thought-provoking exploration of how AI development diverged from science fiction predictions, examining why current AI systems are fluent yet confidently unreliable rather than the rational assistants Star Trek imagined. This essay offers crucial perspective on designing for and with AI systems that behave fundamentally differently from our cultural expectations.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "The Hidden Compliance Challenge in Global Payroll UX",
+    "url": "https://uxplanet.org/the-hidden-compliance-challenge-in-global-payroll-ux-2f6b6e10af0a?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "A deep dive into how UX designers must balance privacy, compliance, and usability when handling sensitive personal data across jurisdictions in global payroll platforms. Essential reading for designers working in regulated industries or handling PII at scale.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "The cybernetic application",
+    "url": "https://uxdesign.cc/the-cybernetic-application-455c41751c4a?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A systems-thinking approach to designing information systems that go beyond static interfaces, drawing on Stafford Beer's cybernetics principles to create adaptive, self-regulating digital environments. This essay challenges conventional product thinking with sophisticated frameworks for modern application design.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Progress AI Observability",
+    "url": "https://www.producthunt.com/products/progress-ai-observability",
+    "source": "Product Hunt \u2014 The best new products, every day",
+    "description": "A production-focused tool for tracing, evaluating, and improving AI agent performance in real-world environments. As AI agents become production infrastructure, observability tools like this are critical for maintaining reliability and understanding agent behavior at scale.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "StepShot",
+    "url": "https://www.producthunt.com/products/stepshot-2",
+    "source": "Product Hunt \u2014 The best new products, every day",
+    "description": "AI that automatically converts real user workflows into clear step-by-step guides, reducing the manual documentation burden for teams while improving onboarding and support. This addresses a major pain point in product documentation and knowledge management.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "DataBlur",
+    "url": "https://www.producthunt.com/products/datablur",
+    "source": "Product Hunt \u2014 The best new products, every day",
+    "description": "A security-focused tool that automatically blurs sensitive data on-screen before it's visible to anyone, addressing privacy concerns in remote work and shared environments. Increasingly important as teams balance transparency with data protection requirements.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "2026 State of CSS, Devs Surveys",
+    "url": "https://css-tricks.com/2026-state-of-css-devs-surveys/",
+    "source": "CSS-Tricks",
+    "description": "Analysis of the 2026 State of CSS survey revealing current developer preferences, emerging technologies, and shifting priorities in frontend development. Essential data for UX and product designers collaborating with engineering teams on technical feasibility and modern web practices.",
+    "read_time": "5 min"
+  }
+]
