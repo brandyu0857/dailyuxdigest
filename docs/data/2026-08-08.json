@@ -1,0 +1,59 @@
+[
+  {
+    "title": "How to Decide When an AI Tool Is Worth Keeping",
+    "url": "https://www.nngroup.com/articles/prove-framework/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "NN/g",
+    "description": "The PROVE framework offers a practical methodology to evaluate whether an AI tool actually improves your workflow rather than falling victim to adoption pressure. Essential reading as teams navigate the crowded AI landscape and need a defensible way to justify tool investments.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "What happens when you can't hide behind craft",
+    "url": "https://microsoft.design/articles/the-naked-designer-what-happens-when-you-cant-hide-behind-craft/",
+    "source": "Microsoft Design",
+    "description": "With AI making execution nearly free, designers must shift from craft mastery to developing genuine strategic perspective and point of view. A thought-provoking essay on how the design profession is fundamentally evolving in the AI era.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "How Baseline Can Help You Ship Less JavaScript",
+    "url": "https://smashingmagazine.com/2026/08/how-baseline-can-help-ship-less-javascript/",
+    "source": "Smashing Magazine",
+    "description": "Modern browsers now natively support features developers once needed libraries for. This practical guide helps you audit dependencies and eliminate unnecessary JavaScript, improving performance and reducing maintenance burden.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Dogfooding vs. QA vs. User Research",
+    "url": "https://www.nngroup.com/articles/dogfooding/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "NN/g",
+    "description": "While internal dogfooding catches bugs, it fundamentally cannot replace user research because your team possesses too much domain knowledge. A clarifying piece on why product teams need all three validation methods working together.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "The hierarchy of competence",
+    "url": "https://hvpandya.com/hierarchy-of-competence",
+    "source": "Sidebar",
+    "description": "A framework mapping nine stages of workplace competence, each measured by the jobs it removes from your manager's plate. Useful for understanding career progression and identifying where team members are in their development journey.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Something is changing in the unit economics of software",
+    "url": "https://nicolo.xyz/note/something-is-changing-in-the-unit-economics-of-software/?utm_source=tldrdev",
+    "source": "Sidebar",
+    "description": "AI is fundamentally compressing software margins and disrupting traditional SaaS business models. Critical analysis for product leaders and entrepreneurs on how to adapt strategies in a shifting economic landscape.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Using and Styling the Dialog Element",
+    "url": "https://css-tricks.com/using-and-styling-the-dialog-element/",
+    "source": "CSS-Tricks",
+    "description": "A deep dive into the HTML dialog element's nuanced behavior and styling options, offering practical guidance for designers and developers building accessible modals without third-party libraries.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "I Turned a Product Photo Into a 3D Object Using Claude Design",
+    "url": "https://uxplanet.org/i-turned-a-product-photo-into-a-3d-object-using-claude-design-03806a7533fb?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "A hands-on exploration of Claude Design's 3D object generation capabilities from 2D assets. Demonstrates emerging AI-powered design workflows and the expanding scope of generative tools for product designers.",
+    "read_time": "5 min"
+  }
+]
