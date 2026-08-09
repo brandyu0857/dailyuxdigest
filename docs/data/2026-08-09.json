@@ -1,0 +1,59 @@
+[
+  {
+    "title": "VoiceOS App Store",
+    "url": "https://www.producthunt.com/products/voiceos",
+    "source": "Product Hunt",
+    "description": "First dedicated app ecosystem for voice-activated interfaces, opening new possibilities for hands-free, accessibility-focused interactions. Signals a major shift toward voice as a primary interaction paradigm.",
+    "read_time": "3 min",
+    "featured": true
+  },
+  {
+    "title": "Grok Imagine 2.0",
+    "url": "https://www.producthunt.com/products/grok-com-beta",
+    "source": "Product Hunt",
+    "description": "Next-gen AI image generator with advanced segmentation editing capabilities that enables precise, layer-based control over generated images. This represents a significant leap in practical AI image tools for designers who need pixel-perfect customization without leaving their workflow.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Argos",
+    "url": "https://www.producthunt.com/products/argos-2",
+    "source": "Product Hunt",
+    "description": "AI agent that autonomously operates within your browser, mimicking your actions and automating repetitive web-based workflows. A compelling alternative to traditional automation tools that could fundamentally change how teams handle tedious digital tasks.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Workflo",
+    "url": "https://www.producthunt.com/products/workflo-2",
+    "source": "Product Hunt",
+    "description": "Privacy-focused Mac workspace automation that processes commands locally without accessing your screen content, addressing growing concerns about data security in automation tools. A smart approach for teams handling sensitive information.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Toolport",
+    "url": "https://www.producthunt.com/products/conduit-12",
+    "source": "Product Hunt",
+    "description": "Unified MCP (Model Context Protocol) setup that centralizes all tool integrations for AI agents, eliminating the friction of managing scattered tool connections. Essential infrastructure for teams scaling their AI agent deployments.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "DocsAlot CLI",
+    "url": "https://www.producthunt.com/products/docsalot-2",
+    "source": "Product Hunt",
+    "description": "AI-powered documentation generator using Claude or Codex to create and maintain polished docs automatically, addressing a perennial pain point in software development. Reduces the documentation burden while ensuring consistency and quality.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "DuckDisk",
+    "url": "https://www.producthunt.com/products/duckdisk",
+    "source": "Product Hunt",
+    "description": "Table-first storage analysis tool that provides intuitive, spreadsheet-like views of disk usage across Mac, cloud, and SSH environments. Transforms tedious storage management into data exploration, making it easier to optimize across distributed systems.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Design @ ACME",
+    "url": "https://uxdesign.cc/design-acme-9d0cffa8af51?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Insightful design essay using Looney Tunes' Coyote character to illustrate real-world design failures, mishaps, and lessons from consequences. A creative, memorable approach to understanding what happens when design thinking breaks down in practice.",
+    "read_time": "6 min"
+  }
+]
