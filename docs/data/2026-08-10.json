@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Bottle your judgment, Chat is the wrong UI",
+    "url": "https://uxdesign.cc/bottle-your-judgment-chat-is-the-wrong-ui-design-md-2484e8d870af?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A critical examination of chat as a UI paradigm for knowledge packaging and decision-making, challenging designers to question whether conversational interfaces are always the right choice. Timely as chat-based products proliferate.",
+    "read_time": "5 min",
+    "featured": true
+  },
+  {
+    "title": "Why your clients aren't buying and how to change that",
+    "url": "https://uxdesign.cc/why-your-clients-arent-buying-and-how-to-change-that-cd7104bf14fd?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A practical playbook for designers and PMs to overcome stakeholder resistance and get buy-in for data-driven decisions. This addresses a universal pain point in product work where good ideas still face rejection despite evidence.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Taste is all that's left",
+    "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
+    "source": "Sidebar",
+    "description": "An insightful exploration of how AI automation is reshaping product design, elevating taste and curation as the primary competitive differentiator. Essential reading as designers navigate an era where execution is increasingly commoditized.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "What's the purpose of information architecture?",
+    "url": "https://jarango.com/2026/08/07/whats-the-purpose-of-information-architecture/",
+    "source": "Sidebar",
+    "description": "A foundational essay clarifying the misunderstood discipline of IA after 50 years, helping designers and PMs understand its true strategic role beyond mere organization. Critical for anyone building digital products at scale.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "The future of the website",
+    "url": "https://joost.blog/future-of-the-website/",
+    "source": "Sidebar",
+    "description": "A forward-thinking perspective on how websites are evolving to serve as agent-readable surfaces and MCP servers, signaling a fundamental shift in how we design for AI-driven interactions. Vital for understanding next-generation product strategy.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Thinking outside the box (literally)",
+    "url": "https://uxdesign.cc/thinking-outside-the-box-2c2054ea6017?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "An eye-opening analysis of how AI agents are escaping sandbox limitations and exploring novel interaction paradigms beyond language-based interfaces. Thought-provoking for anyone designing the next generation of AI products.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "The loom that raised its hand",
+    "url": "https://uxdesign.cc/the-loom-that-raised-its-hand-4e8981b3ef88?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A fascinating case study of how 90 years of engineering expertise culminated in machines learning to self-correct, blending human precision with AI capability. Demonstrates the power of domain expertise meeting intelligent systems.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Agent plugins",
+    "url": "https://agent-plugins.org/",
+    "source": "Sidebar",
+    "description": "Introduces a portable package format for building reusable, extensible AI agent components, establishing important standards as the agent ecosystem matures. Essential infrastructure for teams scaling AI-powered products.",
+    "read_time": "4 min"
+  }
+]
