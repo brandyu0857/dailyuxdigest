@@ -1,0 +1,59 @@
+[
+  {
+    "title": "A Fresh Definition of The Product Role",
+    "url": "https://www.svpg.com/a-fresh-definition-of-the-product-role/",
+    "source": "Silicon Valley Product Group",
+    "description": "Marty Cagan cuts through the noise of conflicting product manager definitions by offering a contemporary take on what the role should actually be. Essential reading for anyone confused about PM responsibilities in today's product landscape.",
+    "read_time": "7 min",
+    "featured": true
+  },
+  {
+    "title": "Bottle your judgment and make it outlive you",
+    "url": "https://uxdesign.cc/bottle-your-judgment-and-make-it-outlive-you-14f422772262",
+    "source": "UX Design",
+    "description": "This essay explores how to externalize and preserve your design expertise so it survives beyond you\u2014whether through documentation, design systems, or AI-assisted knowledge capture. A thoughtful meditation on legacy and knowledge transfer in an era of rapid team turnover.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "7 DESIGN.md Tips for Better, More Consistent AI-Generated UI",
+    "url": "https://uxplanet.org/7-design-md-tips-for-better-more-consistent-ai-generated-ui-b01736d07748?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "A practical guide to using DESIGN.md files as portable design systems for AI coding tools like Claude Code, ensuring AI generates UI that matches your brand and specifications. Highly relevant for design teams adopting AI-assisted development.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Gitar",
+    "url": "https://www.producthunt.com/products/gitar",
+    "source": "Product Hunt",
+    "description": "An AI code review tool that doesn't just identify issues\u2014it automatically fixes them. A significant productivity tool for development teams looking to streamline their review and quality assurance processes.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Systems and delays",
+    "url": "https://martin.janiczek.cz/2026/07/24/systems-and-delays.html",
+    "source": "Sidebar",
+    "description": "A deep dive into how delays emerge counterintuitively within complex systems, challenging common assumptions about speed and efficiency. Essential systems thinking for product managers and designers building scalable products.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Gamma Tips & Tricks for Product Designers",
+    "url": "https://uxplanet.org/gamma-tips-tricks-for-product-designers-591582d01588?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "Beyond Gamma's polished surface, this guide reveals how product designers can leverage the tool's hidden capabilities for faster presentation creation and iteration. Practical shortcuts for designers adopting AI-powered design tools.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Animating CSS border-image",
+    "url": "https://css-tricks.com/animating-css-border-image/",
+    "source": "CSS-Tricks",
+    "description": "An exploration of an underutilized CSS feature that can create stunning animated border effects with minimal JavaScript. Perfect for designers and front-end developers looking to elevate UI polish and interactivity.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "AI Potluck",
+    "url": "https://www.aipotluck.org/map",
+    "source": "Sidebar",
+    "description": "A collaborative mapping of the open source AI stack that identifies gaps in the ecosystem and rallies the community to fill them. A strategic resource for understanding where AI infrastructure is headed and where opportunities exist.",
+    "read_time": "6 min"
+  }
+]
