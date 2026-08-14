@@ -1,0 +1,59 @@
+[
+  {
+    "title": "New EU Guidelines For AI Labelling",
+    "url": "https://smashingmagazine.com/2026/08/eu-guidelines-ai-labelling/",
+    "source": "Smashing Magazine",
+    "description": "New EU regulations now mandate clear labeling of AI-powered features in products, with specific requirements for transparency and user disclosure. Product teams and designers need to understand these compliance requirements immediately to avoid regulatory penalties and maintain user trust.",
+    "read_time": "5 min",
+    "featured": true
+  },
+  {
+    "title": "AI is removing the middle class of software engineering",
+    "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+    "source": "Sidebar",
+    "description": "This essay explores how AI is fundamentally reshaping the software engineering job market by automating mid-level execution work, leaving only high-level architectural roles and entry-level positions. Understanding this shift is critical for designers and product leaders navigating team composition and skill requirements in an AI-augmented future.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "You don't have a design system",
+    "url": "https://mattrothenberg.com/notes/you-dont-have-a-design-system/",
+    "source": "Sidebar",
+    "description": "This provocative piece challenges teams to move beyond aesthetic component libraries toward systematic documentation of implementation logic and decision-making. For design leaders and product managers, it's a practical framework for building truly sustainable design systems that scale across organizations.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Rethinking design leadership with swarms and flocks",
+    "url": "https://uxdesign.cc/rethinking-design-leadership-with-swarms-and-flocks-9298db8c59d2?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "This innovative leadership framework applies biological principles of swarm intelligence to solve common design team challenges like manager burnout and bottlenecks. Design leaders will find actionable insights on how structured emergence can create more resilient, self-organizing teams.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Claude Code 101, for designers",
+    "url": "https://yaronschoen.com/blog/claude-code-101-for-designers/",
+    "source": "Sidebar",
+    "description": "A demystifying guide that translates AI and coding concepts for non-technical designers, covering models, tokens, agents, and MCP in plain language. Essential reading for designers looking to effectively collaborate with AI tools and understand their capabilities and limitations.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Middle management roles are also a trap",
+    "url": "https://lethain.com/middle-management-roles-were-also-a-trap/",
+    "source": "Sidebar",
+    "description": "A candid analysis revealing how traditional middle management structures often prevent managers from developing executive-level skills, creating a career dead-end. Critical reading for design leaders and PMs evaluating their career trajectories and organizational structures.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Why is everyone in tech so sad?",
+    "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+    "source": "Noema Magazine",
+    "description": "A cultural diagnosis exploring why knowledge workers increasingly feel their work lacks meaning and purpose, even as they achieve external success. This perspective piece offers important context for UX professionals grappling with the ethical implications and human impact of their work.",
+    "read_time": "9 min"
+  },
+  {
+    "title": "I didn't set a cookie",
+    "url": "https://kuber.studio/cookie/",
+    "source": "Sidebar",
+    "description": "A concerning demonstration of how browser fingerprinting and advanced tracking techniques can identify users without cookies or consent prompts, raising critical privacy questions. This technical eye-opener is essential for designers and PMs responsible for user privacy and ethical product practices.",
+    "read_time": "4 min"
+  }
+]
