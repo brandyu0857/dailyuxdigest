@@ -1,0 +1,59 @@
+[
+  {
+    "title": "One AI Output Is an Example, Not an Evaluation",
+    "url": "https://www.nngroup.com/articles/eval-ai-output/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "Nielsen Norman Group",
+    "description": "A critical reminder that evaluating AI systems requires rigorous methodology\u2014not cherry-picked examples. This article breaks down why designers and product teams need multiple representative inputs, repeated runs, and proper statistical confidence intervals to truly understand AI reliability.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "Getting started is not getting it right",
+    "url": "https://uxdesign.cc/getting-started-is-not-getting-it-right-e76270614d14?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A practical guide on leading AI adoption in design teams, exposing the dangerous gap between what AI actually does well versus what it appears to do well. Based on three years of real-world AI implementation, this essay offers essential frameworks for enablement and organizational change.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Psychological Ownership: Own the Right Things",
+    "url": "https://www.nngroup.com/articles/psychological-ownership/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "Nielsen Norman Group",
+    "description": "An insightful look at how psychological ownership affects team effectiveness and when it becomes counterproductive. Understanding this principle helps leaders and managers redirect team focus from uncontrollable factors to areas where ownership actually drives results.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "What Star Wars got wrong about AI (so far)",
+    "url": "https://uxdesign.cc/what-star-wars-got-wrong-about-ai-so-far-227472bd24ea?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A thought-provoking essay that challenges cultural narratives around AI by examining how decades of sci-fi shaped our mental models of intelligent machines. Exploring how reality diverges from fiction offers valuable perspective for designers building human-AI interactions today.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Get responsive text across screens with text wrap",
+    "url": "https://www.figma.com/release-notes/?title=get-responsive-text-across-screens-with-text-wrap",
+    "source": "Figma",
+    "description": "Figma's new text wrap options (Balance and Pretty) make responsive typography significantly easier without manual tweaking across devices. This quality-of-life update addresses a longtime pain point in design workflows and can be applied at multiple levels\u2014text layers, styles, or individual paragraphs.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Top 5 Claude Design Tips & Tricks for Product Designers",
+    "url": "https://uxplanet.org/top-5-claude-design-tips-tricks-for-product-designers-1f565d1a36a6?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "A practical guide for product designers looking to leverage Claude for rapid prototyping and design iteration. This hands-on article shares actionable tips that can immediately accelerate the design process and unlock new creative possibilities.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "3 Types of Agentic Workflows in Claude Code: Safe, Risky, and Dangerous",
+    "url": "https://uxplanet.org/3-types-of-agentic-workflows-in-claude-code-safe-risky-and-dangerous-6bcf401a2fb5?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "As AI agents become mainstream, understanding the risk spectrum is essential for responsible deployment. This article categorizes agentic workflows and highlights critical considerations for organizations implementing autonomous systems in production environments.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Framer is killing the marketplace\u2026 or are they?",
+    "url": "https://uxdesign.cc/framer-is-killing-the-marketplace-or-are-they-cc96a67763b3?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "An in-depth analysis of Framer's marketplace strategy and its impact on the design tool ecosystem, exploring 10 major controversies from a creator's perspective. Essential reading for understanding platform dynamics and how tool companies balance creator monetization with business growth.",
+    "read_time": "9 min"
+  }
+]
