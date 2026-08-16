@@ -1,0 +1,59 @@
+[
+  {
+    "title": "How to become an AI Designer",
+    "url": "https://uxdesign.cc/how-to-become-an-ai-designer-ff8ee8aed205?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A pragmatic roadmap for designers navigating the AI revolution, addressing the tension between rapid engineering velocity and design thoughtfulness. The guide explores how to develop AI-first design skills while managing the hype and low-quality outputs flooding the industry.",
+    "read_time": "8 min",
+    "featured": true
+  },
+  {
+    "title": "You already know how to make it accessible",
+    "url": "https://uxdesign.cc/you-already-know-how-to-make-it-accessible-b29513a9b217?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This article demystifies accessibility by framing it as a translation skill rather than a separate discipline, helping designers understand that they already possess the foundational knowledge needed. It challenges the misconception that accessibility requires specialized expertise and provides practical guidance for integrating inclusive design into existing workflows.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Who gets the meter?",
+    "url": "https://uxdesign.cc/who-gets-the-meter-7cd1cd1ad5e4?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A thought-provoking essay exploring how AI has fundamentally changed our relationship with technology costs and resource consumption, making the invisible computational expense visible again. This piece examines the broader implications for designers and users in an AI-driven world.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "What's !important #17: Custom Highlight API, CSS Navigation Matching, Fixing text-stroke, and More",
+    "url": "https://css-tricks.com/whats-important-17/",
+    "source": "CSS-Tricks",
+    "description": "A comprehensive roundup of cutting-edge CSS techniques and updates including the Custom Highlight API and advanced styling methods for skeleton UIs and diagonal scrolling. This resource is essential for designers and frontend developers staying current with modern CSS capabilities.",
+    "read_time": "9 min"
+  },
+  {
+    "title": "Chert",
+    "url": "https://www.producthunt.com/products/chert",
+    "source": "Product Hunt",
+    "description": "A new tool enabling AI video agents through FaceTime with minimal setup, representing a significant step in conversational AI accessibility for mainstream users. This launch highlights how AI agents are becoming embedded in familiar communication platforms.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "HarnessRouter Community Edition",
+    "url": "https://www.producthunt.com/products/epsilla",
+    "source": "Product Hunt",
+    "description": "An open-source unified interface for agent harnesses that simplifies orchestration and management of AI agents across multiple platforms. This tool addresses a critical gap in the AI development ecosystem by providing standardization and ease of use.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Liquid Gooey",
+    "url": "https://gooey.jakubantalik.com/",
+    "source": "Sidebar",
+    "description": "A React component library for creating fluid, organic liquid UI effects that enhance visual polish and delight in modern applications. This tool empowers designers and developers to implement sophisticated motion effects without complex custom code.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "Stolen thoughts",
+    "url": "https://stolen-thoughts.com/",
+    "source": "Sidebar",
+    "description": "A fascinating exploration of how hidden reasoning chains from major AI APIs can be decoded and analyzed at scale, revealing the black-box decision-making processes of leading language models. This research has implications for AI transparency, debugging, and understanding model behavior.",
+    "read_time": "5 min"
+  }
+]
