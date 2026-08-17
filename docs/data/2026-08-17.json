@@ -1,0 +1,59 @@
+[
+  {
+    "title": "AI adoption and the slow erosion of design idealism",
+    "url": "https://uxdesign.cc/ai-adoption-and-the-slow-erosion-of-design-idealism-fab75761ebd6?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A thoughtful essay examining how professional practice, client pressures, and deadlines reshape designers' idealistic views on emerging AI technology. Essential reading for design leaders navigating the tension between ethical design principles and market realities.",
+    "read_time": "7 min",
+    "featured": true
+  },
+  {
+    "title": "The feature was fine. So why did users keep hiding it?",
+    "url": "https://uxdesign.cc/the-feature-was-fine-so-why-did-users-keep-hiding-it-58082b6f3abf?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A compelling case study exploring why well-designed features get disabled by users, uncovering the hidden retention killer that never appears in requirements docs. This practical lesson reveals the gap between feature quality and user behavior, offering designers crucial insights into user satisfaction and adoption.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Rethinking leadership, Judgment as bottleneck, Ethical UX for machines",
+    "url": "https://uxdesign.cc/rethinking-leadership-judgment-as-bottleneck-ethical-ux-for-machines-5927df9a399e?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A critical examination of design leadership's overreliance on mechanical thinking and how judgment becomes a bottleneck in modern organizations. This piece challenges conventional cross-functional practices and explores ethical considerations for AI-driven interfaces.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Design is how it tastes",
+    "url": "https://superposition.jem.computer/design-is-how-it-tastes/",
+    "source": "Sidebar",
+    "description": "A provocative perspective on why design specifications that only describe interface composition miss the fundamental purpose and intent of design. This philosophical take challenges designers to think beyond specs and consider the holistic user experience.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Accessibility getting dropped in the process",
+    "url": "https://buttondown.com/nic-steenhout/archive/accessibility-getting-dropped-in-the-process/",
+    "source": "Sidebar",
+    "description": "An important analysis of how accessible designs fail to remain accessible in the implementation process, revealing systemic gaps between design intentions and product reality. Critical reading for teams committed to inclusive design practices.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "The making of Cursor's icons",
+    "url": "https://www.minoradventures.co/blog/the-making-of-cursors-icons",
+    "source": "Sidebar",
+    "description": "An in-depth case study documenting the design and development of a complete icon system for a major AI product, covering a year-long process of iteration, testing, and refinement. Valuable insights into systematic design thinking and shipping at scale.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Vendo",
+    "url": "https://www.producthunt.com/products/vendo",
+    "source": "Product Hunt",
+    "description": "A platform empowering users to build their own features within products, representing a significant shift toward user-driven customization and no-code extensibility. This tool addresses a growing demand for flexible, user-controlled product experiences.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Take your meeting context to new places",
+    "url": "https://bit.ly/side-gra2",
+    "source": "Sidebar",
+    "description": "Granola's new Model Context Protocol (MCP) integration demonstrates how meeting notes can seamlessly connect to AI applications, unlocking new possibilities for knowledge management and AI-assisted productivity. A meaningful advancement in how design tools integrate with AI workflows.",
+    "read_time": "3 min"
+  }
+]
