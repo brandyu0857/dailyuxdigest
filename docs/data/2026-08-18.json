@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Claude Design Critique: A Better Way to Improve AI-Generated UI",
+    "url": "https://uxplanet.org/claude-design-critique-a-better-way-to-improve-ai-generated-ui-7efa1064bf8a?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "Design critique is essential for improving AI-generated interfaces, but traditional feedback loops don't work well with AI tools. This article explores how to structure design feedback to effectively iterate on AI-generated UI and achieve better outcomes.",
+    "read_time": "7 min",
+    "featured": true
+  },
+  {
+    "title": "How to make your design system agent-ready",
+    "url": "https://medium.com/design-bootcamp/how-to-make-your-design-system-agent-ready-ea4cfc062270",
+    "source": "Sidebar",
+    "description": "As AI agents become integral to design workflows, this guide reveals critical mistakes in how design systems are structured for agent consumption. Learn how to reorganize your design documentation to prevent AI agents from choking on bloated files and improve both human and machine readability.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "99% of my website traffic is bots",
+    "url": "https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/",
+    "source": "Sidebar",
+    "description": "A candid case study on the escalating battle against web scrapers, documenting one year of fighting bot traffic across 1.5 million pages. Discover what failed and what actually works to protect your content from automated harvesting.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "The human is the loop",
+    "url": "https://brentfitzgerald.com/posts/the-human-is-the-loop/",
+    "source": "Sidebar",
+    "description": "A reflective essay on the unexamined costs of AI tool adoption, exploring how productivity gains can mask unhealthy usage patterns. Essential reading for designers and leaders evaluating AI integration in their workflows.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Dark mode toggles: two states are enough",
+    "url": "https://css-tricks.com/dark-mode-toggles-two-states-are-enough/",
+    "source": "CSS-Tricks",
+    "description": "Lea Verou challenges the popular three-state dark mode implementation (light, dark, system), arguing that two states provide a better user experience. A practical perspective on simplifying a common design pattern.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Morphicons",
+    "url": "https://www.morphicons.com/",
+    "source": "Sidebar",
+    "description": "A new zero-dependency tool that enables smooth SVG icon morphing with spring physics across React, Vue, Svelte, and vanilla JavaScript. Perfect for designers building polished micro-interactions without heavy libraries.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Recommend resources you want users to discover and use",
+    "url": "https://www.figma.com/release-notes/?title=recommend-resources-you-want-users-to-discover-and-use",
+    "source": "Figma product news and release notes",
+    "description": "Figma now lets admins curate and recommend organizational resources including skills, templates, and libraries. This streamlines onboarding and ensures teams discover the most relevant design assets.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "Eigendrum",
+    "url": "https://eigendrum.com/#p=circle",
+    "source": "Sidebar",
+    "description": "An innovative tool that converts any hand-drawn shape into drum sounds by solving frequencies through finite elements. A creative exploration of generative audio and shape-to-sound design with practical applications for interactive experiences.",
+    "read_time": "4 min"
+  }
+]
