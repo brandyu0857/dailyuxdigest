@@ -1,0 +1,59 @@
+[
+  {
+    "title": "The Hidden Cost of Bad UX: How Much Revenue Are You Leaving on the Table?",
+    "url": "https://baymard.com/blog/hidden-cost-bad-ux-revenue-calculator",
+    "source": "Baymard Institute",
+    "description": "This practical guide quantifies the direct financial impact of poor UX design on business revenue, helping designers and leaders make data-driven cases for design investment. Understanding the ROI of good UX is essential for securing stakeholder buy-in and prioritizing design initiatives.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "Rethinking design leadership with swarms and flocks",
+    "url": "https://uxdesign.cc/rethinking-design-leadership-with-swarms-and-flocks-9298db8c59d2",
+    "source": "UX Collective - Medium",
+    "description": "This essay proposes a novel organizational model for design teams using emergence principles to reduce manager burnout and eliminate bottlenecks. The swarm-based approach offers practical solutions for scaling design leadership without traditional hierarchy constraints.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "How to experiment when designing in a regulated field like Healthcare",
+    "url": "https://uxdesign.cc/how-to-experiment-when-designing-in-a-regulated-field-like-healthcare-64fca3bb7655",
+    "source": "UX Collective - Medium",
+    "description": "This guide addresses the unique challenge of running design experiments under regulatory constraints like HIPAA, balancing rapid iteration with compliance requirements. Essential reading for designers working in heavily regulated industries who need to maintain both innovation and legal compliance.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Agent experience needs failure affordances",
+    "url": "https://blog.ronbronson.com/agent-experience-needs-failure-affordances",
+    "source": "Ron Bronson's Blog",
+    "description": "This thoughtful piece explores how autonomous AI agents must be designed with explicit failure states and recovery mechanisms, ensuring systems can gracefully degrade when they exceed their capabilities. A critical consideration as AI agents become more integrated into product experiences.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Try these 10 skills\u2014and show off your own",
+    "url": "https://www.figma.com/blog/try-these-10-skills-and-show-off-your-own/",
+    "source": "Figma",
+    "description": "Figma announced the ability to author custom skills for its AI agent directly within the platform, democratizing AI-assisted design. This represents a significant shift toward community-driven AI capabilities and extensible design tools.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Is the future of software certain once AI is everywhere?",
+    "url": "https://uxdesign.cc/is-the-future-of-software-certain-once-ai-is-everywhere-f93e1bc5697f",
+    "source": "UX Collective - Medium",
+    "description": "Rather than predicting extinction, this essay frames AI's impact on software through an evolutionary lens, exploring how design and development practices will adapt and transform. A nuanced perspective on the fundamental changes reshaping the software industry.",
+    "read_time": "9 min"
+  },
+  {
+    "title": "Origin by Cursor",
+    "url": "https://www.producthunt.com/products/cursor",
+    "source": "Product Hunt",
+    "description": "Cursor's new Git forge is purpose-built for the emerging era of coding agents, introducing infrastructure designed around AI-assisted development workflows. This signals a major shift in how development platforms need to evolve to support autonomous coding agents.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "What is the purpose of software",
+    "url": "https://uxdesign.cc/what-is-the-purpose-of-software-410e155567e3",
+    "source": "UX Collective - Medium",
+    "description": "This reflective essay questions fundamental assumptions about software's role and purpose in the age of AI and LLMs, prompting designers and developers to reconsider their core mission. A thought-provoking piece that challenges conventional thinking about design philosophy.",
+    "read_time": "8 min"
+  }
+]
