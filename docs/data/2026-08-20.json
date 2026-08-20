@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Is design dead in the age of AI?",
+    "url": "https://adobe.design/ideas/is-design-dead-in-the-age-of-ai",
+    "source": "Adobe Design",
+    "description": "Jessica Walsh's perspective reframes the AI debate away from design's extinction toward its evolution and new responsibilities. A thought-provoking read for design leaders questioning their role in an AI-augmented world.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "What nobody tells you about AI ethics",
+    "url": "https://uxdesign.cc/ai-ethics-ux-accountability-gradient-56094d538453?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "This essay explores how making human accountability visible in AI systems fundamentally changes our understanding of ethical design. It challenges designers to reconsider how interfaces can better represent the human decision-makers behind AI outputs, directly impacting how aligned these systems are with human values.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "AI is lying to us, and nobody seems to care",
+    "url": "https://uxdesign.cc/ai-is-lying-to-us-and-nobody-seems-to-care-f035cd6f502f?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A critical examination of how AI interfaces mask hallucinations and invented information behind confident outputs, creating a dangerous illusion of reliability. This piece exposes a fundamental UX problem: users can't distinguish real from fabricated information because the interface hides the reasoning process entirely.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Is the future of software certain once AI is everywhere?",
+    "url": "https://uxdesign.cc/is-the-future-of-software-certain-once-ai-is-everywhere-f93e1bc5697f?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Rather than predicting software's extinction, this thoughtful analysis frames AI as an evolutionary force reshaping the enterprise software landscape. It provides design leaders with a realistic framework for understanding how AI will transform\u2014not replace\u2014the products they build.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Claude Watermark Explained: What Product Designers Need to Know",
+    "url": "https://uxplanet.org/claude-watermark-explained-what-product-designers-need-to-know-3d14049ca76b?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "A practical guide to understanding Anthropic's new invisible statistical watermarking feature in Claude, helping designers assess implications for AI-generated content authenticity and disclosure in their products. This is essential knowledge for any team building with generative AI.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "How to choose a UI font (and 10 Inter alternatives)",
+    "url": "https://yeptype.com/article/inter-alternatives",
+    "source": "Yep Type",
+    "description": "This practical guide cuts through font overwhelm by establishing two objective criteria for UI typeface selection: cap-centered vertical metrics and tall x-height. Perfect for designers tired of default choices and seeking evidence-based alternatives.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Why don't we download airport apps?",
+    "url": "https://uxdesign.cc/why-dont-we-download-airport-apps-095c7be5a384?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A compelling case study examining why billions of airport passengers resist dedicated apps despite massive investment, revealing fundamental UX failures and what product teams can learn about user psychology and contextual design.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Shading motion",
+    "url": "https://blog.maximeheckel.com/posts/shading-motion/",
+    "source": "Maxime Heckel's Blog",
+    "description": "A deep technical dive into detecting and stylizing motion with WebGPU, covering optical flow and velocity-based blur effects. Essential reading for designers and engineers working on next-generation interactive experiences.",
+    "read_time": "9 min"
+  }
+]
