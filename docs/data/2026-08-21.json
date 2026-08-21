@@ -1,0 +1,59 @@
+[
+  {
+    "title": "The task isn't the job",
+    "url": "https://sunilpai.dev/posts/the-task-isnt-the-job/",
+    "source": "Sidebar",
+    "description": "A reflective piece exploring deeper questions about new role transitions and the hidden work beyond explicit tasks. Valuable for design leaders and PMs navigating career changes and understanding what truly drives impact.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "How to become an AI Designer",
+    "url": "https://uxdesign.cc/how-to-become-an-ai-designer-ff8ee8aed205",
+    "source": "UX Design",
+    "description": "A practical guide for designers navigating the emerging AI design role, offering realistic steps to ship AI-assisted designs. This article addresses the critical skill gap as AI tools become central to design workflows, making it essential reading for designers wanting to stay relevant.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "I Created a Complete Visual Identity for My Product With Claude Design",
+    "url": "https://uxplanet.org/i-created-a-complete-visual-identity-for-my-product-with-claude-design-ab9c0d095e8e?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "A hands-on case study demonstrating how Claude Design can accelerate visual identity creation for products, showing real-world applications beyond prototyping. This explores practical AI integration into design workflows that product teams are actively adopting.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "What The Matrix got wrong about AI (so far)",
+    "url": "https://uxdesign.cc/what-the-matrix-got-wrong-about-ai-so-far-c35f8e7f091c?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A thought-provoking essay comparing sci-fi predictions to the reality of generative AI, exploring how AI has quietly become embedded in our workflows rather than rising as a superintelligent threat. Essential perspective for designers and leaders thinking about AI's actual impact on work.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Timing Charts: A Blueprint For SMIL Animations",
+    "url": "https://smashingmagazine.com/2026/08/timing-charts-blueprint-smil-animations/",
+    "source": "Smashing Magazine",
+    "description": "A technical deep-dive into SMIL animations for SVGs, unlocking animation capabilities without JavaScript. Critical for designers and developers seeking to enhance interactive experiences with lightweight, performant animations.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "ProtoNote",
+    "url": "https://www.producthunt.com/products/protonote",
+    "source": "Product Hunt",
+    "description": "A tool enabling teams to share AI-built prototypes with feedback pinned directly to the page, streamlining the design feedback loop. This addresses a key pain point in collaborative design workflows.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "The New Calendly",
+    "url": "https://www.producthunt.com/products/calendly",
+    "source": "Product Hunt",
+    "description": "Calendly's evolved platform now manages all meeting-related work before, during, and after calls, expanding beyond scheduling. A significant product update showing how meeting infrastructure is becoming a productivity hub.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Syntax",
+    "url": "https://www.doc.cc/syntax",
+    "source": "Sidebar",
+    "description": "A series examining foundational design concepts and their origins, offering intellectual grounding for understanding how we got here. Valuable for designers seeking to deepen their conceptual understanding of core design principles.",
+    "read_time": "9 min"
+  }
+]
