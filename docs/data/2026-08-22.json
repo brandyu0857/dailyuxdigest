@@ -1,0 +1,59 @@
+[
+  {
+    "title": "AI-Generated Images Can Perform as Well as Stock Photography",
+    "url": "https://www.nngroup.com/articles/ai-generated-images/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "NN/g",
+    "description": "Research findings reveal that AI-generated images perform equivalently to stock photos when users are unaware of their origin, challenging assumptions about authenticity and user perception. This has significant implications for design budgets, production timelines, and the future role of visual assets in product design.",
+    "read_time": "5 min",
+    "featured": true
+  },
+  {
+    "title": "Artificial Intelligence: Glossary",
+    "url": "https://www.nngroup.com/articles/artificial-intelligence-glossary/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "NN/g",
+    "description": "A practical reference guide demystifying essential AI terminology that product designers and UX professionals encounter daily\u2014from tokens and context windows to agents and prompt injection. This resource bridges the gap between technical jargon and design implementation, helping teams communicate more effectively about AI-powered features.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Claude Design for UX: How to Design Complete User Flows, Not Just UI Screens",
+    "url": "https://uxplanet.org/claude-design-for-ux-how-to-design-complete-user-flows-not-just-ui-screens-094d6b8a7855?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "An exploration of how Claude Design accelerates prototyping and interaction design beyond static mockups, enabling designers to rapidly build interactive, end-to-end user flows. This practical guide addresses a common limitation in design tools and shows how AI-assisted design can shift focus from individual screens to complete user journeys.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Responsive Spacing Across Design and CSS",
+    "url": "https://www.figma.com/release-notes/?title=responsive-spacing",
+    "source": "Figma",
+    "description": "Figma's latest auto layout update introduces 'Around' and 'Evenly' spacing options, giving designers more granular control over responsive spacing behavior. This enhancement simplifies the design-to-development handoff and reduces the friction between design intent and CSS implementation.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "It really wasn't your fault, Coyote",
+    "url": "https://uxdesign.cc/it-really-wasnt-your-fault-coyote-e82dbecc43bd?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A witty design critique using the ACME Corporation's infamous products as a framework for examining how designers can be blamed for poor outcomes despite having little control over business decisions. This essay offers valuable perspective on design accountability, user empathy, and the importance of questioning flawed briefs.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Zero",
+    "url": "https://www.producthunt.com/products/zero-15",
+    "source": "Product Hunt",
+    "description": "Vercel's new programming language purpose-built for AI agents represents a significant shift in how developers will build AI-native applications with optimized performance and developer experience. This launch signals an emerging category of infrastructure tools specifically designed around AI agent workflows.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "AutoClaw",
+    "url": "https://www.producthunt.com/products/z-ai",
+    "source": "Product Hunt",
+    "description": "An AI work agent that operates across desktop, browser, and chat interfaces, unifying the fragmented landscape of productivity tools and potentially transforming how knowledge workers automate repetitive tasks. This multi-platform approach addresses the growing demand for AI agents that work where users already are.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Poline: Esoteric Color Palette Generation",
+    "url": "https://meodai.github.io/poline/",
+    "source": "Sidebar",
+    "description": "A lightweight, dependency-free JavaScript function for generating sophisticated color palettes procedurally, offering designers and developers a performant alternative to manual palette creation. This tool opens new possibilities for dynamic, algorithmically-generated color systems in design systems and web applications.",
+    "read_time": "2 min"
+  }
+]
