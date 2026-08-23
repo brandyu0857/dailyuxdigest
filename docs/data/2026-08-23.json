@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Sterling Cooper built your UX process. We need to redefine it in the age of AI and systems.",
+    "url": "https://uxdesign.cc/sterling-cooper-built-your-ux-process-we-need-to-redefine-it-in-the-age-of-ai-and-systems-520a2d3b2a60?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "This thought-provoking essay argues that modern UX processes are inherited from mid-century ad agencies and urgently need reimagining for the AI era. The author makes a compelling case that design workflows must evolve to leverage AI-assisted tools while maintaining human creativity and strategic thinking.",
+    "read_time": "9 min",
+    "featured": true
+  },
+  {
+    "title": "Nobody wants a blank page. Nobody touches a perfect one.",
+    "url": "https://uxdesign.cc/nobody-wants-a-blank-page-nobody-touches-a-perfect-one-48d452a26dae?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "This essay explores the psychological barriers that prevent users from starting with blank slates and from engaging with overly polished interfaces\u2014a paradox every designer should understand. By examining why blank pages paralyze users and why perfection repels interaction, this piece offers actionable insights for designing more engaging entry points and iterative experiences.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "How We Built a Recognizable, Scalable Brand in Brooklyn's Crowded Food Scene",
+    "url": "https://dribbble.com/stories/2026/08/21/cl-paul-lilley-ulysses-recognizable-scalable-brand",
+    "source": "Dribbble",
+    "description": "This case study reveals practical strategies for building a distinctive, extensible brand identity in a competitive market, offering valuable lessons for designers working on brand systems. The behind-the-scenes look at design decisions and constraints provides actionable guidance for creating brands that are both memorable and scalable across touchpoints.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Open Analytics",
+    "url": "https://www.producthunt.com/products/open-analytics-2",
+    "source": "Product Hunt",
+    "description": "This AI-native Google Analytics alternative represents a significant shift in how web analytics platforms are being reimagined for modern use cases, promising more intuitive insights and AI-powered pattern recognition. For product teams evaluating analytics solutions, this launch signals how AI is transforming data interpretation and decision-making in product design.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Claude Academy",
+    "url": "https://academy.claude.com/",
+    "source": "Sidebar",
+    "description": "Anthropic's free learning platform provides essential resources for designers and product managers looking to integrate AI into their workflows responsibly and effectively. These courses are particularly valuable as teams navigate practical implementation of AI tools and establish best practices for AI-assisted design work.",
+    "read_time": "Variable"
+  },
+  {
+    "title": "Resolved: CSS Class Prefix Selector",
+    "url": "https://css-tricks.com/resolved-css-class-prefix-selector/",
+    "source": "CSS-Tricks",
+    "description": "A newly approved CSS proposal enables more flexible and maintainable styling for component variations using wildcard selectors, streamlining how designers and developers manage design systems at scale. This technical advancement directly impacts how design tokens and component libraries are structured in modern front-end development.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Port Radar for macOS",
+    "url": "https://www.producthunt.com/products/port-radar-for-macos",
+    "source": "Product Hunt",
+    "description": "This AI-powered port management tool simplifies a previously tedious developer workflow, demonstrating how AI agents can handle routine infrastructure tasks and free designers and engineers to focus on creative work. The release highlights an emerging category of AI tools designed to improve daily productivity for technical professionals.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "RIP.so: the digital graveyard",
+    "url": "https://rip.so/",
+    "source": "Sidebar",
+    "description": "This creative digital archive serves as both a nostalgic reflection and a cautionary tale about product sustainability and digital preservation in an era of rapid iteration and platform consolidation. It's a poignant reminder for designers building products today about considering long-term impact and the responsibility we have to users and communities.",
+    "read_time": "4 min"
+  }
+]
