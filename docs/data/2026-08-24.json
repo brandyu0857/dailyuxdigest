@@ -1,0 +1,59 @@
+[
+  {
+    "title": "UX Conference November Announced (Nov 9 - Nov 13)",
+    "url": "https://www.nngroup.com/training/november/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "NN/g latest articles and announcements",
+    "description": "Nielsen Norman Group's annual November conference returns with up to 5 in-depth training courses on UX best practices and foundational skills. A premier opportunity for UX professionals to deepen expertise with industry-leading practitioners.",
+    "read_time": "2 min",
+    "featured": true
+  },
+  {
+    "title": "Stop using OKLCH lightness for your color scale",
+    "url": "https://uxdesign.cc/stop-using-oklch-lightness-for-your-color-scale-02025deca49d?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This article challenges a common design system practice by explaining why OKLCH lightness, while excellent for color generation, fails to predict contrast reliably. Learn what metric designers should use instead to build better color palettes with proper weight distributions.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Keeping type consistent in changing conditions",
+    "url": "https://elliotjaystocks.com/blog/keeping-type-consistent",
+    "source": "Sidebar",
+    "description": "An insightful exploration of typographic grade and how it maintains visual balance across different screens and print materials without compromising layout geometry. Essential reading for designers managing typography at scale.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "How complex systems fail",
+    "url": "https://how.complexsystems.fail/",
+    "source": "Sidebar",
+    "description": "This framework reveals how latent flaws and operator adaptation lead to system failures, giving product teams a practical lens for building safer, more resilient systems. Critical for understanding accident prevention beyond traditional risk assessment.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Perfection is not over-engineering",
+    "url": "https://var0.xyz/posts/perfection-is-not-over-engineering.html",
+    "source": "Sidebar",
+    "description": "A thought-provoking essay that untangles a common industry misconception about what true perfection means in design. Challenges designers to reconsider their approach to quality and intentionality.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "No log off, How to become an AI Designer, vibe coded portfolios",
+    "url": "https://uxdesign.cc/no-log-off-how-to-become-an-ai-designer-vibe-coded-portfolios-deb7ca0e0f5d?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A curated resource collection exploring the evolving role of AI in design, the career path for emerging AI designers, and portfolio trends. Offers practical guidance for designers navigating the intersection of AI and UX.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Fluid type scale calculator",
+    "url": "https://utopia.fyi/type/calculator/",
+    "source": "Sidebar",
+    "description": "This practical tool automates responsive typography by generating CSS clamp functions for fluid type scales that adapt gracefully across viewports. A must-have utility for modern web designers implementing scalable typography systems.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Design Systems News - Issue 221",
+    "url": "https://news.design.systems/issues/221",
+    "source": "Design Systems News",
+    "description": "A comprehensive roundup of design systems developments, including deep dives into the DTCG Color Module and best practices for design tokens. Stay updated on the latest standards and tooling that shape design system architecture.",
+    "read_time": "9 min"
+  }
+]
