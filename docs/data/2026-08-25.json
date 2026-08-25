@@ -1,0 +1,59 @@
+[
+  {
+    "title": "You Can Now Design in Claude Code",
+    "url": "https://uxplanet.org/you-can-now-design-in-claude-code-2946d6088e4a?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "Anthropic's Claude Code now includes direct design capabilities, enabling designers to create interfaces directly within the AI coding environment. This integration marks a significant shift in how AI tools can accelerate the design-to-code workflow.",
+    "read_time": "4 min",
+    "featured": true
+  },
+  {
+    "title": "Why Your Website Should Never Stop Changing",
+    "url": "https://smashingmagazine.com/2026/08/why-website-should-never-stop-changing/",
+    "source": "Smashing Magazine",
+    "description": "This article challenges the outdated model of static websites by exploring how autonomous agents can continuously optimize and refresh digital experiences after launch. It presents a compelling vision for the future of web design where continuous improvement becomes the default, not an afterthought.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Researcher-in-the-loop",
+    "url": "https://uxdesign.cc/researcher-in-the-loop-18a8ffddf48e?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "This piece explores a balanced framework for AI-enabled UX research where human researchers maintain governance and control. As AI transforms research workflows, this model offers a practical path forward for maintaining research integrity while leveraging automation.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "New Insurance UX Research: 3 Key Takeaways",
+    "url": "https://baymard.com/blog/insurance-ux-research-launch",
+    "source": "Baymard Institute",
+    "description": "Baymard releases new research findings specific to the insurance industry's digital experience challenges. This data-driven analysis provides actionable insights for designers and product teams working in the highly regulated insurance sector.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "What luxury bags can teach designers about how to adapt to a changing deal",
+    "url": "https://uxdesign.cc/what-luxury-bags-can-teach-designers-about-how-to-adapt-to-a-changing-deal-3c06caba673d?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "This unconventional essay draws parallels between luxury brand strategy and digital design, exploring how screens alone no longer define user value. It offers fresh perspective on brand differentiation in an increasingly competitive digital landscape.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Vibe coding and quality",
+    "url": "https://ilyabirman.net/meanwhile/all/vibe-coding-and-quality/",
+    "source": "Sidebar",
+    "description": "A thought-provoking take on how intuitive, feel-based design decisions can actually drive higher quality outcomes when paired with intentionality. This challenges conventional wisdom about systematic design processes and offers a fresh perspective on design methodology.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Every fork looks like adoption",
+    "url": "https://blog.murphytrueman.com/every-fork-looks-like-adoption/",
+    "source": "Sidebar",
+    "description": "This critical analysis exposes flawed metrics for measuring design system adoption, revealing how misleading data can mask real adoption challenges. Essential reading for design leaders responsible for building and maintaining design systems.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Susan Kare: Designing icons & graphics for the original Mac",
+    "url": "https://www.youtube.com/watch?v=YEvLKzsEwMw",
+    "source": "Sidebar",
+    "description": "A masterclass from the legendary designer behind the iconic elements of early computing, including the Happy Mac and Chicago font. Kare shares invaluable design lessons learned directly from Steve Jobs and other industry pioneers.",
+    "read_time": "22 min"
+  }
+]
