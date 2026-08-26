@@ -1,0 +1,59 @@
+[
+  {
+    "title": "The function \u2014 the role of software in society",
+    "url": "https://uxdesign.cc/the-function-the-role-of-software-in-society-8339c99398f3?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A conceptual essay examining software's broader societal impact through the lens of inputs, outputs, and the tools connecting them. Offers philosophical grounding for designers thinking beyond interface-level problems.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "What Blade Runner got right about AI",
+    "url": "https://uxdesign.cc/what-blade-runner-got-right-about-ai-99cc75c0f761?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A thoughtful analysis of how the Blade Runner films predicted the design challenges we face today with AI, exploring the practical realities of AI-assisted work beyond sci-fi fantasy. This essay connects film theory to contemporary UX problems, offering valuable perspective for designers building AI products.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "When code is abundant",
+    "url": "https://about.gitlab.com/blog/when-code-is-abundant/",
+    "source": "Sidebar",
+    "description": "An essential strategic piece examining how AI commoditizes code production while revealing the real challenge: building trust, governance, and context around it. Critical reading for product leaders navigating enterprise AI adoption.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "On teaching AI how you work",
+    "url": "https://karlkoch.me/writing/on-teaching-ai-how-you-work/",
+    "source": "Sidebar",
+    "description": "Explores the emerging paradigm of encoding personal workflows and judgement into AI systems, enabling one-command automation of complex multi-step processes. A glimpse into how AI agents will personalize themselves to individual work styles.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "The AI Interface Museum",
+    "url": "https://interfaces.kylejeong.com/",
+    "source": "Sidebar",
+    "description": "A visual archive documenting the evolution of human-AI interaction interfaces through history. Essential reference material for designers understanding the design patterns and lessons that shaped how we interact with intelligent systems.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Is Agentic",
+    "url": "https://is-agentic.com/",
+    "source": "Sidebar",
+    "description": "A practical tool that audits website readiness for AI agents and provides actionable recommendations for improvement. Timely for product teams preparing their interfaces for autonomous AI interaction patterns.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Tegaki",
+    "url": "https://gkurt.com/tegaki/",
+    "source": "Sidebar",
+    "description": "A creative tool that generates animated handwriting from any font, bridging humanized design with digital systems. Useful for designers looking to add personality and warmth to AI-generated or automated content.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "Balsa UI",
+    "url": "https://balsa-ui.com/",
+    "source": "Sidebar",
+    "description": "An open-code component system specifically designed for agent-native applications across Vue and React. Addresses the emerging need for UI frameworks built from the ground up for AI agent interaction rather than traditional human-centric interfaces.",
+    "read_time": "3 min"
+  }
+]
