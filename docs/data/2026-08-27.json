@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Rethinking Data Visualisation: A UX Approach To Dashboards That Actually Drives Decisions",
+    "url": "https://smashingmagazine.com/2026/08/rethinking-data-visualisation-ux-approach-dashboards/",
+    "source": "Smashing Magazine",
+    "description": "Meriem Benhabiles bridges the gap between data science and UX design, arguing that applying structured design thinking to dashboards transforms them from beautiful displays into decision-making tools. A must-read for anyone building analytics or reporting products.",
+    "read_time": "9 min",
+    "featured": true
+  },
+  {
+    "title": "Design's legibility gap",
+    "url": "https://www.petermerholz.com/newsletter/designs-legibility-gap/",
+    "source": "Sidebar",
+    "description": "Peter Merholz explores why 'legibility'\u2014the clarity of design communication\u2014is fundamental to understanding why UX/Design struggles to gain organizational influence. This insightful essay challenges how designers think about stakeholder alignment and strategic value.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Let me click",
+    "url": "https://ilyabirman.net/meanwhile/all/let-me-click/",
+    "source": "Sidebar",
+    "description": "Ilya Birman makes a compelling case for graceful interface design that resolves invalid states automatically rather than blocking users with errors or disabled options. A practical design philosophy that improves both UX and conversion rates.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "AI has a hospitality problem money can't fix",
+    "url": "https://uxdesign.cc/ai-has-a-hospitality-problem-money-cant-fix-e8fa34e91d62?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "This thought-provoking piece examines the tension between AI-driven efficiency and genuine human service, using luxury hospitality as a case study for where technology can\u2014and shouldn't\u2014replace human judgment. Essential reading for designers implementing AI in customer-facing products.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "CSS Units",
+    "url": "https://cssunits.com/",
+    "source": "Sidebar",
+    "description": "An interactive reference guide covering every CSS measurement unit from fundamental px and rem to modern responsive units like svh, dvh, and cqw. A practical resource that helps designers and developers make informed decisions about sizing and spacing.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "I dream of quieter computing",
+    "url": "https://henry.codes/writing/i-dream-of-quieter-computing/",
+    "source": "Sidebar",
+    "description": "A reflective essay on the future of computing that advocates for simplicity, sustainability, and user agency over complexity. Relevant for designers thinking about the long-term impact of their design decisions.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "animation-trigger",
+    "url": "https://css-tricks.com/almanac/properties/a/animation-trigger/",
+    "source": "CSS-Tricks",
+    "description": "CSS-Tricks documents the animation-trigger property, enabling developers to delay CSS animations until specific user interactions occur. A practical technical reference for creating more performant and intentional micro-interactions.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Ikea's Xbox collection includes a giant thumbstick stool",
+    "url": "https://www.theverge.com/games/984869/ikea-xbox-yxstaby-collection-thumbstick-stool",
+    "source": "The Verge",
+    "description": "Ikea and Microsoft collaborate on the Yxstaby gaming furniture collection, blending functional design with gaming culture. A case study in successful brand collaboration and how major companies are rethinking gaming spaces and lifestyle design.",
+    "read_time": "4 min"
+  }
+]
