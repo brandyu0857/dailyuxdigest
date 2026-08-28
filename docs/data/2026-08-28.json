@@ -1,0 +1,59 @@
+[
+  {
+    "title": "How to Design AI Products Users Can Trust",
+    "url": "https://uxplanet.org/how-to-design-ai-products-users-can-trust-8d98dd7ad2e2?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "Addresses the critical challenge of designing transparent and trustworthy AI interfaces that help users understand uncertainty and make confident decisions. Essential guidance for UX designers navigating the complexity of communicating AI behavior to end users.",
+    "read_time": "5 min",
+    "featured": true
+  },
+  {
+    "title": "Software for one",
+    "url": "https://www.ajwaxman.com/writing/software-for-one",
+    "source": "Sidebar",
+    "description": "Explores how modern tools are finally enabling the creation of highly personalized applications\u2014like Robin Sloan's vision of a modern HyperCard for building family apps in a day. This shift toward individualized software represents a fundamental change in how we think about product design and accessibility.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "The AI-native SDLC playbook",
+    "url": "https://claude.com/blog/the-ai-native-sdlc-playbook",
+    "source": "Sidebar",
+    "description": "Anthropic's comprehensive stage-by-stage guide for integrating AI into every phase of software development\u2014from planning and design through maintenance. A practical blueprint for teams adapting to AI-augmented workflows and a critical resource as the industry shifts toward AI-native development practices.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "What Blade Runner got wrong about AI (so far)",
+    "url": "https://uxdesign.cc/what-blade-runner-got-wrong-about-ai-so-far-d01b579288c1?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A sharp critique contrasting sci-fi visions of AI with the mundane reality of today's interfaces\u2014blank text boxes rather than sentient androids. Insightful commentary on how design aspirations often miss the mark with actual AI product experiences.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "How I maximize my daily output with Claude Code",
+    "url": "https://blog.logrocket.com/maximize-claude-code/",
+    "source": "LogRocket Blog",
+    "description": "Practical tips for developers using AI coding assistants, including strategies for managing context windows, enforcing code quality rules, and avoiding low-quality AI outputs. Actionable guidance for engineers looking to genuinely boost productivity with AI tools.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "What is the purpose of software",
+    "url": "https://uxdesign.cc/what-is-the-purpose-of-software-410e155567e3",
+    "source": "Sidebar",
+    "description": "A data-driven analysis mapping 50 years of economic trends to measure software's actual productivity impact and purpose. Thought-provoking perspective on whether software is delivering on its promise and what that means for product strategy.",
+    "read_time": "9 min"
+  },
+  {
+    "title": "Creating Web Widgets Using the Document Picture-in-Picture API",
+    "url": "https://css-tricks.com/creating-web-widgets-using-the-document-picture-in-picture-api/",
+    "source": "CSS-Tricks",
+    "description": "A technical deep-dive into modern browser APIs for creating floating, interactive web widgets with full HTML/CSS/JavaScript support. Practical guide for developers building next-generation UI patterns and always-on interface elements.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Step inside Teddy Blanks' film title design process",
+    "url": "https://www.itsnicethat.com/features/teddy-blanks-chips-film-title-typography-graphic-design-spotlight-240826",
+    "source": "Sidebar",
+    "description": "An intimate look at the creative process behind iconic title sequences for Barbie and other major films, revealing how thoughtful design elevates motion graphics. Inspiration for designers interested in how typography and animation can define brand identity.",
+    "read_time": "7 min"
+  }
+]
