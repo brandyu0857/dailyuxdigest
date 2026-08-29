@@ -1,0 +1,59 @@
+[
+  {
+    "title": "The Custodial Era of UX: Cleaning Up After AI",
+    "url": "https://www.nngroup.com/articles/ai-ux-debt/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "NN/g latest articles and announcements",
+    "description": "As AI accelerates design output, UX teams face a new challenge: managing the quality debt left behind. This article explores how UX professionals can adapt by building shared judgment, accelerating evaluation processes, and strategically guiding AI-generated designs to maintain quality standards.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "AI Can't Replace Real Research in Empathy Mapping",
+    "url": "https://www.nngroup.com/articles/ai-empathy-mapping/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "NN/g latest articles and announcements",
+    "description": "While AI excels at organizing existing research data, it fundamentally cannot generate authentic insights about real user experiences. This critical distinction matters for teams relying on AI to shortcut the research process, potentially compromising the foundation of empathy-driven design.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "The Horrible State of AI-Powered Product Design in 2026",
+    "url": "https://uxplanet.org/the-horrible-state-of-ai-powered-product-design-in-2026-e3ef607b371d?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "An unflinching analysis of how AI-powered design has simultaneously enabled incredible speed and created profound quality problems. This piece captures the paradox facing product teams in 2026: more output, but often at the cost of thoughtful, user-centered decision-making.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "We Designed for Facebook, Ripple, and Merck. Here's What Working With Enterprise Clients Looks Like.",
+    "url": "https://dribbble.com/stories/2026/08/28/cl-eddie-lobanovskiy-unfold-enterprise-design-agency",
+    "source": "Courtside",
+    "description": "A candid case study from an enterprise design agency sharing lessons from high-stakes projects with Fortune 500 companies. Practical insights into managing complexity, stakeholder alignment, and delivering design at scale that apply to any designer working in corporate environments.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Spline V2",
+    "url": "https://www.producthunt.com/products/spline",
+    "source": "Product Hunt \u2014 The best new products, every day",
+    "description": "Spline's latest version positions itself as the 3D platform built for the AI agent era, enabling designers to work with intelligent automation at scale. This update reflects the shift toward collaborative human-AI design workflows that will reshape how teams build interactive experiences.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Gemini Omni 1.1 Flash",
+    "url": "https://www.producthunt.com/products/gemini-omni-1-1-flash",
+    "source": "Product Hunt \u2014 The best new products, every day",
+    "description": "Google's latest multimodal model brings video generation and editing capabilities to designers and product teams. This advancement signals how generative AI is expanding beyond static content, enabling rapid prototyping and experimentation with motion-based interfaces.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Cohere Parse 5",
+    "url": "https://www.producthunt.com/products/cohere-2",
+    "source": "Product Hunt \u2014 The best new products, every day",
+    "description": "A new tool that transforms complex documents, tables, and images into AI-ready structured data. For UX researchers and product teams handling unstructured user feedback and data, this could streamline the process of extracting actionable insights at scale.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "The turbulent AI era is here",
+    "url": "https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make",
+    "source": "Sidebar",
+    "description": "Bill Gates examines the pivotal moment we're entering with AI adoption and its implications for society and business. Essential reading for design leaders shaping how AI gets integrated into products, offering strategic context for navigating the uncertainty ahead.",
+    "read_time": "9 min"
+  }
+]
