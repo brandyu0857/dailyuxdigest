@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Futurism is always extreme",
+    "url": "https://borretti.me/article/futurism-is-always-extreme",
+    "source": "Sidebar",
+    "description": "A thoughtful essay on how rigorous thinking about the future naturally produces extreme outcomes, offering perspective on the sometimes hyperbolic narratives in tech. Provides necessary critical thinking for UX and product leaders evaluating emerging technologies.",
+    "read_time": "7 min",
+    "featured": true
+  },
+  {
+    "title": "oMLX",
+    "url": "https://www.producthunt.com/products/omlx",
+    "source": "Product Hunt",
+    "description": "A Mac LLM server that dramatically reduces AI agent latency from 90 seconds to just 5 seconds, addressing a critical performance bottleneck for developers building agent-based applications. This infrastructure breakthrough could significantly improve the practical usability of AI agents in production environments.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Revalvo",
+    "url": "https://www.producthunt.com/products/revalvo",
+    "source": "Product Hunt",
+    "description": "A platform that allows teams to run prompts across multiple AI models simultaneously, then score, version, and ship results\u2014streamlining the model selection and evaluation process. This tool addresses a key pain point for product teams experimenting with different LLMs and building prompt-driven features.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Superagent",
+    "url": "https://www.producthunt.com/products/superagent-a-home-for-your-ai-agents",
+    "source": "Product Hunt",
+    "description": "Described as 'Claude Code for the rest of us,' this platform democratizes AI agent development, making it accessible to teams without deep technical expertise. A significant step toward mainstream adoption of autonomous AI agents across different skill levels.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Hy4 preview",
+    "url": "https://www.producthunt.com/products/hunyuan-a13b",
+    "source": "Product Hunt",
+    "description": "Tencent's 770B open-source model engineered specifically for long-horizon reasoning tasks, offering a competitive alternative to proprietary solutions. This release signals the open-source community's progress in building capable models for complex, multi-step workflows.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Prequel",
+    "url": "https://www.producthunt.com/products/prequel-2",
+    "source": "Product Hunt",
+    "description": "An AI-powered tool that enables creators to produce cinematic-quality screen recordings on Mac without manual editing expertise. This addresses growing demand for high-production-value demo videos and documentation among product teams and creators.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Topview Motion Studio",
+    "url": "https://www.producthunt.com/products/topview-ai",
+    "source": "Product Hunt",
+    "description": "Removes the technical barrier to creating professional launch videos by eliminating the need for After Effects knowledge or usage. A practical tool for product teams and marketers who need polished video assets quickly without specialized training.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Maritime",
+    "url": "https://www.producthunt.com/products/maritime",
+    "source": "Product Hunt",
+    "description": "Offers dedicated compute infrastructure for AI agents starting at just $1/month, making agent deployment economically accessible to individual builders and startups. Infrastructure commoditization is key to AI agent adoption at scale.",
+    "read_time": "3 min"
+  }
+]
