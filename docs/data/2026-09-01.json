@@ -1,0 +1,59 @@
+[
+  {
+    "title": "The custodial era of UX: Cleaning up after AI",
+    "url": "https://www.nngroup.com/articles/ai-ux-debt/",
+    "source": "Nielsen Norman Group",
+    "description": "This forward-thinking piece examines how AI's ability to generate designs faster than teams can evaluate is creating a new UX challenge. It proposes three concrete strategies\u2014shared judgment, accelerated evaluation, and guided AI design\u2014to help UX teams stay in control of quality.",
+    "read_time": "7 min",
+    "featured": true
+  },
+  {
+    "title": "Your users aren't unmotivated\u2014they have 1 of 4 problems",
+    "url": "https://uxdesign.cc/your-users-arent-unmotivated-they-have-1-of-4-problems-99d709b60376?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "This article reframes the common problem of unused advanced features by identifying four distinct user motivation barriers rather than assuming apathy. Understanding these specific problems helps designers create targeted solutions that actually drive feature adoption and user engagement.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Users don't see your design system",
+    "url": "https://uxdesign.cc/users-dont-see-your-design-system-d6abd51c18fc?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "This piece explores how Gestalt principles can be strategically applied to make design systems more intuitive and visible to users, bridging the gap between intentional design work and user perception. It's essential reading for anyone building or maintaining design systems.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "The call for an agentic standard: We need to stop shipping the same form four different times",
+    "url": "https://uxdesign.cc/the-call-for-an-agentic-standard-we-need-to-stop-shipping-the-same-form-four-different-times-be5b9d40e370?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "With AI agents proliferating, this article makes a compelling case for standardizing component rendering across different AI interfaces to reduce design and maintenance burden. A timely call for industry-wide standards as the AI agent ecosystem matures.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Telco UX Benchmark: 3,100+ Performance Scores and 2,400+ Best Practice Examples",
+    "url": "https://baymard.com/blog/telco-ux-benchmark-2026",
+    "source": "Baymard Institute",
+    "description": "This comprehensive benchmark report provides data-driven insights into telecom industry UX performance with thousands of real examples and best practices. Essential reference material for anyone designing in the telecom space or seeking competitive UX analysis.",
+    "read_time": "12 min"
+  },
+  {
+    "title": "Is Design Thinking Still Relevant in the Age of AI?",
+    "url": "https://uxplanet.org/is-design-thinking-still-relevant-in-the-age-of-ai-3bc8622e6c90?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "This essay questions whether the foundational design thinking model remains applicable as AI reshapes product development processes. It's a critical reflection for practitioners adapting their methods to an AI-augmented future.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Design has outgrown the traditional designer",
+    "url": "https://uxdesign.cc/design-has-outgrown-the-traditional-designer-adbb657aa30a?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "This thought-provoking piece challenges conventional design education by arguing the discipline has evolved beyond what traditional designer training encompasses. A call for reimagining how we prepare the next generation of design professionals.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "You have to beat the models at something",
+    "url": "https://www.seangoedecke.com/you-have-to-beat-the-models-at-something/",
+    "source": "Sidebar",
+    "description": "Rather than dismissing AI capabilities, this essay advocates for identifying what humans can genuinely do better and designing work around those strengths. A practical perspective for designers and developers adapting to AI collaboration.",
+    "read_time": "5 min"
+  }
+]
