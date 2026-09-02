@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Claude Code's New Design Plugin Is a Big Deal for Product Designers",
+    "url": "https://uxplanet.org/claude-codes-new-design-plugin-is-a-big-deal-for-product-designers-445bf30cea9d?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "Claude's new /design plugin enables product designers to craft designs directly within Claude Code, fundamentally changing how designers can leverage AI in their workflow. This integration bridges the gap between design ideation and implementation, making AI-assisted design more accessible and practical for real-world projects.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "What Minority Report Got Right About AI",
+    "url": "https://uxdesign.cc/what-minority-report-got-right-about-ai-45b9f1106431?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "This essay explores how Spielberg's Minority Report prophetically visualized the relationship between humans and AI systems, revealing uncomfortable truths about user agency when machines generate futures for us. It's a thought-provoking analysis of how design choices shape power dynamics in AI-driven interfaces.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "We Don't Need AI-First Designers. We Need AI-First Managers.",
+    "url": "https://uxplanet.org/we-dont-need-ai-first-designers-we-need-ai-first-managers-acd3453310d1?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "This provocative piece challenges the trend of designers adding 'AI-first' to their titles, arguing instead that the real bottleneck is management's ability to orchestrate AI-augmented design teams effectively. It reframes the AI conversation away from individual skills toward organizational leadership.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "How AI-ready is your design system?",
+    "url": "https://christophhellmuth.com/open-design-system-bench/",
+    "source": "Sidebar",
+    "description": "This article tackles a pressing question facing design system teams: are they prepared for AI integration? It addresses the lack of concrete metrics and benchmarks for measuring AI-readiness, providing a framework that design leaders need to have informed conversations.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "The Critical Design Engineering Manifesto",
+    "url": "https://www.pipshea.net/manifesto",
+    "source": "Sidebar",
+    "description": "A modern remix of the 2011 Critical Engineering Manifesto tailored for design engineers, this piece establishes ethical and practical guardrails for professionals navigating the increasingly blurred space between software design and engineering. Essential reading for those defining their role in cross-disciplinary teams.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "A Good Move Is Enabling",
+    "url": "https://www.davesresearch.com/good-move-enabling/",
+    "source": "Sidebar",
+    "description": "This insight emphasizes designing for what comes next rather than creating restrictive dead ends in user experiences. It's a valuable principle for product designers thinking beyond the immediate interaction to enable future user journeys and capabilities.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Making Ky\u014dwa Possible with AI",
+    "url": "https://uxdesign.cc/making-ky%C5%8Dwa-possible-with-ai-9f4bf8fae315?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Exploring the concept of 'ky\u014dwa' (shared harmony), this article examines how AI can enable more intuitive interfaces where words function as creative sketches rather than rigid commands. It offers a fresh perspective on human-AI interaction design beyond traditional UI paradigms.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Doop",
+    "url": "https://www.producthunt.com/products/doop",
+    "source": "Product Hunt",
+    "description": "Doop introduces a collaborative design canvas powered by AI agents, enabling teams to design together in real-time with intelligent assistance. This represents a meaningful evolution in how AI can augment collaborative design workflows rather than replacing human creativity.",
+    "read_time": "3 min"
+  }
+]
