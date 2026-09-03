@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Designing product simplicity for the agentic AI era",
+    "url": "https://commandline.microsoft.com/design-product-simplicity-seamless-ux-ui-agentic-ai-azure-developer-services-foundry/",
+    "source": "Sidebar",
+    "description": "Microsoft argues that shared design components alone can't ensure seamless experiences in an AI-driven world\u2014designers must embrace simplicity as a core principle. A must-read for teams rethinking consistency and usability in agentic products.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "When the canvas starts acting, who's really in control?",
+    "url": "https://uxdesign.cc/when-the-canvas-starts-acting-whos-really-in-control-0128f641223c?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "Explores how agentic interfaces are fundamentally shifting designer control over interactions, agency, and user attention. This deep dive into agentic canvas interfaces reveals how AI is changing what designers can orchestrate and predict in product experiences.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "The call for an agentic standard",
+    "url": "https://uxdesign.cc/the-call-for-an-agentic-standard-we-need-to-stop-shipping-the-same-form-four-different-times-be5b9d40e370",
+    "source": "Sidebar",
+    "description": "A compelling argument for standardizing agentic interfaces to eliminate redundant form shipping across products. This piece challenges the current fragmentation in how teams build AI-powered interactions.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "AI took away engineering's right to say no",
+    "url": "https://uxdesign.cc/ai-took-away-engineerings-right-to-say-no-839b9b6256f2?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A provocative analysis of how AI is democratizing software development, stripping away engineers' gatekeeping power and forcing a reckoning with who controls complexity. Essential reading on how AI shifts power dynamics in product teams.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Mesurer",
+    "url": "https://mesurer.dev/",
+    "source": "Sidebar",
+    "description": "A practical new tool for inspecting, annotating, and collaborating on live interfaces with agents and teammates. Addresses a real workflow gap for designers working with AI-powered development and feedback cycles.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "Compression is prediction",
+    "url": "https://ngrok.com/blog/compression-is-prediction",
+    "source": "Sidebar",
+    "description": "An insightful technical essay connecting compression algorithms to LLM behavior, revealing the fundamental principle underlying modern AI. A fascinating deep-dive for designers curious about how AI models actually work.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Make your logo brighter than white",
+    "url": "https://www.soverybright.com/",
+    "source": "Sidebar",
+    "description": "A clever, free tool that creates HDR JPEG logos by brightening specific elements\u2014demonstrating a creative technical solution. Useful for designers exploring next-gen display capabilities and brand asset innovation.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "AI and the city",
+    "url": "https://www.stripeeconomics.com/p/ai-and-the-city",
+    "source": "Sidebar",
+    "description": "Stripe Economics examines how AI is reshaping urban tech ecosystems, showing that while distributed work is growing, major metros remain crucial for frontier innovation. Essential context for product leaders thinking about talent, talent access, and where innovation happens.",
+    "read_time": "8 min"
+  }
+]
