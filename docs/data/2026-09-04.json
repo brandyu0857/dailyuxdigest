@@ -1,0 +1,59 @@
+[
+  {
+    "title": "How to Audit and Extend Your Figma Design System with Claude Code",
+    "url": "https://uxplanet.org/how-to-audit-and-extend-your-figma-design-system-with-claude-code-28be5c059d49?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "A practical guide showing how AI can streamline design system maintenance and extension through Claude's new /design plugin. This bridges the gap between design tools and AI capabilities, offering immediately actionable workflows for design leaders managing scale.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "AI is making development faster. But where did the work go?",
+    "url": "https://medium.com/design-bootcamp/ai-is-making-product-development-faster-57a86bc3ffa0",
+    "source": "Sidebar",
+    "description": "This thought-provoking essay challenges the assumption that AI speed gains automatically improve product development, asking critical questions about where displaced work actually goes. It's essential reading for product leaders navigating AI integration and understanding its systemic impacts.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "What Minority Report got wrong about AI (so far)",
+    "url": "https://uxdesign.cc/what-minority-report-got-wrong-about-ai-so-far-9048573aa70f?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A fascinating critique of how we've adopted the glamorous, interactive vision of Minority Report while ignoring its cautionary tale about predictive systems and surveillance. This essay helps designers and leaders critically examine the AI futures we're actually building versus the ones we should question.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Unwinding the great tech power grab",
+    "url": "https://rebeccawilliams.info/unwinding-the-great-tech-power-grab/",
+    "source": "Sidebar",
+    "description": "A critical examination of how technology has eroded civic participation and decision-making power, raising urgent questions about designing for democratic agency rather than convenience. This is crucial context for designers building products that shape society.",
+    "read_time": "10 min"
+  },
+  {
+    "title": "Why AI food looks like that",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that",
+    "source": "Design | The Verge",
+    "description": "A delightful visual investigation into why AI-generated food imagery consistently fails to appeal, exposing the gap between technical capability and design quality. It's a cautionary tale about tool limitations that every designer using AI for creative output should understand.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "A geometric typeface made for the age of AI",
+    "url": "https://the-brandidentity.com/typeface/ren%C3%A9-bieders-neurath-x-is-a-geometric-typeface-made-for-the-age-of-ai",
+    "source": "Sidebar",
+    "description": "Ren\u00e9 Bieder's Neurath X Collection explores how foundational design elements like typography can be reimagined for AI-era applications, blending geometric precision with contextual intelligence. This forward-thinking approach bridges classical design principles with emerging technology.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "This 14-inch laptop has a screen that unrolls to 17 inches",
+    "url": "https://www.theverge.com/tech/989477/lenovo-thinkbook-project-swan-concept-laptop-14-17-rollable-ifa-announcement",
+    "source": "Design | The Verge",
+    "description": "Lenovo's rollable ThinkBook Project Swan demonstrates innovative hardware design solving real productivity challenges\u2014expanding screen real estate without increasing form factor. It showcases how hardware innovation can meaningfully impact user workflows for creative and professional work.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "JudgmentKit",
+    "url": "https://judgmentkit.ai/",
+    "source": "Sidebar",
+    "description": "A practical new tool addressing a critical gap in AI development: helping AI agents make better interface decisions by understanding user context and work patterns. This represents an important step toward AI systems that design smarter solutions rather than generic ones.",
+    "read_time": "3 min"
+  }
+]
