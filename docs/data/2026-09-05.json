@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Using AI for UX Work: Study Guide",
+    "url": "https://www.nngroup.com/articles/ai-work-study-guide/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "NN/g latest articles and announcements",
+    "description": "Nielsen Norman Group has curated a comprehensive study guide covering best practices for integrating AI into UX workflows. Essential resource for designers and product managers looking to upskill and apply AI effectively in their work.",
+    "read_time": "12 min",
+    "featured": true
+  },
+  {
+    "title": "Reading and writing are interfaces. And AI can reduce their friction.",
+    "url": "https://uxdesign.cc/reading-and-writing-are-interfaces-and-ai-can-reduce-their-friction-13623dea34c0?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This essay reframes reading and writing as core interfaces that AI can optimize, arguing that the real question isn't whether AI reduces work, but where intellectual effort shifts. A thought-provoking perspective for designers thinking about AI's role in cognitive workflows.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "How to Audit and Extend Your Figma Design System with Claude Code",
+    "url": "https://uxplanet.org/how-to-audit-and-extend-your-figma-design-system-with-claude-code-28be5c059d49?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "A practical guide showing how Claude Code's new /design plugin enables designers to audit and scale design systems efficiently. Perfect for design leaders managing consistency across large design organizations.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Why Brand Designers Need to Think Like Clients, Not Just Creators",
+    "url": "https://dribbble.com/stories/2026/09/03/cl-diana-hlevnjak-brand-designers-think-like-clients",
+    "source": "Courtside",
+    "description": "This interview challenges designers to adopt a client-centric mindset in brand work, shifting from pure creative expression to strategic business value. Critical perspective for elevating design's role within organizations.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Figma Design Critique Using Claude Code",
+    "url": "https://uxplanet.org/figma-design-critique-using-claude-code-d8f2ee54bf01?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "Explores how Claude Code's design plugin automates design critique and feedback, reducing manual review time and improving design quality at scale. Practical tool for design teams seeking workflow automation.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Normal Tools",
+    "url": "https://www.normaltools.com/",
+    "source": "Sidebar",
+    "description": "A collection of small, focused browser-based tools designed with intentional simplicity and utility. A refreshing resource for designers seeking lightweight, distraction-free alternatives to bloated software.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Clockwork",
+    "url": "https://www.producthunt.com/products/clockwork-5",
+    "source": "Product Hunt \u2014 The best new products, every day",
+    "description": "A calendar platform where AI agents autonomously manage scheduling and tasks, representing a new paradigm in how teams coordinate work. Significant for understanding how AI augments productivity and team collaboration.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "GPT-6 Astra",
+    "url": "https://www.producthunt.com/products/openai",
+    "source": "Product Hunt \u2014 The best new products, every day",
+    "description": "OpenAI's latest flagship model promises end-to-end work capabilities, marking a milestone in AI capability that will reshape how designers, product managers, and teams approach complex projects. Critical to understand the latest AI landscape.",
+    "read_time": "5 min"
+  }
+]
