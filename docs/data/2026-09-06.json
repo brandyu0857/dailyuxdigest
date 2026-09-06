@@ -1,0 +1,59 @@
+[
+  {
+    "title": "How to Audit and Extend Your Figma Design System with Claude Code",
+    "url": "https://uxplanet.org/how-to-audit-and-extend-your-figma-design-system-with-claude-code-28be5c059d49?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "Learn how to leverage Claude Code's new /design plugin to audit and scale your Figma design system with AI assistance. This practical guide demonstrates a workflow that combines AI capabilities with design system management, offering actionable techniques for design leaders looking to streamline their systems at scale.",
+    "read_time": "7 min",
+    "featured": true
+  },
+  {
+    "title": "DocsAlot Visual Editor",
+    "url": "https://www.producthunt.com/products/docsalot-2",
+    "source": "Product Hunt",
+    "description": "A new documentation tool that enables designers and teams to create beautifully formatted docs through natural typing without requiring AI dependencies. This streamlined approach addresses a key pain point in design collaboration by making documentation creation faster and more accessible.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Ponytail",
+    "url": "https://www.producthunt.com/products/ponytail",
+    "source": "Product Hunt",
+    "description": "A development tool designed to minimize unnecessary code creation by prioritizing existing solutions and refactoring over new implementations. This reflects a growing shift in engineering culture toward sustainability and maintainability, making it highly relevant for product teams managing technical debt.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "GitWarren",
+    "url": "https://www.producthunt.com/products/gitwarren",
+    "source": "Product Hunt",
+    "description": "Enables code review workflows with AI coding agents before commits, adding an intelligent gate to the development process. This tool addresses quality assurance and reduces human review burden, positioning itself as critical infrastructure for modern development teams.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Inline",
+    "url": "https://www.producthunt.com/products/inline-5",
+    "source": "Product Hunt",
+    "description": "A multiplayer collaboration platform that seamlessly integrates AI, human teammates, and external collaborators in real-time work environments. This addresses the critical UX challenge of asynchronous and distributed team collaboration in the AI era.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Snitch",
+    "url": "https://www.producthunt.com/products/snitch-4",
+    "source": "Product Hunt",
+    "description": "Crowdsources org chart creation directly from Slack, turning internal communication patterns into organizational clarity. This crowdsourced approach to knowledge management offers fresh perspectives on how teams understand their own structure and communication flows.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Omarchy",
+    "url": "https://www.producthunt.com/products/omarchy-3",
+    "source": "Product Hunt",
+    "description": "An experimental OS designed to adapt to agent-based workflows, representing early explorations into how operating systems may evolve alongside AI capabilities. This forward-thinking product signals emerging design challenges for the next generation of human-AI interaction paradigms.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "UX Conference November Announced (Nov 16 - Nov 19)",
+    "url": "https://www.nngroup.com/training/nov-asia-au/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "NN/g",
+    "description": "Nielsen Norman Group's November conference offers in-depth UX training focused on timeless design principles and skills development for professionals across Asia-Pacific. A valuable opportunity for designers and leaders to deepen expertise through accredited industry-leading training.",
+    "read_time": "2 min"
+  }
+]
