@@ -1,0 +1,59 @@
+[
+  {
+    "title": "How to Audit and Extend Your Figma Design System with Claude Code",
+    "url": "https://uxplanet.org/how-to-audit-and-extend-your-design-system-with-claude-code-28be5c059d49?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "Demonstrates a practical workflow for leveraging Claude Code's new /design plugin to systematically audit and improve Figma design systems at scale. A timely guide for design teams adopting AI-assisted design ops.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "Your product didn't get worse",
+    "url": "https://blog.mastykarz.nl/your-product-didnt-get-worse/",
+    "source": "Sidebar",
+    "description": "This essay reveals a critical blind spot: while your product remains solid and customers keep renewing, their evolving expectations may be shifting in ways your standard metrics miss. Understanding this gap is essential for staying ahead of market perception and preventing future churn.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "The singular viable product",
+    "url": "https://www.nyn.me/blog/the-singular-viable-product",
+    "source": "Sidebar",
+    "description": "Challenges the traditional MVP model by arguing that software built for one user is now the optimal starting point for sustainable scale. This reframes how product teams should approach validation and growth in 2026.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Four modes of working with AI",
+    "url": "https://fourmodes.teybannerman.com/",
+    "source": "Sidebar",
+    "description": "Provides a actionable framework for extracting better results from AI tools through four distinct working modes and dozens of ready-to-use scenarios. Essential for product and design teams looking to move beyond trial-and-error AI adoption.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "AI in Product teams: In 2026, the growing impact on collaboration",
+    "url": "https://uxdesign.cc/ai-in-product-teams-in-2026-the-growing-impact-on-collaboration-8ea9f6024dca?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "Examines the shift from scattered AI tool adoption to strategic, company-wide implementation and its transformative effect on how product teams collaborate. Understanding this evolution is critical for leaders modernizing their workflows.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "AI canvas, Synthetic self, The prompt is the product",
+    "url": "https://uxdesign.cc/ai-canvas-synthetic-self-the-prompt-is-the-product-801f0da7bea6?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "Explores how AI coding agents are fundamentally changing interaction models, positioning prompts as the new product interface. Provides essential insight into emerging design patterns in AI-native products.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Remind",
+    "url": "https://www.producthunt.com/products/remind-7",
+    "source": "Product Hunt",
+    "description": "A novel take on meeting productivity: full-screen reminders powered by AI briefings help teams stay focused and prepared. Demonstrates how AI can enhance collaboration workflows through contextual, just-in-time information.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "Assist",
+    "url": "https://www.producthunt.com/products/assist-4",
+    "source": "Product Hunt",
+    "description": "Combines voice annotation, screenshot capture, and clipboard management into a unified Mac tool, showing how multimodal input is streamlining designer and developer workflows. A practical example of AI assistants handling routine documentation tasks.",
+    "read_time": "2 min"
+  }
+]
