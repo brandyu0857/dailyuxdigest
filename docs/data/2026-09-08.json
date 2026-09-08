@@ -1,0 +1,59 @@
+[
+  {
+    "title": "The model is behaving impeccably. Your information architecture isn't.",
+    "url": "https://uxdesign.cc/the-model-is-behaving-impeccably-your-information-architecture-isnt-bfe8881da3c2",
+    "source": "UX Collective - Medium",
+    "description": "Drawing wisdom from a 1960 city map study, this article reveals why AI models perform perfectly in isolation but fail in real-world contexts due to poor information architecture. A practical wake-up call for teams implementing AI features without rethinking their underlying data structures.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "When the canvas starts acting, who's really in control?",
+    "url": "https://uxdesign.cc/when-the-canvas-starts-acting-whos-really-in-control-0128f641223c",
+    "source": "Sidebar",
+    "description": "This thought-provoking piece explores how agentic interfaces are fundamentally shifting the designer's role from direct control to orchestration and attention management. Essential reading for understanding how AI agents will reshape design patterns and user interaction models in the coming years.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "If you can externalize your design process, you can win back your time",
+    "url": "https://uxdesign.cc/if-you-can-externalize-your-design-process-you-can-spend-more-time-designing-59c531521346",
+    "source": "UX Collective - Medium",
+    "description": "This actionable guide demonstrates how documenting and externalizing your design process\u2014not just deliverables\u2014empowers teams and reclaims designer time from repetitive explanations. A practical framework for design leaders looking to increase team efficiency and autonomy.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Tetris had to cheat to feel random",
+    "url": "https://uxdesign.cc/tetris-had-to-cheat-to-feel-random-201913dc69ed",
+    "source": "UX Collective - Medium",
+    "description": "A fascinating exploration of how human perception of randomness diverges from actual probability, using Tetris as a case study. Critical insight for anyone designing systems where perceived fairness and user satisfaction depend on counterintuitive design decisions.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "The sycophancy trap: what happens when feelings become the metric",
+    "url": "https://uxdesign.cc/the-sycophancy-trap-what-happens-when-feelings-become-the-metric-14a4f1f26a75",
+    "source": "UX Collective - Medium",
+    "description": "This critical analysis exposes the dangers of optimizing for engagement metrics and emotional responses over genuine user value, offering a framework for emotional design that withstands analytics pressure. Essential for product teams struggling with the conflict between user delight and meaningful impact.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Lucet",
+    "url": "https://lucet.design/",
+    "source": "Sidebar",
+    "description": "Lucet is a comprehensive design system for AI interface patterns that addresses the critical gap between concept and implementation. It provides designed missing states and functional missing features\u2014a valuable resource for teams building AI products at scale.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Burnt out on a three-day week",
+    "url": "https://jennywanger.com/articles/burnt-out-on-a-three-day-week/",
+    "source": "Sidebar",
+    "description": "A candid personal essay revealing that burnout isn't always solved by reducing hours\u2014sometimes the workload itself is structurally unsustainable. Timely perspective for design leaders rethinking work culture and workload distribution on their teams.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Villains plan. Heroes react.",
+    "url": "https://uxdesign.cc/villains-plan-heroes-react-ee012a510ecb",
+    "source": "UX Collective - Medium",
+    "description": "This unconventional strategy piece argues that product teams could improve their competitive positioning by adopting the proactive, long-term thinking of antagonists rather than reactive problem-solving. A creative lens for rethinking product strategy and roadmap planning.",
+    "read_time": "6 min"
+  }
+]
