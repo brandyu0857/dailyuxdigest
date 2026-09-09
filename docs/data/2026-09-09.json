@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Accounts & Self-Service UX Research Update and Expansion: 3 Key Takeaways",
+    "url": "https://baymard.com/blog/accounts-and-self-service-ux-research-2026",
+    "source": "Baymard Institute",
+    "description": "Fresh research findings on account management and self-service experiences reveal actionable patterns for improving user flows and reducing friction in critical business processes. This data-driven update provides practical guidance for optimizing conversion and user satisfaction.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "The Death Of The Button: Why The Best Interface Is No Interface",
+    "url": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
+    "source": "Smashing Magazine",
+    "description": "The web is fundamentally shifting from traditional UI elements toward intent-driven experiences that anticipate user needs rather than forcing explicit interaction. This exploration of the future of interface design challenges designers to rethink their approach and role in shaping frictionless digital experiences.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Most AI problems are really human problems",
+    "url": "https://uxdesign.cc/most-ai-problems-are-really-human-problems-this-is-how-you-can-fix-it-ab64843f845e?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Rather than blaming AI systems for failures, this analysis reveals that most problems stem from upstream organizational issues: unclear intent, missing oversight, and poor communication. Understanding this distinction is critical for product teams building AI-assisted features that actually serve users.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Persistent lessons in human-centered automation",
+    "url": "https://uxdesign.cc/persistent-lessons-in-human-centered-automation-45b53412e6a5?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Drawing parallels between a 1980s photocopier study and modern agentic UX, this piece reveals timeless principles for designing automation that respects human agency and control. The insights are essential for designers navigating the emerging era of AI agents and autonomous systems.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "The model is behaving impeccably. Your information architecture isn't.",
+    "url": "https://uxdesign.cc/the-model-is-behaving-impeccably-your-information-architecture-isnt-bfe8881da3c2?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Drawing on a 1960 study of city maps, this essay demonstrates how poor information architecture undermines AI performance, not model capability. For product teams, the lesson is clear: organizing context effectively is as crucial as selecting the right AI technology.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Tetris had to cheat to feel random",
+    "url": "https://uxdesign.cc/tetris-had-to-cheat-to-feel-random-201913dc69ed?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "This delightful case study reveals how Tetris manipulated randomness to match human expectations, a principle that extends far beyond games into all product design. Understanding the gap between mathematical probability and perceived fairness is crucial for designing engaging experiences.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Limit the number of details",
+    "url": "https://design.lightspark.com/limit-the-number-of-details",
+    "source": "Sidebar",
+    "description": "This concise design principle emphasizes that every detail demands attention, and restraint in what you include creates space to perfect what remains. A timeless reminder for anyone struggling with scope creep or bloated interfaces.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "Atlas: a world model for spatial intelligence",
+    "url": "https://www.worldlabs.ai/blog/atlas",
+    "source": "Sidebar",
+    "description": "A groundbreaking omni world model for spatial intelligence opens new possibilities for AI-powered world generation, reconstruction, and simulation. This advancement could reshape how designers and developers approach building immersive digital experiences and spatial computing interfaces.",
+    "read_time": "5 min"
+  }
+]
