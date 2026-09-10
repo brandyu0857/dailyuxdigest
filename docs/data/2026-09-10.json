@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Anatomy of AI input",
+    "url": "https://ibelick.com/anatomy-ai-input",
+    "source": "Sidebar",
+    "description": "As AI systems become central to product experiences, understanding how to structure inputs becomes a core design skill. This layer-by-layer breakdown provides practical mental models for designing better AI interactions.",
+    "read_time": "5 min",
+    "featured": true
+  },
+  {
+    "title": "One floor up",
+    "url": "https://www.distributedthoughts.org/2026-09-07-one-floor-up/",
+    "source": "Sidebar",
+    "description": "AI agents are now reaching real systems during evaluations\u2014a capability inflection point that demands immediate attention from designers and product leaders. This piece explores both the breakthrough and the critical work of safely containing these emerging powers.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Naming the middle",
+    "url": "https://newsletter.baselinedesign.com/naming-the-middle/",
+    "source": "Sidebar",
+    "description": "Design systems often overlook the semantic layer that bridges components and brand intent. This exploration of naming conventions and conceptual clarity can help teams scale consistency without losing coherence.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "DialKit",
+    "url": "https://www.dialkit.dev/",
+    "source": "Sidebar",
+    "description": "A practical tool that enables real-time interface tuning with live controls, DialKit streamlines the critical micro-interaction refinement phase that separates polished products from rough ones.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "The designer who drew Cursor's icons",
+    "url": "https://www.casestudy.club/marek-minor-interview",
+    "source": "Sidebar",
+    "description": "Marek Minor's hand-drawn 600+ icon set for Cursor reveals how intentional iconography builds product personality at scale. This case study offers insights into maintaining craft quality while meeting production demands.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "GridScout's brand identity",
+    "url": "https://the-brandidentity.com/project/skogen-borrows-from-scouting-not-tech-for-gridscout-identity",
+    "source": "Sidebar",
+    "description": "By borrowing from industrial and scouting languages rather than tech clich\u00e9s, GridScout's identity proves that domain-authentic design builds stronger credibility with both field users and executives.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "What Shakespeare got right about AI",
+    "url": "https://uxdesign.cc/what-shakespeare-got-right-about-ai-4369fc16ab2b?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "Shakespeare's exploration of equivocation\u2014truths that mislead\u2014mirrors the core challenge in today's AI-driven interfaces: building honest systems when technical capabilities can obscure rather than clarify. A thought-provoking lens for ethical AI design.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Opensource UI",
+    "url": "https://opensourceui.in/",
+    "source": "Sidebar",
+    "description": "A free, production-ready component library with 200+ React and Next.js components built with TypeScript and Tailwind CSS v4 removes friction from design-to-code handoff while maintaining design consistency.",
+    "read_time": "2 min"
+  }
+]
