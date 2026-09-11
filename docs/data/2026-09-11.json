@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Five eras of UX design and the lessons to keep in the AI era",
+    "url": "https://uxdesign.cc/five-eras-of-ux-design-and-the-lessons-to-keep-in-the-ai-era-d76a548747a9?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A comprehensive historical lens on six decades of UX evolution, distilled into lessons applicable to today's AI-driven design landscape. Essential context for understanding how past design paradigms can inform current and future challenges.",
+    "read_time": "10 min",
+    "featured": true
+  },
+  {
+    "title": "AI is making us build too much",
+    "url": "https://sjg.io/writing/ai-is-making-us-build-too-much/",
+    "source": "Sidebar",
+    "description": "A critical examination of how AI has made code, documentation, and organizational machinery cheap to produce\u2014but expensive to maintain and own. This thought-provoking essay challenges the assumption that productivity gains always translate to better products, offering essential perspective for product leaders navigating AI-driven development.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Why products get worse",
+    "url": "https://www.worseonpurpose.com/p/on-quality",
+    "source": "Sidebar",
+    "description": "An insightful analysis of how companies systematically drain quality from products without triggering obvious metrics. This piece exposes the hidden mechanics behind product degradation\u2014crucial reading for anyone concerned with long-term user satisfaction and sustainable design.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Building data-driven design systems",
+    "url": "https://ky.fyi/posts/data-driven",
+    "source": "Sidebar",
+    "description": "A practical case study on scaling design systems at Scribe to support 6 million users using data-driven principles. Packed with actionable strategies for design leaders looking to build robust, scalable design infrastructure.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "8 voice AIUX patterns",
+    "url": "https://uxdesign.cc/8-voice-aiux-patterns-81324c8feaa0?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A systematic mapping of emerging voice AI interaction patterns, including agent roles, key design decisions, and limitations. Timely and practical for designers working on conversational AI experiences as voice becomes increasingly central to product interfaces.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "How authentication friction frustrates users \u2014 and how to stop it",
+    "url": "https://uxdesign.cc/how-authentication-friction-frustrates-users-and-how-to-stop-it-552635e50a77?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A practical guide to reducing authentication friction and improving security without sacrificing user experience. Directly applicable insights for product managers and designers seeking to streamline critical user flows.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Design Critique with Claude Code",
+    "url": "https://uxplanet.org/design-critique-with-claude-code-7628e74f95a1?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "A hands-on exploration of how Claude Code can be leveraged for design critique and feedback\u2014moving beyond prototype generation to intelligent design evaluation. Relevant for designers exploring AI-assisted workflows and design collaboration.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Your first draft now has a log",
+    "url": "https://uxdesign.cc/your-first-draft-now-has-to-have-a-log-ee378eb7b3e9?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A thought-provoking essay on workplace surveillance creeping into creative processes as AI monitors early-stage work. Important critical perspective for design leaders and organizations navigating ethics, trust, and creative autonomy in AI-augmented workflows.",
+    "read_time": "7 min"
+  }
+]
