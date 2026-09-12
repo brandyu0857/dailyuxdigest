@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Test Complex Interactions Earlier with AI Prototyping",
+    "url": "https://www.nngroup.com/articles/test-earlier-with-ai/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "NN/g",
+    "description": "AI-powered prototyping tools are fundamentally changing when designers can validate complex interactions with real users. This article explores how interactive prototypes built with AI enable earlier, more realistic user testing and accelerate design validation.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "Building A UX ROI Case That Survives The Boardroom",
+    "url": "https://smashingmagazine.com/2026/09/building-ux-roi-case-survives-boardroom/",
+    "source": "Smashing Magazine",
+    "description": "Learn how to transform UX ideas into compelling business cases that actually secure investment and executive buy-in. This practical guide breaks down defining business value, calculating costs, and testing causality\u2014essential skills for design leaders navigating corporate decision-making.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Strong Opinions, Loosely Held",
+    "url": "https://www.svpg.com/strong-opinions-loosely-held/",
+    "source": "Silicon Valley Product Group",
+    "description": "A keynote-turned-narrative from a thought leader on navigating uncertainty in product strategy and decision-making. This essay challenges conventional wisdom about how product leaders should approach conviction and flexibility in rapidly changing environments.",
+    "read_time": "10 min"
+  },
+  {
+    "title": "You're not behind. The feed is built to make you feel that way.",
+    "url": "https://uxdesign.cc/youre-not-behind-the-feed-is-built-to-make-you-feel-that-way-7719d6a967dc?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A candid exploration of why designers and product professionals constantly feel behind their peers\u2014and why most of them are mistaken. This psychological examination reveals how algorithmic feeds amplify imposter syndrome across the tech industry.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Your first draft now has a log",
+    "url": "https://uxdesign.cc/your-first-draft-now-has-a-log-ee378eb7b3e9?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "An important critique of emerging workplace surveillance that tracks the ideation process itself through AI-integrated design tools. This article raises critical ethical questions about privacy, autonomy, and the future of collaborative creative work.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Can GPT-6 Actually Do UX Design?",
+    "url": "https://uxplanet.org/can-gpt-6-actually-do-ux-design-1fe818e91794?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "A hands-on assessment of GPT-6 Astra's capabilities for creating mobile layouts and interactive prototypes reveals both impressive outputs and significant limitations. This real-world testing helps designers understand where AI tools genuinely add value versus where human judgment remains irreplaceable.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Death of the iPod?",
+    "url": "https://uxdesign.cc/death-of-the-ipod-1f22d3d1d065?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A historical examination of how the iPod's interface innovations\u2014particularly haptic feedback and sonic design\u2014became foundational to modern digital interaction patterns. Understanding these design hacks reveals why certain UX conventions became industry standards.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "AI Can Help Write an Article, but It Can't Stand Behind It",
+    "url": "https://www.nngroup.com/articles/ai-editorial-process/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "NN/g",
+    "description": "NN/G transparently shares how it integrates AI into editorial workflows while maintaining human accountability and judgment. This meta-commentary on AI in design publishing models a responsible approach to tool adoption that other organizations can learn from.",
+    "read_time": "5 min"
+  }
+]
