@@ -1,0 +1,59 @@
+[
+  {
+    "title": "The real reason everyone hates the viral AI food slop images",
+    "url": "https://uxdesign.cc/why-people-hate-viral-ai-posters-db2b4329ae11?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This essay explores why AI-generated food imagery feels fundamentally different from traditional food photography, despite both being forms of enhancement and manipulation. It's a thoughtful examination of authenticity, craftsmanship, and user perception in the AI era that matters for designers creating or evaluating AI-generated content.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "A short history of logos made of data",
+    "url": "https://uxdesign.cc/a-short-history-of-logos-made-of-data-bd6a89e732ce?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This piece traces the evolution of embedding real, dynamic data into brand identity systems rather than using static symbols. It's a compelling exploration of how parametric and generative design approaches are reshaping modern branding strategy and user experience.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "GridScout's brand identity",
+    "url": "https://the-brandidentity.com/project/skogen-borrows-from-scouting-not-tech-for-gridscouts-identity",
+    "source": "The Brand Identity",
+    "description": "A case study in how borrowing visual language from industrial and scouting traditions creates credibility with both field users and executives. This demonstrates the strategic power of cultural reference in B2B design and builds a strong foundation for user trust.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Kugiri (\u533a\u5207\u308a)",
+    "url": "https://edoardolunardi.github.io/kugiri/",
+    "source": "Sidebar",
+    "description": "A practical tool that intelligently splits text at the exact points where browsers naturally break it\u2014useful for designers working with responsive typography. This solves a common technical challenge in web design and accessibility-focused layout work.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "DockFix 5.0",
+    "url": "https://www.producthunt.com/products/dockfix",
+    "source": "Product Hunt",
+    "description": "This major update to the macOS Dock customization tool represents growing user demand for personalized OS experiences. It reflects broader trends in design customization and user agency over system defaults.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Neopress",
+    "url": "https://www.producthunt.com/products/neopress",
+    "source": "Product Hunt",
+    "description": "A conversational AI tool that democratizes website building through natural language interaction, reducing friction in the design-to-deployment workflow. This signals how AI assistants are reshaping the tools and processes designers use daily.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "SUDARI",
+    "url": "https://www.producthunt.com/products/sudari",
+    "source": "Product Hunt",
+    "description": "An innovative desktop pet that responds to work patterns combines ambient intelligence with delight-driven UX\u2014demonstrating how personality and behavioral feedback can enhance productivity tools. It's a creative example of micro-interactions and emotional design in utility software.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "Visiby",
+    "url": "https://www.producthunt.com/products/visiby",
+    "source": "Product Hunt",
+    "description": "This AI search visibility tracker addresses a critical gap in how brands measure and optimize their presence in emerging search paradigms. It's essential for designers and product teams adapting strategies to AI-powered discovery.",
+    "read_time": "3 min"
+  }
+]
