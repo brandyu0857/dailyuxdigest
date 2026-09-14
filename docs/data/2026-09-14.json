@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Five eras of UX design and the lessons to keep in the AI era",
+    "url": "https://uxdesign.cc/five-eras-of-ux-design-and-the-lessons-to-keep-in-the-ai-era-d76a548747a9/",
+    "source": "UX Collective",
+    "description": "A historical perspective on how UX has reinvented itself since Bell Labs, exploring which foundational principles remain relevant as AI transforms design practice. This essay provides designers with essential context for navigating today's AI-driven landscape by learning from past paradigm shifts.",
+    "read_time": "8 min",
+    "featured": true
+  },
+  {
+    "title": "AI is breaking this thing we call trust",
+    "url": "https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/",
+    "source": "Terrible Software",
+    "description": "An incisive critique of how AI-generated work that appears polished but lacks transparency erodes team trust and slows collaboration. This piece highlights a critical UX and organizational challenge that teams must address as AI tools proliferate in workflows.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "The real reason everyone hates the viral AI food slop images",
+    "url": "https://uxdesign.cc/why-people-hate-viral-ai-posters-db2b4329ae11?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A thoughtful analysis of why AI-generated food imagery feels fundamentally different from traditional food photography and digital enhancement. Understanding this reaction offers designers valuable insights into visual authenticity and the role of intentionality in creative work.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Productivity for people with back-to-back meetings",
+    "url": "https://bit.ly/side-gra4",
+    "source": "Sidebar",
+    "description": "Practical solutions for maintaining clarity and follow-through in meeting-heavy environments, addressing a widespread workplace pain point. This guide helps teams and product managers reduce decision fatigue and ensure accountability across distributed schedules.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Oats",
+    "url": "https://www.producthunt.com/products/oats-2",
+    "source": "Product Hunt",
+    "description": "A free, open-source, on-device meeting notetaker that prioritizes privacy while capturing meeting insights automatically. This tool addresses the growing need for accessible, trustworthy note-taking solutions that keep data on-device rather than cloud-dependent.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Canvas Browser",
+    "url": "https://canvas-browser.com/",
+    "source": "Sidebar",
+    "description": "An innovative multi-window browsing experience that lets users open multiple websites on an infinite canvas with remote browser options. This tool represents a fresh approach to browser design that could appeal to researchers, designers, and power users managing complex information workflows.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "CUBE Type",
+    "url": "https://typeincube.com/",
+    "source": "Sidebar",
+    "description": "A free, no-signup playground for creating and exporting isometric typography with instant visual feedback. This delightful tool demonstrates how simple, focused design tools can spark creativity and provide value without friction.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "Marqly 6.0",
+    "url": "https://www.producthunt.com/products/marqly",
+    "source": "Product Hunt",
+    "description": "An AI-powered bookmark manager that lets users query their saved bookmarks and integrate them with AI assistants for smarter research. This update bridges the gap between how we save and how we actually retrieve useful information across projects.",
+    "read_time": "3 min"
+  }
+]
