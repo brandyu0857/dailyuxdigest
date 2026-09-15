@@ -1,0 +1,59 @@
+[
+  {
+    "title": "I Tried to Make Claude Code Stop Producing AI Slop",
+    "url": "https://uxplanet.org/i-tried-to-make-claude-code-stop-producing-ai-slop-fa594f6b5981?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "This hands-on exploration examines why AI-generated interfaces often feel hollow and homogeneous, and what strategies can push AI tools toward producing genuinely thoughtful design. Timely and practical for designers working with AI-assisted code generation.",
+    "read_time": "5 min",
+    "featured": true
+  },
+  {
+    "title": "Planning with agents",
+    "url": "https://maggieappleton.com/planning-agents",
+    "source": "Sidebar",
+    "description": "Maggie Appleton explores how to design better interfaces for human-AI collaboration, arguing that we need richer boundary objects and thicker interaction models beyond simple chat. This is essential reading for product designers grappling with how to integrate AI agents into real workflows.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Optical vs. mathematical alignment",
+    "url": "https://pangrampangram.com/blogs/journal/optical-vs-mathematical-alignment",
+    "source": "Sidebar",
+    "description": "Pangram Pangram dissects the gap between software's mathematical precision and human visual perception in design, revealing why perfectly calculated layouts can still look wrong to our eyes. A crucial deep-dive for designers seeking to understand the psychology behind visual harmony.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "If coding is solved, what now?",
+    "url": "https://earendil.com/posts/measuring-code-sloppiness/",
+    "source": "Sidebar",
+    "description": "An insightful reflection on how correct code can still harm a codebase through poor taste and judgment, and why human intuition remains irreplaceable even as AI improves. Relevant for product teams navigating the future of AI-assisted development.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "We must pace the frontier",
+    "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+    "source": "Sidebar",
+    "description": "Anthropic's CEO Dario Amodei proposes a framework for AI companies to deliberately slow capability progress to ensure safety systems keep pace, addressing a critical tension in the industry. A thought-provoking essay on responsible AI development that impacts product strategy.",
+    "read_time": "9 min"
+  },
+  {
+    "title": "Bencho",
+    "url": "https://bencho.dev/",
+    "source": "Sidebar",
+    "description": "A practical library of interactive, ready-to-use UI blocks that designers and developers can explore, customize, and integrate directly into projects, saving significant design and engineering time. A useful tool for accelerating component-driven design workflows.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Multimodal Agents by Sierra",
+    "url": "https://www.producthunt.com/products/sierra",
+    "source": "Product Hunt",
+    "description": "Sierra launches AI agents capable of seamlessly switching between voice, text, and visual interactions, representing an important evolution in how users can communicate with AI systems. A significant product launch demonstrating the convergence of multiple input modalities in agent design.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "Narrative",
+    "url": "https://www.producthunt.com/products/narrative-3",
+    "source": "Product Hunt",
+    "description": "An AI-first video editor that lets users describe edits in natural language and refine them through conversation, reimagining how creators interact with editing tools. Demonstrates how conversational AI can democratize complex creative workflows.",
+    "read_time": "2 min"
+  }
+]
