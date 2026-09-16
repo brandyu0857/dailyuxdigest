@@ -1,0 +1,59 @@
+[
+  {
+    "title": "B2B Medical & Pharma UX Benchmark: 3,400+ Performance Scores and 2,600+ Best Practice Examples",
+    "url": "https://baymard.com/blog/b2b-medical-pharma-ux-benchmark-2026",
+    "source": "Baymard Institute",
+    "description": "Baymard's comprehensive benchmark study provides data-driven best practices across 3,400+ medical and pharma B2B websites, offering designers and product teams evidence-based guidance for a highly regulated, specialized industry. An invaluable resource for understanding what actually works in complex B2B healthcare contexts.",
+    "read_time": "12 min",
+    "featured": true
+  },
+  {
+    "title": "Don't let AI build a Winchester Mystery House",
+    "url": "https://uxdesign.cc/dont-let-ai-build-a-winchester-mystery-house-2cb59ec05a73?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This essay draws a powerful metaphor between the famously chaotic Winchester Mystery House and modern AI-generated apps that lack coherent architecture. It argues that without intentional design planning, AI-assisted feature development creates disconnected, unmaintainable products\u2014and offers six key architectural moves to build cohesion into your existing interfaces.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "The hidden culture layer in AI",
+    "url": "https://uxdesign.cc/ai-culture-ux-design-36c7d410cd1f?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "An insightful exploration of how AI systems embed and perpetuate cultural defaults, raising critical questions for UX designers about whose values are being baked into products. Understanding this hidden layer is essential for designing inclusive, culturally-aware experiences in an AI-driven future.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "The UX Double Diamond is dead, and in AI only one survives for software",
+    "url": "https://uxdesign.cc/the-ux-double-diamond-is-dead-and-in-ai-only-one-survives-for-software-heres-how-to-adapt-f63b57c524ed?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This provocative essay challenges the foundational Double Diamond framework, arguing that AI has collapsed the cost of building, making the traditional two-phase model obsolete. It offers practical guidance on adapting your design process for a world where exploration and execution are no longer financially distinct.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "The users were confident, but wrong. Here's how to design for that.",
+    "url": "https://uxdesign.cc/the-users-were-confident-but-wrong-heres-how-to-design-for-that-4b1546dc5864?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A practical guide addressing the challenging design problem of users who hold confident but incorrect mental models about your product. Learn tactical approaches to clarify confusing terminology and help users correct their misconceptions without triggering defensiveness.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Rauno's field notes: 5",
+    "url": "https://rauno.me/notes/5",
+    "source": "Sidebar",
+    "description": "A concise, practical design insight showing how replacing pagination arrows with interactive card stacks solves real spatial constraints in modern UIs. Perfect example of solving a universal design problem with creative interaction patterns.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Claude Design vs Figma AI: I Designed the Same Web Page With Both",
+    "url": "https://uxplanet.org/claude-design-vs-figma-ai-i-designed-the-same-web-page-with-both-bf2a3712f980?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "A hands-on comparison of two emerging AI design tools, revealing how natural language-driven design is converging across platforms\u2014and where they differ in practice. Essential reading for designers exploring AI-assisted design workflows and evaluating tools.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "For the Designless",
+    "url": "https://uxdesign.cc/for-the-designless-0d3e7936a70c?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A thoughtful essay on the importance of cultural references in design and the hidden costs of losing them as products scale. It challenges designers to remember that design is commercial problem-solving, not art\u2014with real implications for how we communicate at scale.",
+    "read_time": "6 min"
+  }
+]
