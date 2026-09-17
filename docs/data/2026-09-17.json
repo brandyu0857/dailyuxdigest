@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Five eras of UX design and the lessons to keep in the AI era",
+    "url": "https://uxdesign.cc/five-eras-of-ux-design-and-the-lessons-to-keep-in-the-ai-era-d76a548747a9",
+    "source": "Sidebar",
+    "description": "A historical analysis of UX evolution from Bell Labs to today reveals timeless human-centered principles that remain critical as AI transforms design. This essay connects decades of foundational lessons to current AI challenges, helping designers distinguish between passing trends and enduring best practices.",
+    "read_time": "7 min",
+    "featured": true
+  },
+  {
+    "title": "The most important product decision is what you don't build",
+    "url": "https://liamnugent.me/posts/what-you-dont-build/",
+    "source": "Sidebar",
+    "description": "Product leaders rarely celebrate what they kill, yet these decisions define strategy and focus more than shipped features. This essay challenges teams to rethink how they measure success and ownership, shifting mindset from feature velocity to intentional prioritization.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "WCAG Accessibility Guidelines Explorer",
+    "url": "https://emesstyle.com/a11y-design/",
+    "source": "Sidebar",
+    "description": "Interactive demos make WCAG standards tangible by showing real violations alongside solutions, transforming abstract guidelines into practical, learnable patterns. This hands-on resource bridges the gap between compliance knowledge and actual implementation for designers.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Stop Treating CSS Container Queries Like Traditional Media Queries",
+    "url": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
+    "source": "Smashing Magazine",
+    "description": "Container queries enable truly responsive, component-driven design, yet many developers misapply media query patterns despite broad browser support. This guide clarifies when to use each approach and demonstrates the design flexibility container queries unlock.",
+    "read_time": "9 min"
+  },
+  {
+    "title": "Design handoff with Claude Code",
+    "url": "https://uxplanet.org/design-handoff-with-claude-code-fdaf477e4a0c?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "Claude Code offers a practical solution to streamline the notoriously tedious design-to-development handoff process, reducing friction and miscommunication between teams. This timely exploration shows how AI agents can bridge the designer-developer gap more effectively.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Lost dog\u2014or lost designer?",
+    "url": "https://uxdesign.cc/lost-dog-or-lost-designer-d5de922e54d9?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A thought-provoking examination of AI-generated design ethics reveals that responsible use depends on context, intention, and consequences\u2014not blanket rules. This essay empowers designers to make nuanced decisions rather than defaulting to dogmatic positions on AI tooling.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Maybe we shouldn't be reviewing all this code",
+    "url": "https://martinfowler.com/rachels-ramblings/code-review.html",
+    "source": "Sidebar",
+    "description": "Martin Fowler's perspective challenges whether code review itself is broken or if we've been using it to solve systemic problems it was never designed for, especially with AI generating code at scale. This reframes the productivity debate and suggests rethinking development workflow fundamentals.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Seats and sunsets",
+    "url": "https://yegge.ai/essays/seats-and-sunsets/",
+    "source": "Sidebar",
+    "description": "A deep technical exploration of agent orchestration economics, model capabilities, and infrastructure failure modes that designers and product leaders need to understand as AI agents become mainstream. This essay bridges the gap between technical realities and product implications in the AI era.",
+    "read_time": "12 min"
+  }
+]

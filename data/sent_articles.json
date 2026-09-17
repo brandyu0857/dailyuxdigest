@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://baymard.com/blog/accounts-and-self-service-ux-research-2026",
-    "date": "2026-09-09"
-  },
-  {
-    "url": "https://smashingmagazine.com/2026/09/death-button-why-best-interface-is-no-interface/",
-    "date": "2026-09-09"
-  },
-  {
-    "url": "https://uxdesign.cc/most-ai-problems-are-really-human-problems-this-is-how-you-can-fix-it-ab64843f845e?source=rss----138adf9c44c---4",
-    "date": "2026-09-09"
-  },
-  {
-    "url": "https://uxdesign.cc/persistent-lessons-in-human-centered-automation-45b53412e6a5?source=rss----138adf9c44c---4",
-    "date": "2026-09-09"
-  },
-  {
-    "url": "https://uxdesign.cc/the-model-is-behaving-impeccably-your-information-architecture-isnt-bfe8881da3c2?source=rss----138adf9c44c---4",
-    "date": "2026-09-09"
-  },
-  {
-    "url": "https://uxdesign.cc/tetris-had-to-cheat-to-feel-random-201913dc69ed?source=rss----138adf9c44c---4",
-    "date": "2026-09-09"
-  },
-  {
-    "url": "https://design.lightspark.com/limit-the-number-of-details",
-    "date": "2026-09-09"
-  },
-  {
-    "url": "https://www.worldlabs.ai/blog/atlas",
-    "date": "2026-09-09"
-  },
-  {
     "url": "https://ibelick.com/anatomy-ai-input",
     "date": "2026-09-10"
   },
@@ -254,5 +222,37 @@
   {
     "url": "https://uxdesign.cc/for-the-designless-0d3e7936a70c?source=rss----138adf9c44c---4",
     "date": "2026-09-16"
+  },
+  {
+    "url": "https://uxdesign.cc/five-eras-of-ux-design-and-the-lessons-to-keep-in-the-ai-era-d76a548747a9",
+    "date": "2026-09-17"
+  },
+  {
+    "url": "https://liamnugent.me/posts/what-you-dont-build/",
+    "date": "2026-09-17"
+  },
+  {
+    "url": "https://emesstyle.com/a11y-design/",
+    "date": "2026-09-17"
+  },
+  {
+    "url": "https://smashingmagazine.com/2026/09/stop-treating-css-container-queries-traditional-media-queries/",
+    "date": "2026-09-17"
+  },
+  {
+    "url": "https://uxplanet.org/design-handoff-with-claude-code-fdaf477e4a0c?source=rss----819cc2aaeee0---4",
+    "date": "2026-09-17"
+  },
+  {
+    "url": "https://uxdesign.cc/lost-dog-or-lost-designer-d5de922e54d9?source=rss----138adf9c44c---4",
+    "date": "2026-09-17"
+  },
+  {
+    "url": "https://martinfowler.com/rachels-ramblings/code-review.html",
+    "date": "2026-09-17"
+  },
+  {
+    "url": "https://yegge.ai/essays/seats-and-sunsets/",
+    "date": "2026-09-17"
   }
 ]
