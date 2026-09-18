@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Designing with AI",
+    "url": "https://buzzusborne.com/work/designing-with-ai/",
+    "source": "Sidebar",
+    "description": "A case study on how experience building creative teams and design systems translates to creating AI tools that accelerate workflow without compromising quality. Offers valuable insights for design leaders considering AI integration into their teams.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "Please don't stretch your app for foldables",
+    "url": "https://uxdesign.cc/please-dont-stretch-your-app-for-foldables-a62f1f8230ac?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A practical guide on designing for foldable devices that challenges the assumption of stretching apps across variable screen sizes. This article addresses a growing design challenge as foldables become mainstream, offering actionable insights for responsive design beyond traditional fixed constraints.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Rethinking writing in the world of design and AI",
+    "url": "https://uxdesign.cc/rethinking-writing-in-the-world-of-design-and-ai-1c70188b3998?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A thoughtful reflection on how AI is reshaping the role of writing in design practice, drawing from 100 articles on thinking, friction, and creative process. This essay explores the deeper implications of AI tools on design culture and how designers should reconsider their relationship with writing.",
+    "read_time": "10 min"
+  },
+  {
+    "title": "Altman and Amodei's \"unsafe at any prompt\" moment for AI",
+    "url": "https://uxdesign.cc/altman-and-amodeis-unsafe-at-any-prompt-moment-for-ai-6a73f144b56e?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A critical analysis drawing parallels between automotive industry safety denials and how the AI industry dismisses responsibility for unintended consequences. Essential reading for design leaders navigating AI ethics and accountability in product development.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "We are all Product Engineers now",
+    "url": "https://seldo.com/posts/we-are-all-product-engineers-now/",
+    "source": "Sidebar",
+    "description": "An insightful essay examining the convergence of product and engineering roles and what this shift means for the software industry over the next decade. This piece challenges traditional role definitions and offers perspective on future career trajectories in tech.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Why your numbers look wrong",
+    "url": "https://www.carmenansio.com/articles/opentype-features-css/",
+    "source": "Sidebar",
+    "description": "A practical deep-dive into typography settings that reveals why default font figures often look incorrect and how to access better alternatives through CSS. Perfect for designers who want to elevate the polish of digital products through typography mastery.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "For the Designless",
+    "url": "https://uxdesign.cc/for-the-designless-0d3e7936a70c",
+    "source": "Sidebar",
+    "description": "A provocative piece exploring what happens to cultural design references and meaning-making when systems scale without intentional design curation. Raises important questions about design's role in preserving cultural context in digital products.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "I Tested 3 Popular Claude Code Skills for Web Design",
+    "url": "https://uxplanet.org/ive-tested-3-popular-claude-code-skills-for-web-design-24b7866e05a7?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "A hands-on evaluation of Claude Code's capabilities for front-end design work, testing practical workflows that designers are actually using. Provides real-world assessment of AI-assisted web design tools beyond marketing claims.",
+    "read_time": "6 min"
+  }
+]
