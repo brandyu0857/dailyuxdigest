@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Designing AI Products and Features: Study Guide",
+    "url": "https://www.nngroup.com/articles/designing-ai-study-guide/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "NN/g latest articles and announcements",
+    "description": "A comprehensive resource curating Nielsen Norman Group's research and best practices for designing AI-driven products and features. This study guide serves as a foundational reference for designers navigating the rapidly evolving landscape of AI product design.",
+    "read_time": "8 min",
+    "featured": true
+  },
+  {
+    "title": "The 3 Roles of Context for AI Agents",
+    "url": "https://www.nngroup.com/articles/3-agent-context-roles/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "NN/g latest articles and announcements",
+    "description": "This article breaks down how successful AI-agent power users structure context across three dimensions: global (persistent across tasks), local (task-specific), and ambient (real-time data streams). Understanding these context layers is essential for designers building intelligent systems that adapt and perform reliably in production.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Google Stitch vs Figma AI: I Designed the Same Mobile App With Both",
+    "url": "https://uxplanet.org/google-stitch-vs-figma-ai-i-designed-the-same-mobile-app-with-both-7a219c347dba?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "A hands-on comparison of two emerging AI design tools shows how generative design is reshaping the prototyping workflow. This practical case study helps designers evaluate which AI-assisted tools best fit their design process and speed up iteration cycles.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Whatever happened to \"Download on the App Store\" buttons?",
+    "url": "https://uxdesign.cc/whatever-happened-to-download-on-the-app-store-buttons-e39edb72df79?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This essay traces the disappearance of iconic app store buttons from the web and explores what shifted in user behavior and marketing strategies. It's a fascinating reflection on how design patterns evolve and become obsolete as digital ecosystems mature.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Nothing has changed other than how we talk about it",
+    "url": "https://uxdesign.cc/nothing-has-changed-other-than-how-we-talk-about-it-fcc554e853aa?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This thought-provoking essay argues that Design Thinking and AI are natural partners, showing how foundational design principles align perfectly with AI's problem-solving approach. It challenges designers to recognize that modern AI tools are simply amplifying timeless design methodologies.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "The evidence at work",
+    "url": "https://uxdesign.cc/the-evidence-at-work-7407503330e8?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "An insightful examination of how design decisions\u2014like office layouts and workplace policies\u2014reveal deliberate choices and measurable outcomes. This article emphasizes the importance of evidence-based design and measuring the real impact of strategic decisions.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Craft",
+    "url": "https://craft.gustavofior.com/",
+    "source": "Sidebar",
+    "description": "A curated collection of design engineering concepts and principles that bridge the gap between design and development. This resource is invaluable for teams looking to strengthen collaboration and understand how design decisions translate into technical implementation.",
+    "read_time": "10 min"
+  },
+  {
+    "title": "ProductBridge",
+    "url": "https://www.producthunt.com/products/productbridge",
+    "source": "Product Hunt \u2014 The best new products, every day",
+    "description": "An AI-native customer support and feedback agent that automates the collection and synthesis of user insights. This product represents a significant shift in how companies gather and act on customer feedback, potentially transforming the feedback loop for product teams.",
+    "read_time": "3 min"
+  }
+]
