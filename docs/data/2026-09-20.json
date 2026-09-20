@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Notch Design",
+    "url": "https://www.producthunt.com/products/notch-design-2",
+    "source": "Product Hunt",
+    "description": "A creative tool for personalizing the iPhone notch through design customization. This explores a fun intersection of constraint-based design and personalization that reflects how modern design embraces hardware limitations.",
+    "read_time": "2 min",
+    "featured": true
+  },
+  {
+    "title": "Epismo OS",
+    "url": "https://www.producthunt.com/products/epismo",
+    "source": "Product Hunt",
+    "description": "A solution addressing a critical pain point in the AI tools ecosystem: preserving your work when switching between different AI platforms. This could significantly improve workflow continuity for teams experimenting with multiple AI solutions.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Answers by Context.dev",
+    "url": "https://www.producthunt.com/products/context-dev",
+    "source": "Product Hunt",
+    "description": "A developer-focused tool that automates research tasks by returning structured JSON data in your desired format. This bridges the gap between unstructured research and actionable, machine-readable outputs for product teams.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Basedash Models",
+    "url": "https://www.producthunt.com/products/basedash",
+    "source": "Product Hunt",
+    "description": "A database abstraction tool that simplifies querying by letting developers define models once and query them like traditional tables. This reduces technical friction and could democratize database access for non-technical team members.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Punch",
+    "url": "https://www.producthunt.com/products/punch-4",
+    "source": "Product Hunt",
+    "description": "A group chat management tool that helps teams capture and organize important messages before they get buried in conversation threads. This addresses real collaboration pain points and knowledge preservation in distributed teams.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Mise",
+    "url": "https://www.producthunt.com/products/robot-recipes",
+    "source": "Product Hunt",
+    "description": "An intelligent meal planner that coordinates multiple dishes to be ready simultaneously, optimizing kitchen workflow. This demonstrates thoughtful UX design for a complex problem (timing multiple recipes) that frustrates home cooks daily.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Steam Frame",
+    "url": "https://www.producthunt.com/products/steam-machine",
+    "source": "Product Hunt",
+    "description": "A wearable PC that brings Steam library access to portable form factor, exploring the frontier of gaming device form factors. This highlights emerging opportunities in mobile gaming and always-on computing experiences.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Launchie 1.6.1",
+    "url": "https://www.producthunt.com/products/launchie",
+    "source": "Product Hunt",
+    "description": "A modern Launchpad replacement for macOS that improves app discovery and launch efficiency. Small refinements like this often have outsized impact on daily user satisfaction for power users.",
+    "read_time": "2 min"
+  }
+]
