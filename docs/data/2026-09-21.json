@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Making software hurts now",
+    "url": "https://notes.erlend.sh/3muwdtclths2d",
+    "source": "Sidebar",
+    "description": "A candid reflection on the emotional and psychological toll of modern software development practices. This deeply personal essay resonates with designers and developers experiencing burnout, offering insight into systemic issues that affect product quality and team well-being.",
+    "read_time": "8 min",
+    "featured": true
+  },
+  {
+    "title": "For the Designless, The death of the deliverable, iPhone Duo's UX",
+    "url": "https://uxdesign.cc/for-the-designless-the-death-of-the-deliverable-iphone-duos-ux-d8ce63862469?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A thoughtful exploration of how design practice is evolving beyond traditional deliverables and what it means to be a designer in a commercial context. This piece challenges conventional wisdom about design outputs and offers perspective on real-world problem-solving, making it essential reading for designers questioning their role and process.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "AI nutrition facts",
+    "url": "https://uxdesign.cc/ai-nutrition-facts-cbfa8f9874e8?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A framework for designing transparent interfaces that help users understand AI's role in content creation and consumption. This timely piece addresses how designers should communicate AI capabilities and limitations to different audiences\u2014writers, readers, and the AI itself.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "How Rob Farmer turns half-baked sketches into New York Times covers",
+    "url": "https://www.creativeboom.com/work/how-rob-farmer-turns-half-baked-sketches-into-new-york-times-covers/",
+    "source": "Sidebar",
+    "description": "A masterclass in motion design process from a seasoned professional who balances perfectionism with pragmatism under editorial pressure. Learn how constraints fuel creativity and why 'done' often beats 'perfect' in high-stakes design work.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Email has never been free",
+    "url": "https://buttondown.com/blog/metered-email",
+    "source": "Sidebar",
+    "description": "An insightful examination of email's hidden economics and the shifting business models supporting modern communication platforms. Essential reading for understanding how product decisions about monetization shape user experience.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Google Flow for iOS & Android",
+    "url": "https://www.producthunt.com/products/google",
+    "source": "Product Hunt",
+    "description": "Google's AI creative studio expands to mobile platforms, bringing generative design capabilities directly to on-the-go creators. This launch signals the increasing integration of AI-assisted creation tools into mainstream mobile workflows.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Flicka",
+    "url": "https://www.producthunt.com/products/flicka",
+    "source": "Product Hunt",
+    "description": "A Chrome extension that transforms product demos from concept to launch-ready in minutes, dramatically reducing the friction of creating sales and onboarding materials. This tool exemplifies the shift toward faster, AI-assisted product documentation workflows.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Sai",
+    "url": "https://www.producthunt.com/products/simular",
+    "source": "Product Hunt",
+    "description": "An autonomous computer fleet platform that lets users delegate complex workflows and repetitive tasks to AI agents at scale. This represents a significant evolution in how teams might approach automation and delegation in the future.",
+    "read_time": "3 min"
+  }
+]
