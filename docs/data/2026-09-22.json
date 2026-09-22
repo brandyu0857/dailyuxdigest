@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Designers lost their unit of measurement. That's why we're struggling.",
+    "url": "https://uxdesign.cc/designers-lost-their-unit-of-measurement-thats-why-we-re-struggling-b3c6beeea74f?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "An insightful exploration of how the shift from fixed screen sizes to responsive design left designers without a stable reference frame for their work. This foundational piece challenges how we think about design constraints and measurement in the modern era.",
+    "read_time": "7 min",
+    "featured": true
+  },
+  {
+    "title": "The variance problem in AI products",
+    "url": "https://uxdesign.cc/the-variance-problem-in-ai-products-62a58272564c?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "This article identifies a critical UX challenge in AI products: users can tolerate slow responses, but inconsistent performance erodes trust. The piece explores why predictability matters more than speed in AI-driven interfaces and has immediate relevance for product teams shipping AI features.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Can AI follow a real design system?",
+    "url": "https://uxplanet.org/can-ai-follow-a-real-design-system-c30330ad6dd1?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "A hands-on experiment testing whether AI can actually adhere to design systems and constraints. This practical research reveals important gaps in how AI tools interact with structured design governance\u2014critical for teams considering AI-assisted design workflows.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Nobody starts as an accessibility expert",
+    "url": "https://uxdesign.cc/nobody-starts-as-an-accessibility-expert-6a16e8a99960?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A demystifying guide that reframes accessibility as an achievable discipline rather than an intimidating compliance checklist. This motivational piece empowers designers at any level to build more inclusive products without needing expert knowledge upfront.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Where does your work go when the tool shuts down?",
+    "url": "https://uxdesign.cc/where-does-your-work-go-when-the-tool-shuts-down-d3b74c2a74d8?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A sobering look at digital preservation and data longevity: 25% of web pages from the last decade have disappeared despite source sites still being online. This raises urgent questions about designing for permanence and user data ownership in an era of SaaS tools.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "I am often wrong",
+    "url": "https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html",
+    "source": "Sidebar",
+    "description": "A candid reflection on decision-making in product management that offers a practical six-step framework for tackling recurring problems. This leadership piece combines humility with actionable methodology, valuable for PMs navigating uncertainty.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "The lie we keep telling ourselves about regulating AI",
+    "url": "https://uxdesign.cc/the-lie-we-keep-telling-ourselves-about-regulating-ai-61e0163d795e?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A critical examination of why AI regulation debates feel stuck, drawing parallels to how the early internet was governed without formal structures. This thought-provoking essay challenges the premise that regulation requires universal consensus and matters for product teams navigating compliance.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Can stress be quantified?",
+    "url": "https://uxdesign.cc/can-stress-be-quantified-d247a81dd0f2?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "An exploration of the science and design behind wearable stress-tracking technology, examining what can realistically be measured and why the gap between data and actionable insight matters. Essential reading for anyone building health and wellness products.",
+    "read_time": "6 min"
+  }
+]
