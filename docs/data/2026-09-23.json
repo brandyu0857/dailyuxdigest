@@ -1,0 +1,59 @@
+[
+  {
+    "title": "The 3 roles of context for AI agents",
+    "url": "https://www.nngroup.com/articles/3-agent-context-roles/",
+    "source": "Nielsen Norman Group",
+    "description": "Understanding how to structure context for AI agents is becoming essential for product teams building with AI. This research-backed article breaks down three critical context types\u2014global, local, and ambient\u2014that power users leverage to maximize agent effectiveness, offering actionable frameworks for designers and product managers.",
+    "read_time": "5 min",
+    "featured": true
+  },
+  {
+    "title": "In the age of AI, the UX field survives on leaders who cultivate juniors",
+    "url": "https://uxdesign.cc/in-the-age-of-ai-the-ux-field-survives-on-leaders-who-cultivate-juniors-595c548f1d70?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "As AI transforms the design landscape, mentorship becomes a critical differentiator between thriving and struggling design teams. This piece argues that design leaders must actively invest in developing the next generation of judgment-makers, showing how experienced designers can guide juniors through critiques and real-world challenges in an AI-assisted world.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Why the best resume may be the wrong resume for a design team",
+    "url": "https://uxdesign.cc/why-the-best-resume-may-be-the-wrong-resume-for-a-design-team-c019b8568662?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "Design leadership often misjudges talent by prioritizing conventional credentials over team fit and growth potential. This essay challenges hiring orthodoxy and explores how teams innovate better when they value learning ability and collaborative mindset over polished portfolios.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Claude Opus 5.5 for Product Designers",
+    "url": "https://uxplanet.org/claude-opus-5-5-for-product-designers-6d354142d5ac?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "Anthropic's updated frontier AI model brings measurably better capabilities for design workflows, from ideation to prototyping. This hands-on guide explores practical applications for product designers looking to integrate advanced AI reasoning into their design process.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "What is a screen made of?",
+    "url": "https://uxdesign.cc/what-is-a-screen-made-of-f2b1318778d4?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This thought-provoking piece deconstructs the flat design movement and questions what we lost when we abandoned skeuomorphism\u2014revealing how the pendulum swung too far away from representing the actual material properties of digital interfaces. It's a call to reconsider how metaphor and authenticity shape better UX.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Figma vs. Claude Design: From UI Screenshot to Functional Prototype",
+    "url": "https://uxplanet.org/figma-vs-claude-design-from-ui-screenshot-to-functional-prototype-82e00fb924bc?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "With AI-powered design tools now bridging static designs and functional prototypes, designers face a strategic choice between traditional tools and AI-native alternatives. This comparative analysis helps teams evaluate which approach accelerates their workflow and maintains design control.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "The origins, side B \u2014 birth of the un-cool",
+    "url": "https://uxdesign.cc/the-origins-side-b-birth-of-the-un-cool-d1baf83948c8?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "Tracing how software complexity historically drove adoption rather than hindering it, this historical perspective challenges the assumption that simplicity is always the goal. Understanding when and why users embrace complexity is crucial for building features that actually matter.",
+    "read_time": "9 min"
+  },
+  {
+    "title": "Audit your agent files",
+    "url": "https://addyosmani.com/blog/audit-your-agent-files/",
+    "source": "Addy Osmani Blog",
+    "description": "As AI coding agents become mainstream, knowing how to audit and validate what they produce is a critical skill for product teams and developers. This practical guide provides concrete steps to assess agent outputs and identify gaps before deploying to production.",
+    "read_time": "5 min"
+  }
+]
