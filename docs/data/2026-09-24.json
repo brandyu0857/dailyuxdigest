@@ -1,0 +1,59 @@
+[
+  {
+    "title": "New Event Ticketing UX Research: 3 Key Takeaways",
+    "url": "https://baymard.com/research-articles/event-ticketing-ux-research-launch",
+    "source": "Baymard Institute",
+    "description": "Baymard Institute releases new UX research on event ticketing platforms, uncovering critical user pain points and design opportunities. This data-driven study provides actionable insights for designers building ticketing experiences and is essential reading for anyone optimizing conversion flows.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "Floot MCP",
+    "url": "https://www.producthunt.com/products/floot",
+    "source": "Product Hunt",
+    "description": "A significant shift in how developers build applications: Floot enables web and mobile app development directly within Claude or ChatGPT. This represents a major evolution in AI-assisted development workflows and could reshape the accessibility of app building.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "I gave my website a boss fight",
+    "url": "https://www.paulbakaus.com/i-gave-my-website-a-boss-fight/",
+    "source": "Sidebar",
+    "description": "Paul Bakaus explores creative and experimental web design by building an interactive boss fight experience using Claude and advanced color optimization. A fascinating case study that challenges conventional thinking about website interaction design and user engagement.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "The fear of AI",
+    "url": "https://voiceinthemachine.com/2026/09/21/the-fear-of-ai/",
+    "source": "Sidebar",
+    "description": "A thoughtful essay examining the mismatch between AI fears and actual risks, providing nuanced perspective on where concerns should realistically be focused. Critical reading for UX professionals designing AI systems and communicating AI capabilities responsibly.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Code as the source of truth",
+    "url": "https://www.tonyward.dev/articles/code-as-the-source-of-truth",
+    "source": "Sidebar",
+    "description": "An exploration of how AI tooling is fundamentally changing development practices, making code the authoritative source rather than design files or documentation. Essential perspective for product teams adapting workflows in the AI era.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Category colors",
+    "url": "https://categorycolors.com/",
+    "source": "Sidebar",
+    "description": "An elegant, browser-based tool for optimizing categorical color palettes, addressing a persistent challenge in data visualization and interface design. Solves real accessibility and usability problems with a practical, open solution.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "Gemini 3.8 text-to-speech models",
+    "url": "https://www.producthunt.com/products/gemini-3-8-text-to-speech-models",
+    "source": "Product Hunt",
+    "description": "Google releases new Gemini TTS models (Flash and Flash-Lite versions) offering improved performance and efficiency for voice-enabled applications. A significant update for designers building accessible, voice-first interfaces and multimodal experiences.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Petdex",
+    "url": "https://petdex.dev/",
+    "source": "Sidebar",
+    "description": "An open-source library of animated mascots for AI coding agents that can be installed and customized with a single command. A delightful example of thoughtful UX design for developer tools that humanizes AI interactions.",
+    "read_time": "2 min"
+  }
+]
