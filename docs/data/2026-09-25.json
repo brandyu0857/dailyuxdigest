@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Once UI 2.0",
+    "url": "https://www.producthunt.com/products/once-ui-for-figma",
+    "source": "Product Hunt",
+    "description": "A significant design system update that bridges Figma and React development, enabling consistent component usage for both designers and AI agents. This release represents the practical intersection of design tools and modern development workflows.",
+    "read_time": "4 min",
+    "featured": true
+  },
+  {
+    "title": "Skip the tools, make the outcomes",
+    "url": "https://www.lukew.com/ff/entry.asp?2163",
+    "source": "Sidebar",
+    "description": "Luke Wroblewski challenges the prevailing assumption that tools drive better design outcomes, especially in an AI-powered world. This thought-provoking essay argues that obsessing over tools may actually distract us from what matters most: achieving meaningful results.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "I don't want the details",
+    "url": "https://michaelheap.com/i-dont-want-the-details/",
+    "source": "Sidebar",
+    "description": "A critical examination of how detailed explanations can become a convenient excuse to avoid taking action or making difficult changes. This insight has practical implications for how designers and leaders communicate about redesigns and improvements.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "What the Bible got right about AI",
+    "url": "https://uxdesign.cc/what-the-bible-got-right-about-ai-340d32b82b5c?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A thought-provoking philosophical piece exploring ancient wisdom about creation and our role as creators, drawing parallels to today's AI revolution. This essay provokes reflection on the responsibility designers carry when building intelligent systems.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Jango",
+    "url": "https://www.producthunt.com/products/jango",
+    "source": "Product Hunt",
+    "description": "A novel testing tool that uses AI agents to simulate real user behavior in multi-user applications, addressing a critical gap in QA processes. This approach to automated testing could significantly improve product quality before launch.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Anatomy of a $100 bill",
+    "url": "https://www.realworth.io/anatomy-of-a-100-dollar-bill",
+    "source": "Sidebar",
+    "description": "An interactive 3D exploration of U.S. currency design and security features that demonstrates sophisticated visual design principles and information architecture. This detailed case study offers valuable lessons in designing for both aesthetics and security.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "What To Evaluate Before a B2B Website Redesign (Lessons from NestiFi)",
+    "url": "https://dribbble.com/stories/2026/09/24/cl-vibestyle-klym-yevtushenko-b2b-website-redesign",
+    "source": "Courtside",
+    "description": "A practical case study examining the critical evaluation criteria and strategic considerations required before undertaking a B2B website redesign. This resource provides actionable frameworks for design leaders planning major web initiatives.",
+    "read_time": "9 min"
+  },
+  {
+    "title": "Wand",
+    "url": "https://www.producthunt.com/products/wand-6",
+    "source": "Product Hunt",
+    "description": "A tool positioned to accelerate software development by enabling rapid ideation and implementation, potentially reshaping how developers interact with their workflow. This addresses the growing demand for AI-assisted development that matches creative speed with execution.",
+    "read_time": "4 min"
+  }
+]
