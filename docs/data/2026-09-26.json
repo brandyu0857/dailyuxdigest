@@ -1,0 +1,59 @@
+[
+  {
+    "title": "When Should You Disclose AI Use? The PACED Framework",
+    "url": "https://www.nngroup.com/articles/disclose-ai-paced/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "Nielsen Norman Group",
+    "description": "This practical framework helps designers and product teams navigate the critical decision of when and how to disclose AI involvement in content creation. As AI becomes ubiquitous, understanding audience expectations and context around disclosure is essential for maintaining trust and ethical design practices.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "How AI Works and How Users Think About It: Study Guide",
+    "url": "https://www.nngroup.com/articles/ai-functionality-study-guide/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "Nielsen Norman Group",
+    "description": "A comprehensive collection of resources for designers to understand both the technical foundations of AI and how real users perceive and interact with AI-powered products. Essential reading for anyone building AI-integrated experiences in 2026.",
+    "read_time": "12 min"
+  },
+  {
+    "title": "GPT-6 Astra vs Opus 5.5: Which one is better for product design?",
+    "url": "https://uxplanet.org/gpt-6-astra-vs-opus-5-5-which-one-is-better-for-product-design-ea66a6ff4527?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "A hands-on comparison of two leading AI models specifically evaluated for product design tasks, helping designers choose the right tool for their workflow. This directly addresses the growing need for practical guidance on AI tool selection in design practice.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "I Tested Opus 5.5 at Every Effort Level for UI Design",
+    "url": "https://uxplanet.org/i-tested-opus-5-5-at-every-effort-level-for-ui-design-c19860ad8563?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "An empirical study examining how prompt effort levels impact AI-generated UI design quality, providing designers with actionable insights on optimizing AI tool usage. This research-backed approach offers practical value for integrating AI into design workflows.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Experts Lead Experts",
+    "url": "https://www.svpg.com/experts-lead-experts/",
+    "source": "Silicon Valley Product Group",
+    "description": "A thought-provoking piece on how AI is reshaping organizational hierarchies and the role of leadership in product teams, suggesting that domain expertise will matter more than traditional management. Critical reading for design leaders navigating the AI-transformed workplace.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Vertical wrap available in auto layout",
+    "url": "https://www.figma.com/release-notes/?title=vertical-wrap-available-in-auto-layout",
+    "source": "Figma",
+    "description": "Figma's new vertical wrap feature for auto layout improves layout flexibility and responsive design capabilities in a fundamental way. This update directly impacts how designers build adaptive components and systems at scale.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "Is this the line for burgers?",
+    "url": "https://uxdesign.cc/is-this-the-line-for-burgers-9730dd45999d?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A clever exploration of design problem-solving that examines how solutions created for one context can unintentionally solve\u2014or create confusion around\u2014entirely different problems. A thought-provoking read on design scope and user mental models.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Isometric NYC",
+    "url": "https://cannoneyed.com/isometric-nyc/",
+    "source": "Sidebar",
+    "description": "An ambitious creative project that combines large-scale data visualization with cutting-edge AI coding agents, showcasing the intersection of design artistry and generative tools. Inspiring for designers exploring new possibilities with AI-assisted development.",
+    "read_time": "4 min"
+  }
+]
