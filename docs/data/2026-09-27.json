@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Squints",
+    "url": "https://www.producthunt.com/products/squints",
+    "source": "Product Hunt",
+    "description": "A new design tool built specifically for the live web, enabling designers to create interactive experiences directly in the browser. This represents an important shift toward real-time, code-aware design workflows that bridge the gap between design and development.",
+    "read_time": "3 min",
+    "featured": true
+  },
+  {
+    "title": "loading.dev",
+    "url": "https://loading.dev/",
+    "source": "Sidebar",
+    "description": "A lightweight React library offering a curated collection of beautiful, customizable loading indicators for modern web applications. Essential for developers and designers looking to add polished micro-interactions without bloating their bundles.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "InfraGrid3D",
+    "url": "https://www.producthunt.com/products/infragrid3d-civil-engineering-design",
+    "source": "Product Hunt",
+    "description": "A browser-based civil engineering design platform enabling LOD 400+ (detailed) infrastructure design directly in the web. This democratizes specialized design tools and showcases how web technology is expanding into traditionally complex professional domains.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Decktly",
+    "url": "https://www.producthunt.com/products/decktly",
+    "source": "Product Hunt",
+    "description": "Transforms HTML presentation editing to feel as intuitive as PowerPoint, lowering the barrier for technical presentations. A smart solution that bridges the gap between designers who want control and presenters who want simplicity.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Token Forecaster",
+    "url": "https://www.producthunt.com/products/token-forecaster",
+    "source": "Product Hunt",
+    "description": "Predicts LLM response length before execution, improving the user experience of AI-powered applications by reducing wait-time uncertainty. A practical solution for designing better interactions around generative AI.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "MakerMap",
+    "url": "https://www.producthunt.com/products/makermap",
+    "source": "Product Hunt",
+    "description": "A dynamic, community-driven map that visualizes makers and their projects in real-time. Valuable for designers and PMs seeking inspiration, discovering talent, and understanding emerging trends in the maker ecosystem.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "IMG_0001",
+    "url": "https://walzr.com/IMG_0001/",
+    "source": "Sidebar",
+    "description": "An innovative bot that aggregated 5 million unedited YouTube videos into a searchable dataset, offering raw, authentic content for research and inspiration. Demonstrates creative approaches to mining large-scale data for design insights and trends.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "GoodSocials",
+    "url": "https://www.producthunt.com/products/goodsocials",
+    "source": "Product Hunt",
+    "description": "An AI-powered social media manager for LinkedIn that prioritizes authentic, genuine content over viral tactics. Reflects a growing shift toward quality engagement and brand authenticity in social strategy design.",
+    "read_time": "3 min"
+  }
+]
