@@ -1,0 +1,59 @@
+[
+  {
+    "title": "How we save entry-level UX work that teaches craft in the time of AI. Our field depends on this.",
+    "url": "https://uxdesign.cc/how-we-save-entry-level-ux-work-that-teaches-craft-in-the-time-of-ai-our-field-depends-on-this-e1684a0d67eb?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "As AI automation threatens entry-level design tasks that traditionally taught craft fundamentals, this essay proposes seven concrete tasks to preserve hands-on learning and maintain the human element in UX work. Critical reading for design leaders concerned about the next generation's development.",
+    "read_time": "7 min",
+    "featured": true
+  },
+  {
+    "title": "Productivity for people with back to back meetings",
+    "url": "https://bit.ly/side-gra6",
+    "source": "Sidebar",
+    "description": "Practical strategies to combat meeting fatigue and the common experience of immediately forgetting agreements made in rapid-fire sessions. Essential advice for product managers and designers juggling constant calendar conflicts.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Is your app ready for iPhone Duo?",
+    "url": "https://codewithbeto.dev/blog/is-your-app-ready-for-iphone-duo",
+    "source": "Sidebar",
+    "description": "A hands-on guide for adapting iOS apps to support Apple's dual-screen iPhone Duo, covering layout strategies, the fold, and system controls that determine responsive design on foldable devices. Essential for staying ahead of the next device paradigm shift.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "The four tiers of tab importance",
+    "url": "https://chriscoyier.net/2026/09/15/the-four-tiers-of-tab-importance/",
+    "source": "Sidebar",
+    "description": "An insightful analysis of how modern browsers like Arc are reimagining tab hierarchy and prioritization, offering UX lessons on information architecture and user cognition. Relevant for anyone designing browser-based or web products.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "12 CSS features you can use today with no build step",
+    "url": "https://flaviocopes.com/modern-css-features/",
+    "source": "Sidebar",
+    "description": "A practical breakdown of modern CSS capabilities that eliminate the need for preprocessors and build tools, empowering designers and developers to work more efficiently without extra dependencies. Useful reference for streamlining design-to-code workflows.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Sayble",
+    "url": "https://www.producthunt.com/products/sayble",
+    "source": "Product Hunt",
+    "description": "An AI copilot that assists during live calls by suggesting what to say next\u2014a breakthrough for sales, support, and customer-facing roles struggling with communication pressure. Represents the emerging category of real-time AI coaching tools transforming how people work.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Regulating AI, Quantifying stress, The variance problem",
+    "url": "https://uxdesign.cc/regulating-ai-quantifying-stress-the-variance-problem-1ce71d56a34a?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A thoughtful exploration of how outdated regulatory approaches struggle to keep pace with rapidly evolving AI, touching on governance challenges and design ethics. Essential context for designers navigating responsible AI implementation.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "FaveNest",
+    "url": "https://www.producthunt.com/products/favenest",
+    "source": "Product Hunt",
+    "description": "A bookmark tool powered by Apple Intelligence that intelligently organizes saved content without manual work\u2014demonstrating how modern AI integration can solve the age-old bookmark chaos problem. Signals the shift toward AI-assisted information management.",
+    "read_time": "3 min"
+  }
+]
