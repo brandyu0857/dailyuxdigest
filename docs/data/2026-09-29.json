@@ -1,0 +1,59 @@
+[
+  {
+    "title": "The strategic designer: navigating the Jevons paradox in the AI age",
+    "url": "https://uxdesign.cc/the-strategic-designer-navigating-the-jevons-paradox-in-the-ai-age-e06aa836f9d8?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "As AI accelerates execution, designers must evolve from specialist makers into strategic orchestrators who shape product vision and systems thinking. This essay explores how compression of execution time paradoxically increases demand for high-level design leadership, redefining the role of designers in the AI era.",
+    "read_time": "8 min",
+    "featured": true
+  },
+  {
+    "title": "The default is not a design decision",
+    "url": "https://www.hipuku.dev/writing/the-default-is-not-a-design-decision",
+    "source": "Sidebar",
+    "description": "A critical examination of how the design industry perpetuated homogeneity by treating defaults as best practices rather than intentional choices. This thought-provoking piece challenges designers to question convention and make deliberate decisions instead of defaulting to sameness.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "How to scale intent, quality, and artistry with AI",
+    "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
+    "source": "Sidebar",
+    "description": "An insightful exploration of how designers can leverage AI to build at scale while maintaining intentionality and artistry, avoiding the trap of generic \"zombie UI.\" This talk addresses the central tension of the AI era: automation vs. distinctiveness.",
+    "read_time": "12 min"
+  },
+  {
+    "title": "What makes a brand last?",
+    "url": "https://uxdesign.cc/what-makes-a-brand-last-baf152419576?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Through real-world case studies of energy suppliers and fintech brands, this article reveals why visual identity alone doesn't ensure brand longevity\u2014it's the deeper values and consistency that matter. Essential reading for product managers and brand strategists.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Plan mode is dead",
+    "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
+    "source": "Sidebar",
+    "description": "A provocative analysis of how AI has fundamentally changed software development workflows, making traditional planning obsolete. This piece challenges conventional wisdom about planning in the age of AI-assisted coding.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "The next larger context",
+    "url": "https://uxdesign.cc/the-next-larger-context-4dd0c91a7c5b?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "An exploration of systems-level thinking in design that extends beyond individual interfaces and products into broader ecosystem considerations. Critical for designers seeking to understand their work's impact at scale.",
+    "read_time": "9 min"
+  },
+  {
+    "title": "The age of the soft skill",
+    "url": "https://rudyfaile.com/2026/09/24/the-age-of-the-soft-skill/",
+    "source": "Sidebar",
+    "description": "A reflection on why communication, collaboration, and interpersonal skills are becoming more valuable than technical expertise as the industry evolves. Timely commentary on workplace culture and professional development.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Healthcare Tech Design: Rebranding Kinetik's NEMT Platform",
+    "url": "https://dribbble.com/stories/2026/09/29/cl-vicente-reyes-montealegre-afternow-kinetik-healthcare-tech-rebranding",
+    "source": "Courtside",
+    "description": "A detailed case study of rebranding a healthcare transportation platform, showcasing practical design decisions in a highly regulated industry. Offers actionable insights for designers working on healthcare products.",
+    "read_time": "5 min"
+  }
+]
