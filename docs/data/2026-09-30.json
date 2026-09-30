@@ -1,0 +1,59 @@
+[
+  {
+    "title": "If you want to design for underserved users, look at farmers' markets",
+    "url": "https://uxdesign.cc/if-you-want-to-design-for-underserved-users-look-at-farmers-markets-eefaedb35607?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "Introduces the \"bottom third model\" and reveals why conventional help patterns fail underserved users by examining real-world examples from farmers' markets. A valuable framework for inclusive design thinking and user research.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "The economics of attention in the age of AI",
+    "url": "https://uxdesign.cc/the-economics-of-attention-in-the-age-of-ai-5f92e7e0fb49?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "Explores how AI-powered filtering and content curation are fundamentally reshaping the economics of human attention in digital products. A critical examination of what happens when machines mediate what information reaches users\u2014essential reading for designers building AI-integrated systems.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "How to de-slopify your designs",
+    "url": "https://uxdesign.cc/how-to-de-slopify-your-designs-4c40c57c1dc9?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "Practical guidance on maintaining design quality and intentionality in an era of AI-generated content and shortcuts. Provides actionable tips for designers to ensure their work stands out from low-effort AI-generated designs.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "AI is a boring technology",
+    "url": "https://www.chrbutler.com/ai-is-a-boring-technology",
+    "source": "Sidebar",
+    "description": "A thought-provoking perspective arguing that AI itself isn't interesting\u2014what matters is what it helps you accomplish. A useful reframing for designers and product leaders to refocus on user outcomes rather than technology hype.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "I Tested Claude Sonnet 5.5 for Web Design",
+    "url": "https://uxplanet.org/i-tested-claude-sonnet-5-5-for-web-design-8ab1df274cf9?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "Hands-on evaluation of Claude Sonnet 5.5's web design capabilities with honest assessment of its limitations versus vendor claims. Practical insights for designers evaluating AI tools for design workflows.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Sidenotes with CSS anchor positioning",
+    "url": "https://vincent.bernat.ch/en/blog/2026-css-sidenotes",
+    "source": "Sidebar",
+    "description": "Technical deep-dive into modern CSS techniques for creating responsive sidenotes without JavaScript, with elegant fallbacks for older browsers. Valuable for designers and developers interested in progressive enhancement and web standards.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "What your phone is made of",
+    "url": "https://anas-sabbar.ca/writing/what-your-phone-is-made-of/",
+    "source": "Sidebar",
+    "description": "Data visualization exploring the mined materials in mobile phones and their geographic origins, grounded in 2025 U.S. Geological Survey data. Important for designers interested in supply chain transparency and the environmental impact of digital products.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Datastory",
+    "url": "https://www.producthunt.com/products/datastory-data-visualization-platform",
+    "source": "Product Hunt",
+    "description": "New platform for turning raw data into compelling visual narratives and shareable stories. A significant tool launch for product managers and designers focused on data-driven communication and insight discovery.",
+    "read_time": "3 min"
+  }
+]
