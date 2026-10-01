@@ -1,0 +1,59 @@
+[
+  {
+    "title": "B2B Electronic Components & Machinery UX Benchmark: 2,600+ Performance Scores and 2,000+ Best Practice Examples",
+    "url": "https://baymard.com/research-articles/b2b-electronic-components-machinery-ux-benchmark-2026",
+    "source": "Baymard Institute",
+    "description": "A comprehensive benchmarking study analyzing 2,600+ performance scores and 2,000+ best practices for B2B e-commerce in industrial sectors. This data-driven research provides actionable insights for improving UX in complex, high-value product categories often overlooked in design conversations.",
+    "read_time": "10 min",
+    "featured": true
+  },
+  {
+    "title": "Headless AI will make every product a platform. Here's what to consider when designing for this.",
+    "url": "https://uxdesign.cc/headless-ai-will-make-every-product-a-platform-heres-what-to-consider-when-designing-for-this-f219c33245c7?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Explores how AI agents operating without traditional UIs are fundamentally changing design practice, shifting focus from mockups to contract specifications and system behavior. Essential reading for designers adapting to a post-interface future where agents replace screens.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Intelligent Accessibility: What If Accessibility Could Adapt to You?",
+    "url": "https://uxdesign.cc/intelligent-accessibility-what-if-accessibility-could-adapt-to-you-db601958ea47?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Investigates how AI can transform accessibility from static, one-size-fits-all accommodations into dynamic, personalized experiences that adapt to individual user needs in real-time. A forward-thinking exploration of inclusive design's future.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Google's 3D emoji design process",
+    "url": "https://design.google/library/noto-3d-emoji-design",
+    "source": "Sidebar",
+    "description": "Behind-the-scenes look at how Google transformed 3,977 Noto emoji into cohesive 3D assets, revealing design systems, consistency challenges, and creative problem-solving at massive scale. A masterclass in maintaining brand identity across thousands of assets.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Federal pressure may force design education to rethink its identity",
+    "url": "https://uxdesign.cc/federal-pressure-may-force-design-education-to-rethink-its-identity-22d4ec56b1c2?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Examines how government earnings requirements for degree programs are forcing design education to reconsider its value proposition and identity beyond traditional art and practice. Timely analysis of policy's impact on design education's future.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "The lie we keep telling ourselves about regulating AI",
+    "url": "https://uxdesign.cc/the-lie-we-keep-telling-ourselves-about-regulating-ai-61e0163d795e",
+    "source": "UX Design",
+    "description": "Challenges the common excuse that AI regulation is impossible due to disagreement, drawing parallels to early internet governance to argue that regulatory frameworks are within reach if we commit to them. A provocative perspective on design ethics and responsibility.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "State of Devs 2026",
+    "url": "https://2026.stateofdevs.com/en-US/",
+    "source": "Sidebar",
+    "description": "Survey data revealing that nearly half of developers experienced job insecurity and insufficient wages in 2026, highlighting workforce challenges and changing industry sentiment. Critical context for understanding the human side of the tech industry.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Five-step color balancing with GenAI",
+    "url": "https://uxdesign.cc/five-step-color-balancing-with-genai-60ab1ca5635e?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Practical guide demonstrating how to use Gemini and qualitative data to streamline color scheme design decisions with AI assistance. A hands-on tutorial bridging design theory and modern AI tools for professional workflows.",
+    "read_time": "4 min"
+  }
+]
