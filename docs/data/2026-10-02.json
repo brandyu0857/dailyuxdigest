@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Stop blaming the model for slow AI. Using Doherty's threshold as a guideline.",
+    "url": "https://uxdesign.cc/stop-blaming-the-model-for-slow-ai-heres-how-to-design-for-it-doherty-s-threshold-as-a-guideline-5fa6d52e23fc?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This essay reframes AI slowness as a design problem rather than a model problem, applying the 400-millisecond Doherty threshold to modern AI interfaces. It offers practical guidance on how designers can create responsive experiences even when models are inherently slow, making it essential reading for anyone building AI products.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "AI beyond average: from chatting to collaborating",
+    "url": "https://uxdesign.cc/ai-beyond-average-from-chatting-to-collaborating-7b308dd9317a?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This article explores how the same AI model can deliver fundamentally different user experiences through thoughtful design of context, skills, and feedback mechanisms. It challenges the notion that AI capabilities are fixed, showing how UX choices transform AI from a generic tool into a genuine collaborator.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Design's consensus was AI's first casualty",
+    "url": "https://uxdesign.cc/designs-consensus-was-ai-s-first-casualty-8143c1bada80?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A thought-provoking piece examining how conflicting interpretations of AI evidence have fractured design consensus, leaving practitioners without clear guidelines. This timely analysis helps designers navigate uncertainty and make principled decisions despite ongoing industry disagreement.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "In/tension modeling: what gives us the right?",
+    "url": "https://uxdesign.cc/in-tension-modeling-what-gives-us-the-right-01740248eb45?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This collaborative essay from three designers tackles the ethical dimension of design decisions by exploring how to navigate conflicting stakeholder voices and lived tensions responsibly. It's essential reading for designers grappling with moral complexity in their work.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "What happens when you can build it all yourself",
+    "url": "https://www.renatovaldes.com/essays/what-happens-when-you-can-build-it-all-yourself/",
+    "source": "Sidebar",
+    "description": "A reflective essay examining how low-cost, no-code tools are reshaping startup economics and designer expectations around speed and autonomy. It explores the hidden costs of unlimited building velocity and raises important questions about sustainable product development.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Do frameworks matter anymore?",
+    "url": "https://brookslybrand.com/posts/do-frameworks-matter-anymore/",
+    "source": "Sidebar",
+    "description": "This forward-thinking piece evaluates whether traditional web frameworks remain relevant as AI agents become capable of code generation, offering strategic insights for engineering teams planning long-term architecture. It's crucial for leaders deciding between framework-first and agent-friendly approaches.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Open Inspector",
+    "url": "https://www.producthunt.com/products/open-inspector",
+    "source": "Product Hunt",
+    "description": "A practical new tool that allows designers to hover over any website and instantly extract its design system without permissions. This democratizes design system discovery and could accelerate design research and competitive analysis workflows.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "Sonnet 5.5 vs Opus 5.5: Which one is better for product design?",
+    "url": "https://uxplanet.org/sonnet-5-5-vs-opus-5-5-which-one-is-better-for-product-design-c2c9849f754f?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "A practical comparison of Anthropic's latest models tailored specifically for product design workflows, helping designers and PMs choose the right AI tool for their tasks. The analysis goes beyond generic benchmarks to focus on design-specific capabilities and trade-offs.",
+    "read_time": "5 min"
+  }
+]
