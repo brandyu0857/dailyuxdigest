@@ -1,0 +1,59 @@
+[
+  {
+    "title": "The New Big Ball of Mud: Why Agentic AI Systems Turn Fragile",
+    "url": "https://www.nngroup.com/articles/big-ball-of-mud-ai/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "NN/g",
+    "description": "As AI makes development nearly frictionless, teams are rapidly building agentic systems that become increasingly fragile and unmaintainable. This critical analysis explores why the low cost of iteration paradoxically leads to architectural chaos and what designers need to consider when building AI-driven products.",
+    "read_time": "7 min",
+    "featured": true
+  },
+  {
+    "title": "Empathy Mapping: The First Step in Design Thinking",
+    "url": "https://www.nngroup.com/articles/empathy-mapping/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "NN/g",
+    "description": "Empathy maps are a foundational UX research tool that visualize user attitudes, behaviors, and pain points in one place. This practical guide shows how teams can use empathy mapping to align on user understanding and identify critical gaps in their existing research data.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "The feed I produce myself",
+    "url": "https://uxdesign.cc/the-feed-i-produce-myself-11e4192f394c?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A reflective essay on how AI agents and automated workflows are changing creative work, enabling unprecedented productivity while raising questions about depth, quality, and the loss of holistic understanding. This thought-provoking piece challenges designers to reconsider what 'more' means in an agentic era.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "3D Modeling with Claude Code: A Practical Blender Workflow",
+    "url": "https://uxplanet.org/3d-modeling-with-claude-code-a-practical-blender-workflow-97e6e0b536b0?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "A hands-on guide demonstrating how Claude Code can streamline 3D modeling workflows in Blender, showing designers a practical path to augment their design capabilities with AI coding assistance. This bridges the gap between traditional design tools and modern AI workflows.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Thinking orbs",
+    "url": "https://www.thinkingorbs.com/",
+    "source": "Sidebar",
+    "description": "A free, open-source React component library featuring beautifully animated orbs for AI interface states\u2014thinking, searching, loading, and more. This release fills a design gap for teams building AI products and need polished, production-ready status indicators.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Sapien",
+    "url": "https://www.producthunt.com/products/sapien-4",
+    "source": "Product Hunt",
+    "description": "Sapien brings AI-powered market research to life using synthetic populations, allowing teams to test ideas and validate assumptions without conducting traditional user studies. This innovative approach could fundamentally change how UX researchers conduct early-stage discovery.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "I can't tell who's teaching who anymore",
+    "url": "https://blog.murphytrueman.com/i-cant-tell-whos-teaching-who-anymore/",
+    "source": "Sidebar",
+    "description": "A personal, introspective meditation on the blurring line between human and machine expression in the age of AI. This essay captures the philosophical unease many creative professionals face as tools begin to mirror human language and thought patterns.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Blume",
+    "url": "https://useblume.dev/",
+    "source": "Sidebar",
+    "description": "An open-source documentation framework designed for both human and AI agent interaction, allowing teams to drop Markdown files and ship fast, accessible docs. This tool reflects the growing need for documentation systems that work seamlessly with agentic workflows.",
+    "read_time": "3 min"
+  }
+]
