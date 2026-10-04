@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Modern web types",
+    "url": "https://philipwalton.com/articles/modern-web-types/",
+    "source": "Sidebar",
+    "description": "An exploration of TypeScript's API coverage gaps and practical solutions helps developers navigate type safety for cutting-edge web standards. This bridges the gap between evolving JavaScript APIs and tooling support.",
+    "read_time": "8 min",
+    "featured": true
+  },
+  {
+    "title": "Aperture",
+    "url": "https://www.producthunt.com/products/aperture-7",
+    "source": "Product Hunt",
+    "description": "An AI code editor that verifies its own output represents a significant shift in developer tooling\u2014reducing manual code review overhead while improving reliability. This addresses a critical pain point for engineering teams and could influence how future AI-assisted development tools are designed.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Sellio",
+    "url": "https://www.producthunt.com/products/sellio-2",
+    "source": "Product Hunt",
+    "description": "AI-powered customer support agents consolidated into a shared inbox streamline team workflows and reduce response times without fragmented systems. This demonstrates practical AI agent deployment in a high-impact customer-facing application.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "LaunchReel",
+    "url": "https://www.producthunt.com/products/launchreel-2",
+    "source": "Product Hunt",
+    "description": "Bringing Claude-style AI design to video editing dramatically accelerates professional content creation, similar to how AI transformed UI design workflows. This unlocks video production for teams without specialized editing expertise.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Smooth Recorder",
+    "url": "https://www.producthunt.com/products/smooth-recorder",
+    "source": "Product Hunt",
+    "description": "Automatically polished Mac screen recordings eliminate post-production editing friction, enabling faster documentation and tutorial creation. This solves a common UX friction point for creators sharing demos and walkthroughs.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Pass Designer",
+    "url": "https://www.producthunt.com/products/apple",
+    "source": "Product Hunt",
+    "description": "A visual designer for Apple Wallet passes with real-time preview democratizes mobile payment and ticket design for developers and designers. This enables more engaging digital pass experiences without complex backend integration.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Thinking Orbs",
+    "url": "https://www.producthunt.com/products/thinking-orbs",
+    "source": "Product Hunt",
+    "description": "A React component library for animated AI status indicators provides reusable, polished patterns for communicating AI processing states. This addresses a growing design need as AI features become standard in applications.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Reassign",
+    "url": "https://www.producthunt.com/products/reassign",
+    "source": "Product Hunt",
+    "description": "A narrative-driven planner designed specifically for makers reimagines task management by connecting daily work to creative identity and storytelling. This represents a fresh approach to productivity tooling that resonates with creative professionals.",
+    "read_time": "4 min"
+  }
+]
