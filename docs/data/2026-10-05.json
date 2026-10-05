@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Google has the best AI money can buy. Its products still feel broken.",
+    "url": "https://hitesh.in/2026/best-ai-still-feels-broken/",
+    "source": "Sidebar",
+    "description": "A critical analysis of why Google's cutting-edge AI models fail to deliver intuitive user experiences, revealing that the problem isn't the technology but how it's integrated into products. This piece challenges designers and product leaders to rethink the gap between AI capability and user trust.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "How to de-slopify your designs",
+    "url": "https://uxdesign.cc/how-to-de-slopify-your-designs-4c40c57c1dc9",
+    "source": "UX Collective - Medium",
+    "description": "A practical guide addressing common design imprecision that helps both novices and experienced designers tighten their visual work. Perfect for anyone looking to elevate craft and move beyond vibe-based design decisions.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "A loading state within a loading state",
+    "url": "https://unsung.aresluna.org/a-loading-state-within-a-loading-state/",
+    "source": "Sidebar",
+    "description": "An insightful exploration of loading states as a complex UX problem where intuitive solutions can backfire, offering designers nuanced thinking about perceived performance and user patience. Essential reading for anyone building modern digital experiences.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Amazing glass",
+    "url": "https://tomacco.github.io/amazing-glass/",
+    "source": "Sidebar",
+    "description": "A technical showcase of liquid glass web components that replicate Apple's design language with pixel-perfect precision, available for HTML, React, and Vue. Valuable for developers seeking to implement premium glassmorphism effects in modern interfaces.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Dots UI",
+    "url": "https://www.producthunt.com/products/dots-ui",
+    "source": "Product Hunt",
+    "description": "A React library enabling morphable particle interfaces that push the boundaries of interactive design possibilities. Useful for designers and developers exploring next-generation UI animations and generative design patterns.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Marv",
+    "url": "https://www.producthunt.com/products/marv-3",
+    "source": "Product Hunt",
+    "description": "An AI cursor companion that guides users toward correct interactions by showing what to click, representing a novel approach to reducing friction and improving navigation discovery. Demonstrates practical AI integration that enhances usability without replacing user agency.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "The building was there first",
+    "url": "https://uxdesign.cc/the-building-was-there-first-26c6c4e49ba8",
+    "source": "UX Collective - Medium",
+    "description": "A philosophical essay examining how design styles create lasting mental categories in people's perception, challenging designers to think beyond aesthetics to meaning-making. Thought-provoking for design leaders navigating brand and visual strategy.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Web Search API",
+    "url": "https://www.producthunt.com/products/cloudflare",
+    "source": "Product Hunt",
+    "description": "Cloudflare's new API enabling AI agents to access live internet data, a critical infrastructure advance that solves the real-time information problem for AI-powered products. Major development for designers building agent-based applications.",
+    "read_time": "3 min"
+  }
+]
