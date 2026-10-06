@@ -1,0 +1,59 @@
+[
+  {
+    "title": "The taste paradox: why the skill everyone says matters is the one we've stopped building",
+    "url": "https://uxdesign.cc/the-taste-paradox-why-the-skill-everyone-says-matters-is-the-one-weve-stopped-building-32d1523f1f95?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "This essay explores a critical paradox: designers emphasize taste as the last irreplaceable human skill, yet the current AI-driven landscape actively prevents its development. Understanding this tension is essential for maintaining design integrity in an automated world.",
+    "read_time": "7 min",
+    "featured": true
+  },
+  {
+    "title": "AI skill atrophy: Are we forgetting how to think?",
+    "url": "https://uxdesign.cc/ai-skill-atrophy-cognitive-offloading-1afbf92eb496?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A thought-provoking examination of the cognitive costs of outsourcing thinking to AI, exploring whether our reliance on these tools is creating long-term skill degradation. Critical reading for anyone designing with or around AI.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Is Meta's new AI agent easier to trust because it's cute?",
+    "url": "https://uxdesign.cc/is-metas-new-ai-agent-easier-to-trust-because-it-s-cute-c8de13aefc6f?sk=2ea73b57436da9bbef1d1f149f1218e2",
+    "source": "UX Design",
+    "description": "Meta's Muse AI agent topped the app charts despite serious privacy concerns, raising questions about how design choices like cute avatars manipulate trust. A timely case study in the ethics of persuasive design.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "In defense of the detour",
+    "url": "https://www.nytimes.com/interactive/2026/09/27/opinion/ai-art-creativity.html?unlocked_article_code=1.FlE.ew95.hRKwQHd_aTem",
+    "source": "New York Times",
+    "description": "A meditative piece on craft, creativity, and what we lose when AI shortcuts eliminate the deliberate, messy work of making things. Essential reading for designers questioning efficiency over depth.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Many agents, many views",
+    "url": "https://www.lukew.com/ff/2165/many-agents-many-views",
+    "source": "Luke W",
+    "description": "Luke Wroblewski explores the emerging challenge of designing systems where agents manage agents in nested hierarchies. A forward-looking piece on the organizational and UX complexities of the agent-driven future.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Leadership folios",
+    "url": "https://www.leadershipfolios.com/",
+    "source": "Leadership Folios",
+    "description": "A curated collection of design leadership portfolios with expert annotations explaining what works at director, VP, and executive levels. Invaluable resource for PMs and designers aiming to move into leadership roles.",
+    "read_time": "10 min"
+  },
+  {
+    "title": "Claude Code Mods are game changers",
+    "url": "https://uxplanet.org/claude-code-mods-are-game-changers-39a566cddca5?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "A practical guide to Claude Code's new customization capabilities that let you tailor the tool to your workflow. Useful for designers and developers looking to maximize AI coding assistants.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Prompting as self-portrait",
+    "url": "https://www.doc.cc/humankind/self-portrait",
+    "source": "Sidebar",
+    "description": "A poetic reflection on how AI prompts reveal the prompter's thinking, values, and blindspots\u2014turning the blank page into a mirror. Insightful for understanding how AI tools amplify our own perspectives.",
+    "read_time": "5 min"
+  }
+]
