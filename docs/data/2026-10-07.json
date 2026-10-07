@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Figma Agent",
+    "url": "https://www.producthunt.com/products/figma",
+    "source": "Product Hunt",
+    "description": "Figma's new AI agent lets designers prompt, edit, and prototype without leaving the canvas, significantly accelerating the design-to-implementation workflow. A major update that could reshape how designers collaborate with AI in their primary tool.",
+    "read_time": "3 min",
+    "featured": true
+  },
+  {
+    "title": "Emerging patterns: design leadership in 2026",
+    "url": "https://www.emergingpatterns.design/",
+    "source": "Sidebar",
+    "description": "A comprehensive research study from nearly 120 design leaders revealing key trends in leadership pathways, mentorship, portfolio careers, and tooling for 2026. This data-driven exploration provides actionable insights for anyone stepping into or aspiring to design leadership roles.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "A Practical Guide To Naming Things",
+    "url": "https://smashingmagazine.com/2026/10/how-name-things/",
+    "source": "Smashing Magazine",
+    "description": "A comprehensive guide to naming UI components with practical conventions and structures that improve code maintainability and team collaboration. Essential reading for designers and developers working on scalable design systems.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Why designers need to stop reporting and start recommending at work",
+    "url": "https://uxdesign.cc/why-designers-need-to-stop-reporting-and-start-recommending-at-work-6fa861f58097?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A thought-provoking piece challenging designers to shift from passive reporting to strategic recommendations that drive business outcomes. This reframes the designer's role as a strategic partner rather than executor.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "How apps know us better than we do and influence our decisions",
+    "url": "https://uxdesign.cc/how-apps-know-us-better-than-we-do-and-influence-our-decisions-f7a5182be6f1?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "An exploration of how modern apps leverage data and metrics (Homo Metricus) to influence user behavior and decision-making in ways users often don't fully understand. Critical reading for designers concerned with ethical design practices.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "E-cigarette & Vaping UX Benchmark: 3,600+ Performance Scores and 2,500+ Best Practice Examples",
+    "url": "https://baymard.com/research-articles/e-cigarette-and-vaping-ux-benchmark-2026",
+    "source": "Baymard Institute",
+    "description": "A comprehensive UX benchmark study analyzing 3,600+ performance scores across industry leaders, providing concrete best practices and design patterns for niche e-commerce categories. Valuable reference for designers building similar regulated or specialized product experiences.",
+    "read_time": "10 min"
+  },
+  {
+    "title": "Jev: How to use it for better, faster, and cheaper user decisions in UX",
+    "url": "https://uxdesign.cc/jev-how-to-use-it-for-better-faster-and-cheaper-user-decisions-in-ux-0e9907d2b6f1?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Introduces Jev, a decision model framework that enables interfaces to act, suggest, and ask at keystroke speed, reducing user friction and decision fatigue. A practical approach to embedding smarter decision-making into UX design.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "On being anything other than a designer",
+    "url": "https://blog.ronbronson.com/on-being-anything-other-than-a-designer",
+    "source": "Sidebar",
+    "description": "A candid reflection on the burden of being the 'go-to person' in an organization for tasks beyond your core role, exploring the career and identity implications of scope creep. Resonates with designers navigating evolving responsibilities in their organizations.",
+    "read_time": "5 min"
+  }
+]
