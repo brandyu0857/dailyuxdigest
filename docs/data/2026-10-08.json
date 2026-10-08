@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Claude Haiku 5.5: The Most Overlooked Claude Model Just Got a Major Update",
+    "url": "https://uxplanet.org/claude-haiku-5-5-the-most-overlooked-claude-model-just-got-a-major-update-85c0bf30e76a?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "An analysis of Anthropic's latest Claude Haiku update and why this smaller, faster model deserves attention from product teams building cost-conscious AI features. Relevant for designers evaluating which AI models to integrate into production systems.",
+    "read_time": "5 min",
+    "featured": true
+  },
+  {
+    "title": "AI: incidents by design",
+    "url": "https://uxdesign.cc/ai-incidents-by-design-d4708a3dda9e?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This thought-provoking essay argues that AI incidents aren't accidents but predictable outcomes of prioritizing capability over safety in product design. A critical read for leaders making architectural decisions about AI systems and understanding the ethical implications of design choices.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Bounded delegation: How much authority should AI have?",
+    "url": "https://uxdesign.cc/bounded-delegation-how-much-authority-should-ai-have-823a58fb4192?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This practical framework helps product teams determine where to draw the line between AI autonomy and human oversight, offering a structured model for bounded delegation that directly applies to enterprise AI deployments. Essential reading for anyone designing agentic systems.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Chat is AI's command line",
+    "url": "https://wattenberger.com/thoughts/ai-is-still-in-its-terminal-era/",
+    "source": "Sidebar",
+    "description": "An insightful perspective on why conversational AI interfaces may be limiting human potential, arguing that AI should amplify our capabilities rather than replace them with middlemen. Challenges designers to think beyond chatbots as the default interaction paradigm.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Money as a file",
+    "url": "https://design.lightspark.com/money-as-a-file",
+    "source": "Sidebar",
+    "description": "A working prototype demonstrating a radically simple approach to digital money transfer\u2014treating currency like any other file you can drag, send, or share. This functional design experiment reimagines financial UX and payment workflows for the digital age.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Beyond streaks and nudges: ethical gamification & AI design",
+    "url": "https://uxdesign.cc/beyond-streaks-and-nudges-ethical-gamification-ai-design-1c4f6e8ef2cc?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "Part one of a series exploring how to design gamified systems that inspire behavior change without manipulation, particularly important as AI-driven personalization becomes more sophisticated. Provides practical principles for ethical engagement design.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Agents don't need memory. They need documentation.",
+    "url": "https://liao.gg/blog/agents-dont-need-memory",
+    "source": "Sidebar",
+    "description": "A practical insight into building scalable AI agents that rely on well-structured project documentation instead of conversation history, offering a cleaner architecture for agentic systems. Important for teams struggling with context management in multi-turn agent workflows.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Meta Muse vs OpenAI Dots: Which AI Assistant Is Better for Product Designers?",
+    "url": "https://uxplanet.org/meta-muse-vs-openai-dots-which-ai-assistant-is-better-for-product-designers-1fb2f4dd4530?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "A head-to-head comparison of two major AI assistants launched in September 2026, specifically evaluating their capabilities and UX for design professionals. Helps designers and PMs understand which tools suit their workflow and team needs.",
+    "read_time": "6 min"
+  }
+]
