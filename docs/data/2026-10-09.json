@@ -1,0 +1,59 @@
+[
+  {
+    "title": "AI-generated UI is fast design, not UX",
+    "url": "https://uxdesign.cc/ai-generated-ui-is-fast-design-not-ux-855ca8abcd28?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A thought-provoking argument that distinguishes between rapid AI-assisted interface generation and genuine user experience design, emphasizing the importance of problem discovery and craft. Critical reading for designers concerned about maintaining design rigor in the AI era.",
+    "read_time": "8 min",
+    "featured": true
+  },
+  {
+    "title": "Tesler's Law: complexity moved to a different part of the journey",
+    "url": "https://uxdesign.cc/teslers-law-complexity-survived-the-chat-field-it-just-moved-to-a-different-place-in-the-journey-8a63f099f490?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "This essay challenges the assumption that AI simplifies software by revealing how complexity hasn't disappeared\u2014it's merely shifted from the interface to the interaction layer. A critical perspective on AI's real impact on user experience that every designer should consider.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Creative Intelligence Report",
+    "url": "https://contralabs.com/creative-intelligence-report-2026",
+    "source": "Contra Labs",
+    "description": "A comprehensive survey of 150k+ working creatives exploring how AI is fundamentally reshaping creative work, workflows, and career trajectories. Essential data-driven insights for understanding the real impact of AI on the design industry.",
+    "read_time": "10 min"
+  },
+  {
+    "title": "Are synthetic users (really) the future of UX research?",
+    "url": "https://uxdesign.cc/are-synthetic-users-really-the-future-of-ux-research-fd76fcb479ec?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A balanced examination of whether AI-generated personas should replace human-centered research methods, with compelling arguments for maintaining human perspectives in UX validation. Essential for researchers evaluating emerging tools and methodologies.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "A design system is what it does",
+    "url": "https://matthenry.fyi/posts/a-system-is-what-it-does/",
+    "source": "Sidebar",
+    "description": "A practical deep-dive comparing how two design systems approach component architecture, using a humble text component as a lens into systemic thinking. Valuable for design leaders and practitioners responsible for building scalable design systems.",
+    "read_time": "9 min"
+  },
+  {
+    "title": "I Tried Claude With Figma on an 800+ Screen Project. It Never Reached the Hard Part",
+    "url": "https://uxplanet.org/i-tried-claude-with-figma-on-an-800-screen-project-it-never-reached-the-hard-part-7735b120f43a?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "A candid experiment revealing the limitations of AI-assisted design on complex enterprise projects, exposing where AI excels at scaffolding but struggles with nuanced visual and UX decisions. Essential reality-check for teams considering AI-first design workflows.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "What the AI era owes you",
+    "url": "https://uxdesign.cc/what-the-ai-era-owes-you-d472b3859bf3?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A provocative essay reframing how designers should think about career resilience in the age of AI, with the central insight that no one will save your career but yourself. Empowering perspective for professionals navigating uncertain industry transitions.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Agentic systems are the future of brands",
+    "url": "https://agentic.littleplains.com/",
+    "source": "Little Plains",
+    "description": "A forward-looking research note exploring how agentic AI systems are reshaping brand strategy and customer interaction paradigms. Strategic reading for design leaders and brand strategists preparing for the next evolution of digital experiences.",
+    "read_time": "7 min"
+  }
+]
