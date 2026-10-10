@@ -1,0 +1,59 @@
+[
+  {
+    "title": "The New Siri's Biggest Strength Is Not Intelligence",
+    "url": "https://www.nngroup.com/articles/ai-assistant-context/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "NN/g",
+    "description": "This research-backed article challenges the AI arms race by revealing that context and personalization matter far more than raw intelligence in assistant design. It provides actionable insights for product teams building AI experiences that users actually find valuable and trustworthy.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "Context Libraries: How AI Power Users Manage Context Engineering",
+    "url": "https://www.nngroup.com/articles/context-libraries/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "NN/g",
+    "description": "This practical guide reveals how expert AI users actually manage their prompts and context files\u2014and the surprising UX problems they face. Critical insights for anyone designing AI tools or features that rely on custom context.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Designing for an idea before it exists",
+    "url": "https://uxdesign.cc/designing-for-an-idea-before-it-exists-ecd8cb19999a?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A thoughtful exploration of designing conceptual products and features when the user need isn't yet fully formed. This essay challenges designers to think beyond wireframes and tackles the philosophy of innovation and metaphor in design.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "AI invasive design",
+    "url": "https://jovo.design/writing/ai-invasive-design",
+    "source": "Sidebar",
+    "description": "A critical take on the 'AI native' buzzword and its dystopian design patterns flooding products today. This piece offers perspective on how to integrate AI thoughtfully without sacrificing user agency and experience.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "15 Figma Tools That Solve Problems Nobody Wants to Deal With",
+    "url": "https://uxplanet.org/15-figma-tools-that-solve-problems-nobody-wants-to-deal-with-2daa888067c2?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "A practical roundup of essential Figma plugins and tools that save design teams hours on repetitive tasks. Perfect for designers looking to optimize their workflow and discover tools they might have missed.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Before You Rebrand: How a Brand Audit Reveals What Actually Needs to Change",
+    "url": "https://dribbble.com/stories/2026/10/09/cl-quincy-samycia-the-branded-agency-brand-audit",
+    "source": "Dribbble",
+    "description": "A strategic guide to conducting effective brand audits before launching costly rebrands. This article helps designers and leaders evaluate what's working in their brand identity and make data-informed decisions about change.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Field Notes: Design Outcomes",
+    "url": "https://ldlr.design/field-notes",
+    "source": "Sidebar",
+    "description": "Real tactics and methodologies from top design teams and individuals, documenting the actual processes behind successful work. A valuable resource for designers seeking to improve their execution and learn from industry leaders.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Bringing warmth and fun to S\u00e3o Paulo's bars and restaurants",
+    "url": "https://www.itsnicethat.com/features/the-view-from-sao-paulo-retro-bar-and-restaurant-branding-graphic-design-140926",
+    "source": "It's Nice That",
+    "description": "An inspiring case study of Brazilian design studios using nostalgia, playfulness, and cultural references to create memorable brand experiences. Great inspiration for designers working with hospitality clients and exploring retro aesthetic trends.",
+    "read_time": "6 min"
+  }
+]
