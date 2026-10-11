@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Microsoft-Decision-1",
+    "url": "https://www.producthunt.com/products/microsoft-decision-1",
+    "source": "Product Hunt",
+    "description": "Microsoft's new decision model framework provides a standardized approach for agents and workflows to make deterministic choices, filling a crucial gap in enterprise AI orchestration. This infrastructure innovation enables more predictable and auditable AI-driven business processes at scale.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "Claude Dashboards & Motion",
+    "url": "https://www.producthunt.com/products/claude-dashboards-motion",
+    "source": "Product Hunt",
+    "description": "Anthropic's new Claude capabilities enable users to request live, animated dashboards and explainer videos directly from conversational prompts. This represents a significant shift in how AI can transform static data into dynamic visual narratives, making complex information more accessible and engaging for product teams and stakeholders.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "GitGlow",
+    "url": "https://www.producthunt.com/products/gitglow-2",
+    "source": "Product Hunt",
+    "description": "As AI agents increasingly contribute code changes, GitGlow solves a critical workflow problem by enabling developers to review both human and agent-generated code before deployment. This tool addresses an emerging UX challenge in the agent-assisted development era, balancing automation with quality assurance.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Gboard Kurukuru Version",
+    "url": "https://www.producthunt.com/products/google",
+    "source": "Product Hunt",
+    "description": "Google's innovative keyboard redesign keeps your fingers stationary while keys rotate around them, fundamentally reimagining mobile typing mechanics. This UX innovation demonstrates how rethinking core interaction patterns can improve accessibility and typing speed on touch devices.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "FloorGen",
+    "url": "https://www.producthunt.com/products/floorgen",
+    "source": "Product Hunt",
+    "description": "This AI tool democratizes architectural design by generating floor plans either from sketches or natural language prompts, making professional layouts accessible to non-designers. It exemplifies how AI can bridge the gap between user intent and complex design output, reducing friction in the early design phase.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "FocusWrite",
+    "url": "https://www.producthunt.com/products/focuswrite",
+    "source": "Product Hunt",
+    "description": "This local-first writing application prioritizes user privacy and distraction-free composition with customizable focus modes, addressing growing concerns about data privacy in creative tools. It represents a return to intentional, offline-first design that respects user control and concentration.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "Lune",
+    "url": "https://www.producthunt.com/products/lune-research",
+    "source": "Product Hunt",
+    "description": "Purpose-built as a search engine for scientific AI agents, Lune optimizes information retrieval for research-focused workflows rather than general web queries. This specialized tool highlights how vertical AI solutions can outperform generalist platforms when solving domain-specific problems.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "KernelAI",
+    "url": "https://www.producthunt.com/products/kernelai",
+    "source": "Product Hunt",
+    "description": "Offering private, offline AI capabilities on mobile devices, KernelAI addresses privacy and latency concerns by keeping all processing local without cloud dependencies. This privacy-first approach is increasingly critical as mobile users demand greater control over their personal data.",
+    "read_time": "2 min"
+  }
+]
