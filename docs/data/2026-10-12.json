@@ -1,0 +1,59 @@
+[
+  {
+    "title": "AI-generated UI, What the AI era owes you, Amazing Glass, Jev for UX",
+    "url": "https://uxdesign.cc/ai-generated-ui-what-the-ai-era-owes-you-amazing-glass-jev-for-ux-22f8393c4cc6?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A curated roundup of design resources and emerging tools exploring AI's role in UI generation and what practitioners should expect from the AI era. Provides a quick pulse on current trends and tools shaping modern design practice.",
+    "read_time": "5 min",
+    "featured": true
+  },
+  {
+    "title": "The designer's constitution",
+    "url": "https://constitution.design/",
+    "source": "Sidebar",
+    "description": "A foundational model for redefining what it means to be a designer in the age of AI. This piece addresses the critical question of designer identity and value as AI tools reshape the industry, offering a framework for thinking about the future of design practice.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Worth building",
+    "url": "https://armstr.ng/writing/worth-building",
+    "source": "Sidebar",
+    "description": "Explores how the economic pressures of monetization fundamentally change product design decisions and priorities. A thought-provoking essay on what happens when tools are freed from the constraint of needing to generate revenue.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Decorative images aren't a thing",
+    "url": "https://adrianroselli.com/2026/10/decorative-images.html",
+    "source": "Sidebar",
+    "description": "Challenges the common assumption that images can be purely decorative, emphasizing that every visual element serves a purpose and impacts user experience and accessibility. Essential reading for designers who want to be more intentional with visual assets.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Borrowed slopes",
+    "url": "https://uxdesign.cc/borrowed-slopes-cb5c5b464a61?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A sharp critique of how news organizations resort to outdated design patterns when faced with data visualization challenges, at the cost of alienating their most engaged readers. Highlights the tension between design shortcuts and user needs.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Fluid functionalism",
+    "url": "https://www.fluidfunctionalism.com/",
+    "source": "Sidebar",
+    "description": "Open source UI component library that prioritizes both functionality and delightful interaction design through carefully crafted hover states. A practical resource for designers and developers seeking production-ready components with polish.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "ExcaliClaw",
+    "url": "https://www.producthunt.com/products/excaliclaw",
+    "source": "Product Hunt",
+    "description": "An innovative tool enabling AI agents to collaborate with humans on hand-drawn diagrams in real-time. Represents a new frontier in AI-assisted design where agents augment rather than replace human creativity and iteration.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "Put your meetings to work",
+    "url": "https://bit.ly/side-gra7",
+    "source": "Sidebar",
+    "description": "Granola addresses the critical post-meeting gap by capturing and organizing insights from your conversations. Solves a real productivity pain point for teams struggling to translate meeting discussions into actionable outcomes.",
+    "read_time": "3 min"
+  }
+]
