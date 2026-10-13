@@ -1,0 +1,59 @@
+[
+  {
+    "title": "AI is hollowing out the middle of design, leaving an hourglass behind",
+    "url": "https://uxdesign.cc/ai-is-hollowing-out-the-middle-of-design-leaving-an-hourglass-behind-b7069db250fd?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "This critical analysis reveals how AI is reshaping the design profession by eliminating mid-level execution work, creating an hourglass structure where only senior strategists and junior executors remain viable. A crucial read for understanding the shifting landscape of design careers.",
+    "read_time": "7 min",
+    "featured": true
+  },
+  {
+    "title": "The synth everyone owned and few could program: a lesson for AI design",
+    "url": "https://uxdesign.cc/the-synth-everyone-owned-and-few-could-program-a-lesson-for-ai-design-6f618ec2aea0?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Drawing parallels between the democratization of synthesizers and AI, this essay argues that making tools universally accessible can paradoxically make output average. The author explores how intentional, visible decision-making now separates exceptional work from the AI-generated baseline.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Secret agent bot: accessibility matters for the agents even if you can't see them",
+    "url": "https://uxdesign.cc/secret-agent-bot-accessibility-matters-for-the-agents-even-if-you-cant-see-them-2f53a5670ec9?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "This eye-opening piece highlights how semantic HTML structure\u2014traditionally built for screen readers\u2014now directly impacts AI agent performance and accuracy. Designers must reconsider accessibility as infrastructure that serves both human and artificial intelligence.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Designing Michelangelus",
+    "url": "https://microsoft.design/articles/designing-michelangelus/",
+    "source": "Microsoft Design",
+    "description": "Microsoft's detailed case study on creating Michelangelus, a contemporary serif typeface, reveals how handwriting, architecture, and physical materials informed digital design. A masterclass in how traditional craftsmanship principles enhance modern typographic innovation.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "The people holding up the internet",
+    "url": "https://sheets.works/data-viz/holding-up-the-internet",
+    "source": "Sheets Works",
+    "description": "This data visualization explores the hidden infrastructure keeping the internet running, revealing how critical systems rely on surprisingly few individuals. A sobering look at the fragility of digital systems and the unsung heroes maintaining them.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Predictability vs Outcomes",
+    "url": "https://www.svpg.com/predictability-vs-outcomes/",
+    "source": "Silicon Valley Product Group",
+    "description": "Reena Pidgeon examines the tension between measurable predictability and meaningful business outcomes in product development, challenging teams to prioritize impact over process adherence. Essential reading for product leaders struggling with metrics that don't drive real results.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "The convergence of design",
+    "url": "https://www.lukew.com/ff/2166/the-convergence-of-design",
+    "source": "LukeW",
+    "description": "Luke Wroblewski analyzes emerging patterns in design practice, suggesting that traditionally separate disciplines are converging in meaningful ways. A thought-provoking perspective on how the design field is evolving and consolidating.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Is AI the end of math as we know it?",
+    "url": "https://www.quantamagazine.org/is-ai-the-end-of-math-as-we-know-it-20261005/",
+    "source": "Quanta Magazine",
+    "description": "Quanta explores how mathematicians are grappling with AI's capacity to solve problems, questioning whether human mathematical discovery itself will become obsolete. This broader cultural shift has profound implications for how we value expertise and knowledge work.",
+    "read_time": "9 min"
+  }
+]
