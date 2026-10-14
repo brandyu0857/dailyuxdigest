@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Want to Make Product Development with Claude Code More Predictable? Use Agent Skills!",
+    "url": "https://uxplanet.org/want-to-make-product-development-with-claude-code-more-predictable-use-agent-skills-f37d056f67cc?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "A practical guide to improving consistency and reliability when using Claude Code for product design\u2014addressing the real frustration of unpredictable AI performance. Provides actionable strategies for product teams leveraging AI in their workflows.",
+    "read_time": "5 min",
+    "featured": true
+  },
+  {
+    "title": "How getting good at your job can stop you getting better",
+    "url": "https://uxdesign.cc/how-getting-good-at-your-job-can-stop-you-getting-better-023b6e7637ec?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "An insightful exploration of why experienced professionals often plateau, and how the types of problems they're given directly impact continued growth. Essential reading for designers and leaders looking to maintain momentum in their careers and teams.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Taste is not a design methodology",
+    "url": "https://uxdesign.cc/taste-is-not-a-design-methodology-e02b37aea148?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A thought-provoking piece on why relying on taste alone\u2014or defaulting to AI to solve design sameness\u2014misses the point. The article argues that good products require judgment built on facts and data-driven agency. Critical perspective on AI's role in design.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Inside Anthropic's design team",
+    "url": "https://designerfund.com/blog/ai-design-anthropic",
+    "source": "Designer Fund",
+    "description": "A rare behind-the-scenes look at how Anthropic's design team is navigating the velocity gap between engineering and design in an AI-first company. Offers practical lessons on scaling design processes when product iteration moves at breakneck speed.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "How to talk about a design that looks worse on paper",
+    "url": "https://uxdesign.cc/how-to-talk-about-a-design-that-looks-worse-on-paper-da73da6d7b57?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Using Microsoft's 5-year journey to implement what seemed like an obvious fix, this article reveals the hidden complexity behind design decisions and how to communicate trade-offs to stakeholders. Essential for anyone presenting designs that challenge conventional wisdom.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "What are we willing to sacrifice for AI?",
+    "url": "https://uxdesign.cc/what-are-we-willing-to-sacrifice-for-ai-a57736f368a1?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A provocative essay examining the ethical and societal trade-offs we're making as AI becomes central to product design and development. Explores three distinct paths forward, challenging designers to think critically about what values we're compromising.",
+    "read_time": "9 min"
+  },
+  {
+    "title": "Energy icons",
+    "url": "https://energyicons.com/",
+    "source": "Sidebar",
+    "description": "An open-source icon library designed specifically for the renewable energy sector, built with optical mastery and consistent scaling. A valuable design resource that combines practical utility with domain-specific expertise for an increasingly important industry.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Specreel",
+    "url": "https://www.producthunt.com/products/specreel",
+    "source": "Product Hunt",
+    "description": "A breakthrough tool that automatically updates product demos, eliminating the friction of maintaining spec videos across product iterations. Solves a real pain point for product teams trying to keep marketing and documentation in sync with rapid releases.",
+    "read_time": "2 min"
+  }
+]
