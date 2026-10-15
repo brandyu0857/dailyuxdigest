@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Here's everything from Config India 2026",
+    "url": "https://www.figma.com/release-notes/?title=config-india-2026",
+    "source": "Figma",
+    "description": "Figma announces major updates including code collaboration features, context sharing tools, and real-time data integration capabilities. This reflects significant evolution in design-to-development workflows and how modern design systems integrate with production environments.",
+    "read_time": "8 min",
+    "featured": true
+  },
+  {
+    "title": "Nobody wants your AI app",
+    "url": "https://uxdesign.cc/nobody-wants-your-ai-app-cff8629064a4?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A thought-provoking essay challenging the assumption that every AI tool needs its own app, drawing parallels to historical automation. This piece offers critical perspective on AI product strategy and helps designers think beyond feature parity to genuine user needs.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "What I told the CFO when he asked why design matters",
+    "url": "https://uxdesign.cc/what-i-told-the-cfo-when-he-asked-why-design-matters-ceadb07c929e?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A practical guide for design leaders to communicate ROI and business impact to finance stakeholders using language they understand. Essential reading for anyone navigating budget conversations and trying to secure organizational buy-in for design initiatives.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "We read 102 EU shop accessibility statements",
+    "url": "https://scandiary.com/accessibility-statements",
+    "source": "Scandiary",
+    "description": "A data-driven analysis revealing what EU retailers actually commit to regarding web accessibility and where compliance gaps exist. This research provides actionable insights for design teams implementing accessibility standards and understanding real-world compliance practices.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "The dock on Mac, from OS 10 to macOS 27",
+    "url": "https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/",
+    "source": "Jim Nielsen's Blog",
+    "description": "A visual design history exploring how macOS dock iconography and design have evolved over decades, offering lessons in design consistency and incremental refinement. Essential context for understanding system design evolution and how subtle changes accumulate into major UX shifts.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "What the AI era owes you",
+    "url": "https://uxdesign.cc/what-the-ai-era-owes-you-d472b3859bf3",
+    "source": "UX Collective",
+    "description": "A candid perspective on career resilience and professional agency in an AI-driven landscape, emphasizing personal accountability over reliance on external solutions. Critical reading for designers and PMs navigating uncertainty and planning career development strategies.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Reverse Engineer Anything: What the Viral GitHub Repo Actually Does",
+    "url": "https://uxplanet.org/reverse-engineer-anything-what-the-viral-github-repo-actually-does-c5ea949123a5?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "A hands-on breakdown of the Reverse Engineer Anything tool and its capabilities for AI code agents to decompile applications. Valuable for understanding emerging AI development tools and their practical limitations for design and development workflows.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "The case against JPEG XL",
+    "url": "https://giannirosato.com/blog/post/case-against-jxl/",
+    "source": "Gianni Rosato",
+    "description": "A technical investigation into why JPEG XL hasn't achieved adoption as a web image standard despite its technical merits, exploring the intersection of technology, standards, and market dynamics. Important for designers and developers making image format decisions with long-term implications.",
+    "read_time": "7 min"
+  }
+]
