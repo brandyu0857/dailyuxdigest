@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Is Your Organization Messing Up AI Adoption?",
+    "url": "https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/",
+    "source": "Smashing Magazine",
+    "description": "Paul Boag draws parallels between digital transformation lessons and modern AI adoption challenges, offering proven frameworks for organizations navigating this critical shift. This practical guide helps leaders avoid repeating past mistakes when integrating AI into their workflows.",
+    "read_time": "8 min",
+    "featured": true
+  },
+  {
+    "title": "Design owns coherence",
+    "url": "https://www.petermerholz.com/newsletter/newsletter-design-coherence/",
+    "source": "Sidebar",
+    "description": "Peter Merholz identifies a critical gap where the C-suite acknowledges the need for organizational coherence, but no function has yet claimed ownership of this business problem. This thought-provoking piece positions design as uniquely qualified to bridge this leadership challenge.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Pure UI in the Agentic Era",
+    "url": "https://mattrothenberg.com/notes/pure-ui-agentic-era/",
+    "source": "Sidebar",
+    "description": "Matt Rothenberg reframes how we should think about UI design as AI agents become more autonomous\u2014shifting from event-driven interactions to data snapshots. This conceptual shift has profound implications for designing interfaces in an AI-first world.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Human in the loop means making sure the human is not out of the loop",
+    "url": "https://uxdesign.cc/designing-for-ai-human-in-the-loop-means-making-sure-the-human-is-not-out-of-the-loop-e38826309c91",
+    "source": "UX Collective",
+    "description": "This piece warns against the false promise of 'human-in-the-loop' AI systems where humans lose meaningful control as agents move faster than oversight allows. A critical read for designers building AI-assisted products and anyone concerned with maintaining human agency.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "I ran a 7-week AI workshop for designers (that wasn't really about AI)",
+    "url": "https://uxdesign.cc/i-ran-a-7-week-ai-workshop-for-designers-that-wasnt-really-about-ai-804035e7b328",
+    "source": "UX Collective",
+    "description": "An educator reveals what designers actually need to know about shipping AI products\u2014focusing on production challenges and authentic learning needs rather than AI hype. Practical insights into bridging the gap between design and engineering in AI product development.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "The AI experience doesn't care about your org chart",
+    "url": "https://uxdesign.cc/the-ai-experience-doesnt-care-about-your-org-chart-5ed595c7b373",
+    "source": "UX Collective",
+    "description": "AI is breaking down traditional silos by merging content design, enterprise strategy, and model behavior into single user experiences, but most organizations haven't restructured their teams accordingly. A wake-up call for design leaders managing cross-functional AI initiatives.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "The \"disability dongle\": Why Silicon Valley hates me and you",
+    "url": "https://sightlessscribbles.com/posts/disability-dongle/",
+    "source": "Sidebar",
+    "description": "A visceral critique of how tech companies design inaccessible products and then offer expensive, inadequate workarounds rather than inclusive design from the start. An essential read for understanding why accessibility-first design is both an ethical imperative and a business necessity.",
+    "read_time": "9 min"
+  },
+  {
+    "title": "Dashboard design becomes easier with Claude",
+    "url": "https://uxplanet.org/dashboard-design-becomes-easier-with-claude-daaf2d9376d4",
+    "source": "UX Planet",
+    "description": "Anthropic's new Dashboard artifact is transforming how designers approach one of their most common tasks, offering AI-assisted workflows for dashboard creation. A practical look at how AI tools are becoming essential to product design workflows.",
+    "read_time": "5 min"
+  }
+]
