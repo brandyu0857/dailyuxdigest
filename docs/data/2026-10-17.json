@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Synthetic Users vs. Human Respondents: Same Conclusion, Less Variation",
+    "url": "https://www.nngroup.com/articles/synthetic-users-vs-human-respondents/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "NN/g latest articles and announcements",
+    "description": "A new study reveals that AI-generated respondents can match the conclusions of traditional surveys with 604 human participants while producing significantly more consistent data. This finding has major implications for UX research budgets and methodologies, suggesting AI respondents could accelerate research velocity without sacrificing insight quality.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "Human in the loop means making sure the human is not out of the loop",
+    "url": "https://uxdesign.cc/designing-for-ai-human-in-the-loop-means-making-sure-the-human-is-not-out-of-the-loop-e38826309c91?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "As AI agents increasingly take autonomous action, this essay explores the critical challenge of keeping humans informed and in control when agents act faster than approval processes. It's an essential read for designers building AI-assisted products who must navigate the tension between automation and human oversight.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Design owns coherence",
+    "url": "https://www.petermerholz.com/newsletter/newsletter-design-owns-coherence/",
+    "source": "Sidebar",
+    "description": "Peter Merholz identifies a critical C-suite business problem that no organizational function has claimed ownership of: coherence across products and experiences. This thought leadership piece challenges design leaders to step up and address fragmentation as a strategic advantage.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "The AI experience doesn't care about your org chart",
+    "url": "https://uxdesign.cc/the-ai-experience-doesnt-care-about-your-org-chart-5ed595c7b373?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This article exposes how AI is collapsing organizational silos\u2014forcing content design, enterprise strategy, knowledge management, and model behavior into a unified user experience. It's a wake-up call for teams operating in traditional structures that must now collaborate on coherent AI experiences.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "I ran a 7-week AI workshop for designers (that wasn't really about AI)",
+    "url": "https://uxdesign.cc/i-ran-a-7-week-ai-workshop-for-designers-that-wasnt-really-about-ai-804035e7b328?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "Rather than focusing on AI tools, this practical case study reveals what designers actually need to learn: shipping to production and delivering real customer value. It's a refreshing perspective on designer education that prioritizes impact over hype.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Dashboard design becomes easier with Claude",
+    "url": "https://uxplanet.org/dashboard-design-becomes-easier-with-claude-daaf2d9376d4?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "Anthropic's new Claude Dashboard artifact is lowering the barrier to dashboard design, one of the most frequent product design tasks. This walkthrough shows how AI-assisted design is making rapid iteration and prototyping more accessible to designers at all skill levels.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Building Your Own Skill for Claude Code? Here's What You Need to Know",
+    "url": "https://uxplanet.org/building-your-own-skill-for-claude-code-heres-what-you-need-to-know-beece61249ed?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "This hands-on guide demystifies creating custom Skills for Claude Code, from setup through optimization. For designers integrating AI into their workflows, this is a practical starting point for extending Claude's capabilities with domain-specific knowledge.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "UX Maps: Glossary",
+    "url": "https://www.nngroup.com/articles/ux-maps-glossary/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "NN/g latest articles and announcements",
+    "description": "NN/g provides a comprehensive reference for UX mapping terminology, clarifying key concepts that often confuse teams when planning or executing user research and journey mapping. A valuable bookmark for designers, researchers, and cross-functional teams standardizing their vocabulary.",
+    "read_time": "4 min"
+  }
+]
