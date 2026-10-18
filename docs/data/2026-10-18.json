@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Nobody feels heard by a report",
+    "url": "https://uxdesign.cc/nobody-feels-heard-by-a-report-c5a06d96bc39?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "An insightful essay exploring why customer insights often fail to drive action\u2014examining the gap between research findings and stakeholder buy-in. This challenges how UX teams communicate research and offers perspective on bridging the forward-deployed engineer trend with actual customer understanding.",
+    "read_time": "7 min",
+    "featured": true
+  },
+  {
+    "title": "B2B Website Design in Webflow: What Matters After Launch",
+    "url": "https://dribbble.com/stories/2026/10/16/cl-the-branded-agency-b2b-website-design-webflow",
+    "source": "Courtside",
+    "description": "A practical case study examining what makes B2B websites successful post-launch, covering strategy beyond the initial design phase. Essential reading for product and design leaders managing long-term website performance and user engagement.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Tomo for ChatGPT",
+    "url": "https://www.producthunt.com/products/tomo-for-chatgpt",
+    "source": "Product Hunt",
+    "description": "An innovative approach to AI interaction that gamifies ChatGPT responses using a Duolingo-style learning mechanism. This represents a significant shift in how users engage with conversational AI, making complex information more interactive and memorable.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Salience",
+    "url": "https://www.producthunt.com/products/salience",
+    "source": "Product Hunt",
+    "description": "A developer-focused tool that provides real-time visibility into website requests and responses, enabling teams to monitor performance and behavior at scale. Critical for product teams managing complex systems and optimizing user experience based on actual traffic patterns.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Krea 3",
+    "url": "https://www.producthunt.com/products/krea",
+    "source": "Product Hunt",
+    "description": "Krea's latest AI image model delivers 2K edits in under 8 seconds, significantly advancing the speed and quality of generative design tools. A game-changer for designers and product teams leveraging AI for rapid prototyping and creative iteration.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "117 CSS text effects & animations",
+    "url": "https://text-effects.colorion.co/",
+    "source": "Sidebar",
+    "description": "A comprehensive, copy-paste ready collection of pure CSS text effects\u2014glitch, neon, gradient, typewriter, and 3D\u2014with no JavaScript dependencies. An invaluable resource for designers and developers looking to enhance typography and micro-interactions efficiently.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "MyLens",
+    "url": "https://www.producthunt.com/products/mylens-ai",
+    "source": "Product Hunt",
+    "description": "An AI-powered platform enabling 1-1 live presentations at scale, solving a critical pain point for sales and customer engagement teams. This bridges personalization with scalability, allowing businesses to deliver customized experiences without manual one-to-one effort.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Draper",
+    "url": "https://www.producthunt.com/products/draper",
+    "source": "Product Hunt",
+    "description": "A structured business validation and launch framework that guides entrepreneurs through validation, planning, and go-to-market\u2014combining product thinking with startup best practices. Essential for product managers and founders developing new ventures or internal products.",
+    "read_time": "5 min"
+  }
+]
