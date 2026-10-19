@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Personal agents are getting their own computers",
+    "url": "https://marcabraham.com/2026/10/15/personal-agents-are-getting-their-own-computers/",
+    "source": "Sidebar",
+    "description": "Explores the next evolution of AI agents\u2014moving beyond information retrieval to autonomous action on user behalf. A critical perspective on the future of human-AI interaction and the trust dynamics involved.",
+    "read_time": "5 min",
+    "featured": true
+  },
+  {
+    "title": "UX designers are not designing interfaces, they design personalities",
+    "url": "https://uxdesign.cc/ux-designers-are-not-designing-interfaces-they-design-personalities-d94d874bb43d?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This essay reframes UX design beyond interface creation to personality and cultural impact, exploring how apps shape our self-understanding. A thought-provoking perspective that challenges designers to consider deeper psychological and cultural implications of their work.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Design in the material you ship",
+    "url": "https://uxdesign.cc/design-in-the-material-you-ship-7adf198388ee?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This practical guide explores how designers should understand code the way architects understand materials, and how AI is transforming the designer-developer relationship. Essential reading for teams looking to bridge the design-to-implementation gap.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "How to build a brand foundation with AI without losing your craft",
+    "url": "https://uxdesign.cc/how-to-build-a-brand-foundation-with-ai-without-losing-your-craft-d616b05cb838?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A practical playbook for leveraging AI tools like Claude to build design systems while maintaining craftsmanship and developer respect. Bridges the gap between AI efficiency and thoughtful design practice.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Someone behind the software",
+    "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+    "source": "Sidebar",
+    "description": "Karri Saarinen reflects on how the values, experience, and thinking of product makers embed themselves into software design. A deeply human perspective on product craft that resonates with designers seeking authenticity.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "What if AI sets us free?",
+    "url": "https://uxdesign.cc/what-if-ai-sets-us-free-084f4310709b?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A philosophical exploration of AI's dual potential to both constrain and liberate humanity, examining how we maintain agency in an AI-driven world. Provocative thinking for designers responsible for shaping AI experiences.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Beyond the Canvas",
+    "url": "https://uxdesign.cc/beyond-the-canvas-03fce0bcbf7b?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "Covers emerging trends revealed at Config India 2026, highlighting the expanding possibilities of design beyond traditional digital interfaces. A timely perspective on where design practice is evolving.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "A thousand days of stale popcorn",
+    "url": "https://uxdesign.cc/a-thousand-days-of-stale-popcorn-54f62d06c42b?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A narrative-driven exploration of behavioral design and habit formation through everyday examples like gyms and streak counters. Insightful for product managers and designers building engagement-focused experiences.",
+    "read_time": "6 min"
+  }
+]
