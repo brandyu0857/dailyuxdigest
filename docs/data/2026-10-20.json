@@ -1,0 +1,59 @@
+[
+  {
+    "title": "38 things we've learned about building AI products",
+    "url": "https://newsletter.posthog.com/p/38-things-weve-learned-about-building",
+    "source": "PostHog",
+    "description": "PostHog distills four years of AI product development into actionable insights covering everything from user experience to infrastructure challenges. This practical guide cuts through hype and provides field-tested lessons that apply directly to anyone building AI-powered features.",
+    "read_time": "10 min",
+    "featured": true
+  },
+  {
+    "title": "State of Ecommerce Accessibility 2026",
+    "url": "https://davedavies.dev/state-of-ecommerce-accessibility/",
+    "source": "Sidebar",
+    "description": "A comprehensive audit of 59,400 ecommerce product pages reveals that 64% contain at least one critical accessibility failure. This data-driven research exposes a systemic accessibility crisis in one of the most visited sectors of the web, demanding immediate attention from designers and product teams.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Design in the material you ship",
+    "url": "https://uxdesign.cc/design-in-the-material-you-ship-7adf198388ee",
+    "source": "UX Collective - Sidebar",
+    "description": "A perspective-shifting essay argues that designers should understand code like architects understand stone\u2014knowing its capabilities rather than mastering execution. As AI increasingly handles implementation, this philosophical shift redefines the designer's role and value in product development.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Human attention is the new old bottleneck. We have to design for it even more.",
+    "url": "https://uxdesign.cc/anthropic-october-2026-study-human-attention-is-the-new-old-bottleneck-d7bc4642668a",
+    "source": "UX Collective - Medium",
+    "description": "Research from Anthropic shows that AI agents now generate six hours of work for every human hour, creating an unprecedented attention crisis. This finding fundamentally challenges how designers should structure interfaces and workflows in an AI-augmented world.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "I Tried Designing an Entire Product in Claude Code Without Figma",
+    "url": "https://uxplanet.org/i-tried-designing-an-entire-product-in-claude-code-without-figma-d5b76360db38",
+    "source": "UX Planet - Medium",
+    "description": "An experiment in bypassing traditional design tools reveals both the promise and limitations of AI-assisted design workflows. The learnings offer practical insights for designers exploring AI as a collaborative partner rather than a replacement.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Playing the sanshin without a sound",
+    "url": "https://uxdesign.cc/playing-the-sanshin-without-a-sound-3ac88df6f65c",
+    "source": "UX Collective - Medium",
+    "description": "A creative exploration of feedback design dilemmas through the metaphor of slot machines and checklists, examining how different feedback mechanisms shape user behavior and engagement. This thought-provoking piece challenges conventional wisdom about user feedback patterns.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Logo.dev MCP server",
+    "url": "https://www.logo.dev/docs/mcp/introduction",
+    "source": "Sidebar",
+    "description": "A new integration enabling Claude, Cursor, and other AI clients to access comprehensive brand and logo databases directly within development workflows. This tool demonstrates how design systems are being democratized and embedded into AI-powered development environments.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Kling 4.0",
+    "url": "https://www.producthunt.com/products/kling-4-0-4",
+    "source": "Product Hunt",
+    "description": "Kling 4.0 brings AI video generation to high-frequency creators with a focus on speed and affordability, signaling a major shift in how visual content production fits into design and marketing workflows. This democratization of video creation tools has significant implications for content-driven product design.",
+    "read_time": "2 min"
+  }
+]
