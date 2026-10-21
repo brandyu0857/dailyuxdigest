@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Let AI have the average user: Why User Research should focus on bad days",
+    "url": "https://uxdesign.cc/let-ai-have-the-average-user-why-user-research-should-focus-on-bad-days-e7bba55f855f?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "Backed by Nielsen Norman Group research, this article argues that AI can handle average user insights while designers should concentrate on understanding edge cases and stressful user scenarios. A strategic reframe for how teams allocate research resources.",
+    "read_time": "5 min",
+    "featured": true
+  },
+  {
+    "title": "Your product is not the center of the universe",
+    "url": "https://apeatling.com/2026/10/19/your-product-is-not-the-center-of-the-universe/",
+    "source": "Sidebar",
+    "description": "A sharp critique of how established products often assume they're the hub of users' lives, when in reality they're just one tool among many. This challenges product teams to rethink their design philosophy and user integration strategy.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Design v ADHD",
+    "url": "https://uxdesign.cc/design-vs-adhd-4411c3b81d1b?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "An exploration of how ADHD affects information processing and user behavior, with practical recommendations for creating truly ADHD-friendly design systems. Essential reading for designers aiming to build inclusive digital experiences.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "A simple guide to calm UI",
+    "url": "https://maxschmitt.me/posts/calm",
+    "source": "Sidebar",
+    "description": "Practical design principles for reducing visual clutter and cognitive load in user interfaces. This accessible guide offers actionable rules that designers can immediately apply to improve user experience and interface tranquility.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Embracing Playful Imperfection With The CSS `random()` Function",
+    "url": "https://smashingmagazine.com/2026/10/embracing-playful-imperfection-css-random-function/",
+    "source": "Smashing Magazine",
+    "description": "Demonstrates how the new CSS `random()` function enables designers to break free from rigid design systems through organic, dynamic typography and layouts. A forward-looking exploration of balancing consistency with creative expression.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "AI is driving a boom in modestly successful software projects",
+    "url": "https://www.seangoedecke.com/ai-is-driving-a-boom-in-modestly-successful-software/",
+    "source": "Sidebar",
+    "description": "A critical examination of why AI-assisted development produces many competent but unremarkable products rather than truly innovative ones. Challenges the hype around AI-driven software and asks tough questions about creativity and differentiation.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "AI doesn't care about your job title",
+    "url": "https://uxdesign.cc/ai-doesnt-care-about-your-job-title-c08dd4fdf8d8?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "Explores how AI exposure is breaking down traditional job silos, forcing designers, product managers, and engineers to operate across disciplines. Essential perspective on how professional roles are evolving in an AI-augmented workplace.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "EditUI",
+    "url": "https://www.editui.app/",
+    "source": "Sidebar",
+    "description": "A new tool that lets designers and non-technical users modify UI by simply pointing and describing changes in plain language through an AI coding agent. Represents a significant shift in how UI design and iteration could become more accessible.",
+    "read_time": "2 min"
+  }
+]
