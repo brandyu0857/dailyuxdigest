@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Mass Merchant UX Benchmark: 5,600+ Performance Scores and 4,600+ Best Practice Examples",
+    "url": "https://baymard.com/research-articles/mass-merchant-ux-benchmark-2026",
+    "source": "Baymard Institute",
+    "description": "A comprehensive benchmark analyzing 5,600+ e-commerce sites reveals performance patterns and best practices at scale. This data-driven research provides actionable insights for designers and product teams looking to optimize conversion rates and user experience across retail platforms.",
+    "read_time": "12 min",
+    "featured": true
+  },
+  {
+    "title": "The fastest gun in UX",
+    "url": "https://www.doc.cc/articles/fastest-gun",
+    "source": "Sidebar",
+    "description": "As designers rush to produce faster outputs, this essay challenges the race mentality and argues that stakeholder alignment\u2014not speed\u2014determines real success. A timely reflection on prioritizing quality communication over velocity in design work.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Can you take AI at its word?",
+    "url": "https://uxdesign.cc/can-you-take-ai-at-its-word-06126b976245?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "AI agents confidently explain their decisions\u2014sometimes incorrectly\u2014raising critical questions about trust and verification in design workflows. This article explores how designers must apply the same skepticism to AI explanations that they'd apply to human claims.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Experimentation, AI and the Product Model",
+    "url": "https://www.svpg.com/experimentation-ai-and-the-product-model/",
+    "source": "Silicon Valley Product Group",
+    "description": "A deep dive into how AI is reshaping experimentation practices and product development methodology, drawn from keynote insights at the Circus Austin Experimentation Conference. Essential reading for product leaders navigating AI-driven decision making.",
+    "read_time": "10 min"
+  },
+  {
+    "title": "A founder with a tool is not a founder with a clue",
+    "url": "https://uxdesign.cc/a-founder-with-a-tool-is-not-a-founder-with-a-clue-65bccb0dc2f8?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "AI democratizes production capabilities, but the real bottleneck becomes judgment and taste\u2014the human skills that AI cannot replicate. A provocative piece on why tool access alone doesn't guarantee product-market fit or quality outcomes.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Everyone is starting over",
+    "url": "https://www.gabrielvaldivia.com/notes/everybody-is-starting-over",
+    "source": "Sidebar",
+    "description": "In an era of rapid transformation, career longevity now depends on reinvention rather than specialization. This essay explores how designers and product professionals can thrive by embracing continuous learning and adaptation.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Toolcraft",
+    "url": "https://toolcraft.sh/",
+    "source": "Sidebar",
+    "description": "An open-source starter kit and UI library enabling designers to build custom design applications powered by AI. A practical tool release that lowers barriers for teams wanting to create AI-augmented design workflows.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "How employment is changing at Anthropic",
+    "url": "https://www.anthropic.com/research/employment-at-anthropic",
+    "source": "Sidebar",
+    "description": "Anthropic's evolving employment model serves as a case study for how AI development is reshaping organizational structure, hiring practices, and labor dynamics. Critical context for understanding the future of work in tech.",
+    "read_time": "8 min"
+  }
+]
