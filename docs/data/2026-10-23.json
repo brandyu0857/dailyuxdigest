@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Apple Music's new logo was shaped by sound and mineral oil",
+    "url": "https://www.creativeboom.com/news/apple-musics-new-logo-was-shaped-by-fred-again-and-a-bath-of-mineral-oil/",
+    "source": "Sidebar",
+    "description": "Apple's redesigned logo incorporates physical design processes and audio inspiration, revealing how major brands blend craft, innovation, and sensory elements in visual identity. A compelling case study in designing for an emotional connection to sound.",
+    "read_time": "3 min",
+    "featured": true
+  },
+  {
+    "title": "Entering Atomic Design from the screen",
+    "url": "https://uxdesign.cc/entering-atomic-design-from-the-screen-bae744ecc288?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This article challenges the traditional bottom-up approach to Atomic Design by proposing you can discover atomic components from existing screens rather than building them from scratch. Essential reading for design systems practitioners looking to implement more pragmatic, real-world approaches to component architecture.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Fast is a design decision",
+    "url": "https://shannadige.com/blog/performance-is-design/",
+    "source": "Sidebar",
+    "description": "Performance isn't just a technical metric\u2014it's a critical design decision that impacts user experience and resource consumption. This piece argues that while building websites is cheaper than ever, prioritizing speed requires intentional design choices and ongoing attention.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Buy vs. build is now also a UX decision, especially in enterprise",
+    "url": "https://uxdesign.cc/buy-versus-build-is-now-also-a-ux-decision-especially-in-enterprise-6b4345715c63?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "With AI making development cheaper and tool adoption easier, the buy-vs-build decision now hinges on UX quality and long-term maintenance ownership. This insight reshapes how product teams should evaluate third-party solutions in enterprise contexts.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Where decisions live",
+    "url": "https://www.antonsten.com/articles/where-decisions-live/",
+    "source": "Sidebar",
+    "description": "A practical guide to organizing decision-making across different tools and formats\u2014from Slack discussions to meetings to documented decisions. This framework helps teams reduce confusion and maintain clarity on where important conclusions actually live.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "I Tested 3 Claude Code Skills for Web Design: Which One Is Best?",
+    "url": "https://uxplanet.org/i-tested-3-claude-code-skills-for-web-design-which-one-is-best-521137220dc1?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "A hands-on comparison of three Claude Code skills for web design shows dramatically different outputs from the same AI model, helping designers choose the right tool for their workflow. Critical for UX professionals exploring AI-assisted design and development.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Supersonic dreams: how post-war France invented the future, and then stopped",
+    "url": "https://uxdesign.cc/supersonic-dreams-how-post-war-france-invented-the-future-and-then-stopped-fe2cb26dc7cc?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "By examining Concorde, nuclear power, and Minitel, this essay explores how design and strategic choices shape technological futures, offering lessons for how Europe should approach emerging bets like AI. A thought-provoking perspective on long-term design impact.",
+    "read_time": "10 min"
+  },
+  {
+    "title": "Product Hunt Visual Launch Editor",
+    "url": "https://www.producthunt.com/products/producthunt",
+    "source": "Product Hunt",
+    "description": "Product Hunt's new visual launch editor lets creators see their product page as they build it, streamlining the launch preview process. A smart product feature that improves the creator experience for one of tech's most important product communities.",
+    "read_time": "2 min"
+  }
+]
