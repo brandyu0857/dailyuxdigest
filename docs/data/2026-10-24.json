@@ -1,0 +1,59 @@
+[
+  {
+    "title": "AI in UX: Work Is Faster, But Practitioners Have Mixed Feelings",
+    "url": "https://www.nngroup.com/articles/ai-in-ux-survey-26/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "NN/g latest articles and announcements",
+    "description": "A comprehensive survey reveals that while AI accelerates UX work across nearly every task, most practitioners remain skeptical due to unreliable outputs, inflated expectations, and organizational mandates. This research provides critical insights into the gap between AI's productivity promises and real-world adoption challenges in design teams.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "Deel vs. Rippling for Contractor Management: Which Platform Gets the User Experience Right?",
+    "url": "https://uxplanet.org/deel-vs-rippling-for-contractor-management-which-platform-gets-the-user-experience-right-275775f329d8?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "A detailed UX comparison of two leading global contractor management platforms reveals how design decisions impact user workflows and satisfaction. This case study offers practical lessons for product designers working on complex, B2B SaaS platforms.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "UX Disciplines: Glossary",
+    "url": "https://www.nngroup.com/articles/ux-disciplines-glossary/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "NN/g latest articles and announcements",
+    "description": "A definitive reference guide clarifying the distinct roles and responsibilities across UX fields including design, research, interaction design, and DesignOps. Essential reading for anyone building or scaling a design organization.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Accordion Icons: Which Work Best?",
+    "url": "https://smashingmagazine.com/2026/10/accordion-icons-which-work-best/",
+    "source": "Articles on Smashing Magazine \u2014 For Web Designers And Developers",
+    "description": "Evidence-based guidance on accordion icon selection, split menu patterns, and icon-text interaction design reveals why carets remain the safest choice. This practical guide addresses common UX pitfalls in navigation design with actionable recommendations.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Can Claude Code Design Professional UI Animations? I Tested 3 Approaches",
+    "url": "https://uxplanet.org/can-claude-code-design-professional-ui-animations-i-tested-3-approaches-b6a855f0eadf?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "A hands-on experiment testing AI's capability to generate production-ready UI animations across three different methodologies. This technical exploration provides designers with practical insights into AI limitations and realistic use cases for animation development.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "The Cost of Endless Options: Why AI Branding Needs Creative Direction",
+    "url": "https://dribbble.com/stories/2026/10/23/why-ai-branding-needs-creative-direction",
+    "source": "Courtside",
+    "description": "An insightful exploration of how AI branding tools can overwhelm with infinite options, highlighting why strategic creative direction remains irreplaceable in design. This essay clarifies the essential human role in AI-assisted creative workflows.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "iPhone Duo and iPhone 18 frame presets now available wherever you design and prototype",
+    "url": "https://www.figma.com/release-notes/?title=iphone-duo-and-iphone-18-frame-presets-now-available-wherever-you-design-and-prototype",
+    "source": "Figma product news and release notes",
+    "description": "Figma expands its device frame library with iPhone Duo and iPhone 18 presets, making latest device specifications accessible across all design and prototyping contexts. This update streamlines workflows for mobile designers working with cutting-edge hardware.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "Canva Craft",
+    "url": "https://www.producthunt.com/products/canva",
+    "source": "Product Hunt \u2014 The best new products, every day",
+    "description": "Canva's latest feature transforms text prompts into design-ready images that remain fully editable, democratizing AI-assisted design for non-professionals. This launch represents a significant step in making AI generation workflows accessible within popular design platforms.",
+    "read_time": "3 min"
+  }
+]
