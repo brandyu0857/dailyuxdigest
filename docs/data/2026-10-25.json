@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Interfere Design System",
+    "url": "https://design.interfere.com/",
+    "source": "Sidebar",
+    "description": "A comprehensive design system offering reusable components, visual styles, and design guidelines for building consistent products. Essential reference material for design teams looking to implement structured, scalable design practices.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "AgentGrid.io",
+    "url": "https://www.producthunt.com/products/agentgrid-io",
+    "source": "Product Hunt",
+    "description": "A shared workspace designed for seamless collaboration between humans and AI agents. This product addresses the growing need for interfaces that facilitate human-AI teamwork as AI automation becomes more prevalent in workflows.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Papermark Data Rooms",
+    "url": "https://www.producthunt.com/products/papermark-2",
+    "source": "Product Hunt",
+    "description": "Secure data rooms with AI agent integration capabilities, enabling autonomous systems to access and process sensitive information safely. A critical infrastructure tool for enterprises leveraging AI while maintaining security compliance.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Llama Windows",
+    "url": "https://www.producthunt.com/products/llama-windows",
+    "source": "Product Hunt",
+    "description": "A local AI server that runs natively on Windows, giving all desktop applications access to LLM capabilities without cloud dependency. This democratizes AI access for Windows users and addresses privacy concerns with local-first computing.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "sideOS.ai",
+    "url": "https://www.producthunt.com/products/sideos-ai",
+    "source": "Product Hunt",
+    "description": "A comprehensive local AI platform supporting dictation, meeting transcription, and background task automation directly on your machine. Offers practical productivity gains while keeping data private and eliminating cloud latency.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Termi Protocol",
+    "url": "https://www.producthunt.com/products/termi-protocol",
+    "source": "Product Hunt",
+    "description": "Visualizes AI agents coding in real-time within 3D environments and facilitates workflow handoffs. A novel approach to understanding and monitoring autonomous agent behavior that could reshape how teams supervise AI-driven development.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Agent Hunt",
+    "url": "https://www.producthunt.com/products/monid",
+    "source": "Product Hunt",
+    "description": "Live rankings revealing which tools and platforms AI agents adopt and use most frequently. Valuable market intelligence for understanding AI ecosystem trends and identifying emerging winners in the agent-native tooling space.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Basedash Scheduled CSV Exports",
+    "url": "https://www.producthunt.com/products/basedash",
+    "source": "Product Hunt",
+    "description": "Automates recurring data exports directly to Slack or email with a simple query interface. A practical workflow automation tool that reduces manual reporting overhead and keeps stakeholders informed with fresh data.",
+    "read_time": "2 min"
+  }
+]
