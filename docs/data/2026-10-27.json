@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Building an AI-ready design system library: Code \u2192 Figma with MCP.",
+    "url": "https://uxdesign.cc/building-an-ai-ready-design-system-library-code-figma-with-mcp-ec5d9e8c90d2?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A practical guide showing how to architect design systems that work seamlessly with AI agents by starting in code and syncing to Figma via MCP. This approach future-proofs design workflows and enables AI tools to understand and maintain component integrity.",
+    "read_time": "7 min",
+    "featured": true
+  },
+  {
+    "title": "The time AI saves designers usually disappears. Here's how to keep it.",
+    "url": "https://uxdesign.cc/the-time-ai-saves-designers-usually-disappears-heres-how-to-keep-it-61eb38e1ed69?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A survey of 521 UX professionals reveals a critical paradox: AI tools save designers time, but that time often gets reabsorbed into scope creep and busywork. This research-backed article provides actionable strategies to reclaim productivity gains and protect deep design work from organizational drift.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "AI Engagement Quantitative UX: 2 High-Level Takeaways from 20+ Charts",
+    "url": "https://baymard.com/research-articles/ai-engagement-quantitative-ux-insights-2026",
+    "source": "Baymard Institute",
+    "description": "Baymard's latest quantitative study presents data-driven insights on how users engage with AI features in UX design. With 20+ charts of empirical findings, this research provides designers with evidence-based guidelines for implementing AI responsibly.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Does Apple's HomeView reduce effort, or ask for our attention?",
+    "url": "https://uxdesign.cc/does-apples-homeview-reduce-effort-or-ask-for-our-attention-ad7e892d17e2?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A critical UX analysis of Apple's new HomeView that questions whether smart home interfaces are solving user problems or creating attention-demanding complexity. This piece challenges the assumption that more screens equal better home automation design.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Strategic Thinking for Designers: What \"Be More Strategic\" Actually Means",
+    "url": "https://dribbble.com/stories/2026/10/26/strategic-thinking-for-designers",
+    "source": "Courtside",
+    "description": "A clarifying essay that decodes the vague advice designers receive about becoming \"more strategic,\" offering concrete frameworks for connecting design decisions to business outcomes and stakeholder alignment. Essential reading for designers aspiring to leadership roles.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "AGENTS.md in Claude Code: What it is and why it matters",
+    "url": "https://uxplanet.org/agents-md-in-claude-code-what-it-is-and-why-it-matters-2664ea64f7b0?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "An explanation of AGENTS.md files and how Claude Code uses them to understand project context, enabling AI coding agents to make better decisions aligned with project architecture. Critical knowledge for designers collaborating with AI-powered development tools.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Going nowhere fast",
+    "url": "https://uxdesign.cc/going-nowhere-fast-7436dd29c54f?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A thoughtful critique of how speed can masquerade as progress in design, using real-world observations to challenge the industry's obsession with velocity over direction. This essay prompts designers to question whether they're optimizing for the right metrics.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Knowing how is not knowing what",
+    "url": "https://algoroxyolo.github.io/blog/2026/knowing-how-is-not-knowing-what/",
+    "source": "Sidebar",
+    "description": "An insightful piece on the limitations of tactical knowledge without strategic context, arguing that design systems and AI tools need organizational context and domain rules to be truly effective. Highlights why blindly applying patterns fails without understanding the why.",
+    "read_time": "5 min"
+  }
+]
