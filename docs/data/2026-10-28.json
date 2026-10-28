@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Design systems should be fast by default",
+    "url": "https://denodell.com/blog/design-systems-should-be-fast-by-default",
+    "source": "Sidebar",
+    "description": "Design system components that are sluggish to interact with inevitably slow down every application built with them, creating a compounding performance debt. Prioritizing speed in component libraries is essential infrastructure work that impacts entire product ecosystems.",
+    "read_time": "5 min",
+    "featured": true
+  },
+  {
+    "title": "Smaller teams want design leaders who make, again. Here's how.",
+    "url": "https://uxdesign.cc/smaller-teams-want-design-leaders-who-make-again-heres-how-b8939221bd7b?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "As AI shrinks design teams and raises individual output expectations, design leaders must return to hands-on making rather than pure management. This shift redefines what effective design leadership looks like in an efficiency-driven era.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "The agent woke up before you did",
+    "url": "https://uxdesign.cc/the-agent-woke-up-before-you-did-a61cfc3948c7?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "User-centered design's core assumption\u2014that users initiate interactions\u2014has fundamentally changed with AI agents operating independently. This paradigm shift from four major companies signals a critical rethinking of how we design for proactive technology.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Nobody asked for the sparkle button",
+    "url": "https://uxdesign.cc/nobody-asked-for-the-sparkle-button-ae54ab5065c6",
+    "source": "Sidebar",
+    "description": "Many products are shipping generic AI panels that users immediately disable, proving that AI features without genuine user value waste resources. The lesson: integrate AI into core product workflows rather than bolting it on as a novelty feature.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Website Design That Converts: Why Good-Looking Sites Still Fail",
+    "url": "https://dribbble.com/stories/2026/10/27/website-design-that-converts",
+    "source": "Courtside",
+    "description": "Aesthetic design alone doesn't guarantee business results\u2014conversion requires strategy, user psychology, and intent alignment. This exploration of the gap between beautiful and effective web design offers practical insights for moving beyond vanity metrics.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Design as a garden",
+    "url": "https://justinjay.wang/design-as-a-garden/",
+    "source": "Sidebar",
+    "description": "Framing design work through an organic gardening metaphor offers fresh perspectives on nurturing creative projects, iterating naturally, and thinking long-term. This conceptual essay challenges traditional command-and-control approaches to creative work.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Genie 4",
+    "url": "https://www.producthunt.com/products/gemini-1-5-pro",
+    "source": "Product Hunt",
+    "description": "A new tool that transforms text prompts into interactive, steerable digital worlds represents a significant leap in generative AI capabilities for designers and creators. This enables rapid prototyping and immersive world-building without traditional development friction.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Dedica",
+    "url": "https://www.producthunt.com/products/dedica",
+    "source": "Product Hunt",
+    "description": "A testing tool that validates whether AI agents can successfully navigate and use your website addresses a critical gap as autonomous systems become more prevalent. Essential for designers preparing their interfaces for the next generation of non-human users.",
+    "read_time": "3 min"
+  }
+]
