@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Designing for AI deep research: lessons from Google, Perplexity and Microsoft",
+    "url": "https://uxdesign.cc/designing-for-ai-deep-research-lessons-from-google-perplexity-and-microsoft-b32fa2f21e7e?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A comparative analysis of how leading tech companies are designing AI interfaces for complex, time-intensive research tasks, offering six key UX principles that apply across platforms. This research-backed guide helps designers understand the unique challenges of AI-assisted deep work.",
+    "read_time": "8 min",
+    "featured": true
+  },
+  {
+    "title": "The software factory forgot about design",
+    "url": "https://atifaz.am/writing/the-software-factory-forgot-about-design",
+    "source": "Sidebar",
+    "description": "As code becomes commoditized, the real competitive advantage lies in thoughtful product decisions and user experience\u2014yet the industry's factory-style approach often overlooks this crucial dimension. This essay challenges the assumption that shipping fast is enough, arguing that deliberate design thinking is what separates great products from mediocre ones.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "On giving people an undo button in AI products",
+    "url": "https://karlkoch.me/writing/on-giving-people-an-undo-button-in-ai-products",
+    "source": "Sidebar",
+    "description": "With AI increasingly making autonomous decisions in products, designing transparent, reversible edits becomes critical for user trust and control. This piece explores practical UX patterns that let users inspect, accept, and recover from AI changes without losing their original work\u2014a key consideration for responsible AI design.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "The AI reckoning in UX was 20 years in the making",
+    "url": "https://uxdesign.cc/the-ai-reckoning-in-ux-was-20-years-in-the-making-ecd7e36185de?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "Rather than AI disrupting design overnight, this essay reveals how the field has cyclically transformed itself three times in two decades, and AI represents the third major reckoning. Understanding this historical context reframes current anxieties about AI and design as part of a natural evolution.",
+    "read_time": "9 min"
+  },
+  {
+    "title": "Microsoft's identity for Copilot positions it as a tool for work",
+    "url": "https://the-brandidentity.com/project/microsofts-identity-for-copilot-positions-it-as-a-tool-for-work",
+    "source": "Sidebar",
+    "description": "Microsoft's rebrand of Copilot uses dynamic motion geometry to visually translate software logic and enterprise productivity, signaling a deliberate shift in positioning from AI novelty to workplace essential. This case study shows how strategic brand identity design shapes user perception of AI tools.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Autonomy by design: how gamification and AI can respect (or rewrite) our choices",
+    "url": "https://uxdesign.cc/autonomy-by-design-how-gamification-and-ai-can-respect-or-rewrite-our-choices-122ad795ec57?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This critical examination explores the ethical boundary between persuasive design that influences behavior transparently versus designs that manipulate autonomy through hidden mechanics. Essential reading for designers wrestling with the moral implications of AI and gamification in products.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Shipping the roadmap is the minimum",
+    "url": "https://avivbenyosef.com/shipping-the-roadmap-is-the-minimum/",
+    "source": "Sidebar",
+    "description": "A provocative take on product management that reframes roadmap execution as table stakes rather than success, challenging teams to think beyond delivery to impact and outcomes. This perspective shift helps leaders evaluate whether they're truly building value or just moving checkboxes.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Claude Code Skills vs. Mods vs. Plugins vs. Agents: What's the Difference?",
+    "url": "https://uxplanet.org/claude-code-skills-vs-mods-vs-plugins-vs-agents-whats-the-difference-5fccf8c1b4e6?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "A clear breakdown of four distinct ways to extend Claude's capabilities, each serving different use cases and developer needs. This practical guide helps product teams and designers understand the architectural choices and UX implications of different AI extension patterns.",
+    "read_time": "6 min"
+  }
+]
