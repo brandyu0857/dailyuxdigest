@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Text-to-CAD: Design physical products with AI",
+    "url": "https://www.texttocad.dev/",
+    "source": "Sidebar",
+    "description": "Free, open-source CAD software that lets AI agents like Claude generate physical product designs from natural language prompts. This represents a significant democratization of product design tools and foreshadows how AI will reshape the entire design workflow.",
+    "read_time": "4 min",
+    "featured": true
+  },
+  {
+    "title": "The people using AI should set its strategy",
+    "url": "https://uxdesign.cc/the-people-using-ai-should-set-its-strategy-473c7f2ebb94?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This essay argues that practitioners and end-users, not just executives, should have a voice in AI strategy decisions because they understand what quality output actually looks like. It's a crucial perspective on democratizing AI governance in organizations and ensuring tools serve real user needs.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Website migration costs are going to zero",
+    "url": "https://dri.es/website-migration-costs-are-going-to-zero",
+    "source": "Sidebar",
+    "description": "A thought-provoking exploration of how AI automation will fundamentally disrupt the web development and migration industry by eliminating costly manual labor. This has massive implications for how agencies operate and how designers should prepare for this shift.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Anthropic Just Shipped Claude 2.0",
+    "url": "https://uxplanet.org/anthropic-just-shipped-claude-2-0-bbb46a9c1383?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "Claude Code's latest update introduces 9 powerful new features that significantly enhance AI's ability to assist with design and development workflows. This is essential reading for designers looking to leverage cutting-edge AI tools in their daily practice.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "The New York Times turns 175 with an identity system",
+    "url": "https://the-brandidentity.com/project/the-new-york-times-turns-175-with-an-identity-events-and-a-campaign",
+    "source": "Sidebar",
+    "description": "A masterclass in designing flexible brand identity systems at scale\u2014the Times created a custom 175 mark and identity system deployable across editorial, advertising, events, and marketing. Essential case study for understanding how to maintain brand coherence across diverse applications.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Captioned Doesn't Always Mean Accessible",
+    "url": "https://webaim.org/blog/captioned-doesnt-always-mean-accessible/",
+    "source": "WebAIM Blog",
+    "description": "A critical deep dive into what actually makes video captions accessible\u2014accurate dialogue is just the foundation; quality captions must identify speakers, convey sound design, and maintain proper synchronization. Essential knowledge for any designer building inclusive digital experiences.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "How I stopped dreading AI and started studying it full-time",
+    "url": "https://uxdesign.cc/how-i-stopped-dreading-ai-and-started-studying-it-full-time-fee7afc2b967?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A candid personal essay about overcoming AI anxiety by engaging deeply with the technology rather than resisting it. This reflective piece resonates with designers grappling with industry disruption and offers practical perspective on pivoting your skills.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Struggle together",
+    "url": "https://ryo.lu/journal/struggle-together",
+    "source": "Sidebar",
+    "description": "A thoughtful reflection on learning design and programming through iteration, failure, and persistence\u2014a humanizing counterpoint to AI automation anxiety. Reminds designers that the struggle itself builds deeper understanding and creative problem-solving skills.",
+    "read_time": "5 min"
+  }
+]
