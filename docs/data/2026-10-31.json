@@ -1,0 +1,59 @@
+[
+  {
+    "title": "The Role of UX in Agentic Software Factories",
+    "url": "https://www.nngroup.com/articles/ux-agentic-software-factories/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "NN/g",
+    "description": "As AI agents reshape software development, UX designers face a critical evolution: moving beyond interface design to discover user needs and evaluate AI-generated solutions. This article redefines UX's role in AI-native development workflows, making it essential reading for product leaders navigating the future of design.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "Experience Design: Dropping the 'User' from 'User Experience'",
+    "url": "https://www.nngroup.com/articles/ux-vs-experience-design/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "NN/g",
+    "description": "As AI agents act on behalf of users, the field is expanding beyond traditional UX to encompass a broader 'experience design' discipline. This conceptual shift helps designers understand how to build for hybrid human-AI interactions while keeping people's goals at the center.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "The Interface Is Disappearing: What Designers Actually Design in the Age of AI Agents",
+    "url": "https://dribbble.com/stories/2026/10/30/design-in-the-age-of-ai-agents",
+    "source": "Dribbble",
+    "description": "With AI agents handling traditional interface tasks, designers must rethink what they actually create and optimize for\u2014shifting from visual flows to system behavior and human-AI collaboration models. This essay challenges fundamental assumptions about design practice in 2026.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Cross-Platform Design: Working Across Apple and Google Without Losing Your Point of View",
+    "url": "https://dribbble.com/stories/2026/10/30/cross-platform-design",
+    "source": "Dribbble",
+    "description": "Balancing iOS and Android design conventions while maintaining brand identity remains one of the toughest challenges for product designers. This guide offers practical strategies for navigating platform differences without diluting your product's unique voice.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "The Website Go-Live Checklist: 5 Critical Checks Beyond Good Looks",
+    "url": "https://dribbble.com/stories/2026/10/30/website-go-live-checklist",
+    "source": "Dribbble",
+    "description": "Beautiful design means nothing without solid fundamentals\u2014this practical checklist covers the non-visual essentials that determine whether your site launch succeeds. A must-read for product managers and designers preparing for production.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Space Is the New SaaS: 4 Lessons From Designing Websites for Aerospace Startups",
+    "url": "https://dribbble.com/stories/2026/10/30/global-websites-for-aerospace-startups",
+    "source": "Dribbble",
+    "description": "Designing for highly specialized, regulated industries like aerospace reveals unique UX challenges around trust, complexity, and global compliance. These lessons apply to any B2B SaaS targeting mission-critical sectors.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Pluto Door",
+    "url": "https://www.producthunt.com/products/pluto-door",
+    "source": "Product Hunt",
+    "description": "This AI-powered SSH client with per-server desktop environments represents a major shift in how developers interact with infrastructure\u2014combining AI agents with familiar spatial computing metaphors. It signals how AI assistants are being embedded into core developer workflows.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Agnos",
+    "url": "https://www.producthunt.com/products/agnos",
+    "source": "Product Hunt",
+    "description": "Addressing a critical UX problem\u2014preparing documents for AI consumption while maintaining visibility over data handling\u2014this tool reflects growing designer concern about transparency in AI-human workflows. A practical example of thoughtful AI-native product design.",
+    "read_time": "3 min"
+  }
+]
