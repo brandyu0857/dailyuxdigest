@@ -1,0 +1,59 @@
+[
+  {
+    "title": "5 NEW Claude Mods that will change how you work",
+    "url": "https://uxplanet.org/5-new-claude-mods-that-will-change-how-you-work-618fa55bc7db?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "Discover how Claude Mods are transforming developer workflows by customizing how Claude Code looks and behaves across CLI and web environments. This practical guide explores five new mods that can streamline your coding process and boost productivity.",
+    "read_time": "4 min",
+    "featured": true
+  },
+  {
+    "title": "AI and Robotics Branding: How We Built a Brand Beyond Human Scale",
+    "url": "https://dribbble.com/stories/2026/10/31/ai-and-robotics-branding",
+    "source": "Courtside",
+    "description": "Learn how design agencies approach branding for AI and robotics products that operate outside traditional human-centric frameworks. This case study reveals innovative strategies for communicating complex, non-human technology to audiences effectively.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Screen Studio 4.0",
+    "url": "https://www.producthunt.com/products/screen-studio",
+    "source": "Product Hunt",
+    "description": "Screen Studio 4.0 introduces powerful new features like Glass Loupe, Camera Cutout, and Edit by Transcript, making screen recording and video creation more intuitive for creators and designers. This update significantly enhances workflow efficiency for anyone producing visual content.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "The Brand Color Strategy: Our Branding Agency's Guide to Purposeful Design",
+    "url": "https://dribbble.com/stories/2026/10/30/brand-color-strategy",
+    "source": "Courtside",
+    "description": "This comprehensive guide explores how professional branding agencies strategically select and implement colors to reinforce brand identity and psychology. Designers will gain actionable frameworks for making intentional color decisions that go beyond aesthetics.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Claude 5.5 Model Mistakes You're Still Making",
+    "url": "https://uxplanet.org/claude-5-5-model-mistakes-youre-still-making-a5d128a5338b?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "Uncover eight common pitfalls when working with Claude 5.5 and learn practical fixes to maximize AI model performance in your projects. This essential guide helps designers and developers avoid costly mistakes and get better results from AI tools.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "AwaitIO",
+    "url": "https://www.producthunt.com/products/awaitio",
+    "source": "Product Hunt",
+    "description": "AwaitIO democratizes backend development by automatically generating admin screens from TypeScript functions, eliminating manual UI coding. This tool bridges the gap between backend logic and frontend interfaces, saving designers and developers significant time.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "Hairline",
+    "url": "https://hairline.lucasmarkes.com/",
+    "source": "Sidebar",
+    "description": "Hairline offers 33 interactive isometric line figures with pointer responses available as dependency-free SVG for React and vanilla implementations. This flexible design asset library is perfect for designers and developers seeking customizable, performant iconography.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "Embage",
+    "url": "https://www.producthunt.com/products/embage",
+    "source": "Product Hunt",
+    "description": "Embage enables teams to build intelligent customer agents, execute workflows, and gain analytics insights\u2014all in one platform. This tool addresses the growing need for accessible AI agent creation without requiring extensive engineering expertise.",
+    "read_time": "3 min"
+  }
+]
