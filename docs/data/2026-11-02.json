@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Sparkle buttons, Autonomy by design, AI reckoning in UX, Figma with MCP",
+    "url": "https://uxdesign.cc/sparkle-buttons-autonomy-by-design-ai-reckoning-in-ux-figma-with-mcp-c93e38fa36e3?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A curated weekly digest covering critical design trends including the proliferation of AI-powered sparkle buttons, autonomy in design systems, and Figma's integration with Model Context Protocol. Essential reading for staying current on how AI is reshaping product interfaces.",
+    "read_time": "8 min",
+    "featured": true
+  },
+  {
+    "title": "How to design transparent AI cost controls",
+    "url": "https://uxdesign.cc/how-to-design-transparent-ai-cost-controls-a44fd52b9104?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A practical guide to designing spending limits and explaining AI costs before, during, and after user interactions. With AI responses carrying real financial implications, this article tackles a critical UX challenge that product teams are now facing as they scale generative AI features.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Context is the new interface",
+    "url": "https://uxdesign.cc/context-is-the-new-interface-c16b7f6e77be?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "Explores how AI agents are shifting interface design beyond single products by leveraging onscreen context to interpret and activate app capabilities. This conceptual shift represents a fundamental reimagining of how users will interact with interconnected systems.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Your design system was never about components",
+    "url": "https://uxdesign.cc/your-design-system-was-never-the-components-9605130c3038?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "Reveals how design leaders at Google, Atlassian, and Figma are shifting from component-focused systems to documenting design reasoning and decision-making. This philosophical evolution highlights what truly makes design systems sustainable and scalable in modern product organizations.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "A select should tell you something",
+    "url": "https://alfy.blog/2026/10/27/a-select-should-tell-you-something.html",
+    "source": "Sidebar",
+    "description": "Demonstrates through five before/after examples how customizable dropdowns can carry critical decision-making context rather than just serving as prettier UI elements. A compelling case study in how thoughtful component design directly impacts user confidence and decision quality.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "When colors pass but palettes fail",
+    "url": "https://uxdesign.cc/when-colors-pass-but-palettes-fail-55b7210f8e4d?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "Examines the accessibility blind spots emerging as generative AI creates color palettes that pass individual contrast checks but fail as cohesive systems. This critical gap in AI-assisted design highlights why human judgment remains essential in creating truly accessible experiences.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Who owns the doubt?",
+    "url": "https://www.doc.cc/humankind/doubt",
+    "source": "Sidebar",
+    "description": "A thoughtful reflection on how early-career designers often defend their first ideas too loudly instead of embracing healthy skepticism. This essay speaks to fostering a culture of intellectual humility and iterative thinking within design teams.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Anthropic Just Revealed 3 NEW Rules for Claude Skills",
+    "url": "https://uxplanet.org/anthropic-just-revealed-3-new-rules-for-claude-skills-bf6d5ff66930?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "Breaks down Anthropic's updated guidelines for Claude AI model capabilities with the latest releases (Haiku 5.5, Sonnet 5.5, Opus 5.5). Critical for designers and product managers building on AI platforms to understand new constraints and possibilities.",
+    "read_time": "5 min"
+  }
+]
