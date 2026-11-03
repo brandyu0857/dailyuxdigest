@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Fingerprints are the new cookies",
+    "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
+    "source": "Sidebar",
+    "description": "This critical analysis reveals how browser fingerprinting has become the new frontier of persistent user tracking, replacing deprecated third-party cookies and raising serious privacy concerns. Understanding this shift is essential for designers and product leaders navigating privacy regulations and user trust.",
+    "read_time": "5 min",
+    "featured": true
+  },
+  {
+    "title": "What I learned teaching AI prototyping at university",
+    "url": "https://uxdesign.cc/what-i-learned-teaching-ai-prototyping-at-university-b9fff222625e?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A university instructor shares practical insights from teaching students to prototype with AI tools instead of traditional design software, revealing both exciting possibilities and important trade-offs. This firsthand account offers valuable perspective on how AI is democratizing app creation for non-technical users.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "There will always be someone faster, cheaper, and better",
+    "url": "https://www.chrbutler.com/faster-cheaper-better",
+    "source": "Sidebar",
+    "description": "As AI reshapes the design industry, this essay cuts through the panic to examine what truly differentiates designers beyond speed and cost. It argues that the core value designers provide hasn't fundamentally changed, offering reassurance and clarity for a profession in transition.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Virtue ethics in everyday interface design",
+    "url": "https://uxdesign.cc/virtue-ethics-in-everyday-interface-design-5f2aca841781?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "This thoughtful piece applies philosophical principles to practical interface decisions, exploring how wording, hierarchy, and intentional friction can guide users toward more considered actions. It bridges ethics and UX in a way that challenges designers to think beyond conversion metrics.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "State of a system",
+    "url": "https://uxdesign.cc/state-of-a-system-5c8473db1e9?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A design system architect reflects on building and rebuilding a system over eight years, revealing how teams can execute ambitious initiatives with fewer resources through learned expertise. This retrospective offers practical lessons on design system evolution and team efficiency.",
+    "read_time": "9 min"
+  },
+  {
+    "title": "Jelly UI",
+    "url": "https://jelly-ui.com/",
+    "source": "Sidebar",
+    "description": "A new dependency-free Web Components library brings tactile, physics-based interactions to product interfaces with soft-body dynamics, while maintaining accessibility and dark mode support. This tool enables designers and developers to create more engaging, playful interfaces without heavy dependencies.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Desigma",
+    "url": "https://github.com/deepfounder-ai/desigma",
+    "source": "Sidebar",
+    "description": "An ambitious open-source, Rust-based design tool offers a local-first alternative to Figma, giving designers control over their data and workflow. This project represents a significant shift toward decentralized design infrastructure.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Now entering: The era of bleh",
+    "url": "https://www.noemamag.com/now-entering-the-era-of-bleh/",
+    "source": "Sidebar",
+    "description": "This critique examines how AI-driven automation is homogenizing knowledge work and digital products, creating a landscape of mediocre, interchangeable experiences. A timely warning for designers about the risks of AI-first design without human craft and intention.",
+    "read_time": "6 min"
+  }
+]
