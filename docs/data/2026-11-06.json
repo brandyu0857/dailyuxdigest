@@ -1,0 +1,59 @@
+[
+  {
+    "title": "AI and the Future of the Product Role",
+    "url": "https://www.svpg.com/ai-and-the-future-of-the-product-role/",
+    "source": "Silicon Valley Product Group",
+    "description": "As AI reshapes product development, this keynote-turned-narrative explores how PM responsibilities are evolving and what skills will define successful product leaders in an AI-first world. A must-read for anyone navigating the transformation.",
+    "read_time": "10 min",
+    "featured": true
+  },
+  {
+    "title": "Making Immersive LLM Chat Experiences More Accessible",
+    "url": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/",
+    "source": "Smashing Magazine",
+    "description": "As conversational AI becomes ubiquitous, accessibility in LLM interfaces is no longer optional\u2014it's essential. This deep dive explores practical strategies for making AI chat experiences usable for everyone, ensuring inclusive access to information and opportunities.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Everyone is building AI agents. Who's designing the stop button?",
+    "url": "https://uxdesign.cc/your-ai-is-non-deterministic-but-your-product-cant-be-3ec2a0cf870c",
+    "source": "UX Collective",
+    "description": "As AI agents gain autonomy, designers face a critical challenge: how do you maintain user control and predictability? This thought-provoking piece examines the hardest design decisions at the intersection of AI autonomy and human agency.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Berrypicking still beats the single answer for search, even in the world of AI",
+    "url": "https://uxdesign.cc/berrypicking-still-beats-the-single-answer-for-search-even-in-the-world-of-ai-6d7174099500?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Marcia Bates' 1989 research on search behavior\u2014gathering and refining through multiple sources\u2014remains more relevant than ever in the age of AI. This article reveals why iterative exploration still outperforms single-answer search paradigms.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Native is a floor, not a ceiling",
+    "url": "https://uxdesign.cc/native-is-a-floor-not-a-ceiling-09bc4f27ddce?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "In an era where AI can instantly polish any interface, native design systems offer something unique: authenticity and system integration that stays ahead of imitation. A philosophical exploration of why embracing platform constraints leads to better design.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "A New Community For In-House UX People",
+    "url": "https://smashingmagazine.com/2026/11/ux-insiders-community-in-house-ux-people/",
+    "source": "Smashing Magazine",
+    "description": "In-house UX designers face unique organizational challenges that differ from agency work. This new community initiative offers weekly calls, shared templates, and business case studies designed specifically for practitioners working within organizations.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Great but painful",
+    "url": "https://www.lesswrong.com/posts/KThSe2vPZw4zn7f8W/great-but-painful",
+    "source": "LessWrong",
+    "description": "Product success isn't about inventing new behaviors\u2014it's about identifying existing pain points and solving them elegantly. This concise principle offers a powerful lens for product strategy and feature prioritization.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "5 NEW GitHub Repos for Claude Code Worth Trying for Product Design",
+    "url": "https://uxplanet.org/5-new-github-repos-for-claude-code-worth-trying-for-product-design-8d2ca0914487?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "For designers exploring AI-assisted development, this curated collection of Claude Code repositories offers practical tools and workflows that streamline product design processes. A valuable resource for staying current with AI-augmented design tools.",
+    "read_time": "5 min"
+  }
+]
