@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Agent Harness: Definition",
+    "url": "https://www.nngroup.com/articles/agent-harness/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "NN/g latest articles and announcements",
+    "description": "Nielsen Norman Group breaks down the critical concept of agent harnesses\u2014the systems that govern AI model behavior, permissions, and constraints. Understanding this framework is essential for designers building AI-driven products that are both powerful and safely aligned with user needs.",
+    "read_time": "5 min",
+    "featured": true
+  },
+  {
+    "title": "After the AI bubble: a manifesto",
+    "url": "https://uxdesign.cc/after-the-ai-bubble-a-manifesto-2e3157387662?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A thought-provoking essay examining how AI has shifted from empowering users to controlling them, and what designers must do to restore human-centered values. This manifesto challenges the current trajectory of AI development and offers a vision for reclaiming computers as genuine tools for people.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Beyond the Mockup: Why We Became Design Engineers",
+    "url": "https://dribbble.com/stories/2026/11/06/why-we-became-design-engineers",
+    "source": "Courtside",
+    "description": "Explores the evolving role of designers who are bridging design and engineering to create more feasible, implementable solutions. This shift reflects the industry's move toward designers who understand not just aesthetics but also technical constraints and possibilities.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "GPT-6.1 Terra for UI Design",
+    "url": "https://uxplanet.org/gpt-6-1-terra-for-ui-design-fb2ef70b907d?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "OpenAI's new cost-efficient visual reasoning model is specifically optimized for UI design tasks, promising to democratize AI-powered design tools for professionals. This development could significantly impact how designers prototype, iterate, and generate design solutions.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Capnot",
+    "url": "https://www.producthunt.com/products/capnot",
+    "source": "Product Hunt",
+    "description": "A practical tool for creating clear screen demos without sound, solving a real pain point in product education and documentation. This addresses the growing need for accessible, mute-friendly demo content in remote-first environments.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Attention is all you need: A report from the future on AI, attention, and the maintenance of civilization",
+    "url": "https://longnow.org/ideas/attention-ai-pace-layers/",
+    "source": "Sidebar",
+    "description": "Long Now Foundation presents a speculative but grounded perspective on how AI impacts human attention and societal systems. This forward-thinking piece is essential reading for leaders designing products that shape how people think and interact with technology.",
+    "read_time": "10 min"
+  },
+  {
+    "title": "Tokenizer Mono",
+    "url": "https://george.mand.is/2026/11/the-tokenizer-font/",
+    "source": "Sidebar",
+    "description": "An innovative monospace font that visualizes LLM tokens using pure OpenType technology\u2014no JavaScript required. This clever design tool bridges the gap between human perception and machine language, useful for developers and designers working with AI systems.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Usability 101: Introduction to Usability",
+    "url": "https://www.nngroup.com/articles/usability-101-introduction-to-usability/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "NN/g latest articles and announcements",
+    "description": "A foundational reference from Nielsen Norman Group that distills usability principles into actionable practices\u2014watching real users complete realistic tasks early and often. A timeless reminder that amidst AI hype, fundamental UX principles remain the bedrock of good design.",
+    "read_time": "6 min"
+  }
+]
