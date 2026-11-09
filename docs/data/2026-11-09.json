@@ -1,0 +1,59 @@
+[
+  {
+    "title": "What does design system AI readiness mean, anyway?",
+    "url": "https://seanvoisen.com/writing/design-system-ai-readiness/",
+    "source": "Sidebar",
+    "description": "Challenges the notion that AI-ready design systems require only machine-legible artifacts, arguing instead that the real value lies in keeping humans meaningfully engaged in the design process. Essential reading for design leaders preparing their teams and systems for AI integration.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "Five pairs of hands: what the typesetters can teach designers about AI",
+    "url": "https://uxdesign.cc/five-pairs-of-hands-what-the-typesetters-can-teach-designers-about-ai-9d6b8e8c2285?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A thoughtful conversation with Christian Crumlish exploring how the history of typesetting and automation offers crucial lessons for designers navigating AI. This piece reframes the AI disruption debate by examining which work deserves to be automated and which creative roles will only deepen in importance.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Otherwise you're just a machine",
+    "url": "https://uxdesign.cc/otherwise-youre-just-a-machine-a9d3b21179b5",
+    "source": "Sidebar",
+    "description": "A provocative essay on how designers must evolve beyond pattern-matching as AI becomes capable of routine interface design. Offers a clear call-to-action for designers to develop deeper strategic and creative skills that differentiate human expertise.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "What a ruler leaves out",
+    "url": "https://uxdesign.cc/what-a-ruler-leaves-out-9250724a7f85?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A philosophical exploration of how design tools and rules inherently shape outcomes by constraining possibility space. Reminds designers to consider the hidden costs and assumptions embedded in the tools and systems they adopt.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Design by numbers, Teaching AI prototyping, Context is the new UI",
+    "url": "https://uxdesign.cc/design-by-numbers-teaching-ai-prototyping-context-is-the-new-ui-c88a432a8df8?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A curated collection of resources exploring how context-aware interfaces are replacing traditional UI patterns as AI capabilities expand. Covers the shift from static design patterns to adaptive, intelligence-driven experiences.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "GitHub New PR Overview",
+    "url": "https://www.producthunt.com/products/github",
+    "source": "Product Hunt",
+    "description": "GitHub's new PR Overview feature surfaces blocking issues before users scroll, streamlining code review workflows. A practical example of how AI-enhanced interfaces can reduce cognitive load in developer collaboration tools.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "Site Seeing",
+    "url": "https://ishadeed.com/article/beyond-the-viewport/",
+    "source": "Sidebar",
+    "description": "An interactive tool that shows how web pages respond to unusual viewport sizes and contexts, helping designers understand real-world device diversity. Practical for teams prioritizing responsive design and context-aware experiences.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Before you ship your Wrapped this year",
+    "url": "https://uxdesign.cc/before-you-ship-your-wrapped-this-year-a0a47ee191f8?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A timely guide examining what made year-end recap experiences succeed in 2025 and how the landscape has shifted for 2026. Offers practical UX lessons for designing personalized moments that balance delight with user trust.",
+    "read_time": "5 min"
+  }
+]
