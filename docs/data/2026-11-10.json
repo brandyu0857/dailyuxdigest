@@ -1,0 +1,59 @@
+[
+  {
+    "title": "What product strategy does",
+    "url": "https://www.davesresearch.com/product-strategy/?utm_source=tldrproduct",
+    "source": "Dave's Research",
+    "description": "This thoughtful piece reframes product strategy as fundamentally about maintaining and rebuilding critical relationships within an organization. A refreshing perspective for PMs and leaders navigating organizational dynamics alongside roadmap planning.",
+    "read_time": "8 min",
+    "featured": true
+  },
+  {
+    "title": "What being the new kid taught me about persuasion as a designer",
+    "url": "https://uxdesign.cc/what-being-the-new-kid-taught-me-about-persuasion-as-a-designer-c731818f91d9?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "This reflective essay explores how designers can become more persuasive by focusing on identity and belonging rather than just selling ideas. A timely reminder that stakeholder buy-in depends on making people feel like part of the solution, not just pitching a concept.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Claude Fable 5.2 for UI Design: Better, but at What Cost?",
+    "url": "https://uxplanet.org/claude-fable-5-2-for-ui-design-better-but-at-what-cost-81aeec4170f4?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "A hands-on comparison of Anthropic's latest AI model against its predecessor for real product design tasks reveals the tradeoffs between capability and practicality. Essential reading for designers evaluating AI tools in their workflow.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Every new medium gets called cheating",
+    "url": "https://uxdesign.cc/every-new-medium-gets-called-cheating-b990d7d53c0e?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Drawing parallels between historical artistic resistance to new tools and today's skepticism toward AI-assisted design, this piece challenges designers to embrace new mediums rather than dismiss them. A thought-provoking perspective on innovation and craft.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Infinite tokens: the new country club flex",
+    "url": "https://uxdesign.cc/infinite-tokens-the-new-country-club-flex-0e5e523756c3?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "This essay critiques the trend of unlimited design tokens and advocates for thoughtful constraints as a tool for better design decision-making. Relevant for design systems leaders navigating scalability without losing coherence.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "5 Underrated Claude Code Tools That Fix Its Biggest Problems",
+    "url": "https://uxplanet.org/5-underrated-claude-code-tools-that-fix-its-biggest-problems-1b6007eddf4f?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "A practical guide to maximizing Claude's capabilities for production-ready design work, highlighting often-overlooked features that solve real pain points. Valuable for designers looking to move from prototyping to implementation with AI assistance.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Lottie AI",
+    "url": "https://www.producthunt.com/products/lottiefiles",
+    "source": "Product Hunt",
+    "description": "LottieFiles introduces AI-powered text-to-animation capabilities, streamlining vector animation creation from natural language prompts. A significant productivity boost for designers creating micro-interactions without motion design expertise.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Tokens by UI Colors",
+    "url": "https://www.producthunt.com/products/tokens-by-ui-colors",
+    "source": "Product Hunt",
+    "description": "A new tool designed to help teams establish and manage design tokens for visual language consistency across products. Particularly useful for scaling design systems and enabling non-designers to maintain visual coherence.",
+    "read_time": "3 min"
+  }
+]
