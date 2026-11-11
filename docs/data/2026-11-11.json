@@ -1,0 +1,59 @@
+[
+  {
+    "title": "AI Prototyping inside your design system. A hands-on guide for design & product teams.",
+    "url": "https://uxdesign.cc/ai-prototyping-inside-your-design-system-a-hands-on-guide-for-design-product-teams-44825904c08d?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "This practical guide shows how to integrate AI into your design system workflow, including the Model Context Protocol (MCP) setup needed for agents to work with your components. It's a timely resource for teams exploring AI-assisted design and prototyping.",
+    "read_time": "7 min",
+    "featured": true
+  },
+  {
+    "title": "Don't make a human do what AI is amazing at",
+    "url": "https://www.johnnunemaker.com/dont-make-a-human-do-what-ai-is-amazing-at/",
+    "source": "Sidebar",
+    "description": "Johnny Nunemaker explores the philosophy of leveraging AI for tedious, repetitive tasks in product development, demonstrating how Nunebot enhances apps through intelligent automation. This essay challenges designers and builders to reconsider workflow efficiency in the AI era, offering practical perspective on human-AI collaboration.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "The components of agent memory",
+    "url": "https://www.anthropic.com/research/components-of-agent-memory",
+    "source": "Anthropic",
+    "description": "Anthropic researchers break down how AI agents like Claude learn from experience by strategically deciding what information to retain and recall. This technical deep-dive is essential for understanding the future of AI-powered design tools and autonomous systems.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "There's no better name for design systems",
+    "url": "https://karolinaszczur.com/journal/translation-not-rebranding/",
+    "source": "Karolina Szczur",
+    "description": "Karolina Szczur explores how design systems terminology often fails to communicate value across different organizational functions, proposing better frameworks for discussing design systems with stakeholders. This essay tackles a real pain point in design leadership and cross-functional alignment.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Nod by n8n",
+    "url": "https://www.producthunt.com/products/n8n-io",
+    "source": "Product Hunt",
+    "description": "N8n's new open-source personal agent gives users an autonomous AI with direct computer access, representing a significant shift toward democratizing agent-based automation. This launch signals the maturation of AI agents moving from experimental to practical user-facing tools.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "1 in 8 billion",
+    "url": "https://1in8b.life/en/",
+    "source": "Sidebar",
+    "description": "An innovative interactive experience that lets you inhabit the life of a newborn across 172 countries, grounded in real statistical data. This creative project demonstrates how design can make complex demographic and life-outcome data deeply personal and engaging.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Reddit Reviews",
+    "url": "https://www.producthunt.com/products/reddit",
+    "source": "Product Hunt",
+    "description": "Reddit's new product pages aggregate authentic subreddit sentiment about products, bridging the gap between community feedback and product marketing. This feature recognizes the value of organic, community-driven product intelligence as a complement to traditional reviews.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "Can Claude Fable 5.2 Replace Product Designers?",
+    "url": "https://uxplanet.org/can-claude-fable-5-2-replace-product-designers-8f0bd3554d12?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "This critical analysis examines what the latest Claude iteration can and cannot do in product design work, helping designers understand where AI complements their skills versus where human creativity remains irreplaceable. Essential reading for anyone concerned about AI's impact on design careers.",
+    "read_time": "6 min"
+  }
+]
