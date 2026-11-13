@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Should You Actually Add AI To That? A Four-Question Audit For Product Teams",
+    "url": "https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/",
+    "source": "Smashing Magazine",
+    "description": "This practical framework helps product teams evaluate whether AI actually solves user problems or just creates busywork. It cuts through the hype by questioning whether users will trust AI outputs enough to avoid verification overhead\u2014essential reading as teams face pressure to add AI everywhere.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "The crooked plate that felt more human than the algorithm",
+    "url": "https://uxdesign.cc/the-crooked-plate-that-felt-more-human-than-the-algorithm-40bb4e5da147?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A thought-provoking essay exploring how algorithmic perfection can feel sterile and disconnected, while imperfections create emotional resonance. This challenges the design industry's obsession with flawlessness and raises important questions about what users actually value in their experiences.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "The AI mind tax that afflicts those who use AI best",
+    "url": "https://uxdesign.cc/the-ai-mind-tax-that-afflicts-those-us-ai-best-3eb67ff167d0?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "An insightful critique of how power users juggle multiple AI tools without unified workflows, creating cognitive overhead despite promised efficiency gains. This reveals the fragmentation problem in the AI tool ecosystem and why integration matters more than individual tool quality.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Anthropic Just Dropped Claude Whiteboard, Sheets and Data",
+    "url": "https://uxplanet.org/anthropic-just-dropped-claude-whiteboard-sheets-and-data-a9a89b69a3d8?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "Anthropic's new artifact types (Whiteboard, Sheets, Data) signal a major shift toward richer, more interactive AI outputs beyond text. This product evolution shows how AI assistants are becoming collaborative design and planning tools, not just chat interfaces.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "AI is the new old design material",
+    "url": "https://uxdesign.cc/ai-is-the-new-old-design-material-0e7f83540c9a?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A refreshing perspective that treats AI like any other design medium\u2014something to be learned and mastered through hands-on experimentation. This reframe helps designers move beyond anxiety about AI and focus on creative exploration and skillful application.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Building interfaces that understand what we want to do",
+    "url": "https://agustinbarrientos.com/writing/senior-eye/interfaces-that-understand-what-we-want",
+    "source": "Sidebar",
+    "description": "Chrome's new Decisions API enables on-device AI models to run privately and freely, shifting the paradigm toward intelligent interfaces that anticipate user intent. This represents a significant development in bringing AI capabilities to the browser without privacy tradeoffs.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Design is a search problem",
+    "url": "https://mattstromawn.com/writing/design-is-a-search-problem/",
+    "source": "Sidebar",
+    "description": "A concise but profound meditation on design as exploration rather than predetermined solution, reframing the messy, uncertain nature of creative work. This perspective is especially relevant as AI tools promise to streamline discovery\u2014when uncertainty itself is the point.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Beyond 12 Columns: Designing Layouts With Personality",
+    "url": "https://css-tricks.com/beyond-12-columns/",
+    "source": "CSS-Tricks",
+    "description": "Andy Clarke challenges the homogeneity of web design by showing how understanding a brand's story can inform unique, memorable layouts beyond the standard grid. Timely counter-argument to algorithmic sameness, demonstrating how intentional design choices create differentiation.",
+    "read_time": "9 min"
+  }
+]
