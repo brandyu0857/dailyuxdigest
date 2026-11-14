@@ -1,37 +1,5 @@
 [
   {
-    "url": "https://www.svpg.com/ai-and-the-future-of-the-product-role/",
-    "date": "2026-11-06"
-  },
-  {
-    "url": "https://smashingmagazine.com/2026/11/making-immersive-llm-chat-experiences-more-accessible/",
-    "date": "2026-11-06"
-  },
-  {
-    "url": "https://uxdesign.cc/your-ai-is-non-deterministic-but-your-product-cant-be-3ec2a0cf870c",
-    "date": "2026-11-06"
-  },
-  {
-    "url": "https://uxdesign.cc/berrypicking-still-beats-the-single-answer-for-search-even-in-the-world-of-ai-6d7174099500?source=rss----138adf9c44c---4",
-    "date": "2026-11-06"
-  },
-  {
-    "url": "https://uxdesign.cc/native-is-a-floor-not-a-ceiling-09bc4f27ddce?source=rss----138adf9c44c---4",
-    "date": "2026-11-06"
-  },
-  {
-    "url": "https://smashingmagazine.com/2026/11/ux-insiders-community-in-house-ux-people/",
-    "date": "2026-11-06"
-  },
-  {
-    "url": "https://www.lesswrong.com/posts/KThSe2vPZw4zn7f8W/great-but-painful",
-    "date": "2026-11-06"
-  },
-  {
-    "url": "https://uxplanet.org/5-new-github-repos-for-claude-code-worth-trying-for-product-design-8d2ca0914487?source=rss----819cc2aaeee0---4",
-    "date": "2026-11-06"
-  },
-  {
     "url": "https://www.nngroup.com/articles/agent-harness/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
     "date": "2026-11-07"
   },
@@ -222,5 +190,37 @@
   {
     "url": "https://css-tricks.com/beyond-12-columns/",
     "date": "2026-11-13"
+  },
+  {
+    "url": "https://www.nngroup.com/articles/research-in-the-loop/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "date": "2026-11-14"
+  },
+  {
+    "url": "https://uxdesign.cc/decision-theatre-or-decision-design-f1604f178685?source=rss----138adf9c44c---4",
+    "date": "2026-11-14"
+  },
+  {
+    "url": "https://uxdesign.cc/the-ai-mind-tax-that-afflicts-those-who-use-ai-best-3eb67ff167d0?source=rss----138adf9c44c---4",
+    "date": "2026-11-14"
+  },
+  {
+    "url": "https://www.nngroup.com/articles/journey-mapping-101/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "date": "2026-11-14"
+  },
+  {
+    "url": "https://haydenbleasel.com/taking-away",
+    "date": "2026-11-14"
+  },
+  {
+    "url": "https://www.producthunt.com/products/blender",
+    "date": "2026-11-14"
+  },
+  {
+    "url": "https://www.producthunt.com/products/google-labs",
+    "date": "2026-11-14"
+  },
+  {
+    "url": "https://www.hipuku.dev/writing/where-the-disabled-button-got-its-rule",
+    "date": "2026-11-14"
   }
 ]

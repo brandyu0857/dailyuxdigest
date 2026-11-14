@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Research-In-The-Loop: How UXR Adapts to Development at AI Speed",
+    "url": "https://www.nngroup.com/articles/research-in-the-loop/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "NN/g latest articles and announcements",
+    "description": "With AI accelerating product development cycles, user research must evolve to keep pace. This guide shows how research teams can define measurable outcomes and guide discovery within rapid release schedules.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "Decision theatre or decision design?",
+    "url": "https://uxdesign.cc/decision-theatre-or-decision-design-f1604f178685?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "As AI floods us with information, the real challenge shifts from building knowledge to owning decisions. This thought-provoking essay explores how designers must rethink their role in a world where data abundance doesn't equal decision clarity.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "The AI mind tax that afflicts those who use AI best",
+    "url": "https://uxdesign.cc/the-ai-mind-tax-that-afflicts-those-who-use-ai-best-3eb67ff167d0?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "Power users of AI tools face a hidden cognitive burden: juggling multiple disconnected platforms and contexts without seamless integration. This insightful piece examines why AI productivity gains are offset by fragmentation and context-switching fatigue.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Journey Mapping 101",
+    "url": "https://www.nngroup.com/articles/journey-mapping-101/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "NN/g latest articles and announcements",
+    "description": "A foundational primer on creating journey maps\u2014the essential visualization tool for understanding how users accomplish their goals across touchpoints. Perfect for UX practitioners looking to systematically map and improve customer experiences.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "By taking away",
+    "url": "https://haydenbleasel.com/taking-away",
+    "source": "Sidebar",
+    "description": "As AI agents reshape software creation, the craft evolves from painting (layering) to sculpture (subtracting). This meditation on AI-assisted design explores how knowing what to remove is now more valuable than knowing what to add.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Blender 5.3",
+    "url": "https://www.producthunt.com/products/blender",
+    "source": "Product Hunt \u2014 The best new products, every day",
+    "description": "Blender's latest release natively integrates 3D Gaussian splats, a breakthrough in real-time 3D rendering. This update significantly expands creative possibilities for designers and developers working with advanced 3D visual content.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Tabletop by Google Labs",
+    "url": "https://www.producthunt.com/products/google-labs",
+    "source": "Product Hunt \u2014 The best new products, every day",
+    "description": "Google's new tool enables designers to build interactive, AI-powered group experiences without heavy coding. This could reshape how teams prototype collaborative digital products and experiences.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Where the disabled button got its rule",
+    "url": "https://www.hipuku.dev/writing/where-the-disabled-button-got-its-rule",
+    "source": "Sidebar",
+    "description": "A fascinating deep-dive into Apple's 1980 design rules that established how disabled UI elements should appear\u2014revealing how foundational design decisions shaped interface conventions we still follow today. Essential reading for understanding modern design history.",
+    "read_time": "6 min"
+  }
+]
