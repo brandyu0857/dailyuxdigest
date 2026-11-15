@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Claude Fable 5.2 Official Prompting Guide",
+    "url": "https://uxplanet.org/claude-fable-5-2-official-prompting-guide-34cd74abe0a2?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "Anthropic's definitive guide to new prompting rules for Claude Fable 5.2, providing practical techniques to maximize AI model effectiveness. Essential reading for designers and product managers leveraging AI tools in their workflows.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "Canvas by AgentGrid.io",
+    "url": "https://www.producthunt.com/products/agentgrid-io",
+    "source": "Product Hunt",
+    "description": "An innovative visual collaboration canvas designed to streamline workflows between human designers and AI agents. This tool addresses a critical gap in agentic design by providing an intuitive interface for real-time co-creation, making AI collaboration more accessible and efficient for design teams.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "ByteAsk Cloud Agents",
+    "url": "https://www.producthunt.com/products/byteask-cloud-agents",
+    "source": "Product Hunt",
+    "description": "An AI-powered debugging assistant that autonomously identifies and ships code fixes directly from Slack, dramatically reducing resolution time for developers working in large codebases. This represents a significant productivity leap for engineering teams drowning in bug backlogs.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Privacyboard",
+    "url": "https://www.producthunt.com/products/privacyboard",
+    "source": "Product Hunt",
+    "description": "An automated privacy compliance solution that eliminates manual compliance work for product teams navigating complex regulatory landscapes like GDPR and CCPA. This tool addresses the growing operational burden of privacy management at scale.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "Schr\u00f6dinger's Huang: Nvidia could not be everything to everybody",
+    "url": "https://uxdesign.cc/schr%C3%B6dingers-huang-d1da36bff88c?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A critical analysis of how major tech corporations struggle to operate strategically across geopolitical boundaries, using Nvidia's challenges as a case study. This essay offers valuable lessons for design leaders and product teams navigating complex global markets and regulatory constraints.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Thunder",
+    "url": "https://www.producthunt.com/products/thunder-3",
+    "source": "Product Hunt",
+    "description": "A high-performance, persistent key-value database optimized specifically for AI workloads, addressing the infrastructure gap for teams building AI applications at scale. This represents a crucial backend innovation for modern product teams.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Tacie",
+    "url": "https://www.producthunt.com/products/tacie",
+    "source": "Product Hunt",
+    "description": "A lightweight Mac meeting notes solution that eliminates the friction of bot-based transcription while maintaining accuracy and ease of use. This privacy-forward approach addresses growing concerns about AI surveillance in workplace tools.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "CodeMesh",
+    "url": "https://www.producthunt.com/products/codemesh-2",
+    "source": "Product Hunt",
+    "description": "A cost-optimization tool that slashes AI coding expenses by 90%, making enterprise AI development more economically viable while maintaining quality. Critical for product leaders managing AI infrastructure budgets.",
+    "read_time": "3 min"
+  }
+]
