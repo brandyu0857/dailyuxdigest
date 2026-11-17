@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Health & Beauty UX Benchmark: 6,000+ Performance Scores and 4,500+ Best Practice Examples",
+    "url": "https://baymard.com/research-articles/health-and-beauty-ux-benchmark-2026",
+    "source": "Baymard Institute",
+    "description": "A comprehensive benchmark study analyzing thousands of e-commerce sites in the health and beauty category, providing performance metrics and actionable best practices. This data-driven resource helps designers and product managers understand what actually works in a competitive vertical and avoid common UX pitfalls.",
+    "read_time": "12 min",
+    "featured": true
+  },
+  {
+    "title": "UI edge cases: A reference guide",
+    "url": "https://uxdesign.cc/ui-edge-cases-a-reference-guide-e778061588ef?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A practical reference guide for identifying and fixing UI edge cases before they reach production, organized by category with testing strategies and real-world examples. Essential reading for designers who want to ship more robust interfaces and avoid the small bugs that frustrate users.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Band-aid accessibility",
+    "url": "https://yatil.net/blog/band-aid-accessibility",
+    "source": "Sidebar",
+    "description": "An insightful piece on how people with disabilities are using LLM coding tools to create accessible features themselves, shifting the responsibility of accessibility implementation. This highlights a critical gap in the design and development process that the industry needs to address.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Why bother paying for software anymore?",
+    "url": "https://uxdesign.cc/why-bother-paying-for-software-anymore-e1f76093f772?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A thought-provoking essay exploring how design has become the differentiator in an era of AI-commoditized features, challenging the common \"AI will replace everything\" narrative. This reframes the strategic value of thoughtful UX in a rapidly changing product landscape.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Information Visualization: 6 Essential Rules Every Designer Should Know",
+    "url": "https://uxplanet.org/information-visualization-6-essential-rules-every-designer-should-know-b1a13ddd4b66?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "A foundational guide on transforming complex data into clear, meaningful visualizations with actionable rules designers can apply immediately. Perfect for anyone creating dashboards, reports, or analytics interfaces who wants to ensure their data tells a compelling story.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Slop is moving up the stack",
+    "url": "https://gabeorlanski.github.io/posts/slop-moves-up/",
+    "source": "Sidebar",
+    "description": "An insightful observation about how AI-generated quality has improved in code but degraded in design, suggesting where the next frontier of AI-human collaboration challenges will emerge. Critical perspective for understanding the evolving role of designers as AI capabilities scale.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "The trash robot that doesn't pick up, but hands out",
+    "url": "https://uxdesign.cc/the-trash-robot-that-doesnt-pick-up-but-hands-out-9f599d49f8d0?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A delightful design case study exploring how emotional and cultural considerations shape user experiences, examining how embarrassment and kawaii aesthetics influenced a robot's interaction design. Demonstrates that effective UX goes far beyond functionality to create meaningful human connections.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Glue work is still harmful in the age of AI",
+    "url": "https://www.seangoedecke.com/glue-work-is-still-harmful-in-the-age-of-ai/",
+    "source": "Sidebar",
+    "description": "A timely critique of organizational practices that rely on undervalued, unrewarded work to function, arguing that AI tools make maintaining these unsustainable processes even less defensible. Essential reading for design leaders thinking about team structures and process optimization.",
+    "read_time": "6 min"
+  }
+]
