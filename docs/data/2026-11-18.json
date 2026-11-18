@@ -1,0 +1,59 @@
+[
+  {
+    "title": "AI Sped Up The Build: How Can Accessibility Testing Keep Up?",
+    "url": "https://smashingmagazine.com/2026/11/ai-sped-up-build-how-can-accessibility-testing-keep-up/",
+    "source": "Smashing Magazine",
+    "description": "As AI accelerates design and development cycles, accessibility QA testing is falling behind, potentially making the web less inclusive. This research-backed piece explores the critical gap between build speed and quality assurance that designers and product teams must address.",
+    "read_time": "7 min",
+    "featured": true
+  },
+  {
+    "title": "What is a researcher's worth?",
+    "url": "https://uxdesign.cc/what-is-a-researchers-worth-ea14c95c6d12?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "In an era of effortless AI, human friction becomes our scarcest asset\u2014and this thought-provoking essay reframes why UX research's true value lies in the irreplaceable human insight and judgment that machines cannot replicate.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Design writing: working with AI agents",
+    "url": "https://automattic.design/2026/11/16/design-writing-working-with-ai-agents/",
+    "source": "Automattic Design",
+    "description": "Automattic's design writing team shares practical insights on collaborating with AI agents, turning research into actionable agent skills that enhance design workflows. This case study offers real-world lessons on integrating AI into creative processes.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "A Familiar Logo Is Not Enough: Packaging Design Lessons from Zig-Zag",
+    "url": "https://dribbble.com/stories/2026/11/18/a-familiar-logo-is-not-enough",
+    "source": "Dribbble",
+    "description": "This deep dive into packaging design reveals why brand recognition goes far beyond logos\u2014exploring how form, materials, and overall experience create lasting consumer impact. Essential reading for designers working on physical products and brand identity.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "HUMAN.md",
+    "url": "https://www.human-md.ai/",
+    "source": "Sidebar",
+    "description": "A timely manifesto on what uniquely human qualities remain invaluable in an age of increasingly capable AI, offering designers and product leaders perspective on where human judgment, creativity, and empathy still reign supreme.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Declarative dragging",
+    "url": "https://declarative-dragging.github.io/",
+    "source": "Sidebar",
+    "description": "This innovative interaction pattern simplifies diagram interactivity by letting developers specify transformations declaratively rather than through complex imperative code, potentially shifting how designers approach draggable UI components.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Shield Font",
+    "url": "https://shieldfont.org/",
+    "source": "Sidebar",
+    "description": "A clever web font that displays human-readable text to users while serving scrambled text to AI crawlers, raising important questions about content ownership and AI training in the age of generative models.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Everyone knows sparkles mean AI. Use them to make design audits easier",
+    "url": "https://uxdesign.cc/everyone-knows-sparkles-mean-ai-use-them-to-make-design-audits-easier-bdacc76cef11?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A practical guide to using visual conventions\u2014sparkles as AI indicators\u2014to streamline design audits and communicate AI-assisted work to stakeholders. Perfect for teams navigating the growing prevalence of AI-generated mockups.",
+    "read_time": "4 min"
+  }
+]
