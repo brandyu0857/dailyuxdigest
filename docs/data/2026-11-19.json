@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Designing an Ecommerce Store for the Second Purchase",
+    "url": "https://dribbble.com/stories/2026/11/18/designing-an-ecommerce-store-for-the-second-purchase",
+    "source": "Courtside",
+    "description": "Most ecommerce design focuses on converting first-time buyers, but repeat customers have entirely different needs and behaviors. This article explores the underexamined challenge of designing for customer retention and the crucial second purchase.",
+    "read_time": "5 min",
+    "featured": true
+  },
+  {
+    "title": "Send the Firefighters to the Fires",
+    "url": "https://uxdesign.cc/send-the-firefighters-to-the-fires-6cd7b1893ae7?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "Enterprise software continues to ignore established principles about prioritizing user attention and task urgency. This essay challenges modern design practices by applying a century of proven guidance on what actually deserves focus in complex systems, offering a refreshing critique of current UX patterns.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Making a website in 2026",
+    "url": "https://blog.jim-nielsen.com/2026/making-websites-in-2026/",
+    "source": "Sidebar",
+    "description": "AI-powered website builders are making architectural decisions for developers by selecting opaque third-party backends and hidden dependencies. This article reveals why understanding these hidden layers is critical for long-term maintainability and control of your digital products.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "If AI works from anywhere, why are we commuting to watch it?",
+    "url": "https://uxdesign.cc/if-ai-works-from-anywhere-why-are-we-commuting-to-watch-it-f903012aaa86?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "Companies justify office mandates around AI collaboration, but the reality is isolated workers in headphones doing solitary tasks they could complete remotely. This provocative piece questions the false promise of AI-driven workplace togetherness.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Too Claudified",
+    "url": "https://uxdesign.cc/too-claudified-9af067298b2a?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A designer's work was rejected for appearing machine-made\u2014a problem they'd predicted months earlier but was ignored. This cautionary tale highlights the growing tension between AI-assisted design workflows and human judgment in creative output.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Squircles",
+    "url": "https://jespervos.com/craft/squircles",
+    "source": "Sidebar",
+    "description": "Squircles\u2014the rounded square shape popularized by Apple\u2014are coming to web standards. This practical guide explains what designers need to know to implement this emerging CSS feature effectively.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "I love markers",
+    "url": "https://www.kooslooijesteijn.net/blog/alcohol-markers",
+    "source": "Sidebar",
+    "description": "An exploration of analog drawing tools and their maintenance reveals undervalued benefits of physical media for design thinking. The article makes a compelling case for balancing digital workflows with tactile, hands-on creative practice.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Designing with html",
+    "url": "https://shiftnudge.com/archive/26905760",
+    "source": "Sidebar",
+    "description": "Rather than designing in Figma first, this designer sketched ideas directly in HTML and built incrementally on what worked\u2014a refreshing approach to web design that prioritizes implementation over mockups. The 36-commit journey shows how rapid iteration in code can outpace traditional design workflows.",
+    "read_time": "7 min"
+  }
+]
