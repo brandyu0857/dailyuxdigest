@@ -1,0 +1,59 @@
+[
+  {
+    "title": "'AI' might be the end of our careers",
+    "url": "https://www.baldurbjarnason.com/2026/08-ai-might-be-the-end-of-our-careers/",
+    "source": "Baldur Bjarnason",
+    "description": "A candid reflection on how AI disruption may reshape creative and technical careers, sparking critical thinking about the future of design and development work. Vital for UX professionals evaluating their career trajectory in an AI-accelerated world.",
+    "read_time": "7 min",
+    "featured": true
+  },
+  {
+    "title": "Everyone's got the tools. Not everyone's got the tricks.",
+    "url": "https://uxdesign.cc/everyones-got-the-tools-not-everyone-s-got-the-tricks-986a5c154924?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "Drawing lessons from skateboarding history, this piece explores how mastery in design goes beyond tool proficiency to developing a unique repertoire and improvisational skills. Essential reading for designers seeking to differentiate themselves in an increasingly commoditized toolset landscape.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Only the human merges",
+    "url": "https://itsmeduncan.com/2026/11/17/only-the-human-merges/",
+    "source": "It's Me Duncan",
+    "description": "An insightful exploration of the limits of AI agents in real-world workflows, where humans remain essential for decision-making, task closure, and strategic judgment. Challenges the narrative around autonomous AI and highlights the irreplaceable human role in complex work.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "How to Use Claude Code Effectively and Save Tokens",
+    "url": "https://uxplanet.org/how-to-use-claude-code-effectively-and-save-tokens-d0368bc72a18?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "A practical guide for designers and developers working with Claude AI, offering concrete strategies to optimize token usage during complex workflows. Saves time and budget for teams integrating AI coding assistants into their design and development processes.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Impermanence",
+    "url": "https://tcosta.com/impermanence/",
+    "source": "Sidebar",
+    "description": "An evocative interactive game exploring themes of craft, impermanence, and human authenticity in an era of digital reproducibility. Offers designers a philosophical perspective on what makes human-created work meaningful when everything can be replicated.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "In making things, we make ourselves",
+    "url": "https://justinjay.wang/in-making-things-we-make-ourselves/",
+    "source": "Sidebar",
+    "description": "Reflections from the Toyota museum revealing how the design and manufacturing process shapes organizational identity and values. A thought-provoking essay for product leaders and designers on the relationship between craft and culture.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Exactitudes",
+    "url": "https://exactitudes.com/collectie/",
+    "source": "Sidebar",
+    "description": "A visually striking 20-year documentation of thousands of distinct social types, offering designers rich anthropological insights into human expression, identity, and social stratification. Essential visual research for creating authentic, culturally-aware design systems and personas.",
+    "read_time": "10 min"
+  },
+  {
+    "title": "How rich is a billionaire, really?",
+    "url": "https://www.thehowpage.com/economics/billionaire-wealth",
+    "source": "The How Page",
+    "description": "An innovative scroll-driven data visualization that makes the abstract concept of billionaire wealth tangible and comprehensible through interactive design. A masterclass in using UX and data storytelling to communicate complex economic concepts effectively.",
+    "read_time": "5 min"
+  }
+]
