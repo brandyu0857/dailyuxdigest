@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Can AI Generate Good Designs from Raw User Data?",
+    "url": "https://www.nngroup.com/articles/raw-data-vs-synthesized-data/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "NN/g latest articles and announcements",
+    "description": "New research reveals that AI-generated designs are significantly more effective when fed synthesized research findings rather than raw user comments. This study challenges common workflows and offers practical guidance for integrating AI into the design process while maintaining quality outcomes.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "Qualitative User-Research Methods: An Overview",
+    "url": "https://www.nngroup.com/articles/qual-research-methods/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "NN/g latest articles and announcements",
+    "description": "A foundational guide to the most popular qualitative UX research methods that help teams understand user motivations and pain points. Essential reading for designers and PMs looking to strengthen their research foundation and choose the right approach for their goals.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "This Experimental Feature Is Claude Code's BIGGEST Recent Improvement",
+    "url": "https://uxplanet.org/this-experimental-feature-is-claude-codes-biggest-recent-improvement-884219219b43?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "Claude Code has introduced a significant efficiency improvement that dramatically reduces token usage on repeated tasks\u2014demonstrating how AI tooling is evolving to become more practical and cost-effective for design workflows. This highlights the rapid iteration cycle of AI-assisted design tools.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Andy Clarke answers six questions about Standout Designs for the Web",
+    "url": "https://css-tricks.com/andy-clarke-standout-designs-for-the-web-interview/",
+    "source": "CSS-Tricks",
+    "description": "Renowned web designer Andy Clarke shares insights on breaking free from template-driven design and creating distinctive web experiences. This interview offers practical philosophy for designers looking to elevate their work beyond conventional patterns and industry standards.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Smoother FigJam collaboration and navigation on mobile",
+    "url": "https://www.figma.com/release-notes/?title=smoother-figjam-collaboration-and-navigation-on-mobile",
+    "source": "Figma product news and release notes",
+    "description": "Figma has rolled out significant mobile improvements for FigJam, extending the platform's collaborative capabilities beyond desktop. This update enables distributed design teams to participate in brainstorming and ideation sessions seamlessly from mobile devices.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Brand Architecture: What Should Your Brands Share\u2014and What Should Stay Different?",
+    "url": "https://dribbble.com/stories/2026/11/20/brand-architecture-what-should-your-brands-shareand-what-should-stay-different",
+    "source": "Courtside",
+    "description": "A strategic exploration of brand architecture decisions for companies managing multiple brands or product lines. This article helps design leaders and product managers determine which elements to unify versus differentiate across their portfolio.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Squircles",
+    "url": "https://linebender.org/wiki/curves/squircle/",
+    "source": "Sidebar",
+    "description": "An in-depth technical dive into squircle mathematics, continuity principles, and emerging CSS specifications for corner shapes. Essential reference for designers and developers implementing modern UI curves and understanding the math behind polished interface design.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Stitch Loop",
+    "url": "https://www.producthunt.com/products/stitch-loop",
+    "source": "Product Hunt \u2014 The best new products, every day",
+    "description": "Google's new AI agent automates bug fixes and monitors performance metrics in real-time, representing a significant advancement in AI-assisted development workflows. This tool demonstrates how AI agents are moving beyond analysis into autonomous action within product systems.",
+    "read_time": "3 min"
+  }
+]
