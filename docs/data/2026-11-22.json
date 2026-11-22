@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Prototypes have always been the most effective specification\u2014especially with AI",
+    "url": "https://uxdesign.cc/prototypes-have-always-been-the-most-effective-specification-10162107b2ee?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This essay argues that prototypes remain the gold standard for communicating design intent, particularly when collaborating with AI systems that struggle to interpret static documentation. It reframes prototyping as the essential bridge between human vision and AI execution.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "The attack of the giant AI design slop monster: a survivor's guide",
+    "url": "https://uxdesign.cc/the-attack-of-the-giant-ai-design-slop-monster-a-survivors-guide-55f5918f78f4?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A timely exploration of how AI is transforming UX design in 2026, examining both the opportunities and pitfalls of AI-generated design work. This guide offers practical strategies for navigating low-quality AI outputs and maintaining design integrity in an increasingly AI-augmented workflow.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "The judge used to be the user",
+    "url": "https://uxdesign.cc/the-judge-used-to-be-the-user-0a958f24bb32?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A thought-provoking analysis of how AI has disrupted traditional design validation processes by collapsing the iterative middle phase of product development. This piece challenges designers to reconsider who determines correctness when AI accelerates the entire design cycle.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Omi CLI",
+    "url": "https://www.producthunt.com/products/omi-cli",
+    "source": "Product Hunt",
+    "description": "An AI-powered coding agent that operates directly in your terminal with support for 13 different models. This tool streamlines development workflows by bringing AI-assisted coding capabilities to developers who prefer command-line interfaces.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Creavit Studio 4.0",
+    "url": "https://www.producthunt.com/products/creavit-studio",
+    "source": "Product Hunt",
+    "description": "A Mac application that combines screen recording, iPhone camera integration, and cinematic demo creation tools\u2014essential capabilities for designers and product managers creating high-quality product demonstrations and documentation. Version 4.0 likely brings significant improvements to these core features.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "gitroots",
+    "url": "https://www.producthunt.com/products/gitroots",
+    "source": "Product Hunt",
+    "description": "Introduces granular, path-level GitHub access control for both human developers and AI agents, addressing a critical security gap as AI coding tools become more prevalent. This tool enables teams to safely integrate AI agents into their development workflows while maintaining code integrity.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Smorza",
+    "url": "https://www.producthunt.com/products/smorza",
+    "source": "Product Hunt",
+    "description": "Gives each Mac application independent volume and audio output control, solving a longstanding usability frustration for creative professionals who juggle multiple applications simultaneously. This granular audio management improves the experience for designers, developers, and content creators.",
+    "read_time": "2 min"
+  },
+  {
+    "title": "Verge: Corner Controls",
+    "url": "https://www.producthunt.com/products/verge-corner-controls",
+    "source": "Product Hunt",
+    "description": "A gesture-based control system that lets users swipe screen corners to adjust brightness, volume, and other settings on Mac. This innovative input method demonstrates thoughtful UX design by reducing menu navigation and enabling quicker access to frequently-adjusted settings.",
+    "read_time": "2 min"
+  }
+]
