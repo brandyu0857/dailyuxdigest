@@ -1,0 +1,59 @@
+[
+  {
+    "title": "The era of personal software",
+    "url": "https://jakub.kr/writing/the-era-of-personal-software",
+    "source": "Sidebar",
+    "description": "An insightful exploration of how lowered friction in building custom software will fundamentally reshape the landscape of commercial apps and user expectations. This strategic piece helps designers and PMs anticipate where the market is heading.",
+    "read_time": "8 min",
+    "featured": true
+  },
+  {
+    "title": "Seven things AI killed while you were measuring productivity",
+    "url": "https://uxdesign.cc/seven-things-ai-killed-while-you-were-measuring-productivity-b4499232ac3d?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This essay challenges the conventional metrics executives use to evaluate AI's impact, revealing that most are missing where AI has fundamentally disrupted workflows and processes. It's essential reading for product leaders who need to understand the second-order effects of AI adoption beyond simple productivity gains.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "The answer to slop is accountability",
+    "url": "https://naildrivin5.com/blog/2026/11/18/the-answer-to-slop-is-accountability.html",
+    "source": "Sidebar",
+    "description": "A sharp critique arguing that AI-generated poor-quality features shouldn't escape the same accountability standards that apply to human-made decisions. This reframes how product teams should approach AI integration and responsibility in design and development.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "How to write great skills",
+    "url": "https://uxdesign.cc/how-to-write-great-skills-91635bc45ada?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A practical advanced guide to designing AI agent skills, drawing expertise from leading voices in AI and design. Essential for teams building the next generation of AI-powered products and interfaces.",
+    "read_time": "9 min"
+  },
+  {
+    "title": "Lessons from 3D scanning St John's Co-Cathedral",
+    "url": "https://uxdesign.cc/lessons-from-3d-scanning-st-johns-co-cathedral-700911d61cfe?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A technical case study from SIGGRAPH 2026 demonstrating the real-world strengths and limitations of photogrammetry through a massive scanning project. Valuable insights for designers working with 3D capture and understanding where emerging tech still falls short.",
+    "read_time": "10 min"
+  },
+  {
+    "title": "Replit Missions",
+    "url": "https://www.producthunt.com/products/replit",
+    "source": "Product Hunt",
+    "description": "Replit's new feature enables teams to coordinate multiple AI agents with budget controls, representing a significant shift in how teams orchestrate AI-driven development workflows. This launch signals the maturing of multi-agent collaboration tools for product teams.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Mobile Agent Testers",
+    "url": "https://www.producthunt.com/products/mobile-agent-testers",
+    "source": "Product Hunt",
+    "description": "An open-source tool providing free AI agents that autonomously beta-test mobile apps on real devices, democratizing QA and changing how smaller teams approach testing. A practical tool that addresses real pain points in mobile development workflows.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Tesla Self-Driving V15",
+    "url": "https://www.producthunt.com/products/tesla",
+    "source": "Product Hunt",
+    "description": "Tesla's latest autonomy update represents a comprehensive upgrade to their end-to-end driving network, showcasing the complexity and scale of real-world AI system design. Relevant for understanding how cutting-edge AI products handle continuous optimization and safety.",
+    "read_time": "4 min"
+  }
+]
