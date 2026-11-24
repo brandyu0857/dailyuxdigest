@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Anthropic Just Dropped 4 MASSIVE Claude Features",
+    "url": "https://uxplanet.org/anthropic-just-dropped-4-massive-claude-features-f79b130118f4?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet",
+    "description": "An overview of significant new Claude AI capabilities that reshape how designers and developers can leverage AI coding assistance. Directly impacts workflow efficiency for teams integrating AI into their design and development processes.",
+    "read_time": "5 min",
+    "featured": true
+  },
+  {
+    "title": "Are we actually building better things?",
+    "url": "https://medium.com/design-bootcamp/are-we-actually-building-better-things-the-great-software-bazaar-c2494d208934",
+    "source": "Sidebar",
+    "description": "A thought-provoking essay questioning whether the most successful products solve the best problems or simply tell the most compelling stories. Essential reading for product leaders and designers grappling with what truly constitutes progress in software design.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "On drawing icons",
+    "url": "https://pierre.computer/writing/on-drawing-icons",
+    "source": "Sidebar",
+    "description": "An in-depth guide on designing a scalable icon library across multiple sizes and automating the design-to-code workflow with Figma and React. Practical insights for design systems teams looking to streamline icon management.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Don't make me read",
+    "url": "https://uxdesign.cc/dont-make-me-read-a6821e418bb1?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "New research on how people actually scan and consume content online challenges conventional design assumptions about readability and information hierarchy. Actionable findings for optimizing interfaces and improving user engagement.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Is product design a people industry or a tech industry?",
+    "url": "https://uxdesign.cc/is-product-design-a-people-industry-or-a-tech-industry-b8f9acc8cb6d?source=rss----138adf9c44c---4",
+    "source": "UX Collective",
+    "description": "A critical examination of how the design industry prioritizes tools and technology over people and research, and what gets sacrificed when budgets tighten. Important for design leaders questioning their team's priorities and hiring practices.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Strategic building blocks",
+    "url": "https://www.davesresearch.com/strategic-building-blocks/",
+    "source": "Sidebar",
+    "description": "A framework for identifying and executing critical strategic moves with reliability. Valuable for product managers and leaders seeking a structured approach to strategy beyond surface-level planning.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "UI feed",
+    "url": "https://ui-feed.dev/",
+    "source": "Sidebar",
+    "description": "An interactive collection of live, testable UI components that designers and developers can explore and learn from in real-time. A practical reference tool for discovering modern interface patterns and interaction solutions.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Computing with CSS Layout",
+    "url": "https://noscript.ing/compute",
+    "source": "Sidebar",
+    "description": "An innovative exploration of using CSS layout algorithms to perform bulk mathematics directly in the browser, opening new possibilities for performance and functionality. Relevant for frontend developers and design systems engineers working on advanced interactive experiences.",
+    "read_time": "6 min"
+  }
+]
