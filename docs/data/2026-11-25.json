@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Food Delivery & Takeout Quantitative UX: 3 High-Level Takeaways from 40+ Charts",
+    "url": "https://baymard.com/research-articles/food-delivery-and-takeout-quantitative-ux-insights-2026",
+    "source": "Baymard Institute",
+    "description": "A data-driven analysis of 40+ UX metrics from food delivery and takeout apps reveals critical patterns in user behavior and conversion. This research provides actionable insights for designers and product teams building in this high-stakes vertical where friction directly impacts revenue.",
+    "read_time": "7 min",
+    "featured": true
+  },
+  {
+    "title": "Designing for the AI agent customer",
+    "url": "https://uxdesign.cc/designing-ux-for-agentic-commerce-digital-marketing-for-personal-ai-agents-c8c99e1b0b37?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "As AI agents increasingly make purchasing decisions autonomously, traditional persuasion-based marketing tactics become obsolete. This essay explores how designers must fundamentally rethink UX and commerce strategies to influence agents rather than humans.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "The Slopnami is an accessibility problem",
+    "url": "https://www.soren.work/writing/the-slopnami-is-an-accessibility-problem/",
+    "source": "Sidebar",
+    "description": "AI-generated design slop disproportionately harms disabled users who have the least margin to absorb poor UX and broken automations. This critical perspective highlights how efficiency-focused AI tools create cascading accessibility failures in production design.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Beyond the craft: Reclaiming Design as a Reflective Practice",
+    "url": "https://uxdesign.cc/beyond-the-pixel-reclaiming-design-as-a-reflective-practice-6f6789acb2bd?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "While AI accelerates execution, designers gain competitive advantage through reflective thinking and intentional decision-making rather than speed. This essay reframes design's value in the AI era\u2014emphasizing strategic thinking over tactical craft.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Mirror mode",
+    "url": "https://mattstromawn.com/writing/mirror-mode/",
+    "source": "Sidebar",
+    "description": "Challenging the false binary between code-first and prototype-first design, this piece argues designers need both production implementation and experimental sandboxes to truly influence product outcomes. A practical perspective on elevating designer impact.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Futures thinking as an everyday design practice",
+    "url": "https://uxdesign.cc/futures-thinking-as-an-everyday-design-practice-465146ee6db8?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "Revisiting the Three Horizons framework, this essay shows how futures thinking can become embedded in daily design work to help organizations anticipate change rather than react to it. Essential for strategic design leaders navigating uncertainty.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Four hidden dimensions of effective teams",
+    "url": "https://uxdesign.cc/four-hidden-dimensions-of-effective-teams-be268c61cf44?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "Moving beyond surface-level team frameworks, this piece identifies deeper organizational dynamics that drive real success, backed by practical tools to diagnose team effectiveness. Valuable for design leaders scaling teams and organizations.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Who draws the in-betweens?",
+    "url": "https://uxdesign.cc/who-draws-the-in-betweens-3b61d1957efe?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "Exploring authorship and agency in AI-assisted design, this essay argues that designers' true value lies in the decisions and boundaries we set around AI tools, not the pixels we produce. A thought-provoking take on design's evolving role.",
+    "read_time": "6 min"
+  }
+]
