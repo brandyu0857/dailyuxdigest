@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Future-proofing is dead and AI killed it",
+    "url": "https://uxdesign.cc/future-proofing-is-dead-and-ai-killed-it-23368ce3cc02?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "This thought-provoking essay examines how AI fundamentally breaks our traditional approach to building durable, future-proof systems and products. It challenges designers and product leaders to rethink long-term strategy in an era where change happens too fast to predict, offering essential perspective for anyone planning product roadmaps.",
+    "read_time": "7 min",
+    "featured": true
+  },
+  {
+    "title": "The attack of the giant AI design slop monster",
+    "url": "https://uxdesign.cc/the-attack-of-the-giant-ai-design-slop-monster-a-survivors-guide-55f5918f78f4",
+    "source": "UX Collective - Medium",
+    "description": "A timely critical examination of how AI-generated design is degrading quality across the industry and practical strategies for maintaining design integrity in 2026. Essential reading for designers concerned about maintaining standards as generative tools proliferate.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Machines are trying to get gut feelings while you're telling me to ignore mine",
+    "url": "https://uxdesign.cc/machines-are-trying-to-get-gut-feelings-while-youre-telling-me-to-ignore-mine-17095e56f22d?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A provocative exploration of how AI is learning intuition from humans while UX professionals are encouraged to dismiss their own gut instincts, raising important questions about design decision-making in the AI age. Challenges conventional wisdom about data-driven design.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "Forward-deployed design as plumbing",
+    "url": "https://blog.ronbronson.com/forward-deployed-design-as-plumbing",
+    "source": "Sidebar",
+    "description": "Ron Bronson explores forward-deployed design through a fresh metaphor, examining how design teams can reduce coordination debt and ship meaningful fixes at scale. Practical insights for design leaders looking to improve team structure and cross-functional collaboration.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "High fidelity, low definition",
+    "url": "https://www.seangood.win/articles/high-fidelity-low-definition",
+    "source": "Sidebar",
+    "description": "Sean Good's essay challenges the assumption that high fidelity mockups always lead to better design decisions, advocating for deliberate fidelity choices based on what you need to communicate. A valuable counterpoint for teams drowning in polished prototypes.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "Claude Ship Can Ship Your Product",
+    "url": "https://uxplanet.org/claude-ship-can-ship-your-product-05c316808de5?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "An insightful look at how Claude Ship goes beyond code generation to help teams ship complete products end-to-end, addressing the real gap between coding and shipping that AI tooling has overlooked until now.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "A visual identity for Reset that adapts like its app",
+    "url": "https://the-brandidentity.com/project/studio-kiln-designs-an-identity-for-reset-that-adapts-like-its-app",
+    "source": "Sidebar",
+    "description": "Studio Kiln's adaptive visual identity system for Reset demonstrates how modern brand design can be dynamic and responsive, mirroring app behavior rather than fighting against it. A strong case study in designing brands for digital-first products.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Tegaki",
+    "url": "https://tegaki.ink/",
+    "source": "Sidebar",
+    "description": "An impressive open-source handwriting animation library that generates natural, stroke-by-stroke character animations for any font\u2014a valuable resource for designers building personalized and human-feeling digital experiences. Useful tool for projects requiring authentic handwriting effects.",
+    "read_time": "3 min"
+  }
+]
