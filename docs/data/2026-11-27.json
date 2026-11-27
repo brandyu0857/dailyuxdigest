@@ -1,0 +1,59 @@
+[
+  {
+    "title": "MCP 2.0: The BIGGEST MCP Upgrade Yet Just Dropped",
+    "url": "https://uxplanet.org/mcp-2-0-the-biggest-mcp-upgrade-yet-just-dropped-e295e32b687a?source=rss----819cc2aaeee0---4",
+    "source": "UX Planet - Medium",
+    "description": "The Model Context Protocol receives its most significant update in over two years, promising major improvements to AI-human collaboration workflows. This upgrade has critical implications for designers and product teams integrating AI into their tools and processes.",
+    "read_time": "5 min",
+    "featured": true
+  },
+  {
+    "title": "How I use AI as a solo designer",
+    "url": "https://uxdesign.cc/how-do-i-use-ai-as-a-solo-designer-956a3954614e?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A candid case study from a designer transitioning from a large team to solo work, exploring which AI tools genuinely accelerate design workflows and which fall short. This practical guide reveals real-world wins and failures, helping designers make informed decisions about AI adoption.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "The judge used to be the user",
+    "url": "https://uxdesign.cc/the-judge-used-to-be-the-user-0a958f24bb32?sk=e8c664d3852c69ce41f28a0f997a2a71",
+    "source": "Sidebar",
+    "description": "A thought-provoking essay on how AI is fundamentally reshaping design validation and decision-making by collapsing the traditional design-to-feedback cycle. This piece challenges designers to reconsider who defines 'correct' in an AI-driven era.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Design.md VS Code Extension",
+    "url": "https://christianoliff.com/blog/design-md-vs-code-extension/",
+    "source": "Sidebar",
+    "description": "A new VS Code extension bridges the gap between design systems and code by adding linting, autocomplete, and rich preview capabilities for design.md files. This tool streamlines the developer-designer handoff and reduces friction in design system implementation.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "Things you're not supposed to say on LinkedIn",
+    "url": "https://uxdesign.cc/things-youre-not-supposed-to-say-on-linkedin-a9c2ec2a0185?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "An insightful exploration of how professional power dynamics shape communication on social platforms, examining what gets filtered when readers can hire or fire you. This essay reveals deeper truths about workplace culture and authenticity in design communities.",
+    "read_time": "6 min"
+  },
+  {
+    "title": "I'm a 100x engineer now",
+    "url": "https://veszelovszki.com/a/tpe/",
+    "source": "Sidebar",
+    "description": "A personal account of dramatic productivity gains through AI integration, documenting how workflow fundamentals have been reimagined for the AI era. While focused on engineering, the principles directly apply to design and product work.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Worn into shape",
+    "url": "https://mouthprint.com/e/worn-into-shape",
+    "source": "Sidebar",
+    "description": "A poetic meditation on how objects acquire form through repeated use and interaction\u2014a powerful metaphor for designing interfaces and products that evolve naturally with user behavior. This piece offers philosophical grounding for iterative, user-centered design.",
+    "read_time": "4 min"
+  },
+  {
+    "title": "The year the web industry gave up",
+    "url": "https://dbushell.com/2026/11/25/web-industry/",
+    "source": "Sidebar",
+    "description": "A critical retrospective examining the decline of web standards, craftsmanship, and user-centric principles in modern development practices. This call-to-reflection resonates across the design community as a wake-up call about industry priorities.",
+    "read_time": "8 min"
+  }
+]
