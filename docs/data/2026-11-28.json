@@ -1,0 +1,59 @@
+[
+  {
+    "title": "Usability Testing 101",
+    "url": "https://www.nngroup.com/articles/usability-testing-101/?utm_source=rss&utm_medium=feed&utm_campaign=rss-syndication",
+    "source": "NN/g latest articles and announcements",
+    "description": "A comprehensive foundational guide to usability testing that empowers any product team member to conduct effective user research and uncover design problems. Perfect for teams looking to establish or strengthen their testing practices.",
+    "read_time": "6 min",
+    "featured": true
+  },
+  {
+    "title": "What working with AI is doing to us",
+    "url": "https://uxdesign.cc/what-working-with-ai-is-doing-to-us-c0df05190b66?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A reflective essay exploring the psychological and professional impact of AI on designers, moving beyond productivity metrics to examine how AI collaboration is changing design practice and mindset. Essential reading for understanding the human dimension of AI-augmented design workflows.",
+    "read_time": "8 min"
+  },
+  {
+    "title": "The end of the interface is the beginning of design",
+    "url": "https://uxdesign.cc/the-end-of-the-interface-is-the-beginning-of-design-69752781d066?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A thought-provoking exploration of how AI-generated interfaces and invisible agent-driven interactions are fundamentally reshaping what design means in the future. This challenges designers to reconsider their core role as interfaces disappear from view.",
+    "read_time": "10 min"
+  },
+  {
+    "title": "How I cut the code Claude writes by up to 16\u00d7 and 97% per coded section",
+    "url": "https://uxdesign.cc/how-i-cut-claude-tokens-by-up-to-95-in-product-design-and-improved-design-quality-d9dc7cec148f?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A practical case study revealing concrete techniques for optimizing AI-generated code and design workflows, demonstrating how human-led processes can dramatically improve both efficiency and quality. Actionable insights for designers working with AI coding assistants.",
+    "read_time": "7 min"
+  },
+  {
+    "title": "Stacktrace",
+    "url": "https://www.producthunt.com/products/stacktrace",
+    "source": "Product Hunt \u2014 The best new products, every day",
+    "description": "A new tool providing real-time steering and guardrails for AI agents, addressing a critical gap in AI safety and reliability for product teams. Represents the emerging infrastructure layer needed to manage autonomous AI systems in production.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "Woomool",
+    "url": "https://www.producthunt.com/products/woomool",
+    "source": "Product Hunt \u2014 The best new products, every day",
+    "description": "An AI-powered canvas tool that transforms abstract thinking into tangible designs, offering a modern alternative to traditional whiteboarding and brainstorming tools. Bridges the gap between ideation and design execution.",
+    "read_time": "3 min"
+  },
+  {
+    "title": "The day after a holiday Japan doesn't have",
+    "url": "https://uxdesign.cc/the-day-after-a-holiday-japan-doesnt-have-2060c9e6b093?source=rss----138adf9c44c---4",
+    "source": "UX Collective - Medium",
+    "description": "A culturally insightful exploration of how localization extends beyond translation to understanding regional calendars, celebrations, and business contexts. Critical lesson for designers building global products.",
+    "read_time": "5 min"
+  },
+  {
+    "title": "Lighting that feels just right",
+    "url": "https://blog.maximeheckel.com/posts/lighting-that-feels-just-right/",
+    "source": "Sidebar",
+    "description": "A detailed technical explainer on screen-space and probe-based global illumination rendering methods, with personal insights on implementation. Valuable resource for designers and developers working on immersive visual experiences.",
+    "read_time": "9 min"
+  }
+]
